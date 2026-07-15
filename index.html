@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07111f">
+  <title>AI Command Center</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to dashboard</a>
+  <div class="ambient ambient-one"></div>
+  <div class="ambient ambient-two"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#today" aria-label="AI Command Center home">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span><strong>AI Command Center</strong><small>Your useful-AI signal desk</small></span>
+    </a>
+    <div class="top-actions">
+      <span class="freshness" id="freshness">Loading</span>
+      <button class="icon-button" id="themeButton" type="button" aria-label="Toggle display theme">◐</button>
+    </div>
+  </header>
+
+  <main id="main" class="shell">
+    <section class="hero" id="today" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <span class="eyebrow"><i class="pulse-dot"></i> Hermes briefing</span>
+        <h1 id="heroTitle">Loading today’s signal…</h1>
+        <p id="heroMessage">Checking what is worth your attention and filtering the rest.</p>
+        <div class="hero-actions">
+          <button class="primary-button" type="button" data-view="today">See today’s briefing</button>
+          <button class="secondary-button" type="button" data-view="health">Check Hermes health</button>
+        </div>
+      </div>
+      <div class="hero-orbit" aria-hidden="true">
+        <span class="orbit orbit-a"><i></i></span>
+        <span class="orbit orbit-b"><i></i></span>
+        <span class="core">AI</span>
+      </div>
+    </section>
+
+    <section class="metrics" aria-label="Dashboard summary">
+      <article><span>Worth attention</span><strong id="metricToday">—</strong><small>today</small></article>
+      <article><span>Fresh radar</span><strong id="metricRadar">—</strong><small>latest scan</small></article>
+      <article><span>Hermes healthy</span><strong id="metricHealthy">—</strong><small>active jobs</small></article>
+      <article class="metric-alert"><span>Needs repair</span><strong id="metricErrors">—</strong><small>jobs</small></article>
+    </section>
+
+    <section class="workspace" aria-label="AI updates workspace">
+      <aside class="sidebar">
+        <div class="sidebar-label">Views</div>
+        <nav class="view-nav" aria-label="Dashboard views">
+          <button class="nav-button active" type="button" data-view="today"><span>Today</span><b id="countToday">0</b></button>
+          <button class="nav-button" type="button" data-view="radar"><span>Fresh radar</span><b id="countRadar">0</b></button>
+          <button class="nav-button" type="button" data-view="saved"><span>Saved</span><b id="countSaved">0</b></button>
+          <button class="nav-button" type="button" data-view="archive"><span>Old archive</span><b id="countArchive">0</b></button>
+          <button class="nav-button" type="button" data-view="health"><span>Hermes health</span><b id="countHealth">0</b></button>
+        </nav>
+        <div class="pipeline-card">
+          <span>Canonical flow</span>
+          <strong>Scout → Dashboard → Email</strong>
+          <p>One useful daily briefing. Raw radar stays secondary.</p>
+        </div>
+      </aside>
+
+      <section class="content-panel" aria-live="polite">
+        <div class="content-head">
+          <div>
+            <span class="eyebrow" id="viewEyebrow">Today</span>
+            <h2 id="viewTitle">Worth your attention</h2>
+            <p id="viewDescription">A short list. No newsletter noise.</p>
+          </div>
+          <label class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Search signals" autocomplete="off">
+          </label>
+        </div>
+
+        <div class="filter-row" id="filterRow" aria-label="Signal filters">
+          <button class="filter-button active" type="button" data-filter="all">All</button>
+          <button class="filter-button" type="button" data-filter="tools">AI tools</button>
+          <button class="filter-button" type="button" data-filter="business">Business</button>
+          <button class="filter-button" type="button" data-filter="teaching">Teaching</button>
+          <button class="filter-button" type="button" data-filter="3d">3D / creative</button>
+        </div>
+
+        <div class="card-grid" id="cardGrid"></div>
+        <div class="load-more-row hidden" id="loadMoreRow">
+          <span id="archiveProgress"></span>
+          <button type="button" id="loadMoreButton">Load 60 more</button>
+        </div>
+        <div class="empty-state hidden" id="emptyState">
+          <span>✓</span>
+          <h3>Nothing needs your attention here.</h3>
+          <p>The quiet screen is a feature: Hermes filtered the noise.</p>
+        </div>
+      </section>
+    </section>
+
+    <footer>
+      <span>Personal AI dashboard</span>
+      <span id="sourceSummary">Waiting for data</span>
+    </footer>
+  </main>
+
+  <dialog class="detail-dialog" id="detailDialog">
+    <article>
+      <button class="dialog-close" id="dialogClose" type="button" aria-label="Close details">×</button>
+      <div id="dialogContent"></div>
+    </article>
+  </dialog>
+
+  <noscript><div class="noscript">This dashboard needs JavaScript enabled.</div></noscript>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
