@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-16T00:30:16+08:00",
+    "generatedAt": "2026-07-16T01:37:11+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-15_18-00-ccc-skills.md",
-    "radarSource": "ai_opportunity_radar_20260715_223038.html",
+    "radarSource": "ai_opportunity_radar_20260716_013028.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -43,35 +43,35 @@
     ]
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260715_223038.html",
+    "sourceFile": "ai_opportunity_radar_20260716_013028.html",
     "items": [
       {
-        "id": "radar-60dc5d314fb9",
+        "id": "radar-120c645e6675",
         "kind": "radar",
-        "title": "Red Hat Explains the Agentic AI Cybersecurity Risk CX Teams Can’t Ignore",
-        "summary": "CX Today is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Show HN: Lineation – One security control plane for all agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-15 14:27",
-        "displayDate": "2026-07-15 14:27",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMU1tZmIzRWUyTEVZZ3pRSnVFcTY0SFRrcTBXRGpRU1dzdGt1T3IxMTltM1RKazA1NUtxajJTN0p0bzM5YnNxVTJ6Snd5UHhkdS1BdHdNeUgwSFUwUHlub1lybjZUcHNsLUItdU0xekUwWnRlSmxNLUxyZDNEOHcxc1daUjJmUk00S1hqODJweWFlZ1FLT2x5NFFnQ19ub1l3QlotVVdkN0Z4THVfM2RLMkpSTVdDWXRhaG9NTEFyM1JhUQ",
-        "source": "News signal — verify before acting · Source: CX Today · Time: 2026-07-15 14:27"
+        "score": 55,
+        "date": "2026-07-15 16:25",
+        "displayDate": "2026-07-15 16:25",
+        "url": "https://lineation.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-15 16:25"
       },
       {
-        "id": "radar-cd9b1d582573",
+        "id": "radar-1019866a9e31",
         "kind": "radar",
-        "title": "Uber blew its entire 2026 AI budget in 4 months — and one 2-hour coding session alone cost $1,200",
-        "summary": "moneywise.com reports: Uber blew its entire 2026 AI budget in 4 months — and one 2-hour coding session alone cost $1,200 moneywise.com",
+        "title": "Inside the unseen operation to turbocharge Claude Code",
+        "summary": "AOL.com reports: Inside the unseen operation to turbocharge Claude Code AOL.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-15 14:18",
-        "displayDate": "2026-07-15 14:18",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUSFptZ3NrR29lVHF2RXllemlJa2w4aWVEQlJ2aGFfYlZZMFdDemVjOW5ndDJhZGl0bEx5R2NxdXBZem9hb09LT0RWR29WSWhUa1NLUE9ORzRWLThIa2l1RHdZVnYxSmc3MU8xemJLdUFZb29ORmc",
-        "source": "News signal — verify before acting · Source: moneywise.com · Time: 2026-07-15 14:18"
+        "date": "2026-07-15 14:35",
+        "displayDate": "2026-07-15 14:35",
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWnpXSjRsWXJGZVU5OHh5ODJRWjluckpkMkZRYW14dVFVVTFLQk9lSEVhQ0p1aVNpYlM0elpJdXJBWTVTS3QzUmtLQmVFczhzSy1MaldaeTBOLU54Q0xGU2pOTDN2R0NqU1ZmdllBMjR3UmM1S3dHUnBJZGZka0JlOFA3b0F6WTlESXJpenJrT2Y2bThLTGt5TnZXa3l0MV9td2pUa0U0TUptOTBtTGNSVk83T3JZa2hYSmZSTUVQVUlIN19jeDlpQndCNmFaY3R6OXl5WmZ6MHZ3TmYzTE54QlQtUWxmVVdvQTB2eTlDT0tpdjExVXFuX1NzME9wZ3czbnhDWEtnYmdQb1ROZG5TdERpRzc3NzVKdkpNNkpaQjFHcGJXZzdTRXYtV1FzT0E4OXlPNmxNbkRXUHU4cGJrV3JidTdsU1B6LS1HcjE3QXlwbXcySEVaanV3",
+        "source": "News signal — verify before acting · Source: AOL.com · Time: 2026-07-15 14:35"
       },
       {
         "id": "radar-2ef0587dd672",
@@ -88,60 +88,18 @@
         "source": "News signal — verify before acting · Source: NonProfit PRO · Time: 2026-07-09 16:43"
       },
       {
-        "id": "radar-7699cb110401",
+        "id": "radar-8b8cc447f431",
         "kind": "radar",
-        "title": "Show HN: Agent's Design – Claude/Codex copy-paste templates that kill AI-slop UI",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "title": "OpenAI launches Codex Micro, its first branded hardware product for AI coding",
+        "summary": "Crypto Briefing flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 73,
-        "date": "2026-07-15 13:30",
-        "displayDate": "2026-07-15 13:30",
-        "url": "https://agents-design.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-15 13:30"
-      },
-      {
-        "id": "radar-fc0572117ab7",
-        "kind": "radar",
-        "title": "Nvidia’s future challenger? Chinese start-up reveals aggressive AI chip road map",
-        "summary": "South China Morning Post reports: Nvidia’s future challenger?",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-13 14:00",
-        "displayDate": "2026-07-13 14:00",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclR6VFNIbm00OHA1bjNuUUxLNE93R0ZMZkVmV2pmNzdwWVVvMGdRTE9TdXFDcXRzUTNIV2t3Q0ZBMms5UjMyeVRSTGJVNGRqcEM4b3o2c2RoZHJfMnB1cVhWdmVDVVEtUXN4c3RMNmRiSndWZzc3TmNBTlhQbXpHN3doVXBDTnd4ZUZmWE5ldElNNUlNSC12eV9TRkJIb055V2VBdjdxQ08zSUF1ZERsZFZrOEVnMEtZc3ptd1g5YnQ4Y3pT0gHEAUFVX3lxTFBxVmJDRzRORjF3bl9peV9JU1RJeHZqMGZEMEdvVURXR1NRWnlfV0tkaUF2OFY4MDlMT1NzdUlEbzJQT0ZKaVRtdW5FWXNhSWJ1MzN5T0xFQ2VHd0l5alFET1c3U201cmtLTVFXXzRReFFZVDE5b0dObDI5cmNiU2pKNEs1cVh6QlMzVEZ0Ukg1WlVmZXg0c1U4T1lmRmtfMkJtNVo2MnoweU5PUkIwMXlDcmVvdllfLXNoalhZdVRuQ2RoMlE",
-        "source": "News signal — verify before acting · Source: South China Morning Post · Time: 2026-07-13 14:00"
-      },
-      {
-        "id": "radar-785dc5ddd089",
-        "kind": "radar",
-        "title": "Enterprise AI vs purpose-built R&D agents - News-Medical",
-        "summary": "News-Medical reports: Enterprise AI vs purpose-built R&D agents News-Medical",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-07-15 13:02",
-        "displayDate": "2026-07-15 13:02",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODJ4U1VQdnhZSkVURVBxUmpDdlFEU1J1TmhBaGtjLXhkdkJCMklLTnVJUUp6M2pxVm1Fd09QZGp3aGJsWDRlT2pzQmpsa050NUlHc2F4dzAtSjJiem01Q0NOc2oyaFlmZjIxVy1tOTJrR3F0VlUxNDVaeXJCNy1FdW4tOU9HOC1pNmVhRjBseXk2a0hibW1PdWVB",
-        "source": "News signal — verify before acting · Source: News-Medical · Time: 2026-07-15 13:02"
-      },
-      {
-        "id": "radar-004b41504284",
-        "kind": "radar",
-        "title": "Cast AI’s Kimchi coding agent reaches general availability",
-        "summary": "Techzine Global reports: Cast AI’s Kimchi coding agent reaches general availability Techzine Global",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-07-15 13:00",
-        "displayDate": "2026-07-15 13:00",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0VKY2J5ODhLQjN6VmtiTEw5SW1mOXhFanVjUFVMUjc4SVVlMGdOREZ0V3RuVm5lLVYycy1nNW12Mi11LUxXcU9MTGlYM01vdmk0ZlJHdmlfb29oa0owMFRUbkF2RTk0OWRzRk90cExIclJpbk1xUHlFZUNSZW9vS3NtMXNUcUk2TFJ5eXFmTDVBR0xORzJwYVZTVGd0TGVSR0g0",
-        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-07-15 13:00"
+        "date": "2026-07-15 16:55",
+        "displayDate": "2026-07-15 16:55",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fZk9oSFJpdWtKU2xIYmJGZEtROWFrQjVKSHJJTV9wTTlSSEYyWUVFWFZIZlp4aHcwUGdYWWx6aldMYThjX0RoZEZoZlFBQ05SMXlPUUhrMXVsSmJJSkV0NzdTdlNTeFBtR2xmZWRraw",
+        "source": "News signal — verify before acting · Source: Crypto Briefing · Time: 2026-07-15 16:55"
       },
       {
         "id": "radar-48350c322179",
@@ -158,6 +116,62 @@
         "source": "News signal — verify before acting · Source: Trend Hunter · Time: 2026-07-12 22:25"
       },
       {
+        "id": "radar-5f872d2e8d25",
+        "kind": "radar",
+        "title": "AWS Expands Amazon Quick With Autonomous AI Agents",
+        "summary": "Mexico Business News reports: AWS Expands Amazon Quick With Autonomous AI Agents Mexico Business News",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-07-15 15:45",
+        "displayDate": "2026-07-15 15:45",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0ktZ2ZVV1FBc2szOFNPX3J3OUdrWllzQlJJX2EyMTFUSXYwRThfcjlVZHByQXA5RXhPMk01bmpxNDZfbkxlSHhiRkE3ZjU3elpsOURBY00wQU9SRmhUUHVVc0NaX2NpNTdKbXZDQ0JsZWRnOXRfQnplV0dhNzA2VzVyTGxBeWFoN3JvV2ppeFRtUUdZZkE",
+        "source": "News signal — verify before acting · Source: Mexico Business News · Time: 2026-07-15 15:45"
+      },
+      {
+        "id": "radar-cd9b1d582573",
+        "kind": "radar",
+        "title": "Uber blew its entire 2026 AI budget in 4 months — and one 2-hour coding session alone cost $1,200",
+        "summary": "moneywise.com reports: Uber blew its entire 2026 AI budget in 4 months — and one 2-hour coding session alone cost $1,200 moneywise.com",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-07-15 14:18",
+        "displayDate": "2026-07-15 14:18",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUSFptZ3NrR29lVHF2RXllemlJa2w4aWVEQlJ2aGFfYlZZMFdDemVjOW5ndDJhZGl0bEx5R2NxdXBZem9hb09LT0RWR29WSWhUa1NLUE9ORzRWLThIa2l1RHdZVnYxSmc3MU8xemJLdUFZb29ORmc",
+        "source": "News signal — verify before acting · Source: moneywise.com · Time: 2026-07-15 14:18"
+      },
+      {
+        "id": "radar-4994b34fa1a5",
+        "kind": "radar",
+        "title": "AI-run lab discovers six 3D-printable alloys for extreme heat",
+        "summary": "Tech Xplore reports: AI-run lab discovers six 3D-printable alloys for extreme heat Tech Xplore",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 92,
+        "date": "2026-07-15 15:00",
+        "displayDate": "2026-07-15 15:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MN1hCYVZyY1ozREtHeWU1NW9ZWkpJUVNwMnQ0M05TN3EtMXhRSlc2OVpPemVYOVFMSG15a3QxalRHcnFjQzJHcjc5VXlLQm5QNEo0c2xYVU53TFN1dEw2RjRnX2UyM21UZ1hZNTRrTGRMSE5laVE",
+        "source": "News signal — verify before acting · Source: Tech Xplore · Time: 2026-07-15 15:00"
+      },
+      {
+        "id": "radar-7699cb110401",
+        "kind": "radar",
+        "title": "Show HN: Agent's Design – Claude/Codex copy-paste templates that kill AI-slop UI",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 91,
+        "date": "2026-07-15 13:30",
+        "displayDate": "2026-07-15 13:30",
+        "url": "https://agents-design.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-15 13:30"
+      },
+      {
         "id": "radar-a1502b6d2077",
         "kind": "radar",
         "title": "How to start an AI for business leaders, executives program",
@@ -170,20 +184,6 @@
         "displayDate": "2026-07-14 18:36",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlpINjhrckJ3MEhOdEJldVc5NlRzeC05aGNiMDNMdFlRYkJmdEQ0bTNhRm9YaXJaaER2R1lHU1lnbjBZZVpSa01hMzQwVGpmV3hqanlCT3NWZVNfWUFhMnViSi1mQnNibjJTMWppdVFHWGtqVDAxaXdETUJOOUJNOEUwdVZIdEk3M0c3azZxdXlUMHk3c21iVXhEdy03T3FzSWR3M2Jn",
         "source": "News signal — verify before acting · Source: TechTarget · Time: 2026-07-14 18:36"
-      },
-      {
-        "id": "radar-b557de29eb4d",
-        "kind": "radar",
-        "title": "10 Claude Skills for Design To Improve Workflows",
-        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 69,
-        "date": "2026-07-09 12:33",
-        "displayDate": "2026-07-09 12:33",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZmtKaE9USjB4b1pmb2lFd3RDVUtaVHR4OHowZGtxY25aTlF2cGlQODV5OGRDT1FEaVlSR0c0Uk9lRktpVkZId3I0bVNsSVRVcmtSMkE1YjFsU3Z5YVJvMU42UG5KTU44TE8wRDBNSjZ3UQ",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-09 12:33"
       }
     ]
   },
@@ -218,8 +218,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-15T22:10:21.919246+08:00",
-        "nextRun": "2026-07-16T01:10:00+08:00",
+        "lastRun": "2026-07-16T01:10:11.029001+08:00",
+        "nextRun": "2026-07-16T04:10:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -229,8 +229,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-15T21:40:21.481006+08:00",
-        "nextRun": "2026-07-16T00:40:00+08:00",
+        "lastRun": "2026-07-16T00:40:10.665836+08:00",
+        "nextRun": "2026-07-16T03:40:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -262,8 +262,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T00:24:34.517144+08:00",
-        "nextRun": "2026-07-16T00:54:34.517144+08:00",
+        "lastRun": "2026-07-16T01:07:11.221890+08:00",
+        "nextRun": "2026-07-16T02:07:11.470986+08:00",
         "message": "No recent error."
       },
       {
@@ -273,8 +273,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T00:29:16.343549+08:00",
-        "nextRun": "2026-07-16T00:31:16.343549+08:00",
+        "lastRun": "2026-07-16T01:35:16.410740+08:00",
+        "nextRun": "2026-07-16T01:37:16.410740+08:00",
         "message": "unused"
       },
       {
@@ -284,8 +284,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-15T22:30:38.149270+08:00",
-        "nextRun": "2026-07-16T01:30:00+08:00",
+        "lastRun": "2026-07-16T01:30:28.197761+08:00",
+        "nextRun": "2026-07-16T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -333,7 +333,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-16T00:29:16.344549+08:00"
+    "updatedAt": "2026-07-16T01:37:11.471986+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
