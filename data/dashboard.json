@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-16T07:41:53+08:00",
+    "generatedAt": "2026-07-16T10:42:57+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-15_18-00-ccc-skills.md",
-    "radarSource": "ai_opportunity_radar_20260716_073029.html",
+    "radarSource": "ai_opportunity_radar_20260716_103033.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -43,13 +43,13 @@
     ]
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260716_073029.html",
+    "sourceFile": "ai_opportunity_radar_20260716_103033.html",
     "items": [
       {
         "id": "radar-ab67b86a5429",
         "kind": "radar",
         "title": "Autonomous Security – EDR for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -60,32 +60,32 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-15 22:17"
       },
       {
-        "id": "radar-2b88ca3e5f6f",
+        "id": "radar-f2a8093beefd",
         "kind": "radar",
-        "title": "Grok Build is Now Open Source",
-        "summary": "X.ai is a current AI signal: Grok Build is Now Open Source. Treat it as a lead to verify, not as final advice.",
+        "title": "Port announces AI Builder vibe coding experience for platform engineering",
+        "summary": "SD Times reports: Port announces AI Builder vibe coding experience for platform engineering SD Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-15 20:31",
-        "displayDate": "2026-07-15 20:31",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c",
-        "source": "News signal — verify before acting · Source: X.ai · Time: 2026-07-15 20:31"
+        "date": "2026-07-16 01:33",
+        "displayDate": "2026-07-16 01:33",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkNtQ1NiNEJrODlUZXhFcDRWcjV6Q1hrUXR6RE1nd0FyUXJhb0tLNzBfcVdXZGVrUHBKMzM1TTRUdTQ2bEpZYzB5dnRjMzFqZFZTZDdkTURKSXpUUzVRa0ZCSlBzUS1zcjNUZDlsYWd0RUhmLWdrcmRpTWRRRHc5QTQ0Y2VCNG0wNHJKLTJSLXQ4Ulk1cm5DTzN5YjlGTnk1cVRMY19TTGNaQQ",
+        "source": "News signal — verify before acting · Source: SD Times · Time: 2026-07-16 01:33"
       },
       {
-        "id": "radar-bf4196eeb455",
+        "id": "radar-2ef0587dd672",
         "kind": "radar",
-        "title": "How AI Agents are transforming scientific discovery",
-        "summary": "Google DeepMind reports: How AI Agents are transforming scientific discovery Google DeepMind",
+        "title": "Prevent AI Brain Fry With Better Workflows",
+        "summary": "NonProfit PRO reports: Prevent AI Brain Fry With Better Workflows NonProfit PRO",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-07-15 15:26",
-        "displayDate": "2026-07-15 15:26",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZU8tZTVZcUhhRUZfVlhxTzhPTnpROGlkaHRwei05SmliTThCR1pqQVd5TzdHSksyc1ZoVE1oOUVkc2Fha2FfRFE4OFk3YXFvRFpEQ3NNa0poMGVPV0lUNHlpWWxLY0F4bDB2dmk4SzdOTHJEakptNHB1N1JvU281cWZVWkpORTZXYUFkekF1d3U2UkUyMHY0WVVUMURwY3ZobXVDWU9uQVFsLUgzbVUyUjAwenJ6OFVLUl82RnJXZHhEVHoyY2V6UWNkX3FTaWpDaFFyT1ZwamhoU09GUXpWMVpCVlZMNmZ2dkVkVklTMHA3TmlIWU9QMW1TT1NQWklVN0RIbmdsN2c3QQ",
-        "source": "Official / vendor signal · Source: Google DeepMind · Time: 2026-07-15 15:26"
+        "score": 91,
+        "date": "2026-07-09 16:43",
+        "displayDate": "2026-07-09 16:43",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeENxQV9DRkExZUo2Z2tBS2dWc1JrTEN6eURUVnJSa0t3a25RWXdXVkJRalRpTGJsR2RwQ2VZMGlkelpnY0R4R3JEazVTUTNjVWFLVk9wLThFeEV2dzlFT0pRZzlQdDRvSTB5dmFSUHF0MzkwemIwVlpSSlZqZGp1cVpTdw",
+        "source": "News signal — verify before acting · Source: NonProfit PRO · Time: 2026-07-09 16:43"
       },
       {
         "id": "radar-8b8cc447f431",
@@ -130,18 +130,18 @@
         "source": "News signal — verify before acting · Source: Mexico Business News · Time: 2026-07-15 15:45"
       },
       {
-        "id": "radar-9e9ba1cc0e3a",
+        "id": "radar-2b88ca3e5f6f",
         "kind": "radar",
-        "title": "Atlassian Announces System for AI-native Software Development in Jira",
-        "summary": "Business Wire reports: Atlassian Announces System for AI-native Software Development in Jira Business Wire",
+        "title": "Grok Build is Now Open Source",
+        "summary": "X.AI is a current AI signal: Grok Build is Now Open Source. Treat it as a lead to verify, not as final advice.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-15 20:05",
-        "displayDate": "2026-07-15 20:05",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWl6T1dYa1Q4R3JJZ2tnQ1VhUE1rMVF1ak1qTWJZSXlTSTBEZ3J6S0g4ZTRaTXVHOE10RWFvOTJuaTI2a191U19PR1F0RHdKRk5qSjRuQlFLMTVOcy14MC1vLU03VGdqOVowU3JtQk9RbmJGeW11SDhDcGlFZHZUaEtrdW10VmVuc1BLZ2R3SkNZNjdCYldxeWlnUnNyY0Q0bGdYRFF3Ym8zYXhMdGwxT2hXOWk4YkdiLVF4V3BTNWpZUURQ",
-        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-07-15 20:05"
+        "date": "2026-07-15 20:31",
+        "displayDate": "2026-07-15 20:31",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c",
+        "source": "News signal — verify before acting · Source: X.AI · Time: 2026-07-15 20:31"
       },
       {
         "id": "radar-48350c322179",
@@ -158,18 +158,18 @@
         "source": "News signal — verify before acting · Source: Trend Hunter · Time: 2026-07-12 22:25"
       },
       {
-        "id": "radar-a1502b6d2077",
+        "id": "radar-bf4196eeb455",
         "kind": "radar",
-        "title": "How to start an AI for business leaders, executives program",
-        "summary": "TechTarget reports: How to start an AI for business leaders, executives program TechTarget",
+        "title": "How AI Agents are transforming scientific discovery",
+        "summary": "Google DeepMind reports: How AI Agents are transforming scientific discovery Google DeepMind",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-07-14 18:36",
-        "displayDate": "2026-07-14 18:36",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlpINjhrckJ3MEhOdEJldVc5NlRzeC05aGNiMDNMdFlRYkJmdEQ0bTNhRm9YaXJaaER2R1lHU1lnbjBZZVpSa01hMzQwVGpmV3hqanlCT3NWZVNfWUFhMnViSi1mQnNibjJTMWppdVFHWGtqVDAxaXdETUJOOUJNOEUwdVZIdEk3M0c3azZxdXlUMHk3c21iVXhEdy03T3FzSWR3M2Jn",
-        "source": "News signal — verify before acting · Source: TechTarget · Time: 2026-07-14 18:36"
+        "score": 90,
+        "date": "2026-07-15 15:26",
+        "displayDate": "2026-07-15 15:26",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZU8tZTVZcUhhRUZfVlhxTzhPTnpROGlkaHRwei05SmliTThCR1pqQVd5TzdHSksyc1ZoVE1oOUVkc2Fha2FfRFE4OFk3YXFvRFpEQ3NNa0poMGVPV0lUNHlpWWxLY0F4bDB2dmk4SzdOTHJEakptNHB1N1JvU281cWZVWkpORTZXYUFkekF1d3U2UkUyMHY0WVVUMURwY3ZobXVDWU9uQVFsLUgzbVUyUjAwenJ6OFVLUl82RnJXZHhEVHoyY2V6UWNkX3FTaWpDaFFyT1ZwamhoU09GUXpWMVpCVlZMNmZ2dkVkVklTMHA3TmlIWU9QMW1TT1NQWklVN0RIbmdsN2c3QQ",
+        "source": "Official / vendor signal · Source: Google DeepMind · Time: 2026-07-15 15:26"
       },
       {
         "id": "radar-b557de29eb4d",
@@ -196,8 +196,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-15T21:00:20.282859+08:00",
-        "nextRun": "2026-07-16T09:00:00+08:00",
+        "lastRun": "2026-07-16T09:00:15.744830+08:00",
+        "nextRun": "2026-07-16T15:00:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -207,8 +207,8 @@
         "state": "error",
         "schedule": "20 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T06:20:12.015816+08:00",
-        "nextRun": "2026-07-16T09:20:00+08:00",
+        "lastRun": "2026-07-16T09:20:16.044889+08:00",
+        "nextRun": "2026-07-16T12:20:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -218,8 +218,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T07:10:12.891456+08:00",
-        "nextRun": "2026-07-16T10:10:00+08:00",
+        "lastRun": "2026-07-16T10:10:16.827943+08:00",
+        "nextRun": "2026-07-16T13:10:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -229,8 +229,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T06:40:12.565604+08:00",
-        "nextRun": "2026-07-16T09:40:00+08:00",
+        "lastRun": "2026-07-16T09:40:16.378408+08:00",
+        "nextRun": "2026-07-16T12:40:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -262,8 +262,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T07:11:53.337599+08:00",
-        "nextRun": "2026-07-16T08:11:53.460514+08:00",
+        "lastRun": "2026-07-16T10:12:56.735035+08:00",
+        "nextRun": "2026-07-16T11:12:56.796716+08:00",
         "message": "No recent error."
       },
       {
@@ -273,8 +273,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T07:39:16.957038+08:00",
-        "nextRun": "2026-07-16T07:43:53.454091+08:00",
+        "lastRun": "2026-07-16T10:42:00.683085+08:00",
+        "nextRun": "2026-07-16T10:44:00.683085+08:00",
         "message": "unused"
       },
       {
@@ -284,8 +284,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T07:30:29.636982+08:00",
-        "nextRun": "2026-07-16T10:30:00+08:00",
+        "lastRun": "2026-07-16T10:30:33.179304+08:00",
+        "nextRun": "2026-07-16T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -333,7 +333,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-16T07:41:53.460514+08:00"
+    "updatedAt": "2026-07-16T10:42:56.796716+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
