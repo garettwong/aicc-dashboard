@@ -1,46 +1,17 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-16T13:44:01+08:00",
+    "generatedAt": "2026-07-16T16:15:10+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-07-15_18-00-ccc-skills.md",
+    "dailySource": "2026-07-16_16-03-41.md",
     "radarSource": "ai_opportunity_radar_20260716_133017.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
-    "headline": "2 useful things for you",
-    "subject": "AI Everyday works tools - 2026-07-15",
-    "message": "Hermes filtered the rest and kept only practical items.",
-    "items": [
-      {
-        "id": "today-493e69459c01",
-        "kind": "today",
-        "title": "CCC Game Kit",
-        "summary": "Turn a simple game idea into a polished browser game, with the right game engine, artwork, sound and a final error-checking step.",
-        "why": "You can use it to create small interactive AI teaching demonstrations instead of only slides or chat examples. It can also become a student project template.",
-        "action": "Nothing — I will inspect the downloadable ZIP and check it before recommending installation.",
-        "detail": "show students how an idea becomes a working web game; - create short branded interactive exercises for your courses; - demonstrate a more concrete AI-building workflow than ordinary prompting.",
-        "category": "Daily pick",
-        "date": "2026-07-15T17:58:04.869319",
-        "displayDate": "Jul 15",
-        "url": "https://claudecodeclub.ai/site-kit",
-        "source": "Hermes daily scout"
-      },
-      {
-        "id": "today-5cdadf26962e",
-        "kind": "today",
-        "title": "CCC Scene Cast Kit",
-        "summary": "Start with one photo and create a short cinematic video scene while trying to keep the same person’s identity consistent.",
-        "why": "It is useful for teaching AI video workflow and for making stronger course or client demonstrations without needing a full film crew.",
-        "action": "Nothing — I will first check the required video service, cost and privacy implications before suggesting that you use it.",
-        "detail": "teach a practical photo-to-video workflow; - make short premium-looking promotional demonstrations; - explain identity consistency, reference images and video-generation limits using a real example.",
-        "category": "Daily pick",
-        "date": "2026-07-15T17:58:04.869319",
-        "displayDate": "Jul 15",
-        "url": "https://claudecodeclub.ai/site-kit",
-        "source": "Hermes daily scout"
-      }
-    ]
+    "headline": "Nothing worth interrupting you for",
+    "subject": "Garett — nothing worth your time today. I filtered the rest.",
+    "message": "Garett — nothing worth your time today. I filtered the rest.",
+    "items": []
   },
   "radar": {
     "sourceFile": "ai_opportunity_radar_20260716_133017.html",
@@ -196,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T09:00:15.744830+08:00",
-        "nextRun": "2026-07-16T15:00:00+08:00",
+        "lastRun": "2026-07-16T16:04:30.098282+08:00",
+        "nextRun": "2026-07-16T21:00:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -207,19 +178,8 @@
         "state": "error",
         "schedule": "20 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T12:20:20.038591+08:00",
-        "nextRun": "2026-07-16T15:20:00+08:00",
-        "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-16T13:10:00.404254+08:00",
-        "nextRun": "2026-07-16T16:10:00+08:00",
+        "lastRun": "2026-07-16T16:04:26.458619+08:00",
+        "nextRun": "2026-07-16T18:20:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -229,8 +189,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T12:40:20.674617+08:00",
-        "nextRun": "2026-07-16T15:40:00+08:00",
+        "lastRun": "2026-07-16T16:04:27.870939+08:00",
+        "nextRun": "2026-07-16T18:40:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -238,21 +198,21 @@
         "name": "ai-everyday-work-tools",
         "enabled": true,
         "state": "ok",
-        "schedule": "every 1440m",
+        "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-15T17:56:05.845938+08:00",
-        "nextRun": "2026-07-16T17:56:05.845938+08:00",
-        "message": "You are Garett’s personal AI scout and shoulder tap, not a newsletter. Research only the last 24 hours using official sources. Garett is an HK AI educator and client operator. His "
+        "lastRun": "2026-07-16T16:03:41.442339+08:00",
+        "nextRun": "2026-07-17T09:00:00+08:00",
+        "message": "You are Garett’s personal AI scout and shoulder tap, not a newsletter. Look across the last 7 days, not merely the last 24 hours. Also consider high-value resources newly discovere"
       },
       {
         "id": "a21bade0ba2a",
         "name": "ai-everyday-work-tools-smtp-delivery",
         "enabled": true,
         "state": "ok",
-        "schedule": "every 1440m",
+        "schedule": "15 9 * * *",
         "lastStatus": "ok",
         "lastRun": "2026-07-15T17:58:35.198500+08:00",
-        "nextRun": "2026-07-16T17:58:35.198500+08:00",
+        "nextRun": "2026-07-17T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -262,9 +222,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T13:14:00.743729+08:00",
-        "nextRun": "2026-07-16T14:14:01.008587+08:00",
+        "lastRun": "2026-07-16T15:45:10.029084+08:00",
+        "nextRun": "2026-07-16T16:45:10.257115+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-16T16:13:11.979898+08:00",
+        "nextRun": "2026-07-16T19:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -273,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T13:42:04.220970+08:00",
-        "nextRun": "2026-07-16T13:44:04.220970+08:00",
+        "lastRun": "2026-07-16T16:12:31.276522+08:00",
+        "nextRun": "2026-07-16T16:17:10.247866+08:00",
         "message": "unused"
       },
       {
@@ -333,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-16T13:44:01.009586+08:00"
+    "updatedAt": "2026-07-16T16:15:10.258115+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
