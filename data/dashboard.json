@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T04:46:46+08:00",
+    "generatedAt": "2026-07-17T07:52:50+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-16_16-25-ios-translate.md",
-    "radarSource": "ai_opportunity_radar_20260717_043103.html",
+    "radarSource": "ai_opportunity_radar_20260717_073107.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -29,35 +29,35 @@
     ]
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260717_043103.html",
+    "sourceFile": "ai_opportunity_radar_20260717_073107.html",
     "items": [
       {
-        "id": "radar-0ee862a9dd18",
+        "id": "radar-9909d163de29",
         "kind": "radar",
-        "title": "Least privilege for AI agents: Identity, access, and tool binding",
-        "summary": "Microsoft reports: Least privilege for AI agents: Identity, access, and tool binding Microsoft",
+        "title": "AegisDB – self-hosted memory for AI agents, in one C binary",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 46,
-        "date": "2026-07-16 16:00",
-        "displayDate": "2026-07-16 16:00",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1QtZ1plb29adWVvLXloT0VSdGR5S2pacWc2QWhlRDUtT3JSYVVqQXJFYWxqc2tuXzM4RW1zN18xVHBfNm5xVWdpamZ2OVlnVTF4SVU1UDE1N1JkM3h6VG9CazBNek9uS1hYel9rdDZyNkhmYk8xeHJVTkJGMV9ZOVd4blVyVXFES0k5Qi1kRTJpaXZPSHBrelhKNjQ5c2JrS1h4X2RncmFiTnVXWXhiZUJ5NEVsOTZ1UWpEQQ",
-        "source": "Official / vendor signal · Source: Microsoft · Time: 2026-07-16 16:00"
+        "score": 57,
+        "date": "2026-07-16 23:15",
+        "displayDate": "2026-07-16 23:15",
+        "url": "https://github.com/d4n-larsson/aegisdb",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-16 23:15"
       },
       {
-        "id": "radar-4f807d9a9a4c",
+        "id": "radar-127a53ce2bb0",
         "kind": "radar",
-        "title": "Introducing Grok 4.5",
-        "summary": "X.ai is a current AI signal: Introducing Grok 4.5. Treat it as a lead to verify, not as final advice.",
+        "title": "Claude Fable 5 Slips to Second in AI Coding Leaderboard",
+        "summary": "BeInCrypto reports: Claude Fable 5 Slips to Second in AI Coding Leaderboard BeInCrypto",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-16 18:10",
-        "displayDate": "2026-07-16 18:10",
-        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA",
-        "source": "News signal — verify before acting · Source: X.ai · Time: 2026-07-16 18:10"
+        "date": "2026-07-16 22:12",
+        "displayDate": "2026-07-16 22:12",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LOEhHLVJwNnA1WEJtZlVGLU5UbkoxUEFXTkp1WThRX2hOZlU0bHkzRHBBMkFZaEU0d2VKb1VNOTFTRjZWUmtrb3ZmWUZCU0xvSFlFU2JBSHpzMTFJNGJBUk12clpTNkE5elAwbUxOSS1CdDE5",
+        "source": "News signal — verify before acting · Source: BeInCrypto · Time: 2026-07-16 22:12"
       },
       {
         "id": "radar-9fa2e783e409",
@@ -74,18 +74,18 @@
         "source": "News signal — verify before acting · Source: Yahoo Finance Singapore · Time: 2026-07-14 11:21"
       },
       {
-        "id": "radar-db18e13a04c7",
+        "id": "radar-ebc4f782ec17",
         "kind": "radar",
-        "title": "Why Domain-Driven Design Is a Great Fit for Coding with Claude",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "How Decagon uses AI for design system saturation",
+        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 70,
-        "date": "2026-07-16 17:01",
-        "displayDate": "2026-07-16 17:01",
-        "url": "https://menelaos.vergis.net/posts/Why-Domain-Driven-Design-Is-a-Great-Fit-for-Coding-with-Claude",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-16 17:01"
+        "score": 56,
+        "date": "2026-07-10 20:33",
+        "displayDate": "2026-07-10 20:33",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0NPci1vUHotNVhDQVJkMXhlN0Zfdjg0cVh6SXBPWThNVUw3WnF2QjZNblFMeDZoRi1Pd2U4UDJ3X3VHcG1kbk1RTGdsOUtZbklobzRteTVZUTM3dWd0UkdNZFhVOVhjUUh3aUVQUS1IU2dJbUFfeTdueXBZbFJaamdn",
+        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-10 20:33"
       },
       {
         "id": "radar-abbb933f210e",
@@ -102,18 +102,18 @@
         "source": "News signal — verify before acting · Source: MIT News · Time: 2026-07-16 04:00"
       },
       {
-        "id": "radar-72c068ab4df3",
+        "id": "radar-4f807d9a9a4c",
         "kind": "radar",
-        "title": "Codex is technically better than Claude Code, but I stopped using it for one specific reason",
-        "summary": "XDA reports: Codex is technically better than Claude Code, but I stopped using it for one specific reason XDA",
+        "title": "Introducing Grok 4.5",
+        "summary": "x.ai is a current AI signal: Introducing Grok 4.5. Treat it as a lead to verify, not as final advice.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-16 17:00",
-        "displayDate": "2026-07-16 17:00",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUFfZWlUUmdVaGltTFZTbHFpNXZvc3VWbjY0YzFDRERaQV9iOFFBcmF6MUFwdzVkZm5TZnRLNEhZRDl0OUdzV0V5RklsczE1OUVRV0lLd25jNW82YTZnLXVXMzhYNkZmU1JwS1Y0NTdWUlVfVkQ5TjdtbFppME85ZWpZMHoyLUxwX21oRWZYT0V6cW04SDFQbHRENTJfZUFJRkpYQk5BTnJHS3dyOWM0SWFSLUw",
-        "source": "News signal — verify before acting · Source: XDA · Time: 2026-07-16 17:00"
+        "date": "2026-07-16 21:52",
+        "displayDate": "2026-07-16 21:52",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA",
+        "source": "News signal — verify before acting · Source: x.ai · Time: 2026-07-16 21:52"
       },
       {
         "id": "radar-683cb86629af",
@@ -144,32 +144,32 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-10 20:02"
       },
       {
-        "id": "radar-4ab4a250d784",
+        "id": "radar-7537e25898f2",
         "kind": "radar",
-        "title": "Emerging technology trends brands and agencies need to know about",
-        "summary": "Ad Age reports: Emerging technology trends brands and agencies need to know about Ad Age",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 64,
-        "date": "2026-07-16 09:00",
-        "displayDate": "2026-07-16 09:00",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTZtSU1rbWpscEJxajM3V25nQy1GZ2RWUmc1cUtyR1RJUTU0MGwtdHlBYUNDQWhXVnVmWmtuN2E2eDhpX1h5ejJxUTNxUkg3QV9GWkctbzRSNm5DcUx4OTFfRlVVTkt4b2VuTUdFdjIwdGhQZ2JuZW9MU3YzZWNJOVJiTDVSc2Q4S1JMXzBsTk9RdEtwRlMxN3ZZUkNLRVMxRjJtYjNHLW5Fd1VmRmhwRUxn",
-        "source": "News signal — verify before acting · Source: Ad Age · Time: 2026-07-16 09:00"
-      },
-      {
-        "id": "radar-3a40204f559c",
-        "kind": "radar",
-        "title": "Cq: A Shared Knowledge Commons for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Your AI agent doesn't know when its memory is gone",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-07-16 19:40",
-        "displayDate": "2026-07-16 19:40",
-        "url": "https://i-programmer.info/news/105-artificial-intelligence/19009-cq-a-shared-knowledge-commons-for-ai-agents.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-16 19:40"
+        "score": 57,
+        "date": "2026-07-16 21:37",
+        "displayDate": "2026-07-16 21:37",
+        "url": "https://arxiv.org/abs/2607.10582",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-16 21:37"
+      },
+      {
+        "id": "radar-d277d950fcce",
+        "kind": "radar",
+        "title": "GM’s AI tools could cut the car development timeline in half",
+        "summary": "Fast Company reports: GM’s AI tools could cut the car development timeline in half Fast Company",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 48,
+        "date": "2026-07-16 10:43",
+        "displayDate": "2026-07-16 10:43",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelNqR3diTElVUXFRblRkTHUwcnFkVGVmM0o1VGxTRndobkpnQnREalZ6RmFVSWpEaXpzZHNWUk15OUNwZldyR2h3ODBpdXZyNXV6WkZ5TmJvODBwTzRUVEkzcVdnbWNiVUtQVnJOM0F4V2xQR0tSaHVuT3VKVmdrWmhmYnFjNDZJTktydmpMbU0zUXphY0NxVExNWQ",
+        "source": "News signal — verify before acting · Source: Fast Company · Time: 2026-07-16 10:43"
       }
     ]
   },
@@ -215,8 +215,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T04:15:46.726632+08:00",
-        "nextRun": "2026-07-17T05:16:46.177306+08:00",
+        "lastRun": "2026-07-17T07:21:51.146242+08:00",
+        "nextRun": "2026-07-17T08:22:50.679577+08:00",
         "message": "No recent error."
       },
       {
@@ -226,8 +226,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T03:31:04.360847+08:00",
-        "nextRun": "2026-07-17T06:20:00+08:00",
+        "lastRun": "2026-07-17T06:29:21.693170+08:00",
+        "nextRun": "2026-07-17T09:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -237,8 +237,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T04:13:16.857655+08:00",
-        "nextRun": "2026-07-17T07:10:00+08:00",
+        "lastRun": "2026-07-17T07:12:47.397880+08:00",
+        "nextRun": "2026-07-17T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -248,8 +248,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T04:45:49.169843+08:00",
-        "nextRun": "2026-07-17T04:47:49.169843+08:00",
+        "lastRun": "2026-07-17T07:51:53.365925+08:00",
+        "nextRun": "2026-07-17T07:53:53.365925+08:00",
         "message": "unused"
       },
       {
@@ -259,8 +259,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T04:31:03.337029+08:00",
-        "nextRun": "2026-07-17T07:30:00+08:00",
+        "lastRun": "2026-07-17T07:31:07.807138+08:00",
+        "nextRun": "2026-07-17T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -270,8 +270,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T03:45:29.499751+08:00",
-        "nextRun": "2026-07-17T06:40:00+08:00",
+        "lastRun": "2026-07-17T06:45:11.482047+08:00",
+        "nextRun": "2026-07-17T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -319,7 +319,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T04:46:46.178306+08:00"
+    "updatedAt": "2026-07-17T07:52:50.680575+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
