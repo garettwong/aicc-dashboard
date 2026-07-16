@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-16T10:42:57+08:00",
+    "generatedAt": "2026-07-16T13:44:01+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-15_18-00-ccc-skills.md",
-    "radarSource": "ai_opportunity_radar_20260716_103033.html",
+    "radarSource": "ai_opportunity_radar_20260716_133017.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -43,13 +43,13 @@
     ]
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260716_103033.html",
+    "sourceFile": "ai_opportunity_radar_20260716_133017.html",
     "items": [
       {
         "id": "radar-ab67b86a5429",
         "kind": "radar",
         "title": "Autonomous Security – EDR for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=6, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -133,7 +133,7 @@
         "id": "radar-2b88ca3e5f6f",
         "kind": "radar",
         "title": "Grok Build is Now Open Source",
-        "summary": "X.AI is a current AI signal: Grok Build is Now Open Source. Treat it as a lead to verify, not as final advice.",
+        "summary": "x.ai is a current AI signal: Grok Build is Now Open Source. Treat it as a lead to verify, not as final advice.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -141,7 +141,7 @@
         "date": "2026-07-15 20:31",
         "displayDate": "2026-07-15 20:31",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c",
-        "source": "News signal — verify before acting · Source: X.AI · Time: 2026-07-15 20:31"
+        "source": "News signal — verify before acting · Source: x.ai · Time: 2026-07-15 20:31"
       },
       {
         "id": "radar-48350c322179",
@@ -172,18 +172,18 @@
         "source": "Official / vendor signal · Source: Google DeepMind · Time: 2026-07-15 15:26"
       },
       {
-        "id": "radar-b557de29eb4d",
+        "id": "radar-ebc4f782ec17",
         "kind": "radar",
-        "title": "10 Claude Skills for Design To Improve Workflows",
+        "title": "How Decagon uses AI for design system saturation",
         "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 69,
-        "date": "2026-07-09 12:33",
-        "displayDate": "2026-07-09 12:33",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZmtKaE9USjB4b1pmb2lFd3RDVUtaVHR4OHowZGtxY25aTlF2cGlQODV5OGRDT1FEaVlSR0c0Uk9lRktpVkZId3I0bVNsSVRVcmtSMkE1YjFsU3Z5YVJvMU42UG5KTU44TE8wRDBNSjZ3UQ",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-09 12:33"
+        "score": 56,
+        "date": "2026-07-10 20:33",
+        "displayDate": "2026-07-10 20:33",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0NPci1vUHotNVhDQVJkMXhlN0Zfdjg0cVh6SXBPWThNVUw3WnF2QjZNblFMeDZoRi1Pd2U4UDJ3X3VHcG1kbk1RTGdsOUtZbklobzRteTVZUTM3dWd0UkdNZFhVOVhjUUh3aUVQUS1IU2dJbUFfeTdueXBZbFJaamdn",
+        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-10 20:33"
       }
     ]
   },
@@ -207,8 +207,8 @@
         "state": "error",
         "schedule": "20 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T09:20:16.044889+08:00",
-        "nextRun": "2026-07-16T12:20:00+08:00",
+        "lastRun": "2026-07-16T12:20:20.038591+08:00",
+        "nextRun": "2026-07-16T15:20:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -218,8 +218,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T10:10:16.827943+08:00",
-        "nextRun": "2026-07-16T13:10:00+08:00",
+        "lastRun": "2026-07-16T13:10:00.404254+08:00",
+        "nextRun": "2026-07-16T16:10:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -229,8 +229,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-16T09:40:16.378408+08:00",
-        "nextRun": "2026-07-16T12:40:00+08:00",
+        "lastRun": "2026-07-16T12:40:20.674617+08:00",
+        "nextRun": "2026-07-16T15:40:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.5' -> 'gpt-5.6-terra'), and this job is unpinned. No inference call was made. To run on the new config, pin it expli"
       },
       {
@@ -262,8 +262,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T10:12:56.735035+08:00",
-        "nextRun": "2026-07-16T11:12:56.796716+08:00",
+        "lastRun": "2026-07-16T13:14:00.743729+08:00",
+        "nextRun": "2026-07-16T14:14:01.008587+08:00",
         "message": "No recent error."
       },
       {
@@ -273,8 +273,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T10:42:00.683085+08:00",
-        "nextRun": "2026-07-16T10:44:00.683085+08:00",
+        "lastRun": "2026-07-16T13:42:04.220970+08:00",
+        "nextRun": "2026-07-16T13:44:04.220970+08:00",
         "message": "unused"
       },
       {
@@ -284,8 +284,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T10:30:33.179304+08:00",
-        "nextRun": "2026-07-16T13:30:00+08:00",
+        "lastRun": "2026-07-16T13:30:17.102462+08:00",
+        "nextRun": "2026-07-16T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -333,7 +333,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-16T10:42:56.796716+08:00"
+    "updatedAt": "2026-07-16T13:44:01.009586+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
