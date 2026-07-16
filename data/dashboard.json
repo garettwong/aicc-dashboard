@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-16T16:45:26+08:00",
+    "generatedAt": "2026-07-16T17:16:11+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-16_16-25-ios-translate.md",
     "radarSource": "ai_opportunity_radar_20260716_163027.html",
@@ -195,7 +195,7 @@
         "lastStatus": "ok",
         "lastRun": "2026-07-16T16:03:41.442339+08:00",
         "nextRun": "2026-07-17T09:00:00+08:00",
-        "message": "You are Garett’s daily AI scout. A daily result saying there is no useful news/tool is a research failure, not an acceptable normal outcome. Search the last 24 hours first; if the "
+        "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
         "id": "a21bade0ba2a",
@@ -215,8 +215,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T16:15:13.584709+08:00",
-        "nextRun": "2026-07-16T17:15:26.053553+08:00",
+        "lastRun": "2026-07-16T16:45:30.665830+08:00",
+        "nextRun": "2026-07-16T17:46:11.666653+08:00",
         "message": "No recent error."
       },
       {
@@ -248,8 +248,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T16:45:13.853335+08:00",
-        "nextRun": "2026-07-16T16:47:13.853335+08:00",
+        "lastRun": "2026-07-16T17:15:14.864397+08:00",
+        "nextRun": "2026-07-16T17:17:14.864397+08:00",
         "message": "unused"
       },
       {
@@ -319,7 +319,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-16T16:45:26.054552+08:00"
+    "updatedAt": "2026-07-16T17:16:11.666653+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
