@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T20:08:06+08:00",
+    "generatedAt": "2026-07-17T21:38:36+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_193102.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-17T18:21:32.812674+08:00",
-        "nextRun": "2026-07-17T21:20:00+08:00",
-        "message": "RuntimeError: Connection error."
-      },
-      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -200,8 +189,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T15:02:02.671263+08:00",
-        "nextRun": "2026-07-17T21:00:00+08:00",
+        "lastRun": "2026-07-17T21:02:18.388408+08:00",
+        "nextRun": "2026-07-18T09:00:00+08:00",
         "message": "You are Garett's consolidated AI Command Brief. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: be Garett's brain filter, not another inbox."
       },
       {
@@ -233,9 +222,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T19:37:33.344494+08:00",
-        "nextRun": "2026-07-17T20:38:06.102956+08:00",
+        "lastRun": "2026-07-17T21:08:33.675749+08:00",
+        "nextRun": "2026-07-17T22:08:35.986229+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-17T21:24:06.820171+08:00",
+        "nextRun": "2026-07-18T00:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "94b67a9712b2",
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T20:06:08.818455+08:00",
-        "nextRun": "2026-07-17T20:08:08.818455+08:00",
+        "lastRun": "2026-07-17T21:36:15.894486+08:00",
+        "nextRun": "2026-07-17T21:40:35.980230+08:00",
         "message": "unused"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T20:08:06.102956+08:00"
+    "updatedAt": "2026-07-17T21:38:35.986229+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
