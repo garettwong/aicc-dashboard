@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T02:18:19+08:00",
+    "generatedAt": "2026-07-18T03:48:46+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260718_013041.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-18T00:20:36.533022+08:00",
-        "nextRun": "2026-07-18T03:20:00+08:00",
-        "message": "RuntimeError: HTTP 429: The usage limit has been reached"
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — consolidated — every 6 hours",
         "enabled": true,
@@ -211,9 +200,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T01:47:47.971028+08:00",
-        "nextRun": "2026-07-18T02:48:18.892090+08:00",
+        "lastRun": "2026-07-18T03:18:46.412983+08:00",
+        "nextRun": "2026-07-18T04:18:46.669519+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-18T03:30:11.312802+08:00",
+        "nextRun": "2026-07-18T06:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "cac8032fb676",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T02:16:27.555526+08:00",
-        "nextRun": "2026-07-18T02:18:27.555526+08:00",
+        "lastRun": "2026-07-18T03:46:27.244514+08:00",
+        "nextRun": "2026-07-18T03:50:46.657015+08:00",
         "message": "unused"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T00:47:16.694193+08:00",
-        "nextRun": "2026-07-18T03:40:00+08:00",
+        "lastRun": "2026-07-18T03:43:46.473383+08:00",
+        "nextRun": "2026-07-18T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T02:18:18.893095+08:00"
+    "updatedAt": "2026-07-18T03:48:46.670519+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
