@@ -1,32 +1,17 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T07:52:50+08:00",
+    "generatedAt": "2026-07-17T09:29:58+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-07-16_16-25-ios-translate.md",
+    "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_073107.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
-    "headline": "1 useful thing for you",
-    "subject": "AI Everyday works tools - 2026-07-16",
-    "message": "Hermes filtered the rest and kept only practical items.",
-    "items": [
-      {
-        "id": "today-c2a455d70f59",
-        "kind": "today",
-        "title": "I found something worth your attention",
-        "summary": "",
-        "why": "",
-        "action": "Nothing — you are on iOS 26.1; I will assess the safe upgrade path and the exact limits before recommending Public Beta on your main phone.",
-        "detail": "",
-        "category": "Daily pick",
-        "date": "2026-07-16T16:24:28.575552",
-        "displayDate": "Jul 16",
-        "url": "https://unwire.hk/2026/07/14/ios-27-public-beta-translate-cantonese-support/mobile-phone",
-        "source": "Hermes daily scout"
-      }
-    ]
+    "headline": "Nothing worth interrupting you for",
+    "subject": "AI Everyday works tools - 2026-07-17",
+    "message": "The quiet screen is intentional. Hermes filtered the noise.",
+    "items": []
   },
   "radar": {
     "sourceFile": "ai_opportunity_radar_20260717_073107.html",
@@ -182,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T21:02:27.155197+08:00",
-        "nextRun": "2026-07-17T09:00:00+08:00",
+        "lastRun": "2026-07-17T09:05:08.258849+08:00",
+        "nextRun": "2026-07-17T15:00:00+08:00",
         "message": "You are Garett's consolidated AI Command Brief. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: be Garett's brain filter, not another inbox."
       },
       {
@@ -193,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T16:03:41.442339+08:00",
-        "nextRun": "2026-07-17T09:00:00+08:00",
+        "lastRun": "2026-07-17T09:03:05.325728+08:00",
+        "nextRun": "2026-07-18T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -204,8 +189,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-16T16:24:53.691602+08:00",
-        "nextRun": "2026-07-17T09:15:00+08:00",
+        "lastRun": "2026-07-17T09:16:08.235062+08:00",
+        "nextRun": "2026-07-18T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -215,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T07:21:51.146242+08:00",
-        "nextRun": "2026-07-17T08:22:50.679577+08:00",
+        "lastRun": "2026-07-17T08:54:53.349422+08:00",
+        "nextRun": "2026-07-17T09:55:52.867435+08:00",
         "message": "No recent error."
       },
       {
@@ -226,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T06:29:21.693170+08:00",
-        "nextRun": "2026-07-17T09:20:00+08:00",
+        "lastRun": "2026-07-17T09:29:58.719356+08:00",
+        "nextRun": "2026-07-17T12:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -248,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T07:51:53.365925+08:00",
-        "nextRun": "2026-07-17T07:53:53.365925+08:00",
+        "lastRun": "2026-07-17T09:27:55.828497+08:00",
+        "nextRun": "2026-07-17T09:29:55.828497+08:00",
         "message": "unused"
       },
       {
@@ -319,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T07:52:50.680575+08:00"
+    "updatedAt": "2026-07-17T09:29:58.720357+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
