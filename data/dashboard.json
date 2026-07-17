@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T16:35:18+08:00",
+    "generatedAt": "2026-07-17T18:36:21+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_163034.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-07-17T18:21:32.812674+08:00",
+        "nextRun": "2026-07-17T21:20:00+08:00",
+        "message": "RuntimeError: Connection error."
+      },
+      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — consolidated — every 6 hours",
         "enabled": true,
@@ -200,20 +211,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T16:05:17.791315+08:00",
-        "nextRun": "2026-07-17T17:05:18.028996+08:00",
+        "lastRun": "2026-07-17T18:06:20.783595+08:00",
+        "nextRun": "2026-07-17T19:06:20.975941+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-17T15:27:26.392240+08:00",
-        "nextRun": "2026-07-17T18:20:00+08:00",
-        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "cac8032fb676",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T16:32:20.827228+08:00",
-        "nextRun": "2026-07-17T16:37:18.018994+08:00",
+        "lastRun": "2026-07-17T18:35:35.030366+08:00",
+        "nextRun": "2026-07-17T18:37:35.030366+08:00",
         "message": "unused"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T16:35:18.028996+08:00"
+    "updatedAt": "2026-07-17T18:36:20.976941+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
