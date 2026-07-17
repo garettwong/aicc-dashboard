@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T19:37:28+08:00",
+    "generatedAt": "2026-07-17T20:08:06+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_193102.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "7c5cdfdce2e0",
-        "name": "AICC Dashboard Data Sync",
-        "enabled": true,
-        "state": "error",
-        "schedule": "every 30m",
-        "lastStatus": "error",
-        "lastRun": "2026-07-17T19:07:19.639960+08:00",
-        "nextRun": "2026-07-17T20:07:28.442660+08:00",
-        "message": "Script exited with code 1 stderr: Traceback (most recent call last): File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V2\\scripts\\publish_if_changed.py\", line 45, in <module> raise SystemExit(main()) ^^^^^^ File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V"
-      },
-      {
         "id": "11a2cdc5c495",
         "name": "FX Library Builder — X visual effects — every 3 hours",
         "enabled": true,
@@ -238,14 +227,25 @@
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
+        "id": "7c5cdfdce2e0",
+        "name": "AICC Dashboard Data Sync",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "every 30m",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-17T19:37:33.344494+08:00",
+        "nextRun": "2026-07-17T20:38:06.102956+08:00",
+        "message": "No recent error."
+      },
+      {
         "id": "94b67a9712b2",
         "name": "Live AI usage API collector",
         "enabled": true,
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T19:36:03.228327+08:00",
-        "nextRun": "2026-07-17T19:38:03.228327+08:00",
+        "lastRun": "2026-07-17T20:06:08.818455+08:00",
+        "nextRun": "2026-07-17T20:08:08.818455+08:00",
         "message": "unused"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T19:37:28.442660+08:00"
+    "updatedAt": "2026-07-17T20:08:06.102956+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
