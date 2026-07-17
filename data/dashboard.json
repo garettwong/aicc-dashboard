@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T18:36:21+08:00",
+    "generatedAt": "2026-07-17T19:07:06+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_163034.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "7c5cdfdce2e0",
+        "name": "AICC Dashboard Data Sync",
+        "enabled": true,
+        "state": "error",
+        "schedule": "every 30m",
+        "lastStatus": "error",
+        "lastRun": "2026-07-17T18:36:34.050995+08:00",
+        "nextRun": "2026-07-17T19:37:06.584746+08:00",
+        "message": "Script exited with code 1 stderr: Traceback (most recent call last): File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V2\\scripts\\publish_if_changed.py\", line 45, in <module> raise SystemExit(main()) ^^^^^^ File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V"
+      },
+      {
         "id": "11a2cdc5c495",
         "name": "FX Library Builder — X visual effects — every 3 hours",
         "enabled": true,
@@ -169,6 +180,17 @@
         "lastStatus": "error",
         "lastRun": "2026-07-17T18:21:32.812674+08:00",
         "nextRun": "2026-07-17T21:20:00+08:00",
+        "message": "RuntimeError: Connection error."
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-07-17T18:41:35.376144+08:00",
+        "nextRun": "2026-07-17T21:40:00+08:00",
         "message": "RuntimeError: Connection error."
       },
       {
@@ -205,17 +227,6 @@
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
-        "id": "7c5cdfdce2e0",
-        "name": "AICC Dashboard Data Sync",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "every 30m",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-17T18:06:20.783595+08:00",
-        "nextRun": "2026-07-17T19:06:20.975941+08:00",
-        "message": "No recent error."
-      },
-      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T18:35:35.030366+08:00",
-        "nextRun": "2026-07-17T18:37:35.030366+08:00",
+        "lastRun": "2026-07-17T19:06:35.899339+08:00",
+        "nextRun": "2026-07-17T19:08:35.899339+08:00",
         "message": "unused"
       },
       {
@@ -247,17 +258,6 @@
         "lastRun": "2026-07-17T16:30:34.230379+08:00",
         "nextRun": "2026-07-17T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-17T15:44:01.332187+08:00",
-        "nextRun": "2026-07-17T18:40:00+08:00",
-        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T18:36:20.976941+08:00"
+    "updatedAt": "2026-07-17T19:07:06.585746+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
