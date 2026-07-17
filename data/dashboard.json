@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T01:47:44+08:00",
+    "generatedAt": "2026-07-18T02:18:19+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260718_013041.html",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T01:17:43.666831+08:00",
-        "nextRun": "2026-07-18T02:17:43.933501+08:00",
+        "lastRun": "2026-07-18T01:47:47.971028+08:00",
+        "nextRun": "2026-07-18T02:48:18.892090+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T01:46:23.901699+08:00",
-        "nextRun": "2026-07-18T01:48:23.901699+08:00",
+        "lastRun": "2026-07-18T02:16:27.555526+08:00",
+        "nextRun": "2026-07-18T02:18:27.555526+08:00",
         "message": "unused"
       },
       {
@@ -247,6 +247,17 @@
         "lastRun": "2026-07-18T01:30:41.522266+08:00",
         "nextRun": "2026-07-18T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "39d2d87a1890",
+        "name": "Remind: review/install Kling MCP",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "once at 2026-07-19 10:00",
+        "lastStatus": "unknown",
+        "lastRun": "",
+        "nextRun": "2026-07-19T10:00:00+08:00",
+        "message": "Send Garett this concise reminder: “Reminder: you asked to install the Kling MCP workflow today. Reference: https://x.com/onofumi_ai/status/2078037340514291798 — it connects a codi"
       },
       {
         "id": "198f213f6827",
@@ -304,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T01:47:43.933501+08:00"
+    "updatedAt": "2026-07-18T02:18:18.893095+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
