@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T11:03:09+08:00",
+    "generatedAt": "2026-07-17T13:34:13+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
-    "radarSource": "ai_opportunity_radar_20260717_103216.html",
+    "radarSource": "ai_opportunity_radar_20260717_133030.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260717_103216.html",
+    "sourceFile": "ai_opportunity_radar_20260717_133030.html",
     "items": [
       {
-        "id": "radar-9909d163de29",
+        "id": "radar-94c665b87c52",
         "kind": "radar",
-        "title": "AegisDB – self-hosted memory for AI agents, in one C binary",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Ask HN: Workflow Automation vs AI Agents?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-07-16 23:15",
-        "displayDate": "2026-07-16 23:15",
-        "url": "https://github.com/d4n-larsson/aegisdb",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-16 23:15"
+        "score": 56,
+        "date": "2026-07-17 05:28",
+        "displayDate": "2026-07-17 05:28",
+        "url": "https://news.ycombinator.com/item",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 05:28"
       },
       {
         "id": "radar-4f807d9a9a4c",
@@ -39,10 +39,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-17 00:52",
-        "displayDate": "2026-07-17 00:52",
+        "date": "2026-07-17 03:53",
+        "displayDate": "2026-07-17 03:53",
         "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA",
-        "source": "News signal — verify before acting · Source: X.ai · Time: 2026-07-17 00:52"
+        "source": "News signal — verify before acting · Source: X.ai · Time: 2026-07-17 03:53"
       },
       {
         "id": "radar-aa5daa8b5e30",
@@ -85,20 +85,6 @@
         "displayDate": "2026-07-16 04:00",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3JHbXUtU0lnZ1JlZ3JjNWxZNDBycmhsTlZzWnhoOEgzTzhSVVgwQnF3SFlLcmVET3lvV1o3MURMVkh1SGdZSzNocVRmTlNkQTJ6Nnd0QXA5VG9OcGNrLWdZLWFyc3lTVzNsYzJUNFdHWFlUZGZwYVdpcmJ2eFRoM3pSbThxY09HbHZpeHpCdw",
         "source": "News signal — verify before acting · Source: MIT News · Time: 2026-07-16 04:00"
-      },
-      {
-        "id": "radar-7c7def8dee1b",
-        "kind": "radar",
-        "title": "Microsoft Ships AI Agents at Enterprise Scale",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-07-17 01:53",
-        "displayDate": "2026-07-17 01:53",
-        "url": "https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 01:53"
       },
       {
         "id": "radar-127a53ce2bb0",
@@ -155,6 +141,20 @@
         "displayDate": "2026-07-10 20:33",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0NPci1vUHotNVhDQVJkMXhlN0Zfdjg0cVh6SXBPWThNVUw3WnF2QjZNblFMeDZoRi1Pd2U4UDJ3X3VHcG1kbk1RTGdsOUtZbklobzRteTVZUTM3dWd0UkdNZFhVOVhjUUh3aUVQUS1IU2dJbUFfeTdueXBZbFJaamdn",
         "source": "Official / vendor signal · Source: Figma · Time: 2026-07-10 20:33"
+      },
+      {
+        "id": "radar-07086b43eea3",
+        "kind": "radar",
+        "title": "VulnHunter: Agentic AI Security Tool",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 55,
+        "date": "2026-07-17 01:57",
+        "displayDate": "2026-07-17 01:57",
+        "url": "https://github.com/capitalone/VulnHunter",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 01:57"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T10:32:09.531480+08:00",
-        "nextRun": "2026-07-17T11:33:09.358726+08:00",
+        "lastRun": "2026-07-17T13:04:13.104766+08:00",
+        "nextRun": "2026-07-17T14:04:13.542355+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T09:29:58.719356+08:00",
-        "nextRun": "2026-07-17T12:20:00+08:00",
+        "lastRun": "2026-07-17T12:24:33.772228+08:00",
+        "nextRun": "2026-07-17T15:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T10:12:29.785611+08:00",
-        "nextRun": "2026-07-17T13:10:00+08:00",
+        "lastRun": "2026-07-17T13:12:32.629630+08:00",
+        "nextRun": "2026-07-17T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T11:02:11.807081+08:00",
-        "nextRun": "2026-07-17T11:04:11.807081+08:00",
+        "lastRun": "2026-07-17T13:32:16.323070+08:00",
+        "nextRun": "2026-07-17T13:34:16.323070+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T10:32:16.914664+08:00",
-        "nextRun": "2026-07-17T13:30:00+08:00",
+        "lastRun": "2026-07-17T13:30:30.438137+08:00",
+        "nextRun": "2026-07-17T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T09:43:50.679082+08:00",
-        "nextRun": "2026-07-17T12:40:00+08:00",
+        "lastRun": "2026-07-17T12:42:56.939045+08:00",
+        "nextRun": "2026-07-17T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T11:03:09.359726+08:00"
+    "updatedAt": "2026-07-17T13:34:13.542355+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
