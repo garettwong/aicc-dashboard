@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-17T21:38:36+08:00",
+    "generatedAt": "2026-07-17T22:09:13+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260717_193102.html",
@@ -172,17 +172,6 @@
         "message": "RuntimeError: Connection error."
       },
       {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-17T18:41:35.376144+08:00",
-        "nextRun": "2026-07-17T21:40:00+08:00",
-        "message": "RuntimeError: Connection error."
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — consolidated — every 6 hours",
         "enabled": true,
@@ -222,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T21:08:33.675749+08:00",
-        "nextRun": "2026-07-17T22:08:35.986229+08:00",
+        "lastRun": "2026-07-17T21:38:40.013908+08:00",
+        "nextRun": "2026-07-17T22:39:13.702832+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-17T21:36:15.894486+08:00",
-        "nextRun": "2026-07-17T21:40:35.980230+08:00",
+        "lastRun": "2026-07-17T22:08:48.769889+08:00",
+        "nextRun": "2026-07-17T22:10:48.769889+08:00",
         "message": "unused"
       },
       {
@@ -258,6 +247,17 @@
         "lastRun": "2026-07-17T19:31:03.418999+08:00",
         "nextRun": "2026-07-17T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-17T21:43:46.074059+08:00",
+        "nextRun": "2026-07-18T00:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-17T21:38:35.986229+08:00"
+    "updatedAt": "2026-07-17T22:09:13.703833+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
