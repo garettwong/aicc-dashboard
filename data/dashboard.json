@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T04:49:22+08:00",
+    "generatedAt": "2026-07-18T07:49:52+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-17_09-03-05.md",
-    "radarSource": "ai_opportunity_radar_20260718_043046.html",
+    "radarSource": "ai_opportunity_radar_20260718_073056.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260718_043046.html",
+    "sourceFile": "ai_opportunity_radar_20260718_073056.html",
     "items": [
       {
-        "id": "radar-4610f6dc1a01",
+        "id": "radar-df91d5bfe713",
         "kind": "radar",
-        "title": "AI Sprawl: How AI Agents Are Changing SaaS Security",
-        "summary": "Security Boulevard reports: AI Sprawl: How AI Agents Are Changing SaaS Security Security Boulevard",
+        "title": "We Built Sandbox Infrastructure for Autonomous Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-17 14:26",
-        "displayDate": "2026-07-17 14:26",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzktYVpjT2NCZVh1T2lKVVY3MmV4dDRJZjBBN0U0bHBxdzhRLVpETnk0T29TMy12MU9FQkNQcmlGd1gxMmFyWjVIcVh0MWtlMXRwYmhnMEptY0FNUXg4NDcwWHJhVndOT01wSHZBaHBUWFRBOHA1Q1M3MXU5V24zOWpoSW5KRDVJNi1LNVBDdS04QTg",
-        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-07-17 14:26"
+        "score": 43,
+        "date": "2026-07-17 20:03",
+        "displayDate": "2026-07-17 20:03",
+        "url": "https://neosigma.ai/blog/agent-workspaces",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 20:03"
       },
       {
-        "id": "radar-b812ef47efba",
+        "id": "radar-af7104122fd5",
         "kind": "radar",
-        "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications",
-        "summary": "WebWire reports: Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications WebWire",
+        "title": "Boris Cherny says he now runs thousands of Claude Code agents at once",
+        "summary": "Startup Fortune reports: Boris Cherny says he now runs thousands of Claude Code agents at once Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-17 15:19",
-        "displayDate": "2026-07-17 15:19",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tU1lxVFFZckhFTmt3T3NpWXBhYzZjUVpnQmlYWkt4Vi1LVC15aklhV3ZiM0JQQVgwRi1GM0tVTjdQOTlQbGZ3MWZmUmxzTnZlbFhaZnJibkRhWEJfeHJ3Rw",
-        "source": "News signal — verify before acting · Source: WebWire · Time: 2026-07-17 15:19"
+        "date": "2026-07-17 19:51",
+        "displayDate": "2026-07-17 19:51",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEZlYzhQcGFQX3V2N3U1T1doZmVIdkhvQ3plX3ZVRFdwQU5faGtWZzVEeVhmMVdGU2F3c1BLcFFLVnZHd0RnNE5vQkVYSFg5V2lQTm5hSEY3a25ZM3AweWJ5VHhFeHdfRUt0RTVSNXdXa0NEZTBJYjVoRjJlWml1aC1PZUhOLUxQS09nUWF3R0kzX2FCRkdsQ1AzOW1XQQ",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-17 19:51"
       },
       {
         "id": "radar-9fa2e783e409",
@@ -101,6 +101,20 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 18:27"
       },
       {
+        "id": "radar-b812ef47efba",
+        "kind": "radar",
+        "title": "Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications",
+        "summary": "WebWire reports: Oracle Introduces AI-Native Builder Experience to Create and Run Agentic Applications in Oracle Fusion Applications WebWire",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-07-17 15:19",
+        "displayDate": "2026-07-17 15:19",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tU1lxVFFZckhFTmt3T3NpWXBhYzZjUVpnQmlYWkt4Vi1LVC15aklhV3ZiM0JQQVgwRi1GM0tVTjdQOTlQbGZ3MWZmUmxzTnZlbFhaZnJibkRhWEJfeHJ3Rw",
+        "source": "News signal — verify before acting · Source: WebWire · Time: 2026-07-17 15:19"
+      },
+      {
         "id": "radar-27420ca0f965",
         "kind": "radar",
         "title": "Designing emoji for the way we communicate today",
@@ -113,20 +127,6 @@
         "displayDate": "2026-07-17 14:29",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklrU0ctRXhfdTNiVFhPSmlhTERtOW0yVnVJNGkyMUEwNFpObnBlNGlkRXBUWFZUX2Z4a2t4VXNleVI4N3EzZFUzci1NNlh6MXo3RzgyaTdRWVAzZGdJaEp0djI3U1BzZElhR2RqaHFCdkdqQzBSTndEc2szbW5VeGlLakFnVHo0aDJTTlh3",
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
-      },
-      {
-        "id": "radar-c7def511474b",
-        "kind": "radar",
-        "title": "AI Agent & Copilot Podcast: John Siefert and Cedric Wells Discuss AI Leadership, Vibe Coding, and Governance",
-        "summary": "Cloud Wars reports: AI Agent & Copilot Podcast: John Siefert and Cedric Wells Discuss AI Leadership, Vibe Coding, and Governance Cloud Wars",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-07-17 13:30",
-        "displayDate": "2026-07-17 13:30",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkR3Y0l5enZHajcydFIxMUd3ZEdaX2JzSmQ5UmozSElsWkxDVDJmbHF4U0RfeFZaRXI5S1ZQSldBQ2I0R0Itd3dTTUNnbmVxX1RULWVPb3ktVktmWUE0TnBkNF9ibzN5LUJXS1FqV0k3LW9tMU9xQm5tWkxqRHJMZ3BXWVpBdGh4NkV2NGVGQk40ZTNJUGFzUWRudnJHckx1bzUxUnZQMDBuelFPZDdxa3BEOHNiOVExSFZnenlSU3NjR2ZyWUJVbA",
-        "source": "News signal — verify before acting · Source: Cloud Wars · Time: 2026-07-17 13:30"
       },
       {
         "id": "radar-1fde9c65af15",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: WBOC TV · Time: 2026-07-17 16:26"
       },
       {
-        "id": "radar-ebc4f782ec17",
+        "id": "radar-eef6d9c0c2f4",
         "kind": "radar",
-        "title": "How Decagon uses AI for design system saturation",
-        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Figma CEO Says He’s ‘Never Been More Bullish’ As AI Vs Design Debate Intensifies",
+        "summary": "Stocktwits reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 56,
-        "date": "2026-07-10 20:33",
-        "displayDate": "2026-07-10 20:33",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0NPci1vUHotNVhDQVJkMXhlN0Zfdjg0cVh6SXBPWThNVUw3WnF2QjZNblFMeDZoRi1Pd2U4UDJ3X3VHcG1kbk1RTGdsOUtZbklobzRteTVZUTM3dWd0UkdNZFhVOVhjUUh3aUVQUS1IU2dJbUFfeTdueXBZbFJaamdn",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-10 20:33"
+        "score": 48,
+        "date": "2026-07-17 02:58",
+        "displayDate": "2026-07-17 02:58",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVgwOUZGbW43MlJuVDRZUmVfcUs0Smt2VGUxYUxfYVFxZzczQWlLemRqQkVhanA2OEkyNko2SWdSTmxPdU9rbFpwQ2JTdUY4Qm5mU3AwMWVjVEE0QUtZTWt4UnRTTno0aFc4aVZBbnFtSXFqaVJ2Z3ZGRkljLVk0UEJMZ0pnVWpoaTJhWmU1LVJ0V25FLXRDVy10ZUdhVVN6OEk3VHVOc25fWGlDbllBbThxQUNuY0s5cUltUVgwNnprODhGbGZzaTFhazdjZG40aHZ2NDl4WlZmQQ",
+        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-07-17 02:58"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T04:19:22.092964+08:00",
-        "nextRun": "2026-07-18T05:19:22.353111+08:00",
+        "lastRun": "2026-07-18T07:19:51.556056+08:00",
+        "nextRun": "2026-07-18T08:19:51.829975+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T03:30:11.312802+08:00",
-        "nextRun": "2026-07-18T06:20:00+08:00",
+        "lastRun": "2026-07-18T06:24:47.440481+08:00",
+        "nextRun": "2026-07-18T09:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T04:12:41.930160+08:00",
-        "nextRun": "2026-07-18T07:10:00+08:00",
+        "lastRun": "2026-07-18T07:13:21.612099+08:00",
+        "nextRun": "2026-07-18T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T04:48:53.435520+08:00",
-        "nextRun": "2026-07-18T04:50:53.435520+08:00",
+        "lastRun": "2026-07-18T07:48:56.581758+08:00",
+        "nextRun": "2026-07-18T07:50:56.581758+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T04:30:46.635306+08:00",
-        "nextRun": "2026-07-18T07:30:00+08:00",
+        "lastRun": "2026-07-18T07:30:56.055854+08:00",
+        "nextRun": "2026-07-18T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T03:43:46.473383+08:00",
-        "nextRun": "2026-07-18T06:40:00+08:00",
+        "lastRun": "2026-07-18T06:44:55.047040+08:00",
+        "nextRun": "2026-07-18T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T04:49:22.353111+08:00"
+    "updatedAt": "2026-07-18T07:49:51.829975+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
