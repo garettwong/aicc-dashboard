@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-19T01:35:23+08:00",
+    "generatedAt": "2026-07-19T04:36:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-18_09-02-31.md",
-    "radarSource": "ai_opportunity_radar_20260719_013043.html",
+    "radarSource": "ai_opportunity_radar_20260719_043035.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260719_013043.html",
+    "sourceFile": "ai_opportunity_radar_20260719_043035.html",
     "items": [
       {
         "id": "radar-0b2ce4640390",
         "kind": "radar",
         "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: EIN News · Time: 2026-07-17 16:28"
       },
       {
-        "id": "radar-ebf49d19fd3c",
+        "id": "radar-a3cc89515f2e",
         "kind": "radar",
         "title": "Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts",
-        "summary": "Yahoo Finance Singapore reports: Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts Yahoo Finance Singapore",
+        "summary": "Yahoo Finance reports: Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts Yahoo Finance",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 48,
         "date": "2026-07-18 10:00",
         "displayDate": "2026-07-18 10:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SdG1qVHY1N0FWRGZqSXpYemIxM3VlX2xGUFQxeXBnNFZZa0N6SUdFQnpRdGJFUmUtb0FDNnBoNlFRMmZJS3F1V19vLUxoemc2amp2RkhHUWhqZmdlVGxHdmVjS1VYYTRJTFFpX1hCLW1XdU5VVzNKeFM1UVpabUk",
-        "source": "News signal — verify before acting · Source: Yahoo Finance Singapore · Time: 2026-07-18 10:00"
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDJrWDJQSXAyMTBURXhQQjRYVjQzLWlTWDhPSlE4cUtxOE9mZWM5TDU0ckVNUEI3YXIzUHhZS1JTVXZFMlNZaU1OZWFUcHJZUDZrUi1kTTVQVFY0NTl1bGRHa2xhWm5HYWJTZzN5bDQ0NlM3OWJXRWl3eGlVT1hLajNWaE9XYVVyb0hwT0VaYWxrX0U",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-18 10:00"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T01:05:04.503221+08:00",
-        "nextRun": "2026-07-19T02:05:23.046726+08:00",
+        "lastRun": "2026-07-19T04:06:02.787015+08:00",
+        "nextRun": "2026-07-19T05:06:02.811317+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T00:32:05.991289+08:00",
-        "nextRun": "2026-07-19T03:20:00+08:00",
+        "lastRun": "2026-07-19T03:22:57.646901+08:00",
+        "nextRun": "2026-07-19T06:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T01:13:50.529112+08:00",
-        "nextRun": "2026-07-19T04:10:00+08:00",
+        "lastRun": "2026-07-19T04:12:32.053368+08:00",
+        "nextRun": "2026-07-19T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T01:35:04.332239+08:00",
-        "nextRun": "2026-07-19T01:37:04.332239+08:00",
+        "lastRun": "2026-07-19T04:35:07.909048+08:00",
+        "nextRun": "2026-07-19T04:37:07.909048+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T01:30:43.272529+08:00",
-        "nextRun": "2026-07-19T04:30:00+08:00",
+        "lastRun": "2026-07-19T04:30:35.625658+08:00",
+        "nextRun": "2026-07-19T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T00:44:24.433768+08:00",
-        "nextRun": "2026-07-19T03:40:00+08:00",
+        "lastRun": "2026-07-19T03:43:47.328793+08:00",
+        "nextRun": "2026-07-19T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-19T01:35:23.046726+08:00"
+    "updatedAt": "2026-07-19T04:36:02.812316+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
