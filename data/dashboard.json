@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T16:32:40+08:00",
+    "generatedAt": "2026-07-18T19:33:09+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-18_09-02-31.md",
-    "radarSource": "ai_opportunity_radar_20260718_163026.html",
+    "radarSource": "ai_opportunity_radar_20260718_193033.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260718_163026.html",
+    "sourceFile": "ai_opportunity_radar_20260718_193033.html",
     "items": [
       {
-        "id": "radar-12423f460a8a",
+        "id": "radar-b74570244922",
         "kind": "radar",
-        "title": "Agentic AI Is Taking over Execution, Not Just Content Generation",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=3.",
+        "title": "Show HN: Go Micro – An agent harness and service framework in Go",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-18 06:47",
-        "displayDate": "2026-07-18 06:47",
-        "url": "https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-18 06:47"
+        "date": "2026-07-18 09:48",
+        "displayDate": "2026-07-18 09:48",
+        "url": "https://github.com/micro/go-micro",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-18 09:48"
       },
       {
-        "id": "radar-5e2fff0034cb",
+        "id": "radar-db66ed80d5bb",
         "kind": "radar",
-        "title": "OpenAI Launches Codex Micro, a $230 Mechanical Keypad for AI Coding",
-        "summary": "gHacks flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features",
+        "summary": "CNX Software reports: M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features CNX Software",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-18 07:19",
-        "displayDate": "2026-07-18 07:19",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXd4aTRsak5sdEt1WVhzVkh1TUNHMGJ2MFNQSGlteXhmTWVfWHRQbXduWGFRUWdZZkxvcmJLemVVd0RlYl9OcVJ6SzhqRDRoZlVRbFNMc3pWOFZ3MDdxZWhqT3RrUWdocXgtZEhKenFtbUs4RjFOQ2VGc0dienpBRGZrVjdyVUxJbGItMkM5clRIR1hfYndoaFNWUG9XUS1HYkE",
-        "source": "News signal — verify before acting · Source: gHacks · Time: 2026-07-18 07:19"
+        "date": "2026-07-18 07:27",
+        "displayDate": "2026-07-18 07:27",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzlpTDVaTHZ0bGt0cU5Lb09SWG5IVkp5ZGh0dmhuVGZTY080THo0Q3FuZEZhM0lRZWI0Y2ttblZZLWp6UnBSNVhqSGdKWVREOHRKUG4zU3FrdW9vcHpqTHFlV1h1Um5icnRCVlpabFN1ZEtFc0dJYllNbG5QVFZTRzNqVGRvOU0yQnl6WFNrRUJfUnBPeE5ESUJYQXRkR2xjekc5V3d0eDdPNjNRRm11NWpiYUptY0k2VWU0cHhSTdIBxwFBVV95cUxPMjRMREY0QTlkQTgxdENYWDVpbExNVzVKRHhiNVNKTllkekJUNUM2dDdpODYwRVFIeDVrZ1o4MVJJVzFUSjlVOXEwRjFEc2prVmNTREEyRl9YSkgweGRuMFZSaHVHdXB5NEpfZUY3UGYyQm0ydkZ6ajRyNDlQWG1rcUFGa3Q0VmxGMmNFUkpKTkFpS2RoeFBXZHhGLWZBdGVHcEtYZnRvbVhWT2s5dnA2RmM2dGtLRnd5OWJVaC1ONC02U1YwLXBF",
+        "source": "News signal — verify before acting · Source: CNX Software · Time: 2026-07-18 07:27"
       },
       {
         "id": "radar-6b254e2efe17",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-07-18 07:48"
       },
       {
-        "id": "radar-d5cbb59d4f1b",
+        "id": "radar-a3cc89515f2e",
         "kind": "radar",
-        "title": "I Asked AI to Design a Dining Room — and Learned One Big Lesson",
-        "summary": "Yahoo Lifestyle Canada reports: I Asked AI to Design a Dining Room — and Learned One Big Lesson Yahoo Lifestyle Canada",
+        "title": "Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts",
+        "summary": "Yahoo Finance reports: Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts Yahoo Finance",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 48,
-        "date": "2026-07-17 23:30",
-        "displayDate": "2026-07-17 23:30",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cWxWZlBjLUs3RDIzOXhVcHR3bDlRZGtWRTZDT0NrRTZvLXhrc3NoQnBrLWplUzZ5dExfSF9uX3ZfN2ZyNU9SWWdJN3JwdE1vR2VQN0JSQkt0VHhVRFZCc2R1S3JCZzhQbUFQOXJpakU4Y0YzTVRSeA",
-        "source": "News signal — verify before acting · Source: Yahoo Lifestyle Canada · Time: 2026-07-17 23:30"
+        "date": "2026-07-18 10:00",
+        "displayDate": "2026-07-18 10:00",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDJrWDJQSXAyMTBURXhQQjRYVjQzLWlTWDhPSlE4cUtxOE9mZWM5TDU0ckVNUEI3YXIzUHhZS1JTVXZFMlNZaU1OZWFUcHJZUDZrUi1kTTVQVFY0NTl1bGRHa2xhWm5HYWJTZzN5bDQ0NlM3OWJXRWl3eGlVT1hLajNWaE9XYVVyb0hwT0VaYWxrX0U",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-18 10:00"
       },
       {
         "id": "radar-754151d0e264",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-07-17 09:12"
       },
       {
-        "id": "radar-c919d931998c",
+        "id": "radar-5e2fff0034cb",
         "kind": "radar",
-        "title": "Google Kills 3 Free Gemini Coding Tools [2026] - tech-insider.org",
-        "summary": "tech-insider.org reports: Google Kills 3 Free Gemini Coding Tools [2026] tech-insider.org",
+        "title": "OpenAI Launches Codex Micro, a $230 Mechanical Keypad for AI Coding",
+        "summary": "gHacks flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-18 01:38",
-        "displayDate": "2026-07-18 01:38",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PTmpVZUFFUUxWYTdqYkJNZ0NUUlJsTllCUjJoRzJ2dkdhOHVyZTg4dkFSWHhMUXVLNjYwOFljNDNMellzem9uRlZOUTFnRThDSDJ1eFlXYUl1emdScURfSnU0VndEdXJYOU5VZDBR",
-        "source": "News signal — verify before acting · Source: tech-insider.org · Time: 2026-07-18 01:38"
+        "date": "2026-07-18 07:19",
+        "displayDate": "2026-07-18 07:19",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXd4aTRsak5sdEt1WVhzVkh1TUNHMGJ2MFNQSGlteXhmTWVfWHRQbXduWGFRUWdZZkxvcmJLemVVd0RlYl9OcVJ6SzhqRDRoZlVRbFNMc3pWOFZ3MDdxZWhqT3RrUWdocXgtZEhKenFtbUs4RjFOQ2VGc0dienpBRGZrVjdyVUxJbGItMkM5clRIR1hfYndoaFNWUG9XUS1HYkE",
+        "source": "News signal — verify before acting · Source: gHacks · Time: 2026-07-18 07:19"
       },
       {
         "id": "radar-27420ca0f965",
@@ -151,10 +151,10 @@
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 48,
-        "date": "2026-07-17 02:58",
-        "displayDate": "2026-07-17 02:58",
+        "date": "2026-07-18 08:13",
+        "displayDate": "2026-07-18 08:13",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVgwOUZGbW43MlJuVDRZUmVfcUs0Smt2VGUxYUxfYVFxZzczQWlLemRqQkVhanA2OEkyNko2SWdSTmxPdU9rbFpwQ2JTdUY4Qm5mU3AwMWVjVEE0QUtZTWt4UnRTTno0aFc4aVZBbnFtSXFqaVJ2Z3ZGRkljLVk0UEJMZ0pnVWpoaTJhWmU1LVJ0V25FLXRDVy10ZUdhVVN6OEk3VHVOc25fWGlDbllBbThxQUNuY0s5cUltUVgwNnprODhGbGZzaTFhazdjZG40aHZ2NDl4WlZmQQ",
-        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-07-17 02:58"
+        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-07-18 08:13"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T16:02:39.436240+08:00",
-        "nextRun": "2026-07-18T17:02:39.870910+08:00",
+        "lastRun": "2026-07-18T19:03:08.832143+08:00",
+        "nextRun": "2026-07-18T20:03:09.049888+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T15:30:22.151441+08:00",
-        "nextRun": "2026-07-18T18:20:00+08:00",
+        "lastRun": "2026-07-18T18:23:32.303301+08:00",
+        "nextRun": "2026-07-18T21:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T16:13:57.742858+08:00",
-        "nextRun": "2026-07-18T19:10:00+08:00",
+        "lastRun": "2026-07-18T19:12:30.169961+08:00",
+        "nextRun": "2026-07-18T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T16:31:47.624548+08:00",
-        "nextRun": "2026-07-18T16:33:47.624548+08:00",
+        "lastRun": "2026-07-18T19:32:22.032396+08:00",
+        "nextRun": "2026-07-18T19:34:22.032396+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T16:30:26.435146+08:00",
-        "nextRun": "2026-07-18T19:30:00+08:00",
+        "lastRun": "2026-07-18T19:30:33.224901+08:00",
+        "nextRun": "2026-07-18T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T15:44:37.934916+08:00",
-        "nextRun": "2026-07-18T18:40:00+08:00",
+        "lastRun": "2026-07-18T18:43:43.565236+08:00",
+        "nextRun": "2026-07-18T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T16:32:39.871907+08:00"
+    "updatedAt": "2026-07-18T19:33:09.050889+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
