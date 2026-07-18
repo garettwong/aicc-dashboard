@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T10:30:55+08:00",
+    "generatedAt": "2026-07-18T13:31:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-18_09-02-31.md",
-    "radarSource": "ai_opportunity_radar_20260718_103054.html",
+    "radarSource": "ai_opportunity_radar_20260718_133058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260718_103054.html",
+    "sourceFile": "ai_opportunity_radar_20260718_133058.html",
     "items": [
       {
-        "id": "radar-df91d5bfe713",
+        "id": "radar-a186d68592f0",
         "kind": "radar",
-        "title": "We Built Sandbox Infrastructure for Autonomous Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=2.",
+        "title": "In-browser agent that bulk enriches any webpage",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-17 20:03",
-        "displayDate": "2026-07-17 20:03",
-        "url": "https://neosigma.ai/blog/agent-workspaces",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-17 20:03"
+        "date": "2026-07-18 04:45",
+        "displayDate": "2026-07-18 04:45",
+        "url": "https://rtrvr.ai/blog/agentic-dataset-enrichment-in-your-browser",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-18 04:45"
       },
       {
         "id": "radar-31bcd1e7ef61",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: SD Times · Time: 2026-07-17 23:39"
       },
       {
-        "id": "radar-9fa2e783e409",
+        "id": "radar-5c4ee59826c4",
         "kind": "radar",
-        "title": "Character-Based AI Agents Market to Reach USD 5.45 Billion by 2032, Driven by Immersive Media and AI Companion Adoption",
-        "summary": "Yahoo Finance Singapore reports: Character-Based AI Agents Market to Reach USD 5.45 Billion by 2032, Driven by Immersive Media and AI Companion Adoption Yahoo Finance Singapore",
+        "title": "Phos AI Labs deploys Claude as a company-wide AI system for SMBs",
+        "summary": "EIN News reports: Phos AI Labs deploys Claude as a company-wide AI system for SMBs EIN News",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-07-14 11:21",
-        "displayDate": "2026-07-14 11:21",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW01STJ1ek9JSkNOQnFKQTVCWjl4SElocF9OZWFCbHFPaG5VNE03djJJcG5Vazl5QU8wSXMtUU41U2lYZEdlWHZ6OFhNaXRjYkptemRGdmZKUEhSQkZQNFpHQjJIVkNkY3ZGRjBVX21KSjN1VTY4bEgxcFhmNU1zSmJGaHJpaVNB",
-        "source": "News signal — verify before acting · Source: Yahoo Finance Singapore · Time: 2026-07-14 11:21"
+        "score": 78,
+        "date": "2026-07-17 16:28",
+        "displayDate": "2026-07-17 16:28",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG5qN2RzTm9LclpIZWstRDJ3Ym9ZTm5qbjE0ZjNrbHl1dkdvbXJUbmJsN0Fhc0lRQ2hVcm14ZDhSSktRM21QMGxXdzl3TS1vbmZuUXl4SE5ZeUZBVHhQR1N1OElpaW45MVR5eTFWbXc0clNweWZzd0VsMHZybmxxSHVPdmxjNlJ4SkJBbGNRWTlDbTRVODU5X2pNYTdLRVhLQ1JRVVRtZFI0dW8",
+        "source": "News signal — verify before acting · Source: EIN News · Time: 2026-07-17 16:28"
       },
       {
         "id": "radar-3cadc6522494",
@@ -129,18 +129,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
       },
       {
-        "id": "radar-1fde9c65af15",
+        "id": "radar-e6c0e02bcc3e",
         "kind": "radar",
-        "title": "Phos AI Labs deploys Claude as a company-wide AI system for SMBs",
-        "summary": "WBOC TV reports: Phos AI Labs deploys Claude as a company-wide AI system for SMBs WBOC TV",
+        "title": "Beyond regulation, AI advocates say Florida must prepare students and workers",
+        "summary": "Florida Politics is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-17 16:26",
-        "displayDate": "2026-07-17 16:26",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXlzeVFneWUtd3VyQzNOZW1FQ2xSTGNJb0RRYUVRNTZScjRNZkhOUDNobzBkeTE1cXFYSk85SGdPUGtXTHdVYWF0SnVJOWhBQ1hEZW9zMTZJaFVtWDdIYUZGa3NNUVh1OE12bGZCYUtZbHhDXzA2ZjRKMExSdlZyVHFkM1RlWmhJTTZlWXpsTW5aTWxaaEdTc000U2hSSE9qelkwdy1wYnZWSmJoWExIbVY3OXBtOGprbGpGZmRKaHB0ZFZsbENGMWJBMHgxME55a0I4dGFRS0tLTmk4OXBQTjR5MU90TWo3ZVNuSGhsS0dWR2NKRklQeHdB",
-        "source": "News signal — verify before acting · Source: WBOC TV · Time: 2026-07-17 16:26"
+        "date": "2026-07-17 13:30",
+        "displayDate": "2026-07-17 13:30",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUVSdnpKV0ZlLXFHY1UwWEY0U2hJRUpuUmtIbmlfRlAtR3dxVWhPSk1SMTNnd2EzemxsdDlvWHRKR2pGV0ZkTkRISV9lOUJtRjhjdzdWaGN1RTdfeXBRTDR0MGxlUXFBaU9OUUdiQzV5TFpyNDh5eWY3TmdLQTZmTHBPVG4xb1hqYm92RjBmaWRjY1B3WTNVZUlHMG5RYXY3di1ucDJJUE1hMnFsc3dGVGZKaktERmhCa25wZGln",
+        "source": "News signal — verify before acting · Source: Florida Politics · Time: 2026-07-17 13:30"
       },
       {
         "id": "radar-d5cbb59d4f1b",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T10:00:55.129309+08:00",
-        "nextRun": "2026-07-18T11:00:55.259234+08:00",
+        "lastRun": "2026-07-18T13:01:34.715913+08:00",
+        "nextRun": "2026-07-18T14:01:34.975735+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T09:30:26.688208+08:00",
-        "nextRun": "2026-07-18T12:20:00+08:00",
+        "lastRun": "2026-07-18T12:29:00.001099+08:00",
+        "nextRun": "2026-07-18T15:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T10:11:32.848146+08:00",
-        "nextRun": "2026-07-18T13:10:00+08:00",
+        "lastRun": "2026-07-18T13:13:18.876895+08:00",
+        "nextRun": "2026-07-18T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T10:29:00.354998+08:00",
-        "nextRun": "2026-07-18T10:31:00.354998+08:00",
+        "lastRun": "2026-07-18T13:29:04.984267+08:00",
+        "nextRun": "2026-07-18T13:33:34.969738+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T10:30:54.177961+08:00",
-        "nextRun": "2026-07-18T13:30:00+08:00",
+        "lastRun": "2026-07-18T13:30:58.282306+08:00",
+        "nextRun": "2026-07-18T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T09:44:51.346827+08:00",
-        "nextRun": "2026-07-18T12:40:00+08:00",
+        "lastRun": "2026-07-18T12:45:51.822084+08:00",
+        "nextRun": "2026-07-18T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T10:30:55.259234+08:00"
+    "updatedAt": "2026-07-18T13:31:34.975735+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
