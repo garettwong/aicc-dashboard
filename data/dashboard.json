@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-18T19:33:09+08:00",
+    "generatedAt": "2026-07-18T22:34:33+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-18_09-02-31.md",
-    "radarSource": "ai_opportunity_radar_20260718_193033.html",
+    "radarSource": "ai_opportunity_radar_20260718_223058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260718_193033.html",
+    "sourceFile": "ai_opportunity_radar_20260718_223058.html",
     "items": [
       {
-        "id": "radar-b74570244922",
+        "id": "radar-8bdd62229dd4",
         "kind": "radar",
-        "title": "Show HN: Go Micro – An agent harness and service framework in Go",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Bound – A deterministic control harness for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-18 09:48",
-        "displayDate": "2026-07-18 09:48",
-        "url": "https://github.com/micro/go-micro",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-18 09:48"
+        "date": "2026-07-18 12:59",
+        "displayDate": "2026-07-18 12:59",
+        "url": "https://github.com/Danny-de-bree/bound",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-18 12:59"
       },
       {
         "id": "radar-db66ed80d5bb",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-07-18 07:48"
       },
       {
-        "id": "radar-a3cc89515f2e",
+        "id": "radar-ebf49d19fd3c",
         "kind": "radar",
         "title": "Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts",
-        "summary": "Yahoo Finance reports: Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts Yahoo Finance",
+        "summary": "Yahoo Finance Singapore reports: Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts Yahoo Finance Singapore",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 48,
         "date": "2026-07-18 10:00",
         "displayDate": "2026-07-18 10:00",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDJrWDJQSXAyMTBURXhQQjRYVjQzLWlTWDhPSlE4cUtxOE9mZWM5TDU0ckVNUEI3YXIzUHhZS1JTVXZFMlNZaU1OZWFUcHJZUDZrUi1kTTVQVFY0NTl1bGRHa2xhWm5HYWJTZzN5bDQ0NlM3OWJXRWl3eGlVT1hLajNWaE9XYVVyb0hwT0VaYWxrX0U",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-18 10:00"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SdG1qVHY1N0FWRGZqSXpYemIxM3VlX2xGUFQxeXBnNFZZa0N6SUdFQnpRdGJFUmUtb0FDNnBoNlFRMmZJS3F1V19vLUxoemc2amp2RkhHUWhqZmdlVGxHdmVjS1VYYTRJTFFpX1hCLW1XdU5VVzNKeFM1UVpabUk",
+        "source": "News signal — verify before acting · Source: Yahoo Finance Singapore · Time: 2026-07-18 10:00"
       },
       {
         "id": "radar-754151d0e264",
@@ -129,18 +129,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
       },
       {
-        "id": "radar-1fde9c65af15",
+        "id": "radar-5c4ee59826c4",
         "kind": "radar",
         "title": "Phos AI Labs deploys Claude as a company-wide AI system for SMBs",
-        "summary": "WBOC TV reports: Phos AI Labs deploys Claude as a company-wide AI system for SMBs WBOC TV",
+        "summary": "EIN News reports: Phos AI Labs deploys Claude as a company-wide AI system for SMBs EIN News",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-17 16:26",
-        "displayDate": "2026-07-17 16:26",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXlzeVFneWUtd3VyQzNOZW1FQ2xSTGNJb0RRYUVRNTZScjRNZkhOUDNobzBkeTE1cXFYSk85SGdPUGtXTHdVYWF0SnVJOWhBQ1hEZW9zMTZJaFVtWDdIYUZGa3NNUVh1OE12bGZCYUtZbHhDXzA2ZjRKMExSdlZyVHFkM1RlWmhJTTZlWXpsTW5aTWxaaEdTc000U2hSSE9qelkwdy1wYnZWSmJoWExIbVY3OXBtOGprbGpGZmRKaHB0ZFZsbENGMWJBMHgxME55a0I4dGFRS0tLTmk4OXBQTjR5MU90TWo3ZVNuSGhsS0dWR2NKRklQeHdB",
-        "source": "News signal — verify before acting · Source: WBOC TV · Time: 2026-07-17 16:26"
+        "date": "2026-07-17 16:28",
+        "displayDate": "2026-07-17 16:28",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG5qN2RzTm9LclpIZWstRDJ3Ym9ZTm5qbjE0ZjNrbHl1dkdvbXJUbmJsN0Fhc0lRQ2hVcm14ZDhSSktRM21QMGxXdzl3TS1vbmZuUXl4SE5ZeUZBVHhQR1N1OElpaW45MVR5eTFWbXc0clNweWZzd0VsMHZybmxxSHVPdmxjNlJ4SkJBbGNRWTlDbTRVODU5X2pNYTdLRVhLQ1JRVVRtZFI0dW8",
+        "source": "News signal — verify before acting · Source: EIN News · Time: 2026-07-17 16:28"
       },
       {
         "id": "radar-eef6d9c0c2f4",
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T15:02:21.291288+08:00",
-        "nextRun": "2026-07-18T21:00:00+08:00",
+        "lastRun": "2026-07-18T21:02:13.330814+08:00",
+        "nextRun": "2026-07-19T09:00:00+08:00",
         "message": "You are Garett's consolidated AI Command Brief. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: be Garett's brain filter, not another inbox."
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T19:03:08.832143+08:00",
-        "nextRun": "2026-07-18T20:03:09.049888+08:00",
+        "lastRun": "2026-07-18T22:04:33.008402+08:00",
+        "nextRun": "2026-07-18T23:04:33.279595+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T18:23:32.303301+08:00",
-        "nextRun": "2026-07-18T21:20:00+08:00",
+        "lastRun": "2026-07-18T21:31:40.363715+08:00",
+        "nextRun": "2026-07-19T00:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T19:12:30.169961+08:00",
-        "nextRun": "2026-07-18T22:10:00+08:00",
+        "lastRun": "2026-07-18T22:12:41.702100+08:00",
+        "nextRun": "2026-07-19T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T19:32:22.032396+08:00",
-        "nextRun": "2026-07-18T19:34:22.032396+08:00",
+        "lastRun": "2026-07-18T22:32:38.088465+08:00",
+        "nextRun": "2026-07-18T22:34:38.088465+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T19:30:33.224901+08:00",
-        "nextRun": "2026-07-18T22:30:00+08:00",
+        "lastRun": "2026-07-18T22:30:58.557345+08:00",
+        "nextRun": "2026-07-19T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-18T18:43:43.565236+08:00",
-        "nextRun": "2026-07-18T21:40:00+08:00",
+        "lastRun": "2026-07-18T21:44:49.995508+08:00",
+        "nextRun": "2026-07-19T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-18T19:33:09.050889+08:00"
+    "updatedAt": "2026-07-18T22:34:33.279595+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
