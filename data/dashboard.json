@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-19T10:39:33+08:00",
+    "generatedAt": "2026-07-19T13:44:16+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-19_09-02-33.md",
-    "radarSource": "ai_opportunity_radar_20260719_103038.html",
+    "radarSource": "ai_opportunity_radar_20260719_133042.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260719_103038.html",
+    "sourceFile": "ai_opportunity_radar_20260719_133042.html",
     "items": [
       {
         "id": "radar-e4bdaf22e18f",
@@ -129,18 +129,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
       },
       {
-        "id": "radar-5c4ee59826c4",
+        "id": "radar-e6c0e02bcc3e",
         "kind": "radar",
-        "title": "Phos AI Labs deploys Claude as a company-wide AI system for SMBs",
-        "summary": "EIN News reports: Phos AI Labs deploys Claude as a company-wide AI system for SMBs EIN News",
+        "title": "Beyond regulation, AI advocates say Florida must prepare students and workers",
+        "summary": "Florida Politics is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-17 16:28",
-        "displayDate": "2026-07-17 16:28",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG5qN2RzTm9LclpIZWstRDJ3Ym9ZTm5qbjE0ZjNrbHl1dkdvbXJUbmJsN0Fhc0lRQ2hVcm14ZDhSSktRM21QMGxXdzl3TS1vbmZuUXl4SE5ZeUZBVHhQR1N1OElpaW45MVR5eTFWbXc0clNweWZzd0VsMHZybmxxSHVPdmxjNlJ4SkJBbGNRWTlDbTRVODU5X2pNYTdLRVhLQ1JRVVRtZFI0dW8",
-        "source": "News signal — verify before acting · Source: EIN News · Time: 2026-07-17 16:28"
+        "date": "2026-07-17 13:30",
+        "displayDate": "2026-07-17 13:30",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUVSdnpKV0ZlLXFHY1UwWEY0U2hJRUpuUmtIbmlfRlAtR3dxVWhPSk1SMTNnd2EzemxsdDlvWHRKR2pGV0ZkTkRISV9lOUJtRjhjdzdWaGN1RTdfeXBRTDR0MGxlUXFBaU9OUUdiQzV5TFpyNDh5eWY3TmdLQTZmTHBPVG4xb1hqYm92RjBmaWRjY1B3WTNVZUlHMG5RYXY3di1ucDJJUE1hMnFsc3dGVGZKaktERmhCa25wZGln",
+        "source": "News signal — verify before acting · Source: Florida Politics · Time: 2026-07-17 13:30"
       },
       {
         "id": "radar-7006e36eca61",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T10:09:15.742113+08:00",
-        "nextRun": "2026-07-19T11:09:33.106787+08:00",
+        "lastRun": "2026-07-19T13:14:16.126243+08:00",
+        "nextRun": "2026-07-19T14:14:16.448783+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T09:25:03.819551+08:00",
-        "nextRun": "2026-07-19T12:20:00+08:00",
+        "lastRun": "2026-07-19T12:30:43.451765+08:00",
+        "nextRun": "2026-07-19T15:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T10:12:53.114265+08:00",
-        "nextRun": "2026-07-19T13:10:00+08:00",
+        "lastRun": "2026-07-19T13:14:00.470262+08:00",
+        "nextRun": "2026-07-19T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T10:37:40.476112+08:00",
-        "nextRun": "2026-07-19T10:39:40.476112+08:00",
+        "lastRun": "2026-07-19T13:43:02.807426+08:00",
+        "nextRun": "2026-07-19T13:45:02.807426+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T10:30:38.815348+08:00",
-        "nextRun": "2026-07-19T13:30:00+08:00",
+        "lastRun": "2026-07-19T13:30:42.551152+08:00",
+        "nextRun": "2026-07-19T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-19T09:45:02.054009+08:00",
-        "nextRun": "2026-07-19T12:40:00+08:00",
+        "lastRun": "2026-07-19T12:44:05.198675+08:00",
+        "nextRun": "2026-07-19T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-19T10:39:33.106787+08:00"
+    "updatedAt": "2026-07-19T13:44:16.449783+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
