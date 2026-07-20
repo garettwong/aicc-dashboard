@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-20T13:39:22+08:00",
+    "generatedAt": "2026-07-20T15:43:17+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-20_09-03-27.md",
     "radarSource": "ai_opportunity_radar_20260720_133438.html",
@@ -161,36 +161,14 @@
   "health": {
     "jobs": [
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-20T12:20:10.357107+08:00",
-        "nextRun": "2026-07-20T15:20:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-20T12:40:05.637523+08:00",
-        "nextRun": "2026-07-20T15:40:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — consolidated — every 6 hours",
         "enabled": true,
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T09:05:43.637575+08:00",
-        "nextRun": "2026-07-20T15:00:00+08:00",
+        "lastRun": "2026-07-20T15:02:19.104252+08:00",
+        "nextRun": "2026-07-20T21:00:00+08:00",
         "message": "You are Garett's consolidated AI Command Brief. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: be Garett's brain filter, not another inbox."
       },
       {
@@ -222,9 +200,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T13:09:08.813210+08:00",
-        "nextRun": "2026-07-20T14:09:21.940135+08:00",
+        "lastRun": "2026-07-20T15:10:25.883521+08:00",
+        "nextRun": "2026-07-20T16:10:26.180224+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-20T15:24:00.277630+08:00",
+        "nextRun": "2026-07-20T18:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "cac8032fb676",
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T13:37:24.490753+08:00",
-        "nextRun": "2026-07-20T13:39:24.490753+08:00",
+        "lastRun": "2026-07-20T15:40:29.409481+08:00",
+        "nextRun": "2026-07-20T15:42:29.409481+08:00",
         "message": "unused"
       },
       {
@@ -258,6 +247,17 @@
         "lastRun": "2026-07-20T13:34:38.778263+08:00",
         "nextRun": "2026-07-20T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-20T15:43:17.390599+08:00",
+        "nextRun": "2026-07-20T18:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-20T13:39:21.940135+08:00"
+    "updatedAt": "2026-07-20T15:43:17.391600+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
