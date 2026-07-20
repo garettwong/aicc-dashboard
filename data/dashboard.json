@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-21T02:18:22+08:00",
+    "generatedAt": "2026-07-21T03:49:25+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-20_09-03-27.md",
     "radarSource": "ai_opportunity_radar_20260721_013211.html",
@@ -161,28 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-21T00:56:31.134448+08:00",
-        "nextRun": "2026-07-21T03:20:00+08:00",
-        "message": "TimeoutError: Cron job 'FX Library Builder — X visual effects — every 3 hours' idle for 600s (limit 600s) — last activity: terminal command running (20s elapsed)"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-21T01:08:35.995741+08:00",
-        "nextRun": "2026-07-21T03:40:00+08:00",
-        "message": "RuntimeError: Connection error."
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — consolidated — every 6 hours",
         "enabled": true,
@@ -222,9 +200,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-21T01:48:16.833154+08:00",
-        "nextRun": "2026-07-21T02:48:21.827427+08:00",
+        "lastRun": "2026-07-21T03:19:07.330439+08:00",
+        "nextRun": "2026-07-21T04:19:25.308949+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-21T03:31:40.992817+08:00",
+        "nextRun": "2026-07-21T06:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "cac8032fb676",
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-21T02:15:27.369208+08:00",
-        "nextRun": "2026-07-21T02:20:21.327484+08:00",
+        "lastRun": "2026-07-21T03:46:32.036766+08:00",
+        "nextRun": "2026-07-21T03:51:25.298949+08:00",
         "message": "unused"
       },
       {
@@ -258,6 +247,17 @@
         "lastRun": "2026-07-21T01:32:11.062364+08:00",
         "nextRun": "2026-07-21T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-21T03:44:29.293062+08:00",
+        "nextRun": "2026-07-21T06:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-21T02:18:21.828427+08:00"
+    "updatedAt": "2026-07-21T03:49:25.309950+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
