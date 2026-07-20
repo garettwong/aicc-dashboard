@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-20T15:43:17+08:00",
+    "generatedAt": "2026-07-20T16:43:28+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-20_09-03-27.md",
-    "radarSource": "ai_opportunity_radar_20260720_133438.html",
+    "radarSource": "ai_opportunity_radar_20260720_163043.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260720_133438.html",
+    "sourceFile": "ai_opportunity_radar_20260720_163043.html",
     "items": [
       {
-        "id": "radar-b7937cdeb174",
+        "id": "radar-9d28bef9fd0f",
         "kind": "radar",
-        "title": "When AI Hallucinates: The Hidden Security Risks of Autonomous Agents",
-        "summary": "IndraStra Global is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "What Is Agentic AI?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-20 02:41",
-        "displayDate": "2026-07-20 02:41",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0ZGM3BSMXczQi00Sm9WdWNZMzJxZXN1Z3BrSHh5X0p3NUVNTDB1WEFSVTl0cmpvSjF1TFQzYkVIaDJseXUyQlAzWmpJaGFMbGRQWTIyNWk1Mk5mczFNamhad3JMRWhPSURTVzJWc0xEVlRGUVQ2a3dVTHpfZmF4UA",
-        "source": "News signal — verify before acting · Source: IndraStra Global · Time: 2026-07-20 02:41"
+        "score": 43,
+        "date": "2026-07-20 06:13",
+        "displayDate": "2026-07-20 06:13",
+        "url": "https://hpc-ai.com/blog/What-Is-Agentic-AI",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-20 06:13"
       },
       {
-        "id": "radar-db1959b2771e",
+        "id": "radar-80ac49c6f7f3",
         "kind": "radar",
-        "title": "Oracle Adds AI-Native App Development Capabilities to Fusion Applications",
-        "summary": "thelec.net flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "OpenAI Has Seen a 'Resurgence' of Interest in Secondary Markets.",
+        "summary": "Business Insider reports: OpenAI Has Seen a 'Resurgence' of Interest in Secondary Markets.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-20 01:42",
-        "displayDate": "2026-07-20 01:42",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqSnBTbXdaei1zUnBHZ3ExeWlpSEU5UHZNLUJCNnlpd2MyMVRnZ0xjQ01NWXpVRGhuSjBkQUZ2NmpmOHNTcGx5VTFIZU1mcFY0dE5Na3E1M1lFbWJ0amUzVUp6dXhjeDg",
-        "source": "News signal — verify before acting · Source: thelec.net · Time: 2026-07-20 01:42"
+        "date": "2026-07-20 06:01",
+        "displayDate": "2026-07-20 06:01",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3QxeFBnWGk3aFhyVllwU1RFcU5tX0N3OFNDQzY4bDQ4QmJMVXlBd1lhNUhrOVJLNmtrMFpad0dDRTNtZExkZjZUMXhTZ2JpLXJHcFVBNm5ZUHZPWlctUGE3UlFUNFAwd0NqYmd3MHlCV0hsMFNLR2xYWW5fVDFyTjh0WFhyNHE2b3RwQURKeXlnTGVBR0dXRkg4LWNQbE9zQnc",
+        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-07-20 06:01"
       },
       {
         "id": "radar-58936b3826d0",
@@ -101,32 +101,32 @@
         "source": "News signal — verify before acting · Source: Boston Consulting Group · Time: 2026-07-20 04:16"
       },
       {
-        "id": "radar-3fb5f3365d10",
+        "id": "radar-db1959b2771e",
         "kind": "radar",
-        "title": "Moonshot Quietly Fixed Real Security Bugs In Kimi K3's Coding Tool",
-        "summary": "Startup Fortune reports: Moonshot Quietly Fixed Real Security Bugs In Kimi K3's Coding Tool Startup Fortune",
+        "title": "Oracle Adds AI-Native App Development Capabilities to Fusion Applications",
+        "summary": "thelec.net flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-20 00:47",
-        "displayDate": "2026-07-20 00:47",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEh6cGtKaHdFWjdJRmdPaTI3cXJNa0VUdERMS08zM29mZEhwU1dGdFZxSmlNNGV2dGlHdDVqY0w3R1lNX2tvRUt3VVZhbUkxbjV3NGE0T3RtU3NRdFYyVXk1S3RvazI3VGFyNkJ5VXVTcXhoS0o1QlNublRwdEJQNElUWHJzU0puLXNqSERXdjM3c0dMTDJWbw",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-20 00:47"
+        "date": "2026-07-20 01:42",
+        "displayDate": "2026-07-20 01:42",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqSnBTbXdaei1zUnBHZ3ExeWlpSEU5UHZNLUJCNnlpd2MyMVRnZ0xjQ01NWXpVRGhuSjBkQUZ2NmpmOHNTcGx5VTFIZU1mcFY0dE5Na3E1M1lFbWJ0amUzVUp6dXhjeDg",
+        "source": "News signal — verify before acting · Source: thelec.net · Time: 2026-07-20 01:42"
       },
       {
-        "id": "radar-27420ca0f965",
+        "id": "radar-abbb933f210e",
         "kind": "radar",
-        "title": "Designing emoji for the way we communicate today",
-        "summary": "blog.google reports: Designing emoji for the way we communicate today blog.google",
+        "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+        "summary": "MIT News reports: A better way to turn 2D designs into 3D models for rapid prototyping MIT News",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-17 14:29",
-        "displayDate": "2026-07-17 14:29",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklrU0ctRXhfdTNiVFhPSmlhTERtOW0yVnVJNGkyMUEwNFpObnBlNGlkRXBUWFZUX2Z4a2t4VXNleVI4N3EzZFUzci1NNlh6MXo3RzgyaTdRWVAzZGdJaEp0djI3U1BzZElhR2RqaHFCdkdqQzBSTndEc2szbW5VeGlLakFnVHo0aDJTTlh3",
-        "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
+        "date": "2026-07-16 04:00",
+        "displayDate": "2026-07-16 04:00",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3JHbXUtU0lnZ1JlZ3JjNWxZNDBycmhsTlZzWnhoOEgzTzhSVVgwQnF3SFlLcmVET3lvV1o3MURMVkh1SGdZSzNocVRmTlNkQTJ6Nnd0QXA5VG9OcGNrLWdZLWFyc3lTVzNsYzJUNFdHWFlUZGZwYVdpcmJ2eFRoM3pSbThxY09HbHZpeHpCdw",
+        "source": "News signal — verify before acting · Source: MIT News · Time: 2026-07-16 04:00"
       },
       {
         "id": "radar-6b254e2efe17",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T15:10:25.883521+08:00",
-        "nextRun": "2026-07-20T16:10:26.180224+08:00",
+        "lastRun": "2026-07-20T16:13:27.728024+08:00",
+        "nextRun": "2026-07-20T17:13:28.039865+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T13:14:07.047079+08:00",
-        "nextRun": "2026-07-20T16:10:00+08:00",
+        "lastRun": "2026-07-20T16:12:53.511619+08:00",
+        "nextRun": "2026-07-20T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T15:40:29.409481+08:00",
-        "nextRun": "2026-07-20T15:42:29.409481+08:00",
+        "lastRun": "2026-07-20T16:40:30.959401+08:00",
+        "nextRun": "2026-07-20T16:45:28.030360+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-20T13:34:38.778263+08:00",
-        "nextRun": "2026-07-20T16:30:00+08:00",
+        "lastRun": "2026-07-20T16:30:43.971862+08:00",
+        "nextRun": "2026-07-20T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -304,7 +304,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-20T15:43:17.391600+08:00"
+    "updatedAt": "2026-07-20T16:43:28.040865+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
