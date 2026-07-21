@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T03:35:03+08:00",
+    "generatedAt": "2026-07-22T04:36:04+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-21_09-06-23.md",
-    "radarSource": "ai_opportunity_radar_20260722_013120.html",
+    "radarSource": "ai_opportunity_radar_20260722_043030.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260722_013120.html",
+    "sourceFile": "ai_opportunity_radar_20260722_043030.html",
     "items": [
       {
-        "id": "radar-45f7a4ac701c",
+        "id": "radar-8a5ae503d7d2",
         "kind": "radar",
-        "title": "'Self-State Attacks' New Threat: AI Agents Poisoned via Their Memory",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "AI Agent – TRMNL",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=16, comments=11.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-07-21 16:44",
-        "displayDate": "2026-07-21 16:44",
-        "url": "https://aiweekly.co/alerts/schmidhuber-et-al-formalize-self-state-attacks-on-ai-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-21 16:44"
+        "score": 44,
+        "date": "2026-07-21 18:32",
+        "displayDate": "2026-07-21 18:32",
+        "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-21 18:32"
       },
       {
         "id": "radar-2bc32b15e670",
@@ -39,10 +39,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-21 16:58",
-        "displayDate": "2026-07-21 16:58",
+        "date": "2026-07-21 17:48",
+        "displayDate": "2026-07-21 17:48",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk",
-        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-07-21 16:58"
+        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-07-21 17:48"
       },
       {
         "id": "radar-779436de9e90",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Inside Gymnastics Magazine · Time: 2026-07-16 07:00"
       },
       {
-        "id": "radar-1be348d55e55",
+        "id": "radar-a10e870d61af",
         "kind": "radar",
-        "title": "Show HN: Pinpoint – Visual feedback for AI coding agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=1.",
+        "title": "How AI became part of my UX design workflow | by Laís Lara Vacco | Bootcamp | Jul, 2026",
+        "summary": "Medium reports: How AI became part of my UX design workflow | by Laís Lara Vacco | Bootcamp | Jul, 2026 Medium",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 58,
-        "date": "2026-07-21 13:12",
-        "displayDate": "2026-07-21 13:12",
-        "url": "https://pinpoint.maferland.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-21 13:12"
+        "score": 61,
+        "date": "2026-07-15 19:43",
+        "displayDate": "2026-07-15 19:43",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnM1dDhMTEhXLXR2d3dsYTBnX1VBSU1URXVpenQxMl9kcFFUUnc0SHltYjZHeXpxS1F0a0oybjQ3R3VuM2tJQWVRZzM0YjJxNEZ5dEMxV3pzRWFoaTNYNElLNzlyYkVxZERhZzBxaGpWa19fN215WWs5bFAwT1JUeEQ0OTF5c1JoMVh1cXZNbHhGVmI4TFE",
+        "source": "News signal — verify before acting · Source: Medium · Time: 2026-07-15 19:43"
       },
       {
         "id": "radar-b636eb9c43d8",
@@ -81,10 +81,10 @@
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-20 15:07",
-        "displayDate": "2026-07-20 15:07",
+        "date": "2026-07-20 15:02",
+        "displayDate": "2026-07-20 15:02",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeGJaWm00VkNmUFlfYzRnUWRyeHlOMTRjY2NkYVh6VHJ1eURJTjU2VXdyQ0Z3TmtqRGZ2OFVPU2hkdEVxRFVmRHNVZ1RqT3J2bDNQVDJNQmFLblVJTU0yV0tfTENNOWtubUF0WWdYUEhzeGRQaUJ6MlZWeU1oZjJRN2g2STBnZDJOdGRwZ2pKSTV3S1JQZndFY3lncEJ5eTZBSkE3VnNsNkdHTVFjNnczZkV6MEIzb25uYzVhY1lINk4yeVRuLVNWVE4xSUM2NE81eUV0UEpmMDlBOElYTl9jNHY0b1VKZw",
-        "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:07"
+        "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
         "id": "radar-bca7259aa800",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Brookings · Time: 2026-07-20 21:08"
       },
       {
-        "id": "radar-64f772fd02f1",
+        "id": "radar-1be348d55e55",
         "kind": "radar",
-        "title": "Generative AI Design: What It Is and How to Use It",
-        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Show HN: Pinpoint – Visual feedback for AI coding agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=1.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 56,
-        "date": "2026-07-20 16:09",
-        "displayDate": "2026-07-20 16:09",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YeldXSmYwYk1qM09LVlMxRVVoX0t2VjFWYXNURmpqbFVPUmt3ZV9MNFF1cDJldy1yak9LRFZtb0FXUTI2ZnVrUUVPY3NfZ2preDZnNjhfUExlek1YbXJQaG8wTmpyNEprUlVxUQ",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:09"
+        "score": 58,
+        "date": "2026-07-21 13:12",
+        "displayDate": "2026-07-21 13:12",
+        "url": "https://pinpoint.maferland.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-21 13:12"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T03:05:02.467496+08:00",
-        "nextRun": "2026-07-22T04:05:02.742210+08:00",
+        "lastRun": "2026-07-22T04:06:04.081043+08:00",
+        "nextRun": "2026-07-22T05:06:04.321700+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T01:12:48.312027+08:00",
-        "nextRun": "2026-07-22T04:10:00+08:00",
+        "lastRun": "2026-07-22T04:11:53.064153+08:00",
+        "nextRun": "2026-07-22T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T03:34:09.453920+08:00",
-        "nextRun": "2026-07-22T03:36:09.453920+08:00",
+        "lastRun": "2026-07-22T04:34:13.317070+08:00",
+        "nextRun": "2026-07-22T04:36:13.317070+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T01:31:20.148180+08:00",
-        "nextRun": "2026-07-22T04:30:00+08:00",
+        "lastRun": "2026-07-22T04:30:30.746097+08:00",
+        "nextRun": "2026-07-22T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T00:45:42.898732+08:00",
-        "nextRun": "2026-07-22T03:40:00+08:00",
+        "lastRun": "2026-07-22T03:46:27.074304+08:00",
+        "nextRun": "2026-07-22T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T03:35:02.743211+08:00"
+    "updatedAt": "2026-07-22T04:36:04.322704+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
