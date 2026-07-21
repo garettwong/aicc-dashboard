@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T04:36:04+08:00",
+    "generatedAt": "2026-07-22T07:07:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-21_09-06-23.md",
     "radarSource": "ai_opportunity_radar_20260722_043030.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "8764780962ba",
+        "name": "Claude non-destructive watchdog",
+        "enabled": true,
+        "state": "error",
+        "schedule": "every 5m",
+        "lastStatus": "error",
+        "lastRun": "2026-07-22T07:04:15.403719+08:00",
+        "nextRun": "2026-07-22T07:09:15.403719+08:00",
+        "message": "Script exited with code 1 stderr: <3>WSL (18 - Relay) ERROR: CreateProcessCommon:818: execvpe(/bin/bash) failed: No such file or directory"
+      },
+      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
@@ -200,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T04:06:04.081043+08:00",
-        "nextRun": "2026-07-22T05:06:04.321700+08:00",
+        "lastRun": "2026-07-22T06:37:08.194786+08:00",
+        "nextRun": "2026-07-22T07:37:08.497326+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +222,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T03:23:01.365491+08:00",
-        "nextRun": "2026-07-22T06:20:00+08:00",
+        "lastRun": "2026-07-22T06:26:21.413646+08:00",
+        "nextRun": "2026-07-22T09:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T04:34:13.317070+08:00",
-        "nextRun": "2026-07-22T04:36:13.317070+08:00",
+        "lastRun": "2026-07-22T07:04:16.449164+08:00",
+        "nextRun": "2026-07-22T07:09:08.488307+08:00",
         "message": "unused"
       },
       {
@@ -266,8 +277,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T03:46:27.074304+08:00",
-        "nextRun": "2026-07-22T06:40:00+08:00",
+        "lastRun": "2026-07-22T06:43:30.868802+08:00",
+        "nextRun": "2026-07-22T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +326,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T04:36:04.322704+08:00"
+    "updatedAt": "2026-07-22T07:07:08.498325+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
