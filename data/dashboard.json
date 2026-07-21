@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T02:34:01+08:00",
+    "generatedAt": "2026-07-22T03:35:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-21_09-06-23.md",
     "radarSource": "ai_opportunity_radar_20260722_013120.html",
@@ -200,20 +200,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T02:04:00.931232+08:00",
-        "nextRun": "2026-07-22T03:04:01.203026+08:00",
+        "lastRun": "2026-07-22T03:05:02.467496+08:00",
+        "nextRun": "2026-07-22T04:05:02.742210+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "683854500d90",
-        "name": "claude-fable-submit-pretyped-continue",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "once at 2026-07-22 03:21",
-        "lastStatus": "unknown",
-        "lastRun": "",
-        "nextRun": "2026-07-22T03:21:00+08:00",
-        "message": "At 03:21, make the already-open Claude/Fable teaching-notes job continue. Run the pre-run submit script, inspect its screenshot, and check whether Claude is working. If Claude is w"
       },
       {
         "id": "11a2cdc5c495",
@@ -222,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T00:31:39.678119+08:00",
-        "nextRun": "2026-07-22T03:20:00+08:00",
+        "lastRun": "2026-07-22T03:23:01.365491+08:00",
+        "nextRun": "2026-07-22T06:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T02:31:08.272448+08:00",
-        "nextRun": "2026-07-22T02:36:01.191519+08:00",
+        "lastRun": "2026-07-22T03:34:09.453920+08:00",
+        "nextRun": "2026-07-22T03:36:09.453920+08:00",
         "message": "unused"
       },
       {
@@ -326,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T02:34:01.204528+08:00"
+    "updatedAt": "2026-07-22T03:35:02.743211+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
