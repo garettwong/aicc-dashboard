@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T01:32:58+08:00",
+    "generatedAt": "2026-07-22T02:34:01+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-21_09-06-23.md",
     "radarSource": "ai_opportunity_radar_20260722_013120.html",
@@ -162,14 +162,14 @@
     "jobs": [
       {
         "id": "e00ffbee1272",
-        "name": "AI Command Brief — consolidated — every 6 hours",
+        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
         "lastRun": "2026-07-21T21:03:00.553574+08:00",
         "nextRun": "2026-07-22T09:00:00+08:00",
-        "message": "You are Garett's consolidated AI Command Brief. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: be Garett's brain filter, not another inbox."
+        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
         "id": "ac7e45cc6fc4",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T01:02:01.514071+08:00",
-        "nextRun": "2026-07-22T02:02:57.775934+08:00",
+        "lastRun": "2026-07-22T02:04:00.931232+08:00",
+        "nextRun": "2026-07-22T03:04:01.203026+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T01:31:04.672424+08:00",
-        "nextRun": "2026-07-22T01:33:04.672424+08:00",
+        "lastRun": "2026-07-22T02:31:08.272448+08:00",
+        "nextRun": "2026-07-22T02:36:01.191519+08:00",
         "message": "unused"
       },
       {
@@ -258,6 +258,17 @@
         "lastRun": "2026-07-22T01:31:20.148180+08:00",
         "nextRun": "2026-07-22T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "a0a3b6174708",
+        "name": "WhatsApp link Q&A digest — daily",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "30 9 * * *",
+        "lastStatus": "unknown",
+        "lastRun": "",
+        "nextRun": "2026-07-22T09:30:00+08:00",
+        "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
       {
         "id": "198f213f6827",
@@ -315,7 +326,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T01:32:57.775934+08:00"
+    "updatedAt": "2026-07-22T02:34:01.204528+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
