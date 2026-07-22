@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T19:02:17+08:00",
+    "generatedAt": "2026-07-22T19:33:17+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-22_09-02-10.md",
-    "radarSource": "ai_opportunity_radar_20260722_163031.html",
+    "radarSource": "ai_opportunity_radar_20260722_193036.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260722_163031.html",
+    "sourceFile": "ai_opportunity_radar_20260722_193036.html",
     "items": [
       {
         "id": "radar-7c3d85c2f627",
@@ -31,18 +31,18 @@
         "source": "Trusted news / community signal · Source: The Hacker News · Time: 2026-07-22 04:57"
       },
       {
-        "id": "radar-20b1f2876bf7",
+        "id": "radar-91f0e1d2ab52",
         "kind": "radar",
-        "title": "Small teams are the heaviest users of AI coding agents",
-        "summary": "Help Net Security reports: Small teams are the heaviest users of AI coding agents Help Net Security",
+        "title": "ProtoPie Launches Native MCP Support: Connecting Human Precision to the Era of AI Vibe-Coding",
+        "summary": "AiThority flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-22 06:00",
-        "displayDate": "2026-07-22 06:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yUUY4ZTNOMnNCdk5PaTRNZkMwT0Y5dFBhRDBuZDFvXzhQOWZXNjBhckVqV3NiQWVCaVdETGkwN1c3c0FFOXBlUENsRmIyWDQxWnF4WTE5ZGNfVW9FakVJbzVGczR3UFZybW9PVlk1TzA2UW9Dd3pINQ",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-07-22 06:00"
+        "date": "2026-07-22 09:54",
+        "displayDate": "2026-07-22 09:54",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGRHTzFiRENOZ0dYbFFocUxUcE9yVTQ2WS1YX2M1emd2eGI5UTZ2ZGlHQTJHckxLRWxNcVZPUjV1Q253R1VEaDJ1cmJ2QndFX0g4c1NJVDF4alFxa1ZiOEVLYjlVRGY2NmVsU1UydmN5NmdUdzg1OGhndnBBdnRZQ2NhcnU2V2Y2R3FrNDNnYjRQQzU5OWY3cEx6TXRrdFc5T0tCcXRXcU1BSVFocEtObEtNQkdQRE1mcW4yTXFzR1BDU0pTSGhraklZMDk",
+        "source": "News signal — verify before acting · Source: AiThority · Time: 2026-07-22 09:54"
       },
       {
         "id": "radar-779436de9e90",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:09"
       },
       {
-        "id": "radar-ffb6a4f441d3",
+        "id": "radar-3e63a9db26fa",
         "kind": "radar",
-        "title": "7 Blind Spots AI Agents Create for Security Teams",
-        "summary": "Security Info Watch reports: 7 Blind Spots AI Agents Create for Security Teams Security Info Watch",
+        "title": "Kimi K3: second only to Fable 5 on AA-Briefcase",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=66, comments=8.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-21 20:49",
-        "displayDate": "2026-07-21 20:49",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajdzakxmLU5RNWtxUWVQRldmbUtXOTZQV1FYT3JZNmh4ekVZSUxuT3VMMHlRN3oza0xwa1ZqTWl0NGtydkZORTdQNUNpaE9NVWdpbHZrNnZwSW5VNlVwaWZvb2ZJaTFKLUhxa3hYUHhHRWNQZ1lWajIwdGROZ0hzdFJSNlYyRlhIaXdibTBkWlp1X19TTU5VMWp3OGoxLS1tVWwzb3JBTGEwZ3RfVHhuUC1DNmE",
-        "source": "News signal — verify before acting · Source: Security Info Watch · Time: 2026-07-21 20:49"
+        "score": 46,
+        "date": "2026-07-22 04:33",
+        "displayDate": "2026-07-22 04:33",
+        "url": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-22 04:33"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T18:31:19.449984+08:00",
-        "nextRun": "2026-07-22T19:32:16.718912+08:00",
+        "lastRun": "2026-07-22T19:02:20.426650+08:00",
+        "nextRun": "2026-07-22T20:03:17.499279+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T16:11:54.479818+08:00",
-        "nextRun": "2026-07-22T19:10:00+08:00",
+        "lastRun": "2026-07-22T19:12:00.579262+08:00",
+        "nextRun": "2026-07-22T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T18:59:19.986053+08:00",
-        "nextRun": "2026-07-22T19:04:16.708902+08:00",
+        "lastRun": "2026-07-22T19:32:20.650395+08:00",
+        "nextRun": "2026-07-22T19:34:20.650395+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T16:30:31.957276+08:00",
-        "nextRun": "2026-07-22T19:30:00+08:00",
+        "lastRun": "2026-07-22T19:30:36.518585+08:00",
+        "nextRun": "2026-07-22T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T19:02:16.718912+08:00"
+    "updatedAt": "2026-07-22T19:33:17.499279+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
