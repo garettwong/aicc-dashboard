@@ -1,15 +1,15 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T07:38:09+08:00",
+    "generatedAt": "2026-07-22T09:09:12+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-07-21_09-06-23.md",
+    "dailySource": "2026-07-22_09-02-10.md",
     "radarSource": "ai_opportunity_radar_20260722_073037.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-07-21",
+    "subject": "AI Everyday works tools - 2026-07-22",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "every 5m",
         "lastStatus": "error",
-        "lastRun": "2026-07-22T07:34:15.154191+08:00",
-        "nextRun": "2026-07-22T07:39:15.154191+08:00",
+        "lastRun": "2026-07-22T09:04:17.897578+08:00",
+        "nextRun": "2026-07-22T09:09:17.897578+08:00",
         "message": "Script exited with code 1 stderr: <3>WSL (18 - Relay) ERROR: CreateProcessCommon:818: execvpe(/bin/bash) failed: No such file or directory"
       },
       {
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-21T21:03:00.553574+08:00",
-        "nextRun": "2026-07-22T09:00:00+08:00",
+        "lastRun": "2026-07-22T09:03:33.300482+08:00",
+        "nextRun": "2026-07-22T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-21T09:06:23.746270+08:00",
-        "nextRun": "2026-07-22T09:00:00+08:00",
+        "lastRun": "2026-07-22T09:02:10.774203+08:00",
+        "nextRun": "2026-07-23T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T07:07:13.413194+08:00",
-        "nextRun": "2026-07-22T08:08:09.410073+08:00",
+        "lastRun": "2026-07-22T08:39:11.478291+08:00",
+        "nextRun": "2026-07-22T09:39:11.899956+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T07:37:16.934748+08:00",
-        "nextRun": "2026-07-22T07:39:16.934748+08:00",
+        "lastRun": "2026-07-22T09:07:19.526193+08:00",
+        "nextRun": "2026-07-22T09:09:19.526193+08:00",
         "message": "unused"
       },
       {
@@ -326,7 +326,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T07:38:09.411073+08:00"
+    "updatedAt": "2026-07-22T09:09:11.900957+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
