@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-22T17:00:13+08:00",
+    "generatedAt": "2026-07-22T18:31:16+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-22_09-02-10.md",
     "radarSource": "ai_opportunity_radar_20260722_163031.html",
@@ -172,17 +172,6 @@
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-22T15:20:12.023766+08:00",
-        "nextRun": "2026-07-22T18:20:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
         "id": "198f213f6827",
         "name": "X AI Tools & Business Collector — local only — every 3 hours",
         "enabled": true,
@@ -222,9 +211,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T16:30:13.356983+08:00",
-        "nextRun": "2026-07-22T17:30:13.534059+08:00",
+        "lastRun": "2026-07-22T18:01:15.581889+08:00",
+        "nextRun": "2026-07-22T19:01:15.793264+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-22T18:31:03.218072+08:00",
+        "nextRun": "2026-07-22T21:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "cac8032fb676",
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-22T16:59:16.887255+08:00",
-        "nextRun": "2026-07-22T17:01:16.887255+08:00",
+        "lastRun": "2026-07-22T18:29:19.079239+08:00",
+        "nextRun": "2026-07-22T18:31:19.079239+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-22T17:00:13.535060+08:00"
+    "updatedAt": "2026-07-22T18:31:15.794766+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
