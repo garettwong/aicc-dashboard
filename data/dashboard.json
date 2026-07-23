@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T19:48:09+08:00",
+    "generatedAt": "2026-07-23T21:19:11+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
     "radarSource": "ai_opportunity_radar_20260723_193022.html",
@@ -164,12 +164,12 @@
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
-        "state": "error",
+        "state": "ok",
         "schedule": "0 9-21/6 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-23T16:08:19.860508+08:00",
-        "nextRun": "2026-07-23T21:00:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
+        "lastStatus": "ok",
+        "lastRun": "2026-07-23T21:01:48.076672+08:00",
+        "nextRun": "2026-07-24T09:00:00+08:00",
+        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
         "id": "ac7e45cc6fc4",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T19:17:09.318081+08:00",
-        "nextRun": "2026-07-23T20:18:08.869412+08:00",
+        "lastRun": "2026-07-23T20:49:10.860376+08:00",
+        "nextRun": "2026-07-23T21:49:11.084818+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T19:47:13.986278+08:00",
-        "nextRun": "2026-07-23T19:49:13.986278+08:00",
+        "lastRun": "2026-07-23T21:17:16.236512+08:00",
+        "nextRun": "2026-07-23T21:19:16.236512+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T19:48:08.870411+08:00"
+    "updatedAt": "2026-07-23T21:19:11.085821+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
