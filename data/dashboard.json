@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T19:17:06+08:00",
+    "generatedAt": "2026-07-23T19:48:09+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
-    "radarSource": "ai_opportunity_radar_20260723_163017.html",
+    "radarSource": "ai_opportunity_radar_20260723_193022.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260723_163017.html",
+    "sourceFile": "ai_opportunity_radar_20260723_193022.html",
     "items": [
       {
-        "id": "radar-f12cd699c582",
+        "id": "radar-36e828e0a69b",
         "kind": "radar",
-        "title": "MemoHood and MemoBase – local memory and knowledge base for AI agents",
+        "title": "Senior Python Engineer – AI Agent Evaluation",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-07-23 06:31",
-        "displayDate": "2026-07-23 06:31",
-        "url": "https://github.com/mxskorohood-cmd/memobase",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-23 06:31"
+        "score": 43,
+        "date": "2026-07-23 10:23",
+        "displayDate": "2026-07-23 10:23",
+        "url": "https://apply.workable.com/toloka-ai/j/07A6121198",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-23 10:23"
       },
       {
         "id": "radar-57d21b1e0c43",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-07-23 06:32"
       },
       {
-        "id": "radar-6cd1f7a0c8a9",
+        "id": "radar-1883bb97644e",
         "kind": "radar",
-        "title": "BioTalent Canada and Bioscience Association Manitoba Launch Joint AI Training Initiative",
-        "summary": "Business Wire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms",
+        "summary": "Reuters reports: From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms Reuters",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-07-22 21:00",
-        "displayDate": "2026-07-22 21:00",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTZDclVRdkNMbC1nQXpkYU1PeDg4bkpWU1VtR0RmaFdGZXF4TTdEOFVEdGxZa19LZ3Z4NkxkLVhoWHl1WFplUHhMLXc1dUJzUHo0ZThZN0xqbjVOMEtGQk9KNUZDa2lUYW1vR2ZIcXh2eGo5S1pFSmRBaGxDbnhxY0NiRnR2czlDTF9jVHBGSnlCZkFNNEQtOFJ5OWRTSHl5cmcwZTItWHR2SFZseERFb0lQRDNndUdNZ1NCaFg4ZEVCYTl0bzBxZFFlNmFTcHFkM0I5YU82a0pnUXlrVEE",
-        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-07-22 21:00"
+        "score": 79,
+        "date": "2026-07-22 17:01",
+        "displayDate": "2026-07-22 17:01",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E",
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-22 17:01"
       },
       {
         "id": "radar-99a8da2e5080",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: Business of Home · Time: 2026-07-17 18:03"
       },
       {
-        "id": "radar-172597b88475",
+        "id": "radar-6cd1f7a0c8a9",
         "kind": "radar",
-        "title": "Can Ambient AI Make Classrooms Smarter?",
-        "summary": "EdTech Magazine reports: Can Ambient AI Make Classrooms Smarter?",
+        "title": "BioTalent Canada and Bioscience Association Manitoba Launch Joint AI Training Initiative",
+        "summary": "Business Wire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-22 18:28",
-        "displayDate": "2026-07-22 18:28",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGZISnRjdVlRWkI0TC1YVzZwTmN5dFp5SmtkTkwxejRnRU1pd2ZFVUd0cUU1djZZRTFxNk5jVDF3NkJkdFg2Nnl3aUN0MzhLazJYVzJKcDB5dDJvTENKRXg1c1NSZGJKd19jamtlRzgwWE52WmlzX2RNdkNwSTc0dm5Cc0tnZWJPWnc4SUp3",
-        "source": "News signal — verify before acting · Source: EdTech Magazine · Time: 2026-07-22 18:28"
+        "date": "2026-07-22 21:00",
+        "displayDate": "2026-07-22 21:00",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTZDclVRdkNMbC1nQXpkYU1PeDg4bkpWU1VtR0RmaFdGZXF4TTdEOFVEdGxZa19LZ3Z4NkxkLVhoWHl1WFplUHhMLXc1dUJzUHo0ZThZN0xqbjVOMEtGQk9KNUZDa2lUYW1vR2ZIcXh2eGo5S1pFSmRBaGxDbnhxY0NiRnR2czlDTF9jVHBGSnlCZkFNNEQtOFJ5OWRTSHl5cmcwZTItWHR2SFZseERFb0lQRDNndUdNZ1NCaFg4ZEVCYTl0bzBxZFFlNmFTcHFkM0I5YU82a0pnUXlrVEE",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-07-22 21:00"
       },
       {
         "id": "radar-a6653b14c0e5",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T18:46:30.990774+08:00",
-        "nextRun": "2026-07-23T19:47:05.797207+08:00",
+        "lastRun": "2026-07-23T19:17:09.318081+08:00",
+        "nextRun": "2026-07-23T20:18:08.869412+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T19:14:10.271685+08:00",
-        "nextRun": "2026-07-23T19:19:05.791512+08:00",
+        "lastRun": "2026-07-23T19:47:13.986278+08:00",
+        "nextRun": "2026-07-23T19:49:13.986278+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T16:30:17.887285+08:00",
-        "nextRun": "2026-07-23T19:30:00+08:00",
+        "lastRun": "2026-07-23T19:30:22.976556+08:00",
+        "nextRun": "2026-07-23T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T19:17:05.798206+08:00"
+    "updatedAt": "2026-07-23T19:48:08.870411+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
