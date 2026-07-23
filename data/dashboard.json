@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T18:46:27+08:00",
+    "generatedAt": "2026-07-23T19:17:06+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
     "radarSource": "ai_opportunity_radar_20260723_163017.html",
@@ -172,17 +172,6 @@
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-23T16:10:01.400094+08:00",
-        "nextRun": "2026-07-23T19:10:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
         "id": "ac7e45cc6fc4",
         "name": "ai-everyday-work-tools",
         "enabled": true,
@@ -211,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T18:10:04.438049+08:00",
-        "nextRun": "2026-07-23T19:10:04.768689+08:00",
+        "lastRun": "2026-07-23T18:46:30.990774+08:00",
+        "nextRun": "2026-07-23T19:47:05.797207+08:00",
         "message": "No recent error."
       },
       {
@@ -227,14 +216,25 @@
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-23T19:12:43.790974+08:00",
+        "nextRun": "2026-07-23T22:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
+      },
+      {
         "id": "94b67a9712b2",
         "name": "Live AI usage API collector",
         "enabled": true,
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T18:44:09.274141+08:00",
-        "nextRun": "2026-07-23T18:46:09.274141+08:00",
+        "lastRun": "2026-07-23T19:14:10.271685+08:00",
+        "nextRun": "2026-07-23T19:19:05.791512+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T18:46:27.430418+08:00"
+    "updatedAt": "2026-07-23T19:17:05.798206+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
