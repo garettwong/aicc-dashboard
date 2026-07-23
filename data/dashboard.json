@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T16:08:20+08:00",
+    "generatedAt": "2026-07-23T16:39:01+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
-    "radarSource": "ai_opportunity_radar_20260723_160814.html",
+    "radarSource": "ai_opportunity_radar_20260723_163017.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260723_160814.html",
+    "sourceFile": "ai_opportunity_radar_20260723_163017.html",
     "items": [
       {
         "id": "radar-f12cd699c582",
@@ -109,10 +109,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-23 02:29",
-        "displayDate": "2026-07-23 02:29",
+        "date": "2026-07-23 02:31",
+        "displayDate": "2026-07-23 02:31",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW9EUzhMRUJSLVQtZE9HX1l3d3AyelMxNWk1WmRwR0Vyc29sWGRjNUdVUFBucE5kUEM3RFZuTnBGUVl3R3hKT1M4M3dQYnBBcWRrSEFhbUhaLWxRZVN4LWVDYnBHX3B0VTFVUE5ZWTVycFJmTUlDTGN5QU95Sl9uV0FmeS10eGkz",
-        "source": "News signal — verify before acting · Source: Computer Weekly · Time: 2026-07-23 02:29"
+        "source": "News signal — verify before acting · Source: Computer Weekly · Time: 2026-07-23 02:31"
       },
       {
         "id": "radar-754151d0e264",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-07-23T16:08:20.537872+08:00",
-        "nextRun": "2026-07-23T16:10:00+08:00",
+        "lastRun": "2026-07-23T16:10:01.400094+08:00",
+        "nextRun": "2026-07-23T19:10:00+08:00",
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:36:26.042727+08:00",
-        "nextRun": "2026-07-23T16:38:00.623021+08:00",
+        "lastRun": "2026-07-23T16:08:23.705683+08:00",
+        "nextRun": "2026-07-23T17:09:01.489898+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T16:08:08.464178+08:00",
-        "nextRun": "2026-07-23T16:10:08.464178+08:00",
+        "lastRun": "2026-07-23T16:38:06.048243+08:00",
+        "nextRun": "2026-07-23T16:40:06.048243+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T16:08:14.981667+08:00",
-        "nextRun": "2026-07-23T16:30:00+08:00",
+        "lastRun": "2026-07-23T16:30:17.887285+08:00",
+        "nextRun": "2026-07-23T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T16:08:20.538873+08:00"
+    "updatedAt": "2026-07-23T16:39:01.490898+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
