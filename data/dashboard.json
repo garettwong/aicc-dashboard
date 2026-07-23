@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T10:36:22+08:00",
+    "generatedAt": "2026-07-23T16:08:20+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
-    "radarSource": "ai_opportunity_radar_20260723_103038.html",
+    "radarSource": "ai_opportunity_radar_20260723_160814.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260723_103038.html",
+    "sourceFile": "ai_opportunity_radar_20260723_160814.html",
     "items": [
       {
-        "id": "radar-10b392c96504",
+        "id": "radar-f12cd699c582",
         "kind": "radar",
-        "title": "AI agent hacks tech startup website in first-of-its-kind security breach",
-        "summary": "Deseret News reports: AI agent hacks tech startup website in first-of-its-kind security breach Deseret News",
+        "title": "MemoHood and MemoBase – local memory and knowledge base for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-22 21:28",
-        "displayDate": "2026-07-22 21:28",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSXIyeGtYWE5rNHRZZjFpVW9FeF9SaWxVRUZrR1JEUFVLUXNLaWxySjY5RnlHcjl5eFZRT3JSaGVGWi1xZ1hKdFVuSFJ4M1VjM2RSRkRSY1ZZXzdzMXlSQW5hTGR2ZHNLUDJudUZRbmJGTWJDYTVLTUtmbTJreEZkSWJIaFdVQkJlaFgxcFRMSXhXdmJrOXBTdWNkbTk4NXQ5TG1ySllJcWJ1MjUxalVTYjVpM2RIVkVIWkxsVWdKV05wc09Ha0Zick1oNFhiT2t3LTFsZ2toQWIydlNkU1E",
-        "source": "News signal — verify before acting · Source: Deseret News · Time: 2026-07-22 21:28"
+        "score": 57,
+        "date": "2026-07-23 06:31",
+        "displayDate": "2026-07-23 06:31",
+        "url": "https://github.com/mxskorohood-cmd/memobase",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-23 06:31"
       },
       {
-        "id": "radar-f53bfae36ab8",
+        "id": "radar-57d21b1e0c43",
         "kind": "radar",
-        "title": "Why AI coding agents won’t kill SaaS",
-        "summary": "Computer Weekly reports: Why AI coding agents won’t kill SaaS Computer Weekly",
+        "title": "Kimi Code vs Claude Code 2026: Which AI Coding Agent Wins?",
+        "summary": "Memeburn reports: Kimi Code vs Claude Code 2026: Which AI Coding Agent Wins?",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-23 02:29",
-        "displayDate": "2026-07-23 02:29",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW9EUzhMRUJSLVQtZE9HX1l3d3AyelMxNWk1WmRwR0Vyc29sWGRjNUdVUFBucE5kUEM3RFZuTnBGUVl3R3hKT1M4M3dQYnBBcWRrSEFhbUhaLWxRZVN4LWVDYnBHX3B0VTFVUE5ZWTVycFJmTUlDTGN5QU95Sl9uV0FmeS10eGkz",
-        "source": "News signal — verify before acting · Source: Computer Weekly · Time: 2026-07-23 02:29"
+        "date": "2026-07-23 06:32",
+        "displayDate": "2026-07-23 06:32",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTXYtS0ZIX3M4V0RaR2FCUFpNQkt5eUMtNGNlT1NKTFN3UnlqU1NZODFfRUFvTGtBZ2lBU2RfNjVVUUgzM29BdWMwSXJlYW5oZ1RPOERieUJrV21GdmpKUQ",
+        "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-07-23 06:32"
       },
       {
-        "id": "radar-779436de9e90",
+        "id": "radar-6cd1f7a0c8a9",
         "kind": "radar",
-        "title": "Inside Publications Partners with MetaSpheres AI and 3rd Level Consulting Group to Foster Industry Innovation",
-        "summary": "Inside Gymnastics Magazine reports: Inside Publications Partners with MetaSpheres AI and 3rd Level Consulting Group to Foster Industry Innovation Inside Gymnastics Magazine",
+        "title": "BioTalent Canada and Bioscience Association Manitoba Launch Joint AI Training Initiative",
+        "summary": "Business Wire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 86,
-        "date": "2026-07-16 07:00",
-        "displayDate": "2026-07-16 07:00",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUm9leW0tNnhESFJqRjlabE5MajAzV1UwMUJfWlE2MHhXRjA1c1VVNVBQcWdJUFNuTUlmN0pzMF9tdl9BNXk1WmI3YzlyMElldlJZcjNSWDRlck44OXpVc0N4OV95eXV4VzltWUJmcjNrYVpCTlF1Tk9iTnJKYUtEZUZRVEV3cC0zLVNodkNoZERjZUV2WkU1bXZqaU9LTE9rSE5OTkl2RXA5LWt1dWFNWk5raWVUdGlyMWJCb18xTVVjWDVtbGdqZHA4QnNsWXFqYmYtVDNBTHVsWklhLWJHWXV2NGR1R1dfUzFJdjBkWkFZNzJUZzZUOC1UMUVmb2E0MjJFQnZfd2FYZjk2WGx6MWpQQnVXd3FsSG5XVHd3",
-        "source": "News signal — verify before acting · Source: Inside Gymnastics Magazine · Time: 2026-07-16 07:00"
+        "score": 78,
+        "date": "2026-07-22 21:00",
+        "displayDate": "2026-07-22 21:00",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTZDclVRdkNMbC1nQXpkYU1PeDg4bkpWU1VtR0RmaFdGZXF4TTdEOFVEdGxZa19LZ3Z4NkxkLVhoWHl1WFplUHhMLXc1dUJzUHo0ZThZN0xqbjVOMEtGQk9KNUZDa2lUYW1vR2ZIcXh2eGo5S1pFSmRBaGxDbnhxY0NiRnR2czlDTF9jVHBGSnlCZkFNNEQtOFJ5OWRTSHl5cmcwZTItWHR2SFZseERFb0lQRDNndUdNZ1NCaFg4ZEVCYTl0bzBxZFFlNmFTcHFkM0I5YU82a0pnUXlrVEE",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-07-22 21:00"
       },
       {
         "id": "radar-99a8da2e5080",
@@ -87,32 +87,32 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
-        "id": "radar-6544d424ac3e",
+        "id": "radar-f6129a8acc13",
         "kind": "radar",
-        "title": "Bridges 2026: How Schools Are Putting AI Agents to Work",
-        "summary": "GovTech is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "AI agents need jobs, not just tasks",
+        "summary": "calcalistech.com reports: AI agents need jobs, not just tasks calcalistech.com",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 38,
-        "date": "2026-07-22 23:17",
-        "displayDate": "2026-07-22 23:17",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1BSd0ZlR2prQVNQeV9JeS1VXzBTMG94R0VBSlJhdEVnTmxJWE1HWmZqdC0zVVBWTXVENEtBd1BINlFzOFl4TU1sOWpabml6MmFZSVIta0pHWC1vWnNSTFRHLURjbktZUzY5Z1loNURwUDhZY1RkVjRldUNhYjM3WXIydGs4QzhhZWpGalFBak1ncnRqQVJmaw",
-        "source": "News signal — verify before acting · Source: GovTech · Time: 2026-07-22 23:17"
+        "date": "2026-07-23 06:48",
+        "displayDate": "2026-07-23 06:48",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OVUxuSGdkcUtoX0VnRmZFdXZjQjhhMXQtamFPTHlQN3N4dzgwMzg5RV9XTWZ0NjQxb1NYMDFQQ2V2alE4WUJlM1VnUFRONlFLRFpEbkhnTFhsV19MckdRb3Q1WEUxV2c3",
+        "source": "News signal — verify before acting · Source: calcalistech.com · Time: 2026-07-23 06:48"
       },
       {
-        "id": "radar-c60fb8eaa0a9",
+        "id": "radar-f53bfae36ab8",
         "kind": "radar",
-        "title": "Claude Code can now tap through your iOS app in real time and fix what it finds",
-        "summary": "Startup Fortune reports: Claude Code can now tap through your iOS app in real time and fix what it finds Startup Fortune",
+        "title": "Why AI coding agents won’t kill SaaS",
+        "summary": "Computer Weekly reports: Why AI coding agents won’t kill SaaS Computer Weekly",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-22 21:30",
-        "displayDate": "2026-07-22 21:30",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjVVR1p2NWFjbG1aQ3RtWTJ3V2pYYXlOaUVRQVVGRmE3a3FUMzJkRXBscWVOTEZVdHFLZE44YjBrWlRCLUo3T19aUmZFemdKdUlQUzdwdzdxcVdOZUdqZGU3TlN1QkZ5WDEzVi1ud1MteEhyOFJpODdzT2FVOFNrdmxMRE8tczZ6cDhlTmoydGN5a2ItNUdkd2VIM2tVM1g3OGM4UUNtc2RTQmM",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-22 21:30"
+        "date": "2026-07-23 02:29",
+        "displayDate": "2026-07-23 02:29",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW9EUzhMRUJSLVQtZE9HX1l3d3AyelMxNWk1WmRwR0Vyc29sWGRjNUdVUFBucE5kUEM3RFZuTnBGUVl3R3hKT1M4M3dQYnBBcWRrSEFhbUhaLWxRZVN4LWVDYnBHX3B0VTFVUE5ZWTVycFJmTUlDTGN5QU95Sl9uV0FmeS10eGkz",
+        "source": "News signal — verify before acting · Source: Computer Weekly · Time: 2026-07-23 02:29"
       },
       {
         "id": "radar-754151d0e264",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: Business of Home · Time: 2026-07-17 18:03"
       },
       {
-        "id": "radar-307e19987548",
+        "id": "radar-172597b88475",
         "kind": "radar",
-        "title": "Repaying the inheritance: How education and research policy can address AI's borrowed expertise",
-        "summary": "Brookings reports: Repaying the inheritance: How education and research policy can address AI's borrowed expertise Brookings",
+        "title": "Can Ambient AI Make Classrooms Smarter?",
+        "summary": "EdTech Magazine reports: Can Ambient AI Make Classrooms Smarter?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-20 21:08",
-        "displayDate": "2026-07-20 21:08",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVzNRMlAzcEhIRXYtNndEbHlBX1Jua1dQTlJyTVBWVnFrbWY4dkE3REVtQ1pvN0F5ZG5KdlctblNRMkZWY1JzUzlyakR2VC1BU1ZIYTlhNU4xZ01CaVlZZUNMVDVtUUdEc3F4cDI5SmQ2SG9zMFdFdkVwYzhXQjlQWVBtbTBtLWl0TzdyWi1DMTBNaGNMcVFlYVh5UnhSMXZmcjdqd1ZvZW9RZ0YtRG1VYmF6OHQyQ3UwS2l1ZTJoSXpEclNSSnBxUQ",
-        "source": "News signal — verify before acting · Source: Brookings · Time: 2026-07-20 21:08"
+        "date": "2026-07-22 18:28",
+        "displayDate": "2026-07-22 18:28",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGZISnRjdVlRWkI0TC1YVzZwTmN5dFp5SmtkTkwxejRnRU1pd2ZFVUd0cUU1djZZRTFxNk5jVDF3NkJkdFg2Nnl3aUN0MzhLazJYVzJKcDB5dDJvTENKRXg1c1NSZGJKd19jamtlRzgwWE52WmlzX2RNdkNwSTc0dm5Cc0tnZWJPWnc4SUp3",
+        "source": "News signal — verify before acting · Source: EdTech Magazine · Time: 2026-07-22 18:28"
       },
       {
         "id": "radar-a6653b14c0e5",
@@ -164,12 +164,45 @@
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
-        "state": "ok",
+        "state": "error",
         "schedule": "0 9-21/6 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:04:31.001252+08:00",
-        "nextRun": "2026-07-23T15:00:00+08:00",
-        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
+        "lastStatus": "error",
+        "lastRun": "2026-07-23T16:08:19.860508+08:00",
+        "nextRun": "2026-07-23T21:00:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-07-23T16:08:16.429182+08:00",
+        "nextRun": "2026-07-23T18:20:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-07-23T16:08:20.537872+08:00",
+        "nextRun": "2026-07-23T16:10:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-07-23T16:08:17.485790+08:00",
+        "nextRun": "2026-07-23T18:40:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
         "id": "ac7e45cc6fc4",
@@ -200,31 +233,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:05:46.781070+08:00",
-        "nextRun": "2026-07-23T11:06:22.577011+08:00",
+        "lastRun": "2026-07-23T10:36:26.042727+08:00",
+        "nextRun": "2026-07-23T16:38:00.623021+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-23T09:56:35.076423+08:00",
-        "nextRun": "2026-07-23T12:20:00+08:00",
-        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:16:49.319946+08:00",
-        "nextRun": "2026-07-23T13:10:00+08:00",
-        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:33:39.909354+08:00",
-        "nextRun": "2026-07-23T10:38:22.567647+08:00",
+        "lastRun": "2026-07-23T16:08:08.464178+08:00",
+        "nextRun": "2026-07-23T16:10:08.464178+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:30:38.808321+08:00",
-        "nextRun": "2026-07-23T13:30:00+08:00",
+        "lastRun": "2026-07-23T16:08:14.981667+08:00",
+        "nextRun": "2026-07-23T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -258,17 +269,6 @@
         "lastRun": "2026-07-23T10:15:09.465417+08:00",
         "nextRun": "2026-07-24T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:03:50.151536+08:00",
-        "nextRun": "2026-07-23T12:40:00+08:00",
-        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T10:36:22.578010+08:00"
+    "updatedAt": "2026-07-23T16:08:20.538873+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
