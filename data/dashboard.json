@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-23T16:39:01+08:00",
+    "generatedAt": "2026-07-23T18:46:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-23_09-46-46.md",
     "radarSource": "ai_opportunity_radar_20260723_163017.html",
@@ -172,17 +172,6 @@
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
-        "id": "11a2cdc5c495",
-        "name": "FX Library Builder — X visual effects — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "20 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-23T16:08:16.429182+08:00",
-        "nextRun": "2026-07-23T18:20:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -191,17 +180,6 @@
         "lastStatus": "error",
         "lastRun": "2026-07-23T16:10:01.400094+08:00",
         "nextRun": "2026-07-23T19:10:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-07-23T16:08:17.485790+08:00",
-        "nextRun": "2026-07-23T18:40:00+08:00",
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
@@ -233,9 +211,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T16:08:23.705683+08:00",
-        "nextRun": "2026-07-23T17:09:01.489898+08:00",
+        "lastRun": "2026-07-23T18:10:04.438049+08:00",
+        "nextRun": "2026-07-23T19:10:04.768689+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "11a2cdc5c495",
+        "name": "FX Library Builder — X visual effects — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "20 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-23T18:25:32.712344+08:00",
+        "nextRun": "2026-07-23T21:20:00+08:00",
+        "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
         "id": "94b67a9712b2",
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T16:38:06.048243+08:00",
-        "nextRun": "2026-07-23T16:40:06.048243+08:00",
+        "lastRun": "2026-07-23T18:44:09.274141+08:00",
+        "nextRun": "2026-07-23T18:46:09.274141+08:00",
         "message": "unused"
       },
       {
@@ -269,6 +258,17 @@
         "lastRun": "2026-07-23T10:15:09.465417+08:00",
         "nextRun": "2026-07-24T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-07-23T18:46:27.429418+08:00",
+        "nextRun": "2026-07-23T21:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-23T16:39:01.490898+08:00"
+    "updatedAt": "2026-07-23T18:46:27.430418+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
