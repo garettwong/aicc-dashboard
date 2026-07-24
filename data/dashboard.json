@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-24T10:45:33+08:00",
+    "generatedAt": "2026-07-24T13:46:38+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-24_09-03-16.md",
-    "radarSource": "ai_opportunity_radar_20260724_103049.html",
+    "radarSource": "ai_opportunity_radar_20260724_133054.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260724_103049.html",
+    "sourceFile": "ai_opportunity_radar_20260724_133054.html",
     "items": [
       {
         "id": "radar-e3303e0f54c0",
         "kind": "radar",
         "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T10:15:33.025625+08:00",
-        "nextRun": "2026-07-24T11:15:33.280397+08:00",
+        "lastRun": "2026-07-24T13:16:37.651671+08:00",
+        "nextRun": "2026-07-24T14:16:37.914674+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T09:31:05.722234+08:00",
-        "nextRun": "2026-07-24T12:20:00+08:00",
+        "lastRun": "2026-07-24T12:33:56.963725+08:00",
+        "nextRun": "2026-07-24T15:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T10:12:10.378412+08:00",
-        "nextRun": "2026-07-24T13:10:00+08:00",
+        "lastRun": "2026-07-24T13:12:50.884086+08:00",
+        "nextRun": "2026-07-24T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T10:44:38.076683+08:00",
-        "nextRun": "2026-07-24T10:46:38.076683+08:00",
+        "lastRun": "2026-07-24T13:44:42.461694+08:00",
+        "nextRun": "2026-07-24T13:46:42.461694+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T10:30:49.918894+08:00",
-        "nextRun": "2026-07-24T13:30:00+08:00",
+        "lastRun": "2026-07-24T13:30:54.614007+08:00",
+        "nextRun": "2026-07-24T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T09:52:39.454698+08:00",
-        "nextRun": "2026-07-24T12:40:00+08:00",
+        "lastRun": "2026-07-24T12:45:20.452564+08:00",
+        "nextRun": "2026-07-24T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-24T10:45:33.281397+08:00"
+    "updatedAt": "2026-07-24T13:46:37.914674+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
