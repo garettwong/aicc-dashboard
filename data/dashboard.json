@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-24T13:46:38+08:00",
+    "generatedAt": "2026-07-24T16:47:42+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-24_09-03-16.md",
-    "radarSource": "ai_opportunity_radar_20260724_133054.html",
+    "radarSource": "ai_opportunity_radar_20260724_163058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260724_133054.html",
+    "sourceFile": "ai_opportunity_radar_20260724_163058.html",
     "items": [
       {
-        "id": "radar-e3303e0f54c0",
+        "id": "radar-3399be5a1305",
         "kind": "radar",
-        "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=2.",
+        "title": "Hive_review: Multi-agent AI code-review loop",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-24 00:32",
-        "displayDate": "2026-07-24 00:32",
-        "url": "https://github.com/kdeps/turo",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-24 00:32"
+        "date": "2026-07-24 08:25",
+        "displayDate": "2026-07-24 08:25",
+        "url": "https://github.com/metacircu1ar/hive_review",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-24 08:25"
       },
       {
         "id": "radar-671a71b8c72b",
@@ -87,20 +87,6 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
-        "id": "radar-298420f2b87a",
-        "kind": "radar",
-        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-        "summary": "VentureBeat reports: Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents VentureBeat",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-07-23 17:01",
-        "displayDate": "2026-07-23 17:01",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-07-23 17:01"
-      },
-      {
         "id": "radar-de8a1e165095",
         "kind": "radar",
         "title": "Rubrik uses AI to catch AI trying to leak its source code to GitHub",
@@ -129,32 +115,46 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
       },
       {
-        "id": "radar-73baeb6e96b0",
+        "id": "radar-66b3682b983a",
         "kind": "radar",
-        "title": "How AI is changing business school | MBA applications, learning & careers",
-        "summary": "Graduate Management Admission Council is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Accelerating discovery: Rice receives nearly $20M NSF award for AI-powered materials laboratory",
+        "summary": "Rice University reports: Accelerating discovery: Rice receives nearly $20M NSF award for AI-powered materials laboratory Rice University",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-23 12:26",
-        "displayDate": "2026-07-23 12:26",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmxPOVU3Zmh2dVZ3Q19KRzU3anhCemtsS09QUnVoY24tZ1M1U2xNV2hZOUI1U01DdjhMei1SbzE3b1V0bUtaem9xZW1MYllnXy1iVTJPSEVMMVY3cWFuekNLTGNWQTluWl94Vy1Ic1B0MDZKSUdldGV0Y0tJQVE4TGRjSEhvazVtbFNkc3ZLa0JXaUhUQzBJeE93OVZRaG9fZzJMLVMzMS1LQzhiTXgtUlFLckFhX2tSMkJWLVJuUTNrcUc3b1VBSXdyTTdvSWVZNzRF",
-        "source": "News signal — verify before acting · Source: Graduate Management Admission Council · Time: 2026-07-23 12:26"
+        "date": "2026-07-23 18:10",
+        "displayDate": "2026-07-23 18:10",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV01fQXI0czZzMzltcGZxSkFlWkVwc1N0SUd0YUJIUUo5eXpkOEVtVzllTDVBblpvRThRS0ZNRkRwY05oOXBPd1lGa2I3cTlMNndVMGRXeUQtZ0hyQ3Q3dDg0UXlDVllPSlFXMGdyZHRHS2owNFFZUHRWckM1czBsMndpd3NlU0N1al9jN2ZaZU1JQ29VeXh6QnJ3QjJmUGhVS1BLbG1hYWpWQktrU1VaTmxDbVhVWWRfUm84WHV3",
+        "source": "News signal — verify before acting · Source: Rice University · Time: 2026-07-23 18:10"
       },
       {
-        "id": "radar-47e5ad762130",
+        "id": "radar-1dfd9e979247",
         "kind": "radar",
-        "title": "Paper Raises $34M Series A with Accel and ICONIQ to Build the Design Platform for the Agentic Era",
-        "summary": "HPCwire shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Agentic AI for Aerospace: Faster Design-to-Cost Cycles, Faster Time-to-Market",
+        "summary": "Mobility Engineering Technology reports: Agentic AI for Aerospace: Faster Design-to-Cost Cycles, Faster Time-to-Market Mobility Engineering Technology",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 66,
-        "date": "2026-07-23 18:57",
-        "displayDate": "2026-07-23 18:57",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlQ5dkNLOHI4TGFOSGV4WGNjOUF5T2xqOWVtTDB4cnNzMHA4d1NuVUZ5YmVWU1drTHZxUmd5Y2x0ZWxreXZuaURMWFhmbk45SXg3dnJsalNSbzY2STRxNjh5dXBxSFJWQnhQWXBwTEg1QXJwWVZtbkFQdmF0b2RncmVaaGpRR0s4SzAyUVI4YmpzNDMta1pvS3VzbS1sdTlmNmVJRE9oa0t6alFnNWtiZVV4ZXdwUS1aNk5xRl9lc3JMYXB2NXNDMDFHNkIwc1VxWWFiNHJR",
-        "source": "News signal — verify before acting · Source: HPCwire · Time: 2026-07-23 18:57"
+        "date": "2026-07-20 18:16",
+        "displayDate": "2026-07-20 18:16",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFg0Sm5kc0hiUFo1LWtjM2J2M1JxVjNoLXBDTUE1eTIzdWJVc0dqYTFDUWVDNlNVX0t4TTZHZ19lQnpRWVNvRGVJM0hPeXVMNmVTcXQ4Y0lFTWJnbFRxbW8wNThDems0QXRMd0t1a1k2RXlLX29YTEw3MGhOSDdBRm02ZllIZjdGX0ZWQ3hRNFkzUGR0cm5zbFFyMG1OeTM4VDVnMnRNTm1PTWYyZ3Vlb09reHQ1N3NIX21FVjl5bzY3dnY2OVVNV05Mc3BVa2ExNGw4eXRzaUZiamwxSlhWQw",
+        "source": "News signal — verify before acting · Source: Mobility Engineering Technology · Time: 2026-07-20 18:16"
+      },
+      {
+        "id": "radar-e3303e0f54c0",
+        "kind": "radar",
+        "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=2.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-07-24 00:32",
+        "displayDate": "2026-07-24 00:32",
+        "url": "https://github.com/kdeps/turo",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-24 00:32"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T09:01:45.770657+08:00",
-        "nextRun": "2026-07-24T15:00:00+08:00",
+        "lastRun": "2026-07-24T15:01:40.089881+08:00",
+        "nextRun": "2026-07-24T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T13:16:37.651671+08:00",
-        "nextRun": "2026-07-24T14:16:37.914674+08:00",
+        "lastRun": "2026-07-24T16:17:42.161240+08:00",
+        "nextRun": "2026-07-24T17:17:42.303872+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T12:33:56.963725+08:00",
-        "nextRun": "2026-07-24T15:20:00+08:00",
+        "lastRun": "2026-07-24T15:25:42.420947+08:00",
+        "nextRun": "2026-07-24T18:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T13:12:50.884086+08:00",
-        "nextRun": "2026-07-24T16:10:00+08:00",
+        "lastRun": "2026-07-24T16:12:34.601391+08:00",
+        "nextRun": "2026-07-24T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T13:44:42.461694+08:00",
-        "nextRun": "2026-07-24T13:46:42.461694+08:00",
+        "lastRun": "2026-07-24T16:44:45.920288+08:00",
+        "nextRun": "2026-07-24T16:49:42.296909+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T13:30:54.614007+08:00",
-        "nextRun": "2026-07-24T16:30:00+08:00",
+        "lastRun": "2026-07-24T16:30:58.238461+08:00",
+        "nextRun": "2026-07-24T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T12:45:20.452564+08:00",
-        "nextRun": "2026-07-24T15:40:00+08:00",
+        "lastRun": "2026-07-24T15:44:52.022623+08:00",
+        "nextRun": "2026-07-24T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-24T13:46:37.914674+08:00"
+    "updatedAt": "2026-07-24T16:47:42.304376+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
