@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-24T09:04:30+08:00",
+    "generatedAt": "2026-07-24T10:45:33+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-24_09-03-16.md",
-    "radarSource": "ai_opportunity_radar_20260724_073045.html",
+    "radarSource": "ai_opportunity_radar_20260724_103049.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260724_073045.html",
+    "sourceFile": "ai_opportunity_radar_20260724_103049.html",
     "items": [
       {
-        "id": "radar-caad63cc8c21",
+        "id": "radar-e3303e0f54c0",
         "kind": "radar",
-        "title": "Show HN: AI-factory – a spec-driven pipeline that stops AI agents rotting code",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-23 21:45",
-        "displayDate": "2026-07-23 21:45",
-        "url": "https://github.com/highflame-ai/ai-factory",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-23 21:45"
+        "date": "2026-07-24 00:32",
+        "displayDate": "2026-07-24 00:32",
+        "url": "https://github.com/kdeps/turo",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-24 00:32"
       },
       {
         "id": "radar-671a71b8c72b",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-07-23 22:33"
       },
       {
-        "id": "radar-649763ac649b",
+        "id": "radar-5f380563d43c",
         "kind": "radar",
-        "title": "Meta and OpenAI commit 12 gigawatts to AMD's new AI chips as Nvidia's grip on data centers starts to slip",
-        "summary": "Startup Fortune reports: Meta and OpenAI commit 12 gigawatts to AMD's new AI chips as Nvidia's grip on data centers starts to slip Startup Fortune",
+        "title": "Viewpoint: Congress should help small businesses put AI to work",
+        "summary": "Delaware Business Times reports: Viewpoint: Congress should help small businesses put AI to work Delaware Business Times",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 79,
-        "date": "2026-07-23 17:32",
-        "displayDate": "2026-07-23 17:32",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkFOZG5JWlRIblJ6dXk0a3pOZjQyRWdKQ1B3cG92MUdYY1VrMzltZ1BFdnE0bVBsbTI1bGdFd3dXT3hPM1lpYm9uejlqTkxQdmhIeWRnRXZVdU8zX21FMkgyOExmc09pR2tfNFF0cWlYMWVkeHpNNEI1cjFOa3NYNDBORkV5R0VwOWNFUnYtRFkwQk5Gdm9nV0lVTG9qc0RlaUYwd2RPRXNVa2g5VHl5SmhYVllMQmJBZHUzRm9uT3cyVm1GT2c4OWNYaw",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-23 17:32"
+        "score": 78,
+        "date": "2026-07-23 20:14",
+        "displayDate": "2026-07-23 20:14",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VOEVreXJZUkk4U3BuM2ozNUhRa2lZSTNvRzA2YUcwVExrdU42MWZQRmpUNUJXWm9pV3NXdWhwdmtYb01MNlJqT3hUN21seDRxM3BmYi1TckFOYTFXemJyOUxjNEdFUnVLVDkw0gFzQVVfeXFMUDU4dXowdlFjcjZObHlXY2tqdkRHa3Nwb0FnQ0dnUkNlbGk5U3gzVXV5WHNLVFdTM3NIZGhDVEtaUjg5OGZxVWhuMm9fRlB3TlowdHVDd1k2MEVpbjg4cTBuMXNRenR2TlRWU1U5dENFempzRQ",
+        "source": "News signal — verify before acting · Source: Delaware Business Times · Time: 2026-07-23 20:14"
       },
       {
         "id": "radar-c56450c8bda1",
@@ -115,32 +115,32 @@
         "source": "News signal — verify before acting · Source: Crypto Briefing · Time: 2026-07-23 15:52"
       },
       {
-        "id": "radar-754151d0e264",
+        "id": "radar-27420ca0f965",
         "kind": "radar",
-        "title": "Why this 3D renderer isn’t worried about AI",
-        "summary": "Business of Home reports: Why this 3D renderer isn’t worried about AI Business of Home",
+        "title": "Designing emoji for the way we communicate today",
+        "summary": "blog.google reports: Designing emoji for the way we communicate today blog.google",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-17 18:03",
-        "displayDate": "2026-07-17 18:03",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZW1WSWFjSmhqaklPR2gyWEJmNThiT0NmY0tjR0l0YmJuNlNReVJfV3hDbnprT1A4alJteDZBSmFEcFpoVmwwNDhjX01TRGN5UjJsRTB4Wk9CcHZxZ3ZqSlk3aHhibWVfX0VZM2lSR0sxOGpyU2lQRjBFbG1ObnIxbVVkeTBvdw",
-        "source": "News signal — verify before acting · Source: Business of Home · Time: 2026-07-17 18:03"
+        "date": "2026-07-17 14:29",
+        "displayDate": "2026-07-17 14:29",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklrU0ctRXhfdTNiVFhPSmlhTERtOW0yVnVJNGkyMUEwNFpObnBlNGlkRXBUWFZUX2Z4a2t4VXNleVI4N3EzZFUzci1NNlh6MXo3RzgyaTdRWVAzZGdJaEp0djI3U1BzZElhR2RqaHFCdkdqQzBSTndEc2szbW5VeGlLakFnVHo0aDJTTlh3",
+        "source": "Official / vendor signal · Source: blog.google · Time: 2026-07-17 14:29"
       },
       {
-        "id": "radar-5f380563d43c",
+        "id": "radar-73baeb6e96b0",
         "kind": "radar",
-        "title": "Viewpoint: Congress should help small businesses put AI to work",
-        "summary": "Delaware Business Times reports: Viewpoint: Congress should help small businesses put AI to work Delaware Business Times",
+        "title": "How AI is changing business school | MBA applications, learning & careers",
+        "summary": "Graduate Management Admission Council is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-23 20:14",
-        "displayDate": "2026-07-23 20:14",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VOEVreXJZUkk4U3BuM2ozNUhRa2lZSTNvRzA2YUcwVExrdU42MWZQRmpUNUJXWm9pV3NXdWhwdmtYb01MNlJqT3hUN21seDRxM3BmYi1TckFOYTFXemJyOUxjNEdFUnVLVDkw0gFzQVVfeXFMUDU4dXowdlFjcjZObHlXY2tqdkRHa3Nwb0FnQ0dnUkNlbGk5U3gzVXV5WHNLVFdTM3NIZGhDVEtaUjg5OGZxVWhuMm9fRlB3TlowdHVDd1k2MEVpbjg4cTBuMXNRenR2TlRWU1U5dENFempzRQ",
-        "source": "News signal — verify before acting · Source: Delaware Business Times · Time: 2026-07-23 20:14"
+        "date": "2026-07-23 12:26",
+        "displayDate": "2026-07-23 12:26",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmxPOVU3Zmh2dVZ3Q19KRzU3anhCemtsS09QUnVoY24tZ1M1U2xNV2hZOUI1U01DdjhMei1SbzE3b1V0bUtaem9xZW1MYllnXy1iVTJPSEVMMVY3cWFuekNLTGNWQTluWl94Vy1Ic1B0MDZKSUdldGV0Y0tJQVE4TGRjSEhvazVtbFNkc3ZLa0JXaUhUQzBJeE93OVZRaG9fZzJMLVMzMS1LQzhiTXgtUlFLckFhX2tSMkJWLVJuUTNrcUc3b1VBSXdyTTdvSWVZNzRF",
+        "source": "News signal — verify before acting · Source: Graduate Management Admission Council · Time: 2026-07-23 12:26"
       },
       {
         "id": "radar-47e5ad762130",
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T09:45:21.865276+08:00",
-        "nextRun": "2026-07-24T09:15:00+08:00",
+        "lastRun": "2026-07-24T09:15:47.060013+08:00",
+        "nextRun": "2026-07-25T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T08:34:30.521668+08:00",
-        "nextRun": "2026-07-24T09:34:30.704604+08:00",
+        "lastRun": "2026-07-24T10:15:33.025625+08:00",
+        "nextRun": "2026-07-24T11:15:33.280397+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "20 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T06:32:03.965948+08:00",
-        "nextRun": "2026-07-24T09:20:00+08:00",
+        "lastRun": "2026-07-24T09:31:05.722234+08:00",
+        "nextRun": "2026-07-24T12:20:00+08:00",
         "message": "You are Garett's FX Library Builder. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for high-quality website/landing-page visual e"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T07:12:42.608887+08:00",
-        "nextRun": "2026-07-24T10:10:00+08:00",
+        "lastRun": "2026-07-24T10:12:10.378412+08:00",
+        "nextRun": "2026-07-24T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T09:02:36.627971+08:00",
-        "nextRun": "2026-07-24T09:04:36.627971+08:00",
+        "lastRun": "2026-07-24T10:44:38.076683+08:00",
+        "nextRun": "2026-07-24T10:46:38.076683+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T07:30:46.039493+08:00",
-        "nextRun": "2026-07-24T10:30:00+08:00",
+        "lastRun": "2026-07-24T10:30:49.918894+08:00",
+        "nextRun": "2026-07-24T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-23T10:15:09.465417+08:00",
-        "nextRun": "2026-07-24T09:30:00+08:00",
+        "lastRun": "2026-07-24T09:45:00.191572+08:00",
+        "nextRun": "2026-07-25T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
       {
@@ -266,8 +266,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-24T06:45:31.326378+08:00",
-        "nextRun": "2026-07-24T09:40:00+08:00",
+        "lastRun": "2026-07-24T09:52:39.454698+08:00",
+        "nextRun": "2026-07-24T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-24T09:04:30.704604+08:00"
+    "updatedAt": "2026-07-24T10:45:33.281397+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
