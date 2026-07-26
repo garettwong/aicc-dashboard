@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-26T12:55:07+08:00",
+    "generatedAt": "2026-07-26T13:55:58+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-26_12-44-38.md",
-    "radarSource": "ai_opportunity_radar_20260726_123915.html",
+    "radarSource": "ai_opportunity_radar_20260726_133116.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260726_123915.html",
+    "sourceFile": "ai_opportunity_radar_20260726_133116.html",
     "items": [
       {
-        "id": "radar-b1bb525bfda5",
+        "id": "radar-65987991f459",
         "kind": "radar",
-        "title": "Show HN: Axtary – Content Authorization for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=1.",
+        "title": "Is SentinelOne’s (S) AI-Agent Spinout Undermining Its Moat or Extending Its Cybersecurity Reach?",
+        "summary": "simplywall.st reports: Is SentinelOne’s (S) AI-Agent Spinout Undermining Its Moat or Extending Its Cybersecurity Reach?",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-07-26 01:02",
-        "displayDate": "2026-07-26 01:02",
-        "url": "https://axtary.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 01:02"
+        "score": 50,
+        "date": "2026-07-26 04:50",
+        "displayDate": "2026-07-26 04:50",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZsM3NGbjRMRnNWR3Yxd0d1R2lsV2k4X3JOcnhRdU1GZG9lbXp2OUlOZGFNSHJNckx4Wk5nRVprYk5xOFFPejN3TC16RFVKOXR4VE5mLTUxM3U5Nm5NZHlheDU2d0MtQmJpbW15aGR1SkNWQWU5bXdEanU3Tm9KdXU2c01sNGlYeVlmZU8zdGE1QkdjbGNfLUdBZDh6YzRMZlNTNEJyeC1mZGlZbkNwZzU0SWxsS3hnbzFmYnVndzJUTU3SAcgBQVVfeXFMTzNCOFgzbkE2clA0WXFHTkFXWUI5MUJ3SDZjOFgxSGlfVUl5c3NjVWd4a2hSM0NMSFp1anc5WE9sZXEwV1JJZkRQNThtVFNNb3ZhLTQ3alZBQTZlOWVVeFlUNmhvTjlLS3VfaDZ2a1pLZkUwSE40Vmd6NU1rZVBRM1o2Wi1hYzdlenp3TmZYUVVCbmxNYzZwQ1liSVFUeHNWS2tiMDZzM1MyY0U1M0NJaU96bDlld3VocTB3azkzS0c0dFlpUGg4b20",
+        "source": "News signal — verify before acting · Source: simplywall.st · Time: 2026-07-26 04:50"
       },
       {
         "id": "radar-c290b8669687",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T00:01:02.862345+08:00",
-        "nextRun": "2026-07-26T13:08:56.593411+08:00",
+        "lastRun": "2026-07-26T13:25:58.328891+08:00",
+        "nextRun": "2026-07-26T14:25:58.526336+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T12:55:06.986751+08:00",
-        "nextRun": "2026-07-26T13:10:00+08:00",
+        "lastRun": "2026-07-26T13:12:17.886984+08:00",
+        "nextRun": "2026-07-26T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T12:53:59.986781+08:00",
-        "nextRun": "2026-07-26T12:55:59.986781+08:00",
+        "lastRun": "2026-07-26T13:54:04.874061+08:00",
+        "nextRun": "2026-07-26T13:56:04.874061+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T12:39:15.977153+08:00",
-        "nextRun": "2026-07-26T13:30:00+08:00",
+        "lastRun": "2026-07-26T13:31:16.991422+08:00",
+        "nextRun": "2026-07-26T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,7 +255,7 @@
         "state": "ok",
         "schedule": "30 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-25T11:57:39.015898+08:00",
+        "lastRun": "2026-07-26T13:06:22.674066+08:00",
         "nextRun": "2026-07-27T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-26T12:55:06.986751+08:00"
+    "updatedAt": "2026-07-26T13:55:58.527336+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
