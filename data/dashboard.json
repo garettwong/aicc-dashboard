@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-27T01:06:17+08:00",
+    "generatedAt": "2026-07-27T01:36:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-26_12-44-38.md",
-    "radarSource": "ai_opportunity_radar_20260726_223038.html",
+    "radarSource": "ai_opportunity_radar_20260727_013037.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260726_223038.html",
+    "sourceFile": "ai_opportunity_radar_20260727_013037.html",
     "items": [
       {
-        "id": "radar-6d23088ed9f1",
+        "id": "radar-2d24199867dc",
         "kind": "radar",
-        "title": "Dream Exchange – a persistent world where AI agents live, not work",
+        "title": "Show HN: Thel, a terminal app for long running sessions",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-26 12:29",
-        "displayDate": "2026-07-26 12:29",
-        "url": "https://soudushi.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 12:29"
+        "date": "2026-07-26 16:50",
+        "displayDate": "2026-07-26 16:50",
+        "url": "https://thel.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 16:50"
       },
       {
         "id": "radar-5cbec5c0d9de",
@@ -62,7 +62,7 @@
         "id": "radar-f5c0d2bd1054",
         "kind": "radar",
         "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=7.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:08"
       },
       {
-        "id": "radar-6481c72e4dbf",
+        "id": "radar-51c59d103132",
         "kind": "radar",
-        "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=5, comments=0.",
+        "title": "DROS-VEP – A <1μs C-ABI binary circuit breaker for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-26 11:06",
-        "displayDate": "2026-07-26 11:06",
-        "url": "https://github.com/openwong2kim/wmux",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 11:06"
+        "date": "2026-07-26 15:46",
+        "displayDate": "2026-07-26 15:46",
+        "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 15:46"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T00:36:16.940123+08:00",
-        "nextRun": "2026-07-27T01:36:17.117245+08:00",
+        "lastRun": "2026-07-27T01:06:21.129387+08:00",
+        "nextRun": "2026-07-27T02:06:27.198935+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T22:12:29.138372+08:00",
-        "nextRun": "2026-07-27T01:10:00+08:00",
+        "lastRun": "2026-07-27T01:13:03.964992+08:00",
+        "nextRun": "2026-07-27T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T01:03:24.014284+08:00",
-        "nextRun": "2026-07-27T01:08:17.112238+08:00",
+        "lastRun": "2026-07-27T01:35:33.491911+08:00",
+        "nextRun": "2026-07-27T01:37:33.491911+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-26T22:30:38.168180+08:00",
-        "nextRun": "2026-07-27T01:30:00+08:00",
+        "lastRun": "2026-07-27T01:30:37.806520+08:00",
+        "nextRun": "2026-07-27T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-27T01:06:17.118244+08:00"
+    "updatedAt": "2026-07-27T01:36:27.199935+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
