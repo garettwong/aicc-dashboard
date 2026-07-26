@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-27T01:36:27+08:00",
+    "generatedAt": "2026-07-27T04:37:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-26_12-44-38.md",
-    "radarSource": "ai_opportunity_radar_20260727_013037.html",
+    "radarSource": "ai_opportunity_radar_20260727_043101.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260727_013037.html",
+    "sourceFile": "ai_opportunity_radar_20260727_043101.html",
     "items": [
       {
-        "id": "radar-2d24199867dc",
+        "id": "radar-174a1185bc0f",
         "kind": "radar",
-        "title": "Show HN: Thel, a terminal app for long running sessions",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=5, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-26 16:50",
-        "displayDate": "2026-07-26 16:50",
-        "url": "https://thel.dev/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 16:50"
+        "date": "2026-07-26 17:41",
+        "displayDate": "2026-07-26 17:41",
+        "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 17:41"
       },
       {
-        "id": "radar-5cbec5c0d9de",
+        "id": "radar-a808a1da96d2",
         "kind": "radar",
-        "title": "Can AI-Generated Code Introduce Security Vulnerabilities?",
-        "summary": "Security Boulevard reports: Can AI-Generated Code Introduce Security Vulnerabilities?",
+        "title": "Claude Code Was Burning Tokens Until I Put a Gate in Front of It",
+        "summary": "HackerNoon reports: Claude Code Was Burning Tokens Until I Put a Gate in Front of It HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-25 08:45",
-        "displayDate": "2026-07-25 08:45",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkM3TmNpRHJvSEc1Ni1fYTNSelIxYXF0cGJGWmh3UWhmVE9kYmlWSUxtQmw3R2F4alExZEhUODFFbVQya25ySkJqa0ZOdF9fQjhwU3htZ2J1WF9KVUhuTlpJSXVYQUpsVk1COE02ZVkza1ZEZzhYTUxhQzV0LU9hVTBmRTd6Z2xqZkluaVBERjZoNXJURkFDTng4VQ",
-        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-07-25 08:45"
+        "date": "2026-07-26 19:18",
+        "displayDate": "2026-07-26 19:18",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWVCcVdwbi1ZV2FUQ1NhcGJ6Wkl5bUZ3MmIydThRTkRSS1h0cmZhTVJVZVBtM1prZkprQnIxOE5ReG9Ua015X3N5dnphQ2tNajQwR201ZzRGd1lNb2NVTEdVc2F4NzRWN180Y0hMVmpmMlBDTzhZUmthOXpDdGFuTXp6OVp4b3pydEk2MVY0NEk",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-07-26 19:18"
       },
       {
         "id": "radar-d98078b8ccda",
@@ -62,7 +62,7 @@
         "id": "radar-f5c0d2bd1054",
         "kind": "radar",
         "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=7.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=5, comments=7.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -87,18 +87,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
-        "id": "radar-8ee4867bd6c2",
+        "id": "radar-cef62c42a0d1",
         "kind": "radar",
-        "title": "OpenAI ships its first hardware product and it tells you where the coding tools war is headed",
-        "summary": "Startup Fortune reports: OpenAI ships its first hardware product and it tells you where the coding tools war is headed Startup Fortune",
+        "title": "Everything You Need To Master In 2026 To Get Rich | by Muhamed Fazal PS | Jul, 2026",
+        "summary": "Medium reports: Everything You Need To Master In 2026 To Get Rich | by Muhamed Fazal PS | Jul, 2026 Medium",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-25 05:27",
-        "displayDate": "2026-07-25 05:27",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmZvWWdJb0d0UlZSNHEtb2dpeVEwVnJmV25SZE1XOFYxSzhOZVVXZnJBdUVmRkc4NURyWlBYVkZWWVoyMTI5MHZfU2RqUHBUNWpDaHN5QW9teFlVazljQXFubm0wZ09zcnRhUDQ0YVBzWWdpczZyWUhRNXlfRUplbllrMmJ1aFpNQVhGYjRILXNqc0pyam5OblZBa3Q0T205RV9hbjNPY0NpZ1dfbi1JeVNPU29OWUl1V3l4bHRR",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-25 05:27"
+        "date": "2026-07-26 15:42",
+        "displayDate": "2026-07-26 15:42",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1NwRjdrck01cVF6M2ZsQUZmcU1tRVRNM1BHcHJmVTV2QTFKaTFHN3J1enJMZk1HNTZJb3lFSWZzQUVmLUJJcF9ZZVRzQmxobEwyZzJ4NHJaV09ZSnZPZ1UxZzBkVTF5VG9VSDhzaHhFOEFNdlEtczNoSzhIS3lGMm0yMlVsX3ZVVm84b3ZLUWF0Yzk3bU5DWE5VMk5RZTg",
+        "source": "News signal — verify before acting · Source: Medium · Time: 2026-07-26 15:42"
       },
       {
         "id": "radar-7a3d7057c139",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:08"
       },
       {
-        "id": "radar-51c59d103132",
+        "id": "radar-2d24199867dc",
         "kind": "radar",
-        "title": "DROS-VEP – A <1μs C-ABI binary circuit breaker for AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "Show HN: Thel, a terminal app for long running sessions",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-26 15:46",
-        "displayDate": "2026-07-26 15:46",
-        "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 15:46"
+        "date": "2026-07-26 16:50",
+        "displayDate": "2026-07-26 16:50",
+        "url": "https://thel.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 16:50"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T01:06:21.129387+08:00",
-        "nextRun": "2026-07-27T02:06:27.198935+08:00",
+        "lastRun": "2026-07-27T04:07:35.104122+08:00",
+        "nextRun": "2026-07-27T05:07:35.365461+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T01:13:03.964992+08:00",
-        "nextRun": "2026-07-27T04:10:00+08:00",
+        "lastRun": "2026-07-27T04:13:07.935757+08:00",
+        "nextRun": "2026-07-27T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T01:35:33.491911+08:00",
-        "nextRun": "2026-07-27T01:37:33.491911+08:00",
+        "lastRun": "2026-07-27T04:35:42.094879+08:00",
+        "nextRun": "2026-07-27T04:37:42.094879+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T01:30:37.806520+08:00",
-        "nextRun": "2026-07-27T04:30:00+08:00",
+        "lastRun": "2026-07-27T04:31:01.870013+08:00",
+        "nextRun": "2026-07-27T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T00:43:49.249708+08:00",
-        "nextRun": "2026-07-27T03:40:00+08:00",
+        "lastRun": "2026-07-27T03:44:32.324959+08:00",
+        "nextRun": "2026-07-27T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-27T01:36:27.199935+08:00"
+    "updatedAt": "2026-07-27T04:37:35.365461+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
