@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-27T04:37:35+08:00",
+    "generatedAt": "2026-07-27T07:38:40+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-26_12-44-38.md",
-    "radarSource": "ai_opportunity_radar_20260727_043101.html",
+    "radarSource": "ai_opportunity_radar_20260727_073059.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260727_043101.html",
+    "sourceFile": "ai_opportunity_radar_20260727_073059.html",
     "items": [
       {
-        "id": "radar-174a1185bc0f",
+        "id": "radar-dc60959d255c",
         "kind": "radar",
-        "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=5, comments=0.",
+        "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-07-26 17:41",
-        "displayDate": "2026-07-26 17:41",
-        "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 17:41"
+        "date": "2026-07-26 23:27",
+        "displayDate": "2026-07-26 23:27",
+        "url": "https://github.com/faizannraza/wattage",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 23:27"
       },
       {
-        "id": "radar-a808a1da96d2",
+        "id": "radar-70dd81016900",
         "kind": "radar",
-        "title": "Claude Code Was Burning Tokens Until I Put a Gate in Front of It",
-        "summary": "HackerNoon reports: Claude Code Was Burning Tokens Until I Put a Gate in Front of It HackerNoon",
+        "title": "Song Jae-kyung Unveils Solo AI MMO Era",
+        "summary": "조선일보 reports: Song Jae-kyung Unveils Solo AI MMO Era 조선일보",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-26 19:18",
-        "displayDate": "2026-07-26 19:18",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWVCcVdwbi1ZV2FUQ1NhcGJ6Wkl5bUZ3MmIydThRTkRSS1h0cmZhTVJVZVBtM1prZkprQnIxOE5ReG9Ua015X3N5dnphQ2tNajQwR201ZzRGd1lNb2NVTEdVc2F4NzRWN180Y0hMVmpmMlBDTzhZUmthOXpDdGFuTXp6OVp4b3pydEk2MVY0NEk",
-        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-07-26 19:18"
+        "date": "2026-07-26 22:37",
+        "displayDate": "2026-07-26 22:37",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3NMenB4RG1PSzBQVFUwamZTNF93dFhiaEZ0dDRoS1YtanZiZUZpcmh2LWpZaVJadXQwTzBkQ1JWZ2hEQnViS29iOTR1WnRtejdVNXJpVmQ3MFVMdURSLWZqYkRkZndRcFVDTlo5RkJOZ1Y1SnBIMGl0OHdmX1RNTmZLTXIwaGRV",
+        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-07-26 22:37"
       },
       {
         "id": "radar-d98078b8ccda",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: TechRadar · Time: 2026-07-25 12:30"
       },
       {
-        "id": "radar-f5c0d2bd1054",
+        "id": "radar-99a8da2e5080",
         "kind": "radar",
-        "title": "Hallmark – Anti-AI-Slop Design Skill for Claude Code, Cursor, and Codex",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=5, comments=7.",
+        "title": "How to create a skill in Claude Code for your design system",
+        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 88,
-        "date": "2026-07-26 14:25",
-        "displayDate": "2026-07-26 14:25",
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 14:25"
+        "score": 74,
+        "date": "2026-07-20 16:08",
+        "displayDate": "2026-07-20 16:08",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbThtS2VGRmluQW83czV0Tm8xOEJkVDFQcXJpNWdJaG1YNk9MczhJSXp6UjlzQnR4dFh2VlZaUU03QjNINXZ4MmpnZnM3b0tSYXcxc0NvcW1lT1RCcU80czlFN3E2ZmhGZzE4cnN1TVNkMUt5alJZd3NWWjh5d0Rhd1Jn",
+        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:08"
       },
       {
         "id": "radar-b636eb9c43d8",
@@ -87,18 +87,32 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
-        "id": "radar-cef62c42a0d1",
+        "id": "radar-31dd768978eb",
         "kind": "radar",
-        "title": "Everything You Need To Master In 2026 To Get Rich | by Muhamed Fazal PS | Jul, 2026",
-        "summary": "Medium reports: Everything You Need To Master In 2026 To Get Rich | by Muhamed Fazal PS | Jul, 2026 Medium",
+        "title": "Andrew Ng's free graph course reignites a war over how to build AI agents",
+        "summary": "Startup Fortune is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 57,
+        "date": "2026-07-26 18:56",
+        "displayDate": "2026-07-26 18:56",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPclhkQklNenpDZ1ZKa29kWlMxdmRHZEYzSEtYZk5MenJCVVQwMHV1VEhzVkl5dkM4VERlalVLMzBQS2FsZ0JkN2VwZUkxendyNU9RZWJzY3hBQXdaN283aE5RUEp0aTN5cEVud2NGYTB0Q1k1eUpQcmZfQXRMeHJkRWEwc0sySWI0elpGWjg3VHJOaUFESUdlMXJCU2dXZHlkSmc",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-26 18:56"
+      },
+      {
+        "id": "radar-a808a1da96d2",
+        "kind": "radar",
+        "title": "Claude Code Was Burning Tokens Until I Put a Gate in Front of It",
+        "summary": "HackerNoon reports: Claude Code Was Burning Tokens Until I Put a Gate in Front of It HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-26 15:42",
-        "displayDate": "2026-07-26 15:42",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1NwRjdrck01cVF6M2ZsQUZmcU1tRVRNM1BHcHJmVTV2QTFKaTFHN3J1enJMZk1HNTZJb3lFSWZzQUVmLUJJcF9ZZVRzQmxobEwyZzJ4NHJaV09ZSnZPZ1UxZzBkVTF5VG9VSDhzaHhFOEFNdlEtczNoSzhIS3lGMm0yMlVsX3ZVVm84b3ZLUWF0Yzk3bU5DWE5VMk5RZTg",
-        "source": "News signal — verify before acting · Source: Medium · Time: 2026-07-26 15:42"
+        "date": "2026-07-26 19:18",
+        "displayDate": "2026-07-26 19:18",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWVCcVdwbi1ZV2FUQ1NhcGJ6Wkl5bUZ3MmIydThRTkRSS1h0cmZhTVJVZVBtM1prZkprQnIxOE5ReG9Ua015X3N5dnphQ2tNajQwR201ZzRGd1lNb2NVTEdVc2F4NzRWN180Y0hMVmpmMlBDTzhZUmthOXpDdGFuTXp6OVp4b3pydEk2MVY0NEk",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-07-26 19:18"
       },
       {
         "id": "radar-7a3d7057c139",
@@ -129,32 +143,18 @@
         "source": "Trusted news / community signal · Source: Thomson Reuters Legal Solutions · Time: 2026-07-24 07:00"
       },
       {
-        "id": "radar-99a8da2e5080",
+        "id": "radar-1dfd9e979247",
         "kind": "radar",
-        "title": "How to create a skill in Claude Code for your design system",
-        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Agentic AI for Aerospace: Faster Design-to-Cost Cycles, Faster Time-to-Market",
+        "summary": "Mobility Engineering Technology reports: Agentic AI for Aerospace: Faster Design-to-Cost Cycles, Faster Time-to-Market Mobility Engineering Technology",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 74,
-        "date": "2026-07-20 16:08",
-        "displayDate": "2026-07-20 16:08",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbThtS2VGRmluQW83czV0Tm8xOEJkVDFQcXJpNWdJaG1YNk9MczhJSXp6UjlzQnR4dFh2VlZaUU03QjNINXZ4MmpnZnM3b0tSYXcxc0NvcW1lT1RCcU80czlFN3E2ZmhGZzE4cnN1TVNkMUt5alJZd3NWWjh5d0Rhd1Jn",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-20 16:08"
-      },
-      {
-        "id": "radar-2d24199867dc",
-        "kind": "radar",
-        "title": "Show HN: Thel, a terminal app for long running sessions",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-07-26 16:50",
-        "displayDate": "2026-07-26 16:50",
-        "url": "https://thel.dev/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-26 16:50"
+        "score": 66,
+        "date": "2026-07-20 18:16",
+        "displayDate": "2026-07-20 18:16",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFg0Sm5kc0hiUFo1LWtjM2J2M1JxVjNoLXBDTUE1eTIzdWJVc0dqYTFDUWVDNlNVX0t4TTZHZ19lQnpRWVNvRGVJM0hPeXVMNmVTcXQ4Y0lFTWJnbFRxbW8wNThDems0QXRMd0t1a1k2RXlLX29YTEw3MGhOSDdBRm02ZllIZjdGX0ZWQ3hRNFkzUGR0cm5zbFFyMG1OeTM4VDVnMnRNTm1PTWYyZ3Vlb09reHQ1N3NIX21FVjl5bzY3dnY2OVVNV05Mc3BVa2ExNGw4eXRzaUZiamwxSlhWQw",
+        "source": "News signal — verify before acting · Source: Mobility Engineering Technology · Time: 2026-07-20 18:16"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T04:07:35.104122+08:00",
-        "nextRun": "2026-07-27T05:07:35.365461+08:00",
+        "lastRun": "2026-07-27T07:08:39.748360+08:00",
+        "nextRun": "2026-07-27T08:08:40.110572+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T04:13:07.935757+08:00",
-        "nextRun": "2026-07-27T07:10:00+08:00",
+        "lastRun": "2026-07-27T07:12:40.352580+08:00",
+        "nextRun": "2026-07-27T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T04:35:42.094879+08:00",
-        "nextRun": "2026-07-27T04:37:42.094879+08:00",
+        "lastRun": "2026-07-27T07:35:44.943547+08:00",
+        "nextRun": "2026-07-27T07:40:40.097066+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T04:31:01.870013+08:00",
-        "nextRun": "2026-07-27T07:30:00+08:00",
+        "lastRun": "2026-07-27T07:30:59.234275+08:00",
+        "nextRun": "2026-07-27T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T03:44:32.324959+08:00",
-        "nextRun": "2026-07-27T06:40:00+08:00",
+        "lastRun": "2026-07-27T06:43:42.755155+08:00",
+        "nextRun": "2026-07-27T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-27T04:37:35.365461+08:00"
+    "updatedAt": "2026-07-27T07:38:40.111572+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
