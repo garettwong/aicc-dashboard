@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-27T19:49:05+08:00",
+    "generatedAt": "2026-07-27T22:51:10+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-27_09-02-06.md",
-    "radarSource": "ai_opportunity_radar_20260727_193022.html",
+    "radarSource": "ai_opportunity_radar_20260727_223027.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260727_193022.html",
+    "sourceFile": "ai_opportunity_radar_20260727_223027.html",
     "items": [
       {
-        "id": "radar-4769438e5083",
+        "id": "radar-dd6d7b881e5b",
         "kind": "radar",
-        "title": "Build a Basic AI Agent from Scratch: Security III",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Nono: Open-source sandbox for AI agents",
+        "summary": "Help Net Security reports: Nono: Open-source sandbox for AI agents Help Net Security",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-07-27 10:48",
-        "displayDate": "2026-07-27 10:48",
-        "url": "https://ruxu.dev/articles/ai/build-an-ai-agent-security-3",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-27 10:48"
+        "score": 50,
+        "date": "2026-07-27 05:30",
+        "displayDate": "2026-07-27 05:30",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmx6RTh5Nnk0aVRVZTdETUstYU1sNTFSd05YT3d2UTBwLVZ2elljX2pjdlNhMTZtOFdwLUprenowak9JVjZYZVlFSE5uNjMyUjVnUFA4dVZSc2J3MEFPZ0tja0o1dTRJX2hUUExhMzN0YWZIaXlOT0VjY2lnVkJUMmktY1Nud0U",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-07-27 05:30"
       },
       {
-        "id": "radar-b7a2aebc1a09",
+        "id": "radar-c3a77400baa9",
         "kind": "radar",
-        "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
-        "summary": "cyberpress.org reports: Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval cyberpress.org",
+        "title": "AI can write code. Now comes the hard part.",
+        "summary": "Frontier Enterprise reports: AI can write code.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-27 06:10",
-        "displayDate": "2026-07-27 06:10",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwemNFSy14Y2tiS1RzRHpnUHNlaVhaQzlIZHppZnA0NWhZRDVYM0Z0cjJVcnNKV25PRldDNFhlZnVwSjMwZDZmS1JTYUpxcFRieUlWVVhocXEzam1CelJMVXV5UHbSAWRBVV95cUxQMHpjRUsteGNrYktUc0R6Z1BzZWlYWkM5SGR6aWZwNDVoWUQ1WDNGdHIyVXJzSlduT0ZXQzRYZWZ1cEozMGQ2ZktSU2FKcXBUYnlJVlVYaHFxM2ptQnpSTFV1eVB2",
-        "source": "News signal — verify before acting · Source: cyberpress.org · Time: 2026-07-27 06:10"
+        "date": "2026-07-27 12:06",
+        "displayDate": "2026-07-27 12:06",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFJuMUtMaDJHWmVoU21ySE55SVdwUXFUQmhDS2Rub1dUTXZRZWowSi1uY0NickpDczVocTBGWHNJRHRkM0l5SGxYVmhyUUNIVHk5UUZTMTlHRWtmTWFGSjBoNEhuQUhaYWZMajFoQVBUVGhoMnNtOUxOU3BDVEs2dWVWb1Q",
+        "source": "News signal — verify before acting · Source: Frontier Enterprise · Time: 2026-07-27 12:06"
       },
       {
         "id": "radar-af9ace228078",
@@ -87,32 +87,32 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-20 15:02"
       },
       {
-        "id": "radar-f02fb5281bc6",
+        "id": "radar-37fe2635a98b",
         "kind": "radar",
-        "title": "How To Get Your Business Data Ready For AI Agents",
-        "summary": "Forbes reports: How To Get Your Business Data Ready For AI Agents Forbes",
+        "title": "Zenity Introduces the Industry's First AI Security Platform for Autonomous Agents",
+        "summary": "Business Wire reports: Zenity Introduces the Industry's First AI Security Platform for Autonomous Agents Business Wire",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-07-27 05:16",
-        "displayDate": "2026-07-27 05:16",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVFhelh0cVFyVUk5QVZFdjVacDdCS2xDYWVuTFk4MDhDLTFhc2VRa211NGtocVdYdGN3RGZDY3ZEemo1TkdzNWRzYWtTMFliaDhEOVlLdl9CbFFyS3ZoR1ZIM05pSE9XOTRFYndJZm9VNEtpd1BXbWJyUURvRHc2aTVVY2lkODZadWFSMnRaaEV0OTBLcmZZWUludnFPaUt3VnR0cg",
-        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-07-27 05:16"
+        "score": 50,
+        "date": "2026-07-27 13:02",
+        "displayDate": "2026-07-27 13:02",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZExESnpBQmNEdXlYM1NNNGtJSnV4a18xMjFnRjZmZHBiNkFEcDJYNjNKbkxPbDZjX0JKSElIMUF4Sk16eXljNGlDMmNYV3hxTG1zdjNvZGl5eDBuX2xtNk01NmxRM1FGMVJFTTFJdUM0OTBaMlZINTM3V0VSMHBSTXVHOHRTaEpzZVJBLXBEbW1sWWM5Y1JlZUtOZmFUdnkxXzJOdlllTng5dmt5Snd6YlNlaUlPb2tuUVJoOTh0REhrZUo3WlB6eVBEZUZ0ajlRZ3NB",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-07-27 13:02"
       },
       {
-        "id": "radar-f1aa5ca88932",
+        "id": "radar-8b9c4d21ddad",
         "kind": "radar",
-        "title": "What AI Model Should I Use? The 2026 Guide to ChatGPT, Claude, Gemini, and Grok",
-        "summary": "Brave New Coin reports: What AI Model Should I Use?",
+        "title": "Cursor Agent Swarm: Worker Fleet Dropped From $9,373 to $411 in SQLite Test",
+        "summary": "Tech Times reports: Cursor Agent Swarm: Worker Fleet Dropped From $9,373 to $411 in SQLite Test Tech Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-27 02:05",
-        "displayDate": "2026-07-27 02:05",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVZ6VXhKTXlwRjlhaUJSU3Y5QV9HVWd5c2FuRTdFRy1aMkdmclI5b0pKVTZVM002dS1sR0N6aG1QTDk0SDdfV21MMUFYU0dQYUVGLWkwSkxDR3pleUZENF94bDg5U1c5cnhsV2NJak9iMlJ4TmVEUGlWcjdjbWU0M1FZUDkxUDV5YXhhUEJuc2NPLWxkSWI1bVcxcXd1MGF2bXlrTlRjZjNQNUFITTlWeg",
-        "source": "News signal — verify before acting · Source: Brave New Coin · Time: 2026-07-27 02:05"
+        "date": "2026-07-27 11:33",
+        "displayDate": "2026-07-27 11:33",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXdPcF92QTl6STlXcGFQdG9UOEZuenp0aXhuT3plaVhxcS1jQW1mY3Q3SDVVUmI4dTlwOVZkOUg2MVdXMllUdXF6Z0E3YkJIMGVyM3lKQVk4N2ZtVGV0X3ZmcG9ZclBDcHJocmVUQmlYZTh5b0V1TGZfa05waHoyNy0wcWVfV3BDZnJoOG5PLUVldnJXbm90MmNxUG9BbVBjSHA5V2dXX3hjcnJrRjVLRzIzd3hodw",
+        "source": "News signal — verify before acting · Source: Tech Times · Time: 2026-07-27 11:33"
       },
       {
         "id": "radar-7a3d7057c139",
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T15:03:15.621878+08:00",
-        "nextRun": "2026-07-27T21:00:00+08:00",
+        "lastRun": "2026-07-27T21:01:36.328367+08:00",
+        "nextRun": "2026-07-28T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T19:19:05.367401+08:00",
-        "nextRun": "2026-07-27T20:19:05.673000+08:00",
+        "lastRun": "2026-07-27T22:20:11.143835+08:00",
+        "nextRun": "2026-07-27T23:21:10.673716+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T19:12:02.607332+08:00",
-        "nextRun": "2026-07-27T22:10:00+08:00",
+        "lastRun": "2026-07-27T22:12:25.041755+08:00",
+        "nextRun": "2026-07-28T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T19:47:10.875710+08:00",
-        "nextRun": "2026-07-27T19:49:10.875710+08:00",
+        "lastRun": "2026-07-27T22:50:16.045062+08:00",
+        "nextRun": "2026-07-27T22:52:16.045062+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T19:30:22.040603+08:00",
-        "nextRun": "2026-07-27T22:30:00+08:00",
+        "lastRun": "2026-07-27T22:30:27.131775+08:00",
+        "nextRun": "2026-07-28T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T18:43:26.338626+08:00",
-        "nextRun": "2026-07-27T21:40:00+08:00",
+        "lastRun": "2026-07-27T21:42:55.351238+08:00",
+        "nextRun": "2026-07-28T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-27T19:49:05.674001+08:00"
+    "updatedAt": "2026-07-27T22:51:10.674716+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
