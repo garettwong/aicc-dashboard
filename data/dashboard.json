@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-28T20:00:53+08:00",
+    "generatedAt": "2026-07-28T22:32:58+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-28_09-02-38.md",
-    "radarSource": "ai_opportunity_radar_20260728_193104.html",
+    "radarSource": "ai_opportunity_radar_20260728_223115.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260728_193104.html",
+    "sourceFile": "ai_opportunity_radar_20260728_223115.html",
     "items": [
       {
-        "id": "radar-4fed51308f0f",
+        "id": "radar-5f64e9ce0af4",
         "kind": "radar",
-        "title": "Rethinking security for the age of AI",
-        "summary": "The Official Microsoft Blog reports: Rethinking security for the age of AI The Official Microsoft Blog",
+        "title": "OptMem – Permanent memory for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 58,
-        "date": "2026-07-27 16:45",
-        "displayDate": "2026-07-27 16:45",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUE1SeFVsNUUtTlBQWG1TN2JZcVl3WWpTYzVudk1iekRabVRoNHNWREtjZ19SSklYOVlPWHZ3YnZ6cVRpTWtaVllFc2xCc09hZUhJdDBPdFBpXzVFTlRtR0xsSEtHSGxxYjdNblpiZTdNOEtpOXh0WEdSdGx5OWFjVlp1VW52YnpPMlE",
-        "source": "Official / vendor signal · Source: The Official Microsoft Blog · Time: 2026-07-27 16:45"
+        "score": 57,
+        "date": "2026-07-28 13:02",
+        "displayDate": "2026-07-28 13:02",
+        "url": "https://github.com/VictorTaelin/OptMem",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-28 13:02"
       },
       {
         "id": "radar-12dc5b44a98b",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: Inshorts · Time: 2026-07-28 10:30"
       },
       {
-        "id": "radar-e6e8b5a0808e",
+        "id": "radar-af9ace228078",
         "kind": "radar",
-        "title": "OpenAI Cyber Attack on Hugging Face sparks AI Security Alliance backed by Nvidia, Meta, and Others",
-        "summary": "Cybersecurity Insiders reports: OpenAI Cyber Attack on Hugging Face sparks AI Security Alliance backed by Nvidia, Meta, and Others Cybersecurity Insiders",
+        "title": "Artificial Intelligence and law: What legal teams need to know",
+        "summary": "Thomson Reuters Legal Solutions reports: Artificial Intelligence and law: What legal teams need to know Thomson Reuters Legal Solutions",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 86,
-        "date": "2026-07-27 15:31",
-        "displayDate": "2026-07-27 15:31",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0JwLVlXVHljR0tRTUNvRkR2MDR2Tk8xT2ZkYzQxZHJxTVoxUVNaSzhmUFljREVoZWxhY0ZIcElvT0dmNHJuRFQyQ3ZNdmlVS1ZQbWp2X0Jud1hWcklLSFpzemlMUGZmVjgtZjhVZEJHQXJLNmJ0SUhPSTBjSGtQWjhpWlV1N283V0xoQzc1QTMxa1hxbW1ySHFsb1FqMi1Kc2U4Z2xtajBmV1drdjh6SmdwbTdRWXEtc1JTMEZGYjdhbUdMd25pMTl2OTBYV1pudGc",
-        "source": "News signal — verify before acting · Source: Cybersecurity Insiders · Time: 2026-07-27 15:31"
+        "score": 83,
+        "date": "2026-07-24 07:00",
+        "displayDate": "2026-07-24 07:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUlYtNkhpN1MtbU5uS3ZObjFjZ25jNV9SYXlJcGFkSExjenFTTjA2R3NOUl9QUGtYSUZoNWRrQmtOLXd2eFpIekxLU2xvZ0pabGY2YTBNeUEzVkpRZ2dKUDdIN3ZYNG15ZWJhOVU3MEVCVW5WanhNWThtY05pZDZIcTFn",
+        "source": "Trusted news / community signal · Source: Thomson Reuters Legal Solutions · Time: 2026-07-24 07:00"
       },
       {
         "id": "radar-40897cce803f",
@@ -87,32 +87,32 @@
         "source": "News signal — verify before acting · Source: AZoM · Time: 2026-07-26 23:54"
       },
       {
-        "id": "radar-52b3b12e5142",
+        "id": "radar-d60702a72320",
         "kind": "radar",
-        "title": "Building the enterprise environment for agentic AI",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+        "summary": "VentureBeat flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 43,
-        "date": "2026-07-28 11:01",
-        "displayDate": "2026-07-28 11:01",
-        "url": "https://technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-28 11:01"
+        "date": "2026-07-28 13:00",
+        "displayDate": "2026-07-28 13:00",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXZ3R3RZdlNEaUx6SDFoeUFjalZtLWEzVDdEdjdnMjl5WFNOU1NfaXBUdFZ5WmZBOFh0ckN6U0R1aV9qbm5CNXpyeDc0U2FNekc2TmFOaThIYkZodnRXR1hCazRaWE5tQkJweEU3dF83MGQ3dk1XWkt3a3dfODlLUnV1cGp6dGxvTkRaMWVUSHZXVW5jb202X0FWaENuT3dONDQ0TFpESDY5eTM2aVpUR2FZQ0M2dEU0T2JtbzhlS2ZKUzB5MFE",
+        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-07-28 13:00"
       },
       {
-        "id": "radar-2dc2e6e7b9b4",
+        "id": "radar-f6c5556724fe",
         "kind": "radar",
-        "title": "IBM's Bob AI Agent Tackles Legacy Code with Internal Testing",
-        "summary": "TechGig reports: IBM's Bob AI Agent Tackles Legacy Code with Internal Testing TechGig",
+        "title": "SpaceX is buying Cursor for $60 billion while the AI coding startup makes its boldest bet on India yet",
+        "summary": "Startup Fortune reports: SpaceX is buying Cursor for $60 billion while the AI coding startup makes its boldest bet on India yet Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-28 04:57",
-        "displayDate": "2026-07-28 04:57",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0FvSDdJRFNqaEwtRVhiTmFER05XcFdBeHZ0THdUbDk1MElFdDdoT0V5bzNkY1ozazc4VDRjWWtSWEFlemV5djhtb01yZEZQaFhVLU5PXzRMcndUOHlicnlIeTVJUjc3OTY2NDRRcmsxZXJlZTRIU1FNM1RzQ2VCNjdWTGxwb2hTSTh5Qk5ISlRzZE1Gc2MwSkhXVHlld9IBowFBVV95cUxPNHp1TUZwbWdUSjl1OV9YN3ZEN0RyckR4Qkl5TDJlaDZiSjM4c09BcHlURWtGVFMzalFLS3N6N204dWx1eHN2dHVmeFVmMkFrajd3MWZXdVFwd1hIRk8xZ0lTNGpxeDY3d2F6NWZLbDg0Tmd6V0dYY3ZQblM2UWU1VjI1T0xiN1pndm9KVDdCU1M4WUg5MUlUb1RULTJUVXhSeDZN",
-        "source": "News signal — verify before acting · Source: TechGig · Time: 2026-07-28 04:57"
+        "date": "2026-07-28 05:25",
+        "displayDate": "2026-07-28 05:25",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcEg1cEdlZ2gwendSbHBxMWFPb1R6aEd6MkpPVEtjMl9UUjJzQXNpanJGY2lqUEdCRUJXTmJlRUdvU1VCNm1DQUVuaHdFN2JFVVQtbkM3OFJ0aUlnc1N5b2JYX2k4WHNUMUx2aXctamxmYnBWbzRSQjVwaHI5RDM4YkRoSUhqdTgxUFc2ZENFeTVXdFh3SmV1OVlWX0R3MGVtbGFHZEZsVTZHSzh2b05fMThkc2EteHRwUURXYVhtMDNpQ1ppN3VscA",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-28 05:25"
       },
       {
         "id": "radar-d190e3035a24",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-27 00:54"
       },
       {
-        "id": "radar-af9ace228078",
+        "id": "radar-6e2cbc347a66",
         "kind": "radar",
-        "title": "Artificial Intelligence and law: What legal teams need to know",
-        "summary": "Thomson Reuters Legal Solutions reports: Artificial Intelligence and law: What legal teams need to know Thomson Reuters Legal Solutions",
+        "title": "Universities face difficult choices over how to integrate AI",
+        "summary": "Financial Times reports: Universities face difficult choices over how to integrate AI Financial Times",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 83,
-        "date": "2026-07-24 07:00",
-        "displayDate": "2026-07-24 07:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUlYtNkhpN1MtbU5uS3ZObjFjZ25jNV9SYXlJcGFkSExjenFTTjA2R3NOUl9QUGtYSUZoNWRrQmtOLXd2eFpIekxLU2xvZ0pabGY2YTBNeUEzVkpRZ2dKUDdIN3ZYNG15ZWJhOVU3MEVCVW5WanhNWThtY05pZDZIcTFn",
-        "source": "Trusted news / community signal · Source: Thomson Reuters Legal Solutions · Time: 2026-07-24 07:00"
+        "date": "2026-07-24 03:00",
+        "displayDate": "2026-07-24 03:00",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdFZVVk5tZVoydGpuQkhxeEV3LWlidjRGbkVvMGhCcDBSdE1vOU1OUGRuVUdrMnVCR0RnVVNSb0gtOE82OGxMRzRkZmkwZXZ6WnB6YXdraXpLNUcwNnBMZEpQeFYwbzJldUtvSjVZT2tIblVxU3NMNHphR3QtVGFfZW9JUWw",
+        "source": "Trusted news / community signal · Source: Financial Times · Time: 2026-07-24 03:00"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T15:02:59.456034+08:00",
-        "nextRun": "2026-07-28T21:00:00+08:00",
+        "lastRun": "2026-07-28T21:02:06.906667+08:00",
+        "nextRun": "2026-07-29T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T19:30:47.164661+08:00",
-        "nextRun": "2026-07-28T20:30:52.962400+08:00",
+        "lastRun": "2026-07-28T22:02:58.270433+08:00",
+        "nextRun": "2026-07-28T23:02:58.509942+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T19:14:54.968997+08:00",
-        "nextRun": "2026-07-28T22:10:00+08:00",
+        "lastRun": "2026-07-28T22:12:06.322028+08:00",
+        "nextRun": "2026-07-29T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T19:59:58.968294+08:00",
-        "nextRun": "2026-07-28T20:01:58.968294+08:00",
+        "lastRun": "2026-07-28T22:30:02.343945+08:00",
+        "nextRun": "2026-07-28T22:34:58.499426+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T19:31:04.701541+08:00",
-        "nextRun": "2026-07-28T22:30:00+08:00",
+        "lastRun": "2026-07-28T22:31:15.903109+08:00",
+        "nextRun": "2026-07-29T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T18:44:44.123655+08:00",
-        "nextRun": "2026-07-28T21:40:00+08:00",
+        "lastRun": "2026-07-28T21:45:49.161740+08:00",
+        "nextRun": "2026-07-29T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-28T20:00:52.962904+08:00"
+    "updatedAt": "2026-07-28T22:32:58.510941+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
