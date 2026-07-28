@@ -1,15 +1,15 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-28T07:54:25+08:00",
+    "generatedAt": "2026-07-28T09:25:27+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-07-27_09-02-06.md",
+    "dailySource": "2026-07-28_09-02-38.md",
     "radarSource": "ai_opportunity_radar_20260728_073041.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-07-27",
+    "subject": "AI Everyday works tools - 2026-07-28",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T21:01:36.328367+08:00",
-        "nextRun": "2026-07-28T09:00:00+08:00",
+        "lastRun": "2026-07-28T09:04:12.420057+08:00",
+        "nextRun": "2026-07-28T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T09:02:07.008044+08:00",
-        "nextRun": "2026-07-28T09:00:00+08:00",
+        "lastRun": "2026-07-28T09:02:38.250206+08:00",
+        "nextRun": "2026-07-29T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-27T09:15:47.263938+08:00",
-        "nextRun": "2026-07-28T09:15:00+08:00",
+        "lastRun": "2026-07-28T09:15:42.298667+08:00",
+        "nextRun": "2026-07-29T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T07:24:24.572951+08:00",
-        "nextRun": "2026-07-28T08:24:24.758570+08:00",
+        "lastRun": "2026-07-28T08:55:26.636872+08:00",
+        "nextRun": "2026-07-28T09:55:26.941010+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-28T07:53:28.737084+08:00",
-        "nextRun": "2026-07-28T07:55:28.737084+08:00",
+        "lastRun": "2026-07-28T09:23:30.723309+08:00",
+        "nextRun": "2026-07-28T09:25:30.723309+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-28T07:54:24.759570+08:00"
+    "updatedAt": "2026-07-28T09:25:26.942013+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
