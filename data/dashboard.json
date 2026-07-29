@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-29T10:38:21+08:00",
+    "generatedAt": "2026-07-29T13:39:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-29_09-02-16.md",
-    "radarSource": "ai_opportunity_radar_20260729_103037.html",
+    "radarSource": "ai_opportunity_radar_20260729_133043.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260729_103037.html",
+    "sourceFile": "ai_opportunity_radar_20260729_133043.html",
     "items": [
       {
-        "id": "radar-437dec8b6feb",
+        "id": "radar-5a04e769fba6",
         "kind": "radar",
-        "title": "Agenthound – Offensive security framework for AI agent infrastructure",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Your AI agents can reach data no one approved",
+        "summary": "Help Net Security reports: Your AI agents can reach data no one approved Help Net Security",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-07-28 23:22",
-        "displayDate": "2026-07-28 23:22",
-        "url": "https://github.com/adithyan-ak/agenthound",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-28 23:22"
+        "score": 50,
+        "date": "2026-07-29 04:30",
+        "displayDate": "2026-07-29 04:30",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZQzlEZF84MzY0Szd5bzdpQWFDN29fdmIwR21TTTd5WlJTZ1ZRT0JXR0ZwckZ3Um1PcktWOVZvM3FNWUZFWDFfREFwWFpUYXpwRUctUGpDV3dBQ25kQXNaT0M5QXVrZ2d4NFhnT2FKREkyWjI3UVNfV1JRQnppUQ",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-07-29 04:30"
       },
       {
         "id": "radar-f48a5cc08ba6",
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T10:08:20.460927+08:00",
-        "nextRun": "2026-07-29T11:08:20.884257+08:00",
+        "lastRun": "2026-07-29T13:09:26.226216+08:00",
+        "nextRun": "2026-07-29T14:09:26.810525+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T10:12:57.489328+08:00",
-        "nextRun": "2026-07-29T13:10:00+08:00",
+        "lastRun": "2026-07-29T13:12:42.989124+08:00",
+        "nextRun": "2026-07-29T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T10:36:26.331719+08:00",
-        "nextRun": "2026-07-29T10:38:26.331719+08:00",
+        "lastRun": "2026-07-29T13:36:32.603405+08:00",
+        "nextRun": "2026-07-29T13:41:26.799019+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T10:30:37.690060+08:00",
-        "nextRun": "2026-07-29T13:30:00+08:00",
+        "lastRun": "2026-07-29T13:30:43.167856+08:00",
+        "nextRun": "2026-07-29T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T09:44:40.957512+08:00",
-        "nextRun": "2026-07-29T12:40:00+08:00",
+        "lastRun": "2026-07-29T12:44:28.688242+08:00",
+        "nextRun": "2026-07-29T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-29T10:38:20.885257+08:00"
+    "updatedAt": "2026-07-29T13:39:26.811525+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
