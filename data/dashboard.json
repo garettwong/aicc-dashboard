@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-30T22:56:39+08:00",
+    "generatedAt": "2026-07-31T01:57:45+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-30_09-01-24.md",
-    "radarSource": "ai_opportunity_radar_20260730_223054.html",
+    "radarSource": "ai_opportunity_radar_20260731_013101.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260730_223054.html",
+    "sourceFile": "ai_opportunity_radar_20260731_013101.html",
     "items": [
       {
-        "id": "radar-1209eae82c89",
+        "id": "radar-e3901b7c5240",
         "kind": "radar",
-        "title": "Super Amplify – governed AI agents for real company workflows",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Can Legacy Data Security Survive the Velocity of Autonomous AI Agents?",
+        "summary": "The Futurum Group reports: Can Legacy Data Security Survive the Velocity of Autonomous AI Agents?",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 56,
-        "date": "2026-07-30 12:49",
-        "displayDate": "2026-07-30 12:49",
-        "url": "https://superamplify.com/personas",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-30 12:49"
+        "score": 50,
+        "date": "2026-07-30 15:45",
+        "displayDate": "2026-07-30 15:45",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1B6WVdzQUNoMlpBZ3hNWjA4dkNjRlU3alNvWXZfM0pBakN2N3FMUVg5N2xwdFpBZk9zNUpsd2kyUnIyZTh1RXFxczEtV1JubXU3UzhLNV9aVk5mZFRjRWhiWnViVGJianYxa2RDNExlLVpzVEI0RE9sRXFqZ0Z5YmRDNGo1cC1nSG83WDFzckRudUpBSm52aGlXWnYwYUpaNXdST1NHQQ",
+        "source": "News signal — verify before acting · Source: The Futurum Group · Time: 2026-07-30 15:45"
       },
       {
-        "id": "radar-0f797455b8c5",
+        "id": "radar-a8e275727360",
         "kind": "radar",
-        "title": "Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent",
-        "summary": "Inc42 reports: Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent Inc42",
+        "title": "AMD’s ROCm.AI Bets Agents Can Beat CUDA: Internal Cluster Shortage Is Its Biggest Risk",
+        "summary": "Tech Times reports: AMD’s ROCm.AI Bets Agents Can Beat CUDA: Internal Cluster Shortage Is Its Biggest Risk Tech Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-30 12:56",
-        "displayDate": "2026-07-30 12:56",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGJ5blNyOEVSbTc3RGx0eWRUbUVxYWRxZlo5SEF6eW4xNFhEMTNGTm5jcjVmbVZXS0pVa2QxblY5OHhZMTZ6Z0JCNkdLakVNRDBlMGR3MFphdmFFX05GMkNoUlNQM3ZXOEcwOTdvU2trME5YSmlaSVFMQjdNeHVIdHhsUzFWcF8zWUhuTU9kMHh0bW5mclE",
-        "source": "News signal — verify before acting · Source: Inc42 · Time: 2026-07-30 12:56"
+        "date": "2026-07-30 16:15",
+        "displayDate": "2026-07-30 16:15",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdDFtRWpCc01mNkR5T0hHcFQwUW11Z19OQ3o3OUJuV04tUFB5aUhLWmZ2b29CVF9VcldvSUwzcE45MHZQTFBRd1Q4cDRNNjY1MkRmYlpheFhCbENXcmdGMlB6djFHWmhLMTBRNzFmcFhnM1ozTWtwM0dzNFV1RkpCNjF1SGhhcXNxYnR3OTVtdVBOampYeHhBZkJWMkhHN3Z4b0NBWFFaUmNjdFgwSkpOZVRZNkZvVnoxVDVWcHE5ZVE5TVkzNVN6Sno4MDlNTU92",
+        "source": "News signal — verify before acting · Source: Tech Times · Time: 2026-07-30 16:15"
       },
       {
         "id": "radar-af9ace228078",
@@ -73,18 +73,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-27 00:54"
       },
       {
-        "id": "radar-ae38d1711126",
+        "id": "radar-d190e3035a24",
         "kind": "radar",
-        "title": "How Databricks manages its own coding agent spend with Unity AI Gateway Budgets",
-        "summary": "Databricks reports: How Databricks manages its own coding agent spend with Unity AI Gateway Budgets Databricks",
+        "title": "Meshy just closed the biggest AI-3D funding round ever and half of Big Tech is already a customer",
+        "summary": "Startup Fortune shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-07-28 16:59",
-        "displayDate": "2026-07-28 16:59",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmNzRU9WSG10MVA3bVpjTlBSaVkyTWplWldIbmhvOEg3andkU1JSemtIRHQyNHFCanA3enZZU2dUUWgwY19tOERqd2VVUHhZOFp4RWVrdXZ4d0tBTU00OGJoLUdoV05tWG5wYUZYdS0xU2NUOG1iRFh4d0s0X2Y1b1BKOEtjeGFEZzhXQ293NVc4dlp5Vk1yWG5OWVJqdXVjdmhPT2RFVURkQQ",
-        "source": "News signal — verify before acting · Source: Databricks · Time: 2026-07-28 16:59"
+        "score": 97,
+        "date": "2026-07-27 19:05",
+        "displayDate": "2026-07-27 19:05",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3VRWU5tbDRhV0NjVmZkR2J0cWJ1cGZiNTNUX3gyVFFzLTZOSDRlaXI5clh1ZlNJSWw2NFh0emZ0dDBRc21ZdUd2ZVVCVWl5T1JPSDl3UEVhNHAyRTVXTERrN1dzOFRsVzZ6OXpZQjlkaW1sdWR2dl9pVXo2VlI4UkNVZGMxWktEUW5hS2dCZzBwR2taSGRlSE5kRUpNSHhISFpGQTBBRzdoWW1BOWszdEJoZ1JXMzZWQ2wyS1JoTVRvWlk",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-27 19:05"
       },
       {
         "id": "radar-5de9f41f6a71",
@@ -101,32 +101,32 @@
         "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-07-30 13:00"
       },
       {
-        "id": "radar-24dbc1e691c6",
+        "id": "radar-0f797455b8c5",
         "kind": "radar",
-        "title": "Why it’s time to end developer ‘blind trust’ in software code",
-        "summary": "Techzine Global reports: Why it’s time to end developer ‘blind trust’ in software code Techzine Global",
+        "title": "Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent",
+        "summary": "Inc42 reports: Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent Inc42",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-07-30 10:00",
-        "displayDate": "2026-07-30 10:00",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2FncUpPY1ZHNjRfTTdrSGF3MXhMUXAwU08tLTZsWkV5Ulc3Z2NsMGlhNDR6QzB0S1M2OTBTRWVBN0ZJY3dkVzhVNWlhSGdWdG5WUUZ2Y0ljOUJ6NXgzRUVDRVZQenFiaHZ0ZzRvVUZjOXlWUkdNUTZuXzF2MjgxLUJtVW5kRVFiZkVSdEFmRFhqdWQydmUyc2ZvVkdpT1V2Q29oWHVNcUxYZw",
-        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-07-30 10:00"
+        "date": "2026-07-30 12:56",
+        "displayDate": "2026-07-30 12:56",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGJ5blNyOEVSbTc3RGx0eWRUbUVxYWRxZlo5SEF6eW4xNFhEMTNGTm5jcjVmbVZXS0pVa2QxblY5OHhZMTZ6Z0JCNkdLakVNRDBlMGR3MFphdmFFX05GMkNoUlNQM3ZXOEcwOTdvU2trME5YSmlaSVFMQjdNeHVIdHhsUzFWcF8zWUhuTU9kMHh0bW5mclE",
+        "source": "News signal — verify before acting · Source: Inc42 · Time: 2026-07-30 12:56"
       },
       {
-        "id": "radar-2a1b5520fcaa",
+        "id": "radar-d6def23b06e8",
         "kind": "radar",
-        "title": "Generative AI Speeds 3D Energetic Material Design for Custom Combustion",
-        "summary": "AZoM reports: Generative AI Speeds 3D Energetic Material Design for Custom Combustion AZoM",
+        "title": "ASU researchers, private-sector collaborators publish research on AI-generated 3D models",
+        "summary": "ASU News reports: ASU researchers, private-sector collaborators publish research on AI-generated 3D models ASU News",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-07-26 23:54",
-        "displayDate": "2026-07-26 23:54",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbTVGMzEtVjFBd0taWEhQcEJkN0xXNWRNX1JGZ2ZkN1R5YU9hTVB5dTRRT3VOeWlneF9wUTl2OWVVYWU4dFZSUERJTWt2Q1lrd0ZLVGdR",
-        "source": "News signal — verify before acting · Source: AZoM · Time: 2026-07-26 23:54"
+        "score": 92,
+        "date": "2026-07-28 18:20",
+        "displayDate": "2026-07-28 18:20",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFUwTkhLVDd3cVh0V2xnMmZhWjFBQm1scEJ0VXV4QWVTdVUxRGxub0tTY3ZBOTRNWE9uVG1fTlZWcUlLN1NKMFV3SDFYUVVqc3J0c2JKc0MyREIxWFBua1RaYzc3UDl1MnVScTBBdTZTTVZZb3VvV1V6bUVGZld6SlhHWnM4a2h2TUVUaHNOZEdETHhBZGFCeFBsdk9PSUlzVTRwVVc2dmNobWI0ajRQSllyYUw",
+        "source": "News signal — verify before acting · Source: ASU News · Time: 2026-07-28 18:20"
       },
       {
         "id": "radar-6e2cbc347a66",
@@ -146,7 +146,7 @@
         "id": "radar-f6e5fe6adccb",
         "kind": "radar",
         "title": "What Is an Agentic Framework?",
-        "summary": "figma.com reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -154,7 +154,7 @@
         "date": "2026-07-27 15:57",
         "displayDate": "2026-07-27 15:57",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tMmgzQ0xkcV82LTMzd3EyTzZpcmUyTlFBaFhBOVM1SFowUC00eERmWlhrdWxhWUg5bGZ6OEJtQW1BaXdBVF9aaVRCbEZTVkhXekdvZTc1ajJvaGxSazlEa1VDTlVKT3ZB",
-        "source": "Official / vendor signal · Source: figma.com · Time: 2026-07-27 15:57"
+        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-27 15:57"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T22:26:38.687619+08:00",
-        "nextRun": "2026-07-30T23:26:39.142013+08:00",
+        "lastRun": "2026-07-31T01:27:44.625838+08:00",
+        "nextRun": "2026-07-31T02:27:45.069353+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T22:13:01.971514+08:00",
-        "nextRun": "2026-07-31T01:10:00+08:00",
+        "lastRun": "2026-07-31T01:12:24.588024+08:00",
+        "nextRun": "2026-07-31T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T22:54:44.029999+08:00",
-        "nextRun": "2026-07-30T22:56:44.029999+08:00",
+        "lastRun": "2026-07-31T01:54:54.797444+08:00",
+        "nextRun": "2026-07-31T01:59:45.064355+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T22:30:54.841220+08:00",
-        "nextRun": "2026-07-31T01:30:00+08:00",
+        "lastRun": "2026-07-31T01:31:01.355767+08:00",
+        "nextRun": "2026-07-31T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T21:44:42.767977+08:00",
-        "nextRun": "2026-07-31T00:40:00+08:00",
+        "lastRun": "2026-07-31T00:44:03.621155+08:00",
+        "nextRun": "2026-07-31T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-30T22:56:39.142013+08:00"
+    "updatedAt": "2026-07-31T01:57:45.070353+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
