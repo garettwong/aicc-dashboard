@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-30T09:21:07+08:00",
+    "generatedAt": "2026-07-30T10:52:10+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-30_09-01-24.md",
-    "radarSource": "ai_opportunity_radar_20260730_073020.html",
+    "radarSource": "ai_opportunity_radar_20260730_103026.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260730_073020.html",
+    "sourceFile": "ai_opportunity_radar_20260730_103026.html",
     "items": [
       {
-        "id": "radar-3fd7a8e6dd32",
+        "id": "radar-d0ab73d95869",
         "kind": "radar",
-        "title": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "IronClaw 1.0 – one secure agent on CLI, Slack and Telegram, one memory",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-07-29 21:33",
-        "displayDate": "2026-07-29 21:33",
-        "url": "https://leaderboard.far.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-29 21:33"
+        "score": 57,
+        "date": "2026-07-30 01:22",
+        "displayDate": "2026-07-30 01:22",
+        "url": "https://near.ai/blog/introducing-ironclaw-1-0",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-30 01:22"
       },
       {
         "id": "radar-0be7c16f40bc",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Financial Times · Time: 2026-07-24 03:00"
       },
       {
-        "id": "radar-f6e5fe6adccb",
+        "id": "radar-c7e269b32e27",
         "kind": "radar",
-        "title": "What Is an Agentic Framework?",
-        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Siemens advances self-verifying AI workflows for EDA",
+        "summary": "Siemens Newsroom reports: Siemens advances self-verifying AI workflows for EDA Siemens Newsroom",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 74,
-        "date": "2026-07-27 15:57",
-        "displayDate": "2026-07-27 15:57",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tMmgzQ0xkcV82LTMzd3EyTzZpcmUyTlFBaFhBOVM1SFowUC00eERmWlhrdWxhWUg5bGZ6OEJtQW1BaXdBVF9aaVRCbEZTVkhXekdvZTc1ajJvaGxSazlEa1VDTlVKT3ZB",
-        "source": "Official / vendor signal · Source: Figma · Time: 2026-07-27 15:57"
+        "score": 61,
+        "date": "2026-07-26 22:24",
+        "displayDate": "2026-07-26 22:24",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sV0NLTWRDRmNYbHEwODE5a08wSnpZbUpmTGJSMmhaLTRrZkFmQmpibVpaNkhGNmhaMURLcHZaN0pqbmpqbmFiTjV2LU91SHhvWUJ4Ry12WEY0THc3dFFwbVlPLWg2QQ",
+        "source": "News signal — verify before acting · Source: Siemens Newsroom · Time: 2026-07-26 22:24"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T08:51:06.579913+08:00",
-        "nextRun": "2026-07-30T09:51:06.958229+08:00",
+        "lastRun": "2026-07-30T10:22:09.355115+08:00",
+        "nextRun": "2026-07-30T11:22:09.735882+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T07:11:55.823024+08:00",
-        "nextRun": "2026-07-30T10:10:00+08:00",
+        "lastRun": "2026-07-30T10:12:33.218341+08:00",
+        "nextRun": "2026-07-30T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T09:18:12.209199+08:00",
-        "nextRun": "2026-07-30T09:23:06.947388+08:00",
+        "lastRun": "2026-07-30T10:51:13.982379+08:00",
+        "nextRun": "2026-07-30T10:53:13.982379+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T07:30:20.291504+08:00",
-        "nextRun": "2026-07-30T10:30:00+08:00",
+        "lastRun": "2026-07-30T10:30:26.480569+08:00",
+        "nextRun": "2026-07-30T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-29T09:36:19.352846+08:00",
-        "nextRun": "2026-07-30T09:30:00+08:00",
+        "lastRun": "2026-07-30T09:37:51.122376+08:00",
+        "nextRun": "2026-07-31T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T06:43:03.341817+08:00",
-        "nextRun": "2026-07-30T09:40:00+08:00",
+        "lastRun": "2026-07-30T09:43:24.093984+08:00",
+        "nextRun": "2026-07-30T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-30T09:21:06.960731+08:00"
+    "updatedAt": "2026-07-30T10:52:09.736883+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
