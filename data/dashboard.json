@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-31T09:03:55+08:00",
+    "generatedAt": "2026-07-31T10:43:21+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-31_09-02-01.md",
-    "radarSource": "ai_opportunity_radar_20260731_073024.html",
+    "radarSource": "ai_opportunity_radar_20260731_103038.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260731_073024.html",
+    "sourceFile": "ai_opportunity_radar_20260731_103038.html",
     "items": [
       {
-        "id": "radar-5b5bb8a3a4b4",
+        "id": "radar-f5406df2ce80",
         "kind": "radar",
-        "title": "ThreatLocker Raises $190M to Counter Malicious AI Agents",
-        "summary": "GovInfoSecurity shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Show HN: ResiliReplay - Chaos testing for AI agents and MCP servers",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-30 20:52",
-        "displayDate": "2026-07-30 20:52",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEFyZVJ1WV9tTHZVZ1o2SHZoTElXTWZHa3RwUEtoenItQzdKQkM1THNZTG9FdDg3MWNuNHBqM1ZBT3F5V3NYaDVEbTU0aUZOS2wxYWl3dEMyYkEyOHQxS2ZWcFJoaUFYcXBPYjk1VWxVam1ZWFoyam5QSjRmdVltQzVGU3o0a29lLXJTR21UR2xTSXkyS2x4WFByMA",
-        "source": "News signal — verify before acting · Source: GovInfoSecurity · Time: 2026-07-30 20:52"
+        "score": 59,
+        "date": "2026-07-31 01:44",
+        "displayDate": "2026-07-31 01:44",
+        "url": "https://github.com/aliengineering-byte/resilireplay",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 01:44"
       },
       {
         "id": "radar-d0bc185bc144",
@@ -73,18 +73,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-27 00:54"
       },
       {
-        "id": "radar-d190e3035a24",
+        "id": "radar-81f12ef517f4",
         "kind": "radar",
-        "title": "Meshy just closed the biggest AI-3D funding round ever and half of Big Tech is already a customer",
-        "summary": "Startup Fortune shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Visions of Tomorrow: 3D or AI Design? Target Says That’s the Wrong Question.",
+        "summary": "Yahoo Finance reports: Visions of Tomorrow: 3D or AI Design?",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 97,
-        "date": "2026-07-27 19:05",
-        "displayDate": "2026-07-27 19:05",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3VRWU5tbDRhV0NjVmZkR2J0cWJ1cGZiNTNUX3gyVFFzLTZOSDRlaXI5clh1ZlNJSWw2NFh0emZ0dDBRc21ZdUd2ZVVCVWl5T1JPSDl3UEVhNHAyRTVXTERrN1dzOFRsVzZ6OXpZQjlkaW1sdWR2dl9pVXo2VlI4UkNVZGMxWktEUW5hS2dCZzBwR2taSGRlSE5kRUpNSHhISFpGQTBBRzdoWW1BOWszdEJoZ1JXMzZWQ2wyS1JoTVRvWlk",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-07-27 19:05"
+        "score": 100,
+        "date": "2026-07-30 20:15",
+        "displayDate": "2026-07-30 20:15",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lhNk55VlVTMjZiLUhaT01sdnJCSUNlc2treFpiS2NGZTFQVW1iSVFEdmpBUDFDOFk1V29KUGxKdnRoRFhxanZGckcwU1QzSEJzcE9WVGcwNlFQUUZqS3ZzcFI0WFJYWFBzanJDUGNRUGF3ODlKOWpKNzZiNzAyM0pHOTU0V1RaNmFhVElFWG9CZGNseWZLcw",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-30 20:15"
       },
       {
         "id": "radar-9810794e16e0",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: foreignpolicyjournal.com · Time: 2026-07-30 17:55"
       },
       {
-        "id": "radar-d6def23b06e8",
+        "id": "radar-d190e3035a24",
         "kind": "radar",
-        "title": "ASU researchers, private-sector collaborators publish research on AI-generated 3D models",
-        "summary": "ASU News reports: ASU researchers, private-sector collaborators publish research on AI-generated 3D models ASU News",
+        "title": "Meshy just closed the biggest AI-3D funding round ever and half of Big Tech is already a customer",
+        "summary": "startupfortune.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 92,
-        "date": "2026-07-28 18:20",
-        "displayDate": "2026-07-28 18:20",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFUwTkhLVDd3cVh0V2xnMmZhWjFBQm1scEJ0VXV4QWVTdVUxRGxub0tTY3ZBOTRNWE9uVG1fTlZWcUlLN1NKMFV3SDFYUVVqc3J0c2JKc0MyREIxWFBua1RaYzc3UDl1MnVScTBBdTZTTVZZb3VvV1V6bUVGZld6SlhHWnM4a2h2TUVUaHNOZEdETHhBZGFCeFBsdk9PSUlzVTRwVVc2dmNobWI0ajRQSllyYUw",
-        "source": "News signal — verify before acting · Source: ASU News · Time: 2026-07-28 18:20"
+        "score": 97,
+        "date": "2026-07-27 19:05",
+        "displayDate": "2026-07-27 19:05",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3VRWU5tbDRhV0NjVmZkR2J0cWJ1cGZiNTNUX3gyVFFzLTZOSDRlaXI5clh1ZlNJSWw2NFh0emZ0dDBRc21ZdUd2ZVVCVWl5T1JPSDl3UEVhNHAyRTVXTERrN1dzOFRsVzZ6OXpZQjlkaW1sdWR2dl9pVXo2VlI4UkNVZGMxWktEUW5hS2dCZzBwR2taSGRlSE5kRUpNSHhISFpGQTBBRzdoWW1BOWszdEJoZ1JXMzZWQ2wyS1JoTVRvWlk",
+        "source": "Trusted news / community signal · Source: startupfortune.com · Time: 2026-07-27 19:05"
       },
       {
         "id": "radar-6e2cbc347a66",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-29 17:01"
       },
       {
-        "id": "radar-aa9e5a0fd7ec",
+        "id": "radar-666bf5ec8518",
         "kind": "radar",
-        "title": "When AI Becomes the Attacker: Understanding Autonomous Offensive Security Agents",
-        "summary": "Resecurity reports: When AI Becomes the Attacker: Understanding Autonomous Offensive Security Agents Resecurity",
+        "title": "Cybersecurity's AI battle: Black Hat, alliances & agents",
+        "summary": "SiliconANGLE reports: Cybersecurity's AI battle: Black Hat, alliances & agents SiliconANGLE",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-07-30 17:48",
-        "displayDate": "2026-07-30 17:48",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkJIVlk1a3RPSnBGUktmLW5faVY4T0taM0I3dG1kcnk5Zmo0X055TlZkczBqNmpsQlFrN1RsamdxUVBkSWhCWTJOWGtOXzg0SUVqYTJpYURJQ3AtczNYdms1MExjX18wYXpvWTgyU1lzMmhVVTF5cXM1TGhMUUp5NEZCTWNPYWdQdWk5TXlXVWdhQ1pVdjlDWGpDbjlValdBTHd1QjFkejRGcWJNTHFfRThzUzgwcDQ5UTZF",
-        "source": "News signal — verify before acting · Source: Resecurity · Time: 2026-07-30 17:48"
+        "date": "2026-07-30 20:21",
+        "displayDate": "2026-07-30 20:21",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWlCaGFYZlpMUGlMR1l5blR4VjhfVEpkSHQ2ZWc5UlNqcUhkY0hES3NoRWU0N1pieDdBajN2clBQVWRldm9IMzllamVGYlk5Rmk2NVhrRzFzMTlVbmhwT3dHX1RqZUtQMHJxRTdmM0xPNVVtaUsyemlMdFFmeEEzb0J5ZnIxTDNV",
+        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-07-30 20:21"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T09:15:22.743072+08:00",
-        "nextRun": "2026-07-31T09:15:00+08:00",
+        "lastRun": "2026-07-31T09:15:26.874470+08:00",
+        "nextRun": "2026-08-01T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T08:31:10.107994+08:00",
-        "nextRun": "2026-07-31T09:31:10.447409+08:00",
+        "lastRun": "2026-07-31T10:12:43.299839+08:00",
+        "nextRun": "2026-07-31T11:13:21.524460+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T07:12:01.899340+08:00",
-        "nextRun": "2026-07-31T10:10:00+08:00",
+        "lastRun": "2026-07-31T10:12:42.531743+08:00",
+        "nextRun": "2026-07-31T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T09:02:36.782362+08:00",
-        "nextRun": "2026-07-31T09:04:36.782362+08:00",
+        "lastRun": "2026-07-31T10:41:53.464237+08:00",
+        "nextRun": "2026-07-31T10:43:53.464237+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T07:30:25.065772+08:00",
-        "nextRun": "2026-07-31T10:30:00+08:00",
+        "lastRun": "2026-07-31T10:30:38.339060+08:00",
+        "nextRun": "2026-07-31T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-30T09:37:51.122376+08:00",
-        "nextRun": "2026-07-31T09:30:00+08:00",
+        "lastRun": "2026-07-31T09:40:17.017393+08:00",
+        "nextRun": "2026-08-01T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T06:45:18.282461+08:00",
-        "nextRun": "2026-07-31T09:40:00+08:00",
+        "lastRun": "2026-07-31T09:44:11.920911+08:00",
+        "nextRun": "2026-07-31T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-31T09:03:54.740364+08:00"
+    "updatedAt": "2026-07-31T10:43:21.525460+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
