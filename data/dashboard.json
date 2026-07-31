@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-31T13:45:43+08:00",
+    "generatedAt": "2026-07-31T16:46:51+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-31_09-02-01.md",
-    "radarSource": "ai_opportunity_radar_20260731_133101.html",
+    "radarSource": "ai_opportunity_radar_20260731_163107.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260731_133101.html",
+    "sourceFile": "ai_opportunity_radar_20260731_163107.html",
     "items": [
       {
-        "id": "radar-f5406df2ce80",
+        "id": "radar-b65b613bb266",
         "kind": "radar",
-        "title": "Show HN: ResiliReplay - Chaos testing for AI agents and MCP servers",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Noisegate: A differential-privacy gateway for untrusted AI agents",
+        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-07-31 01:44",
-        "displayDate": "2026-07-31 01:44",
-        "url": "https://github.com/aliengineering-byte/resilireplay",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 01:44"
+        "score": 53,
+        "date": "2026-07-31 04:36",
+        "displayDate": "2026-07-31 04:36",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 04:36"
       },
       {
         "id": "radar-d3b00bc64d2e",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: tech-insider.org · Time: 2026-07-31 01:38"
       },
       {
-        "id": "radar-af9ace228078",
+        "id": "radar-e3c7429c8ed5",
         "kind": "radar",
-        "title": "Artificial Intelligence and law: What legal teams need to know",
-        "summary": "Thomson Reuters Legal Solutions reports: Artificial Intelligence and law: What legal teams need to know Thomson Reuters Legal Solutions",
+        "title": "AI MASTERCLASS TRAINING WORKSHOP & COURSE BY TOP KEYNOTE SPEAKER",
+        "summary": "futuristsspeakers.com is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-07-24 07:00",
-        "displayDate": "2026-07-24 07:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUlYtNkhpN1MtbU5uS3ZObjFjZ25jNV9SYXlJcGFkSExjenFTTjA2R3NOUl9QUGtYSUZoNWRrQmtOLXd2eFpIekxLU2xvZ0pabGY2YTBNeUEzVkpRZ2dKUDdIN3ZYNG15ZWJhOVU3MEVCVW5WanhNWThtY05pZDZIcTFn",
-        "source": "Trusted news / community signal · Source: Thomson Reuters Legal Solutions · Time: 2026-07-24 07:00"
+        "score": 78,
+        "date": "2026-07-30 12:24",
+        "displayDate": "2026-07-30 12:24",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclA3d2o3VlVyZkhnRGM3UHZtMmxhTmFScXNUemFMellZZXVKdDBrWFl5bzYzNVRTZHl2N05LcktnSE9KSThDdzh1TzVqMlNaTnFsdlYta0pXWmtMRkdHUVZ4M3ltTnE1V0R6NGNiblQyTFd5VTdONDh6WVdGb1BocUN3",
+        "source": "News signal — verify before acting · Source: futuristsspeakers.com · Time: 2026-07-30 12:24"
       },
       {
         "id": "radar-051b7e08c42e",
@@ -73,18 +73,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-07-27 00:54"
       },
       {
-        "id": "radar-81f12ef517f4",
+        "id": "radar-2a1b5520fcaa",
         "kind": "radar",
-        "title": "Visions of Tomorrow: 3D or AI Design? Target Says That’s the Wrong Question.",
-        "summary": "Yahoo Finance reports: Visions of Tomorrow: 3D or AI Design?",
+        "title": "Generative AI Speeds 3D Energetic Material Design for Custom Combustion",
+        "summary": "azom.com reports: Generative AI Speeds 3D Energetic Material Design for Custom Combustion azom.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-30 20:15",
-        "displayDate": "2026-07-30 20:15",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lhNk55VlVTMjZiLUhaT01sdnJCSUNlc2treFpiS2NGZTFQVW1iSVFEdmpBUDFDOFk1V29KUGxKdnRoRFhxanZGckcwU1QzSEJzcE9WVGcwNlFQUUZqS3ZzcFI0WFJYWFBzanJDUGNRUGF3ODlKOWpKNzZiNzAyM0pHOTU0V1RaNmFhVElFWG9CZGNseWZLcw",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-30 20:15"
+        "date": "2026-07-26 23:54",
+        "displayDate": "2026-07-26 23:54",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbTVGMzEtVjFBd0taWEhQcEJkN0xXNWRNX1JGZ2ZkN1R5YU9hTVB5dTRRT3VOeWlneF9wUTl2OWVVYWU4dFZSUERJTWt2Q1lrd0ZLVGdR",
+        "source": "News signal — verify before acting · Source: azom.com · Time: 2026-07-26 23:54"
       },
       {
         "id": "radar-f79c0ecd386c",
@@ -129,32 +129,32 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-29 17:01"
       },
       {
-        "id": "radar-e3c7429c8ed5",
+        "id": "radar-363d87efddd4",
         "kind": "radar",
-        "title": "AI MASTERCLASS TRAINING WORKSHOP & COURSE BY TOP KEYNOTE SPEAKER",
-        "summary": "futuristsspeakers.com is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Consultants have found an unlikely new career path: policing AI",
+        "summary": "businessinsider.com reports: Consultants have found an unlikely new career path: policing AI businessinsider.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-30 12:24",
-        "displayDate": "2026-07-30 12:24",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclA3d2o3VlVyZkhnRGM3UHZtMmxhTmFScXNUemFMellZZXVKdDBrWFl5bzYzNVRTZHl2N05LcktnSE9KSThDdzh1TzVqMlNaTnFsdlYta0pXWmtMRkdHUVZ4M3ltTnE1V0R6NGNiblQyTFd5VTdONDh6WVdGb1BocUN3",
-        "source": "News signal — verify before acting · Source: futuristsspeakers.com · Time: 2026-07-30 12:24"
+        "date": "2026-07-30 11:10",
+        "displayDate": "2026-07-30 11:10",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmNqZVZqY2pMY205N0FVWVBTcEszREZLT0kzVnN1TmNBSDJpVjlsS3QwYWpNdzZRUnk2RTd6WHM5TkxFV2xqSW9KN0hkbk5wajR5cXpIZnJucnBnNm5Rb29SN195SDk1aUdPeDhHdGVYRldGSzN1MGRfS1VxNXRJcWpvRXlHRjJQNWRZZkRHMmEweGFUZkU5RXZ1UTcxc2pCLUdXdURBaFotQk1J",
+        "source": "News signal — verify before acting · Source: businessinsider.com · Time: 2026-07-30 11:10"
       },
       {
-        "id": "radar-b65b613bb266",
+        "id": "radar-83fd354fa93e",
         "kind": "radar",
-        "title": "Noisegate: A differential-privacy gateway for untrusted AI agents",
-        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "AI agents are changing where cybersecurity seed funding lands",
+        "summary": "Help Net Security shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 53,
-        "date": "2026-07-31 04:36",
-        "displayDate": "2026-07-31 04:36",
-        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 04:36"
+        "score": 50,
+        "date": "2026-07-31 04:30",
+        "displayDate": "2026-07-31 04:30",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3VWeF92bTZ4bFJzdGxIMmo5clphdnFycFZ2dmFpSm5JYWo3VF9ROHNFbVJoX2s2c3pBTkZ6dVI5cFZDNmRHRlJuanRiQl96WXlqdE1nejd4bjN3UlFXazFQUkRNVElmRHMtMWJSYmNqVWowR0oyQ3QyaTVDZlhCWWdmRkYyRlE",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-07-31 04:30"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T09:03:54.738365+08:00",
-        "nextRun": "2026-07-31T15:00:00+08:00",
+        "lastRun": "2026-07-31T15:02:06.464649+08:00",
+        "nextRun": "2026-07-31T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T13:15:42.689123+08:00",
-        "nextRun": "2026-07-31T14:15:42.947253+08:00",
+        "lastRun": "2026-07-31T16:16:50.457113+08:00",
+        "nextRun": "2026-07-31T17:16:50.769309+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T13:11:59.715605+08:00",
-        "nextRun": "2026-07-31T16:10:00+08:00",
+        "lastRun": "2026-07-31T16:12:17.175364+08:00",
+        "nextRun": "2026-07-31T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T13:44:48.469689+08:00",
-        "nextRun": "2026-07-31T13:46:48.469689+08:00",
+        "lastRun": "2026-07-31T16:46:27.485679+08:00",
+        "nextRun": "2026-07-31T16:48:27.485679+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T13:31:01.189264+08:00",
-        "nextRun": "2026-07-31T16:30:00+08:00",
+        "lastRun": "2026-07-31T16:31:08.009934+08:00",
+        "nextRun": "2026-07-31T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T12:44:00.645552+08:00",
-        "nextRun": "2026-07-31T15:40:00+08:00",
+        "lastRun": "2026-07-31T15:46:13.199646+08:00",
+        "nextRun": "2026-07-31T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-31T13:45:42.948253+08:00"
+    "updatedAt": "2026-07-31T16:46:50.771309+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
