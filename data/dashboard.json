@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-07-31T16:46:51+08:00",
+    "generatedAt": "2026-07-31T19:48:25+08:00",
     "sourceCount": 4,
     "dailySource": "2026-07-31_09-02-01.md",
-    "radarSource": "ai_opportunity_radar_20260731_163107.html",
+    "radarSource": "ai_opportunity_radar_20260731_193042.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260731_163107.html",
+    "sourceFile": "ai_opportunity_radar_20260731_193042.html",
     "items": [
       {
-        "id": "radar-b65b613bb266",
+        "id": "radar-46157163b280",
         "kind": "radar",
-        "title": "Noisegate: A differential-privacy gateway for untrusted AI agents",
-        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Show HN: Secure Bearer JWT and JWKS pattern for headless AI agents (MCP #824)",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 53,
-        "date": "2026-07-31 04:36",
-        "displayDate": "2026-07-31 04:36",
-        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 04:36"
+        "score": 59,
+        "date": "2026-07-31 11:17",
+        "displayDate": "2026-07-31 11:17",
+        "url": "https://github.com/orgs/modelcontextprotocol/discussions/824",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-07-31 11:17"
       },
       {
         "id": "radar-d3b00bc64d2e",
@@ -87,10 +87,24 @@
         "source": "News signal — verify before acting · Source: azom.com · Time: 2026-07-26 23:54"
       },
       {
+        "id": "radar-d85a832a86e9",
+        "kind": "radar",
+        "title": "Enterprises give AI agents the keys to financial workflows, yet oversight lags behind -",
+        "summary": "Enterprise Times reports: Enterprises give AI agents the keys to financial workflows, yet oversight lags behind - Enterprise Times",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 51,
+        "date": "2026-07-31 11:25",
+        "displayDate": "2026-07-31 11:25",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1BCVFFJQnRibjRyTWc5Z1ZROWlEUlEtV19DYllnZjZPbTl5VTFKVkhqT2c5NzhNQVg4ZkM0cmJwVmZCUE1ESV9lOU9FU2ZjVHBqQ0xMaWVYWktURTFoY1d3Ry1JM0NGZ1FMWkFtanpJT0VOa1pkUm9EbjRuaEx3eWo2bnZoM0RlOXZUZER1YlpMRUVlX09Db3dsRkpsMlhNMHF1aFVrZi1OWDlkdk5zOElpbUxuZEdRSlFsSFozbXZiWTA5R245UlNR",
+        "source": "News signal — verify before acting · Source: Enterprise Times · Time: 2026-07-31 11:25"
+      },
+      {
         "id": "radar-f79c0ecd386c",
         "kind": "radar",
         "title": "OpenAI Trains Faculty and Researchers to Use Coding Agents",
-        "summary": "GovTech reports: OpenAI Trains Faculty and Researchers to Use Coding Agents GovTech",
+        "summary": "govtech.com reports: OpenAI Trains Faculty and Researchers to Use Coding Agents govtech.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -98,7 +112,7 @@
         "date": "2026-07-30 23:04",
         "displayDate": "2026-07-30 23:04",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXBWQS15RWpxMjY4SXhySGJleGlfTGlyU1NvVXVLZTNPa3VnZEV4N2QwSGtJTTFOalRNOXhKUjFtOG16UGVmNlVvek5sNEo1ME1hT2V4bWhqT0FGcVRxQXVLZjJsNDZwVnBRN3lTUmhyMk5vNDh0QTY5TjhMOHpLUDR6cEhMbnJRblRjbjBtSU4xQkVOektZc3lfa0J4WUZnMnc5Mw",
-        "source": "News signal — verify before acting · Source: GovTech · Time: 2026-07-30 23:04"
+        "source": "News signal — verify before acting · Source: govtech.com · Time: 2026-07-30 23:04"
       },
       {
         "id": "radar-d190e3035a24",
@@ -129,32 +143,18 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-29 17:01"
       },
       {
-        "id": "radar-363d87efddd4",
+        "id": "radar-4ea8b1cbdff2",
         "kind": "radar",
-        "title": "Consultants have found an unlikely new career path: policing AI",
-        "summary": "businessinsider.com reports: Consultants have found an unlikely new career path: policing AI businessinsider.com",
+        "title": "Meet Emmy",
+        "summary": "CanvasRebel Magazine is a current AI signal: Meet Emmy. Treat it as a lead to verify, not as final advice.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-07-30 11:10",
-        "displayDate": "2026-07-30 11:10",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmNqZVZqY2pMY205N0FVWVBTcEszREZLT0kzVnN1TmNBSDJpVjlsS3QwYWpNdzZRUnk2RTd6WHM5TkxFV2xqSW9KN0hkbk5wajR5cXpIZnJucnBnNm5Rb29SN195SDk1aUdPeDhHdGVYRldGSzN1MGRfS1VxNXRJcWpvRXlHRjJQNWRZZkRHMmEweGFUZkU5RXZ1UTcxc2pCLUdXdURBaFotQk1J",
-        "source": "News signal — verify before acting · Source: businessinsider.com · Time: 2026-07-30 11:10"
-      },
-      {
-        "id": "radar-83fd354fa93e",
-        "kind": "radar",
-        "title": "AI agents are changing where cybersecurity seed funding lands",
-        "summary": "Help Net Security shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-07-31 04:30",
-        "displayDate": "2026-07-31 04:30",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3VWeF92bTZ4bFJzdGxIMmo5clphdnFycFZ2dmFpSm5JYWo3VF9ROHNFbVJoX2s2c3pBTkZ6dVI5cFZDNmRHRlJuanRiQl96WXlqdE1nejd4bjN3UlFXazFQUkRNVElmRHMtMWJSYmNqVWowR0oyQ3QyaTVDZlhCWWdmRkYyRlE",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-07-31 04:30"
+        "date": "2026-07-30 00:41",
+        "displayDate": "2026-07-30 00:41",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MYmFkMDBJOWVKYjhIVUNPV0lTR2ZiRXJWSlJSY25jektCSUhOU29xenVhR0x6TTVva0Vxb2F0WWJOWEhNcHVxNV9hcw",
+        "source": "News signal — verify before acting · Source: CanvasRebel Magazine · Time: 2026-07-30 00:41"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T16:16:50.457113+08:00",
-        "nextRun": "2026-07-31T17:16:50.769309+08:00",
+        "lastRun": "2026-07-31T19:18:19.357469+08:00",
+        "nextRun": "2026-07-31T20:18:25.071252+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T16:12:17.175364+08:00",
-        "nextRun": "2026-07-31T19:10:00+08:00",
+        "lastRun": "2026-07-31T19:11:46.260719+08:00",
+        "nextRun": "2026-07-31T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T16:46:27.485679+08:00",
-        "nextRun": "2026-07-31T16:48:27.485679+08:00",
+        "lastRun": "2026-07-31T19:45:40.723941+08:00",
+        "nextRun": "2026-07-31T19:50:25.054741+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T16:31:08.009934+08:00",
-        "nextRun": "2026-07-31T19:30:00+08:00",
+        "lastRun": "2026-07-31T19:30:42.469131+08:00",
+        "nextRun": "2026-07-31T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-07-31T15:46:13.199646+08:00",
-        "nextRun": "2026-07-31T18:40:00+08:00",
+        "lastRun": "2026-07-31T18:44:49.023063+08:00",
+        "nextRun": "2026-07-31T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-07-31T16:46:50.771309+08:00"
+    "updatedAt": "2026-07-31T19:48:25.073252+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
