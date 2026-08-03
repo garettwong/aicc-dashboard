@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-04T04:28:02+08:00",
+    "generatedAt": "2026-08-04T04:59:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-03_09-01-49.md",
-    "radarSource": "ai_opportunity_radar_20260804_013114.html",
+    "radarSource": "ai_opportunity_radar_20260804_043019.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260804_013114.html",
+    "sourceFile": "ai_opportunity_radar_20260804_043019.html",
     "items": [
       {
-        "id": "radar-5d0831c9016e",
+        "id": "radar-508e83c304e0",
         "kind": "radar",
-        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=11, comments=0.",
+        "title": "Local-first AI agents with governed, approval-gated memory",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-08-03 16:17",
-        "displayDate": "2026-08-03 16:17",
-        "url": "https://armature.tech/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-03 16:17"
+        "score": 57,
+        "date": "2026-08-03 17:50",
+        "displayDate": "2026-08-03 17:50",
+        "url": "https://github.com/EXXETA/exxperts",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-03 17:50"
       },
       {
         "id": "radar-b75a5f05f288",
@@ -62,7 +62,7 @@
         "id": "radar-06adce4395aa",
         "kind": "radar",
         "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
-        "summary": "reuters.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "summary": "Reuters shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -70,27 +70,27 @@
         "date": "2026-07-29 17:01",
         "displayDate": "2026-07-29 17:01",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj",
-        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-07-29 17:01"
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-07-29 17:01"
       },
       {
-        "id": "radar-0e619482d06e",
+        "id": "radar-81f12ef517f4",
         "kind": "radar",
-        "title": "Andrej Karpathy Says AI Has Moved Beyond Simple Prompts After Claude Opus Builds 3D Lord of the Rings World",
-        "summary": "Benzinga reports: Andrej Karpathy Says AI Has Moved Beyond Simple Prompts After Claude Opus Builds 3D Lord of the Rings World Benzinga",
+        "title": "Visions of Tomorrow: 3D or AI Design? Target Says That’s the Wrong Question.",
+        "summary": "Yahoo Finance reports: Visions of Tomorrow: 3D or AI Design?",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-08-02 07:39",
-        "displayDate": "2026-08-02 07:39",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRW1mWkVOOEZ5LThqQ0ZhOEs5N1FGeWtyNEZEUmVkempQc0dFSXpWbWIxM3hyUUIxS3g0Tkx1dWxpYko2MEhXRnFESUdQN2lueDFCNUNQMG1mQWdzZWpDbG54Q3ozZVJyREpYX0F4Tm5FTG9lZ2p2cDluempEWmlqLTNCWlpsSFFCMUl2WkhIVzV4WmhZS19rVjYzTTI3SjdDQksxeEZnd0d0dWJKVHVYSjhzckJNR29kdkVRcWFrNG54YWZBcEw3TjV0N2V3RmJxNjBhdVlFMmE4cS12bU5SQ2tyN0RodEZ0aHV0SmVXcXZtdw",
-        "source": "News signal — verify before acting · Source: Benzinga · Time: 2026-08-02 07:39"
+        "date": "2026-07-30 20:15",
+        "displayDate": "2026-07-30 20:15",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lhNk55VlVTMjZiLUhaT01sdnJCSUNlc2treFpiS2NGZTFQVW1iSVFEdmpBUDFDOFk1V29KUGxKdnRoRFhxanZGckcwU1QzSEJzcE9WVGcwNlFQUUZqS3ZzcFI0WFJYWFBzanJDUGNRUGF3ODlKOWpKNzZiNzAyM0pHOTU0V1RaNmFhVElFWG9CZGNseWZLcw",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-30 20:15"
       },
       {
         "id": "radar-8917894b7c73",
         "kind": "radar",
         "title": "Zenity Raises $125 Million to Secure the Era of 1 Billion AI Agents",
-        "summary": "Business Wire shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "summary": "businesswire.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
@@ -98,7 +98,7 @@
         "date": "2026-08-03 13:15",
         "displayDate": "2026-08-03 13:15",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTdpNU1BSHZaUUw0RU1DY3RTejE0cGNEUDVOWlRtQTNUTDExUU5LM0Vhb2xwTUg3c1NFVW9wTDlhNS1Sa0M4UUJQZENkN2QxWEN3R1pFdDZiSllhaC16MGV6eWNHRUdSbC1QTm1JRE45OFpiWDFwcjhNS2pINVpXMk03R2N0QVd6VXp3VVJrZjZyQ3NiRHpHM0NsLUYtZThuRHBEYzUySkxOTVI2QTVmZWU5cFhLRC1yOUJGUUFGSWJxNHY5",
-        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-03 13:15"
+        "source": "News signal — verify before acting · Source: businesswire.com · Time: 2026-08-03 13:15"
       },
       {
         "id": "radar-f85110bb79f2",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: wiz.io · Time: 2026-08-03 14:02"
       },
       {
-        "id": "radar-81f12ef517f4",
+        "id": "radar-f43185591379",
         "kind": "radar",
-        "title": "Visions of Tomorrow: 3D or AI Design? Target Says That’s the Wrong Question.",
-        "summary": "Yahoo Finance reports: Visions of Tomorrow: 3D or AI Design?",
+        "title": "H&M Is Applying to AI Design What It Learned With 3D: Don’t Force It.",
+        "summary": "wwd.com reports: H&M Is Applying to AI Design What It Learned With 3D: Don’t Force It.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-30 20:15",
-        "displayDate": "2026-07-30 20:15",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lhNk55VlVTMjZiLUhaT01sdnJCSUNlc2treFpiS2NGZTFQVW1iSVFEdmpBUDFDOFk1V29KUGxKdnRoRFhxanZGckcwU1QzSEJzcE9WVGcwNlFQUUZqS3ZzcFI0WFJYWFBzanJDUGNRUGF3ODlKOWpKNzZiNzAyM0pHOTU0V1RaNmFhVElFWG9CZGNseWZLcw",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-30 20:15"
+        "date": "2026-07-29 18:55",
+        "displayDate": "2026-07-29 18:55",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUR1bUJORVJ5OHhQNkUyWk9fREJZczhGcmZBaWt5UVF4djkyUGhMQUMxeGRscHlsLXhFU0N6cHVqVXM0OVVoVzJvTnZKXzBWeE9CRUROQ0JwNnB3ZENrNmZ3YkZnRGFTRk1rRXhBczBJVVBLNzVfcUtPNmtLRlptMzJQeFhBUkRDSEhpdDl6dU85TTlkUENvS1lnS1VsV0Rzbmc",
+        "source": "News signal — verify before acting · Source: wwd.com · Time: 2026-07-29 18:55"
       },
       {
         "id": "radar-68a8fc3572e7",
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T03:57:05.164889+08:00",
-        "nextRun": "2026-08-04T04:58:02.200898+08:00",
+        "lastRun": "2026-08-04T04:28:05.632440+08:00",
+        "nextRun": "2026-08-04T05:29:03.054033+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T04:25:07.491334+08:00",
-        "nextRun": "2026-08-04T04:30:02.189657+08:00",
+        "lastRun": "2026-08-04T04:58:09.267860+08:00",
+        "nextRun": "2026-08-04T05:00:09.267860+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T01:31:14.112368+08:00",
-        "nextRun": "2026-08-04T04:30:00+08:00",
+        "lastRun": "2026-08-04T04:30:19.456327+08:00",
+        "nextRun": "2026-08-04T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-04T04:28:02.201898+08:00"
+    "updatedAt": "2026-08-04T04:59:03.058040+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
