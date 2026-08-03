@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-04T03:57:01+08:00",
+    "generatedAt": "2026-08-04T04:28:02+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-03_09-01-49.md",
     "radarSource": "ai_opportunity_radar_20260804_013114.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-08-04T04:10:15.793978+08:00",
+        "nextRun": "2026-08-04T07:10:00+08:00",
+        "message": "RuntimeError: HTTP 429: The usage limit has been reached"
+      },
+      {
         "id": "198f213f6827",
         "name": "X AI Tools & Business Collector — local only — every 3 hours",
         "enabled": true,
@@ -211,20 +222,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T03:27:01.033463+08:00",
-        "nextRun": "2026-08-04T04:27:01.365027+08:00",
+        "lastRun": "2026-08-04T03:57:05.164889+08:00",
+        "nextRun": "2026-08-04T04:58:02.200898+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-08-04T01:13:16.360099+08:00",
-        "nextRun": "2026-08-04T04:10:00+08:00",
-        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T03:55:06.858614+08:00",
-        "nextRun": "2026-08-04T03:57:06.858614+08:00",
+        "lastRun": "2026-08-04T04:25:07.491334+08:00",
+        "nextRun": "2026-08-04T04:30:02.189657+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-04T03:57:01.365027+08:00"
+    "updatedAt": "2026-08-04T04:28:02.201898+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
