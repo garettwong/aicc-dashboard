@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-05T04:48:38+08:00",
+    "generatedAt": "2026-08-05T07:48:54+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-04_09-01-49.md",
-    "radarSource": "ai_opportunity_radar_20260805_043058.html",
+    "radarSource": "ai_opportunity_radar_20260805_073113.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260805_043058.html",
+    "sourceFile": "ai_opportunity_radar_20260805_073113.html",
     "items": [
       {
-        "id": "radar-cf8d384ac440",
+        "id": "radar-2d496cb629db",
         "kind": "radar",
-        "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=8, comments=2.",
+        "title": "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
+        "summary": "siliconangle.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-08-04 18:06",
-        "displayDate": "2026-08-04 18:06",
-        "url": "https://github.com/agentrust-io/cmcp",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-04 18:06"
+        "score": 50,
+        "date": "2026-08-04 16:52",
+        "displayDate": "2026-08-04 16:52",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR213bFV4SEtadUI3WDE4UGNyTnM0N0x3XzJiUGFCcmJ1WnlCMVkzdmZ2MlJ6ZkQ3a3MwUzNOeVZ1Y3hxRnVhR0NCSUZseEdCM0ZQUWZZal84NnlnZmNubU81T3U0azJmNG1ULVRfcmxkaHhzOXQycTJ1aFlheDE2c3NXWDU5UF9rb3pibk5RSVRFUlIyX1FQb1Y5RWpQUVNKc0htNWVkSmFVRjhjSmxjSnI4T2YzREpETGFfMjB5Wl8",
+        "source": "News signal — verify before acting · Source: siliconangle.com · Time: 2026-08-04 16:52"
       },
       {
         "id": "radar-e6f321f7e182",
@@ -73,18 +73,46 @@
         "source": "Official / vendor signal · Source: Figma · Time: 2026-08-03 16:02"
       },
       {
-        "id": "radar-81f12ef517f4",
+        "id": "radar-7d29a18414a8",
         "kind": "radar",
-        "title": "Visions of Tomorrow: 3D or AI Design? Target Says That’s the Wrong Question.",
-        "summary": "Yahoo Finance reports: Visions of Tomorrow: 3D or AI Design?",
+        "title": "Show HN: Mint MCP – Generate 3D assets from coding agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-07-30 20:15",
-        "displayDate": "2026-07-30 20:15",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lhNk55VlVTMjZiLUhaT01sdnJCSUNlc2treFpiS2NGZTFQVW1iSVFEdmpBUDFDOFk1V29KUGxKdnRoRFhxanZGckcwU1QzSEJzcE9WVGcwNlFQUUZqS3ZzcFI0WFJYWFBzanJDUGNRUGF3ODlKOWpKNzZiNzAyM0pHOTU0V1RaNmFhVElFWG9CZGNseWZLcw",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-30 20:15"
+        "date": "2026-08-04 23:13",
+        "displayDate": "2026-08-04 23:13",
+        "url": "https://mcp.mint.gg/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-04 23:13"
+      },
+      {
+        "id": "radar-cb9765093f9d",
+        "kind": "radar",
+        "title": "Ten Sparrows builds AI agents for nonprofits, churches, and small businesses",
+        "summary": "atlantanewsfirst.com reports: Ten Sparrows builds AI agents for nonprofits, churches, and small businesses atlantanewsfirst.com",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-08-04 19:34",
+        "displayDate": "2026-08-04 19:34",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVV0RFhqRDdvTHlIT1Bmc0NmdFNpX3E0bVFkWTNtQzZ1NmNPd1RxVU5DU3hPcDJDMHhFMnZtUlBuM3dxOHFucEN4bzdtWjkyUV9GbVVRWjhmbU5hLUp1NlFreVo0N2lUX2xnYjd3SmNWT3NqZGd0ZFZxZTNDSWM4c0VGb3FyZURad1RHNlpSWmdxVVZVeEl2YkFrNXBKYXNSNWlNQldSZTdCVTBXaU9XRdIBxAFBVV95cUxPbjNqRVo3MFpTQzFTNzE4aUVYT1dZc01yalBQY242T0NDckd5VUJrQWxhVldSUHVtc0pmSDRIcUJhV0llTlB4YzZNX0QxeXl4UDlKOU9JRkVHcV9VNEZHWGs1VWpkMU9Fdzl0Qzd3YU5FdnJMN0xzNU5EUnVhVzhXN2ZpLVcxX29ra3RHMkZIcUZYYVowaGtJZ2Q0Ymd2RTFwZDhMTnNyTHBrSmNGbXRMUnE1NFc5akNaZ1Jpai1MalEzOG80",
+        "source": "News signal — verify before acting · Source: atlantanewsfirst.com · Time: 2026-08-04 19:34"
+      },
+      {
+        "id": "radar-472a845ff8f2",
+        "kind": "radar",
+        "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
+        "summary": "samsung.com reports: Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure samsung.com",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-08-04 19:30",
+        "displayDate": "2026-08-04 19:30",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFBBLTdxMWxLN3djSUtCaFNxZjFRbUdrcE9xTDdpbE91WTFVUEIzV1V5QjBMcDZJanF2YWQ0NDVLRFhlQmJac1RJNGF0NEpjNFNiMHJPMEpBVHFic2o4RENuQjFlVWdMdUlEY20wVjktZG5abDluZXA0NzVQN3pvMUNESDhCLUNPMVZLTnhNWlVoQ2w5ckpXV3BDRWJFOUcxOEJ4cDZjVHdLSEpJN3RLeUd3WHFuSjFHekotLU9JWTdONFVQ",
+        "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-04 19:30"
       },
       {
         "id": "radar-47e6aca67f4e",
@@ -95,38 +123,24 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-04 17:06",
-        "displayDate": "2026-08-04 17:06",
+        "date": "2026-08-04 17:05",
+        "displayDate": "2026-08-04 17:05",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRnVCMXZfOVRDQ0pkMWlYYWlxTWt2UmJDRWVONmpYc1ZxbFBjSThDTUNpczBEbi1lREdOZDgxcmVGMkRFVUdjbFgtVE91R2w4Q1M1NDE0UmJQVW5OZDREYVBORU1yYXlzd2k0aGE3ZWJzMlZ4dFZZTzVOb3NGQU5pYm5EaWdTdG5RUVhHNTJBbXgyUUtsWklKV2V6b1FBbnM5RHpwcWxva0U5M3N1UDV3SFZoUW5vSGdaVlZoLWU3d2ttcjd0Zy0tTWdn",
-        "source": "Trusted news / community signal · Source: The Information · Time: 2026-08-04 17:06"
+        "source": "Trusted news / community signal · Source: The Information · Time: 2026-08-04 17:05"
       },
       {
-        "id": "radar-73c7444016dc",
+        "id": "radar-41c18ed27636",
         "kind": "radar",
-        "title": "If You Own a 3D Printer, You Absolutely Need to Try Hi3D",
-        "summary": "Tom's Hardware reports: If You Own a 3D Printer, You Absolutely Need to Try Hi3D Tom's Hardware",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 97,
-        "date": "2026-08-04 16:42",
-        "displayDate": "2026-08-04 16:42",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzUxMkpwR01YS0lCMjJRMHcwRnI1Uy1WNDlJdFBzVGxiMEJmb3pJWElFdUxZS1lYX3k0aGl3NHVWZG1ENUh5aXhBcHlFUjQ2eWE4RlZXb3p5LS1VLXE0YUhJZkJqOC1KakZjT2t2eUhHSGFHTjhHc0trbllUa0FZcnE5Rmd2OERnVmdjYlU1RS1YX3ZuMm8zdUpzQlY",
-        "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-08-04 16:42"
-      },
-      {
-        "id": "radar-08358105f52a",
-        "kind": "radar",
-        "title": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout",
-        "summary": "Reuters reports: Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout Reuters",
+        "title": "Meta, Anthropic, Google, OpenAI to meet with Trump White House amid rogue AI agent fallout By Reuters",
+        "summary": "Investing.com reports: Meta, Anthropic, Google, OpenAI to meet with Trump White House amid rogue AI agent fallout By Reuters Investing.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 87,
-        "date": "2026-08-04 15:34",
-        "displayDate": "2026-08-04 15:34",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-04 15:34"
+        "score": 82,
+        "date": "2026-08-04 14:46",
+        "displayDate": "2026-08-04 14:46",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWThnVnhoNW1rUm9lMEN4bG5vMUFwQWtfSklieDA5Q1RJeTYzTm1HRUgzNHI4SnJfNl82Nlp3aWVQWk1rTldkZDFwMDZvSXdQWHlyYTFmNExjQzdocDItNGUxbVZVcTlBamdYdlYtR2VYd2ZWX0lzYlVRU2d3V2N4WENIOXpEYlBpNmMyU1UwNlVqUXBlUjMzRmZMNkVnT2xZRDJsSVg1a2ZZdnVXMDh2WGdFZ29TVmNjTm15OEh4bGlWRHVob0lFdHV1aV9rUWdEVHZQOU1iMmFqZVJF",
+        "source": "News signal — verify before acting · Source: Investing.com · Time: 2026-08-04 14:46"
       },
       {
         "id": "radar-dd3a818a48c2",
@@ -141,20 +155,6 @@
         "displayDate": "2026-07-31 23:09",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjZvZjlTbDI3MUxoTURqUU81N1VLUExIZEI2QVZBN21JSkt2WW1BYXhtOXp5WV9PLWRlYng4ZDN2MEZFWEhZc2d5dVRyQjY4Z0J6ZjZaRURjbGZVd0dhQ0EzWmpmVjUxaDNHc2UtM3ZCMm5sTW01SDdLb0lLSVFjU09HUHZwamstZ1VpT0M2d3ZqemtjX1R4a3lCWVZERV9Ec1lLUk9TQ3FyTVhERk40",
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-07-31 23:09"
-      },
-      {
-        "id": "radar-2d496cb629db",
-        "kind": "radar",
-        "title": "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
-        "summary": "SiliconANGLE shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-04 16:52",
-        "displayDate": "2026-08-04 16:52",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR213bFV4SEtadUI3WDE4UGNyTnM0N0x3XzJiUGFCcmJ1WnlCMVkzdmZ2MlJ6ZkQ3a3MwUzNOeVZ1Y3hxRnVhR0NCSUZseEdCM0ZQUWZZal84NnlnZmNubU81T3U0azJmNG1ULVRfcmxkaHhzOXQycTJ1aFlheDE2c3NXWDU5UF9rb3pibk5RSVRFUlIyX1FQb1Y5RWpQUVNKc0htNWVkSmFVRjhjSmxjSnI4T2YzREpETGFfMjB5Wl8",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-08-04 16:52"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T04:18:37.722690+08:00",
-        "nextRun": "2026-08-05T05:18:38.253820+08:00",
+        "lastRun": "2026-08-05T07:18:53.532195+08:00",
+        "nextRun": "2026-08-05T08:18:54.005351+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T04:12:12.829421+08:00",
-        "nextRun": "2026-08-05T07:10:00+08:00",
+        "lastRun": "2026-08-05T07:12:11.601570+08:00",
+        "nextRun": "2026-08-05T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T04:46:45.794951+08:00",
-        "nextRun": "2026-08-05T04:48:45.794951+08:00",
+        "lastRun": "2026-08-05T07:46:59.823075+08:00",
+        "nextRun": "2026-08-05T07:48:59.823075+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T04:30:58.067867+08:00",
-        "nextRun": "2026-08-05T07:30:00+08:00",
+        "lastRun": "2026-08-05T07:31:13.469093+08:00",
+        "nextRun": "2026-08-05T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T03:45:16.984920+08:00",
-        "nextRun": "2026-08-05T06:40:00+08:00",
+        "lastRun": "2026-08-05T06:44:46.839140+08:00",
+        "nextRun": "2026-08-05T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-05T04:48:38.254820+08:00"
+    "updatedAt": "2026-08-05T07:48:54.007354+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
