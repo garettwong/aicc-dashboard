@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-05T01:47:31+08:00",
+    "generatedAt": "2026-08-05T04:48:38+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-04_09-01-49.md",
-    "radarSource": "ai_opportunity_radar_20260805_013051.html",
+    "radarSource": "ai_opportunity_radar_20260805_043058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260805_013051.html",
+    "sourceFile": "ai_opportunity_radar_20260805_043058.html",
     "items": [
       {
-        "id": "radar-2d496cb629db",
+        "id": "radar-cf8d384ac440",
         "kind": "radar",
-        "title": "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
-        "summary": "SiliconANGLE shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=8, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-04 16:52",
-        "displayDate": "2026-08-04 16:52",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR213bFV4SEtadUI3WDE4UGNyTnM0N0x3XzJiUGFCcmJ1WnlCMVkzdmZ2MlJ6ZkQ3a3MwUzNOeVZ1Y3hxRnVhR0NCSUZseEdCM0ZQUWZZal84NnlnZmNubU81T3U0azJmNG1ULVRfcmxkaHhzOXQycTJ1aFlheDE2c3NXWDU5UF9rb3pibk5RSVRFUlIyX1FQb1Y5RWpQUVNKc0htNWVkSmFVRjhjSmxjSnI4T2YzREpETGFfMjB5Wl8",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-08-04 16:52"
+        "score": 59,
+        "date": "2026-08-04 18:06",
+        "displayDate": "2026-08-04 18:06",
+        "url": "https://github.com/agentrust-io/cmcp",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-04 18:06"
       },
       {
         "id": "radar-e6f321f7e182",
@@ -101,18 +101,18 @@
         "source": "Trusted news / community signal · Source: The Information · Time: 2026-08-04 17:06"
       },
       {
-        "id": "radar-81040fd84d8f",
+        "id": "radar-73c7444016dc",
         "kind": "radar",
-        "title": "Alibaba-Backed 3D AI Startup Vast Is Weighing a Hong Kong Listing",
-        "summary": "Startup Fortune reports: Alibaba-Backed 3D AI Startup Vast Is Weighing a Hong Kong Listing Startup Fortune",
+        "title": "If You Own a 3D Printer, You Absolutely Need to Try Hi3D",
+        "summary": "Tom's Hardware reports: If You Own a 3D Printer, You Absolutely Need to Try Hi3D Tom's Hardware",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 97,
-        "date": "2026-08-04 04:32",
-        "displayDate": "2026-08-04 04:32",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkFROHJjQnFkbk1OV1pnZlgxX0gwa1FCM0xfSThOemhVeWszN05wbTZxdTJuSENPbWZJQXAwakhuMUUwenZZQTRaLXhjMGI0aDFvNGJCVktkRG82SGoxdURJTGI2MUpCZTJBUmRZOUJoeEFvRTRldHRuOXdScFZxS3J2U1Z3QUJJUHBxcmVFcXlFZThQdmRxUw",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-08-04 04:32"
+        "date": "2026-08-04 16:42",
+        "displayDate": "2026-08-04 16:42",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzUxMkpwR01YS0lCMjJRMHcwRnI1Uy1WNDlJdFBzVGxiMEJmb3pJWElFdUxZS1lYX3k0aGl3NHVWZG1ENUh5aXhBcHlFUjQ2eWE4RlZXb3p5LS1VLXE0YUhJZkJqOC1KakZjT2t2eUhHSGFHTjhHc0trbllUa0FZcnE5Rmd2OERnVmdjYlU1RS1YX3ZuMm8zdUpzQlY",
+        "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-08-04 16:42"
       },
       {
         "id": "radar-08358105f52a",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-07-31 23:09"
       },
       {
-        "id": "radar-a26972b8ed35",
+        "id": "radar-2d496cb629db",
         "kind": "radar",
-        "title": "When AI Agents Meet Real Infrastructure: Hype, Human Error or a Genuine New Threat?",
-        "summary": "itsecurityguru.org reports: When AI Agents Meet Real Infrastructure: Hype, Human Error or a Genuine New Threat?",
+        "title": "Obsidian Security raises $85M as AI agents create cybersecurity’s next major attack surface",
+        "summary": "SiliconANGLE shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-08-04 15:09",
-        "displayDate": "2026-08-04 15:09",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1lPZHZiQm9WX21DUDlJdGswVHprNW4xV0ZJc0ZISy1rTjE0M1pzd3JjajdoVk4wVFFTVGNfMGhyRzlMYUdBbDl4VmxVbmVJSmh0OUlmdmxMWENFc3BkLWkyZnM3dlBYRzB6VXEtZWtQUXV0ZU84b2dlaEZrSHFjRS1DclRwbTQ1M1VmQWttNUw0UmJNNi1JY0RWaEhsTUpDN29HMHk5R3FlTlZzby11ZmlYMHlUa3FhY0EyQTNfTTU",
-        "source": "News signal — verify before acting · Source: itsecurityguru.org · Time: 2026-08-04 15:09"
+        "date": "2026-08-04 16:52",
+        "displayDate": "2026-08-04 16:52",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR213bFV4SEtadUI3WDE4UGNyTnM0N0x3XzJiUGFCcmJ1WnlCMVkzdmZ2MlJ6ZkQ3a3MwUzNOeVZ1Y3hxRnVhR0NCSUZseEdCM0ZQUWZZal84NnlnZmNubU81T3U0azJmNG1ULVRfcmxkaHhzOXQycTJ1aFlheDE2c3NXWDU5UF9rb3pibk5RSVRFUlIyX1FQb1Y5RWpQUVNKc0htNWVkSmFVRjhjSmxjSnI4T2YzREpETGFfMjB5Wl8",
+        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-08-04 16:52"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T01:16:40.946359+08:00",
-        "nextRun": "2026-08-05T02:17:31.379514+08:00",
+        "lastRun": "2026-08-05T04:18:37.722690+08:00",
+        "nextRun": "2026-08-05T05:18:38.253820+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T01:13:06.430957+08:00",
-        "nextRun": "2026-08-05T04:10:00+08:00",
+        "lastRun": "2026-08-05T04:12:12.829421+08:00",
+        "nextRun": "2026-08-05T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T01:46:37.716997+08:00",
-        "nextRun": "2026-08-05T01:48:37.716997+08:00",
+        "lastRun": "2026-08-05T04:46:45.794951+08:00",
+        "nextRun": "2026-08-05T04:48:45.794951+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T01:30:51.308065+08:00",
-        "nextRun": "2026-08-05T04:30:00+08:00",
+        "lastRun": "2026-08-05T04:30:58.067867+08:00",
+        "nextRun": "2026-08-05T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T00:44:14.132093+08:00",
-        "nextRun": "2026-08-05T03:40:00+08:00",
+        "lastRun": "2026-08-05T03:45:16.984920+08:00",
+        "nextRun": "2026-08-05T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-05T01:47:31.380514+08:00"
+    "updatedAt": "2026-08-05T04:48:38.254820+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
