@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-04T09:04:42+08:00",
+    "generatedAt": "2026-08-04T10:07:11+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-04_09-01-49.md",
     "radarSource": "ai_opportunity_radar_20260804_073023.html",
@@ -172,17 +172,6 @@
         "message": "RuntimeError: HTTP 429: The usage limit has been reached"
       },
       {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-08-04T06:40:21.157637+08:00",
-        "nextRun": "2026-08-04T09:40:00+08:00",
-        "message": "RuntimeError: HTTP 429: The usage limit has been reached"
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
@@ -211,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-03T09:15:46.415787+08:00",
-        "nextRun": "2026-08-04T09:15:00+08:00",
+        "lastRun": "2026-08-04T09:15:25.500530+08:00",
+        "nextRun": "2026-08-05T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -222,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T08:31:09.336708+08:00",
-        "nextRun": "2026-08-04T09:31:09.606463+08:00",
+        "lastRun": "2026-08-04T09:36:59.890380+08:00",
+        "nextRun": "2026-08-04T10:37:11.576721+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-04T09:04:15.447414+08:00",
-        "nextRun": "2026-08-04T09:06:15.447414+08:00",
+        "lastRun": "2026-08-04T10:04:16.944742+08:00",
+        "nextRun": "2026-08-04T10:09:11.559214+08:00",
         "message": "unused"
       },
       {
@@ -255,9 +244,20 @@
         "state": "ok",
         "schedule": "30 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-03T09:37:45.145056+08:00",
-        "nextRun": "2026-08-04T09:30:00+08:00",
+        "lastRun": "2026-08-04T09:36:59.333487+08:00",
+        "nextRun": "2026-08-05T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-08-04T09:44:35.537974+08:00",
+        "nextRun": "2026-08-04T12:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-04T09:04:42.401522+08:00"
+    "updatedAt": "2026-08-04T10:07:11.577720+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
