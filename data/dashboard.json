@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-05T21:57:20+08:00",
+    "generatedAt": "2026-08-05T22:28:20+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-05_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260805_193038.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-08-05T19:11:35.301248+08:00",
-        "nextRun": "2026-08-05T22:10:00+08:00",
-        "message": "RuntimeError: Connection error."
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
@@ -211,9 +200,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T21:27:19.605235+08:00",
-        "nextRun": "2026-08-05T22:27:19.823112+08:00",
+        "lastRun": "2026-08-05T21:57:23.501470+08:00",
+        "nextRun": "2026-08-05T22:58:20.585226+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-08-05T22:11:45.561402+08:00",
+        "nextRun": "2026-08-06T01:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T21:55:22.695603+08:00",
-        "nextRun": "2026-08-05T21:57:22.695603+08:00",
+        "lastRun": "2026-08-05T22:25:23.164586+08:00",
+        "nextRun": "2026-08-05T22:30:20.575709+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-05T21:57:19.824113+08:00"
+    "updatedAt": "2026-08-05T22:28:20.585226+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
