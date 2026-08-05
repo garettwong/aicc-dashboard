@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-05T18:54:19+08:00",
+    "generatedAt": "2026-08-05T19:25:22+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-05_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260805_163033.html",
@@ -161,6 +161,28 @@
   "health": {
     "jobs": [
       {
+        "id": "7c5cdfdce2e0",
+        "name": "AICC Dashboard Data Sync",
+        "enabled": true,
+        "state": "error",
+        "schedule": "every 30m",
+        "lastStatus": "error",
+        "lastRun": "2026-08-05T18:54:32.154564+08:00",
+        "nextRun": "2026-08-05T19:55:20.038792+08:00",
+        "message": "Script exited with code 1 stderr: Traceback (most recent call last): File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V2\\scripts\\publish_if_changed.py\", line 45, in <module> raise SystemExit(main()) ^^^^^^ File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V"
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-08-05T19:11:35.301248+08:00",
+        "nextRun": "2026-08-05T22:10:00+08:00",
+        "message": "RuntimeError: Connection error."
+      },
+      {
         "id": "198f213f6827",
         "name": "X AI Tools & Business Collector — local only — every 3 hours",
         "enabled": true,
@@ -205,36 +227,14 @@
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
-        "id": "7c5cdfdce2e0",
-        "name": "AICC Dashboard Data Sync",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "every 30m",
-        "lastStatus": "ok",
-        "lastRun": "2026-08-05T18:24:18.462620+08:00",
-        "nextRun": "2026-08-05T19:24:18.788858+08:00",
-        "message": "No recent error."
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-08-05T16:12:17.467113+08:00",
-        "nextRun": "2026-08-05T19:10:00+08:00",
-        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
-      },
-      {
         "id": "94b67a9712b2",
         "name": "Live AI usage API collector",
         "enabled": true,
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T18:53:46.400247+08:00",
-        "nextRun": "2026-08-05T18:55:46.400247+08:00",
+        "lastRun": "2026-08-05T19:23:47.541099+08:00",
+        "nextRun": "2026-08-05T19:25:47.541099+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-05T18:54:18.789857+08:00"
+    "updatedAt": "2026-08-05T19:25:20.046807+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
