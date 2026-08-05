@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-05T16:53:14+08:00",
+    "generatedAt": "2026-08-05T18:54:19+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-05_09-03-05.md",
     "radarSource": "ai_opportunity_radar_20260805_163033.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-08-05T18:41:32.507818+08:00",
+        "nextRun": "2026-08-05T21:40:00+08:00",
+        "message": "RuntimeError: Connection error."
+      },
+      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
@@ -200,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T16:23:13.947152+08:00",
-        "nextRun": "2026-08-05T17:23:14.416482+08:00",
+        "lastRun": "2026-08-05T18:24:18.462620+08:00",
+        "nextRun": "2026-08-05T19:24:18.788858+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-05T16:50:20.303609+08:00",
-        "nextRun": "2026-08-05T16:55:14.402971+08:00",
+        "lastRun": "2026-08-05T18:53:46.400247+08:00",
+        "nextRun": "2026-08-05T18:55:46.400247+08:00",
         "message": "unused"
       },
       {
@@ -247,17 +258,6 @@
         "lastRun": "2026-08-05T09:36:36.567487+08:00",
         "nextRun": "2026-08-06T09:30:00+08:00",
         "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-08-05T15:44:21.831435+08:00",
-        "nextRun": "2026-08-05T18:40:00+08:00",
-        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-05T16:53:14.418482+08:00"
+    "updatedAt": "2026-08-05T18:54:18.789857+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
