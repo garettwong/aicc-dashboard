@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-06T16:38:46+08:00",
+    "generatedAt": "2026-08-06T19:45:55+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-06_09-02-12.md",
-    "radarSource": "ai_opportunity_radar_20260806_163102.html",
+    "radarSource": "ai_opportunity_radar_20260806_193107.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260806_163102.html",
+    "sourceFile": "ai_opportunity_radar_20260806_193107.html",
     "items": [
       {
         "id": "radar-4ef389b14e20",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-08-06 08:20"
       },
       {
-        "id": "radar-0340b6e43e54",
+        "id": "radar-68a8fc3572e7",
         "kind": "radar",
-        "title": "Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner",
-        "summary": "Yahoo Finance reports: Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner Yahoo Finance",
+        "title": "Big Tech places philanthropic bet on AI training",
+        "summary": "The Business Journals is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 90,
-        "date": "2026-07-31 13:00",
-        "displayDate": "2026-07-31 13:00",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3BPS2VmY05QVkZpRkNobnZyU3AwZzBkWkt1V3FNNzF3TzNGMzJPNGlOeU42bWllUkUwR0RlRjZ6RV8yZDlycC1hQ0U0Z3NNUDhqdkhfOGE4b0UteVRLOUpWVVJ5Z2Q0UG4zbF9ORlBMcE9nOXhTVUFGbzhWVmxMMXpUZDFtV04yNFNqdUIwdVFjWGNkbGxwT0NrZjA",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-31 13:00"
+        "date": "2026-07-31 13:03",
+        "displayDate": "2026-07-31 13:03",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkJOWnpUWXZMd18xOGJQVDFtd2xfelVldm5uMnVCbkJVT3FDeUtxbTF3aFFoX0pTR2tkUF91TGQ4Mkw4NzBIU2N0WE1sVDlpS0ZWNXBhSzJMeHdhTl9BdGpzX0psckRHbmJwOUk0Tk5obHZXRUFQaTdsNWcxQllOU2ZFb3ZoQlJwcU43VHFEMlNtdE1DbkJzWGYxZnNDZw",
+        "source": "News signal — verify before acting · Source: The Business Journals · Time: 2026-07-31 13:03"
       },
       {
         "id": "radar-dd3a818a48c2",
@@ -90,7 +90,7 @@
         "id": "radar-976b8b97154e",
         "kind": "radar",
         "title": "Meta launches Muse Code: an AI agent for large codebases",
-        "summary": "Techzine Global flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "techzine.eu flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -98,13 +98,13 @@
         "date": "2026-08-06 07:07",
         "displayDate": "2026-08-06 07:07",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFNSdUw3N29LVDFGb2tGOHprRjBGcUhKbmlzeTBGYXV3YXpyeHZSZ2V1Um1RTnVaaWo4Z045ZVk4ZXh0bi1qWmZtUF9pWkVyU0duVUt5b1QxSThiTEo4VG5ab2d3dTZSTjU2VXE0S05lTDBhMDcwdF9ab2p1TFdRUmo0d0xFSHpLVUZEOFZVRmpRNDB3ZzdyV0ZJMFMzVzQz",
-        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-08-06 07:07"
+        "source": "News signal — verify before acting · Source: techzine.eu · Time: 2026-08-06 07:07"
       },
       {
         "id": "radar-dfc3b1d26236",
         "kind": "radar",
         "title": "Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead",
-        "summary": "bloomberg.com reports: Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead bloomberg.com",
+        "summary": "Bloomberg.com reports: Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead Bloomberg.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -112,49 +112,49 @@
         "date": "2026-08-04 19:30",
         "displayDate": "2026-08-04 19:30",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWxMUlFfSVRZeWNNejh2Y1RDWEEwTjBRLUhRYjl4TndBVkRxeVA5ZTdvMTdkMlN2NWQ4OHEybV9CM3gtY1kyRGRNVzR6bjIwZWFQSldud2RFdFNfdHh2MV9JOUlSRHRGRnRUeTZjTGVGaVBySG5fbEttbkRyNTNKVFRhcUhBOFlyWi1MNmRLWUhRUlBpYkZkakhnRnR3NW5FR21LdjZKb00wUmd3dDVsdEp3",
-        "source": "Trusted news / community signal · Source: bloomberg.com · Time: 2026-08-04 19:30"
+        "source": "Trusted news / community signal · Source: Bloomberg.com · Time: 2026-08-04 19:30"
       },
       {
-        "id": "radar-6084e1a928de",
+        "id": "radar-0340b6e43e54",
         "kind": "radar",
-        "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing",
-        "summary": "The Information reports: A Meta AI Model Hacked Another Company During Cybersecurity Testing The Information",
+        "title": "Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner",
+        "summary": "Yahoo Finance reports: Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner Yahoo Finance",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 81,
-        "date": "2026-08-05 22:18",
-        "displayDate": "2026-08-05 22:18",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ",
-        "source": "Trusted news / community signal · Source: The Information · Time: 2026-08-05 22:18"
+        "score": 90,
+        "date": "2026-07-31 13:00",
+        "displayDate": "2026-07-31 13:00",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3BPS2VmY05QVkZpRkNobnZyU3AwZzBkWkt1V3FNNzF3TzNGMzJPNGlOeU42bWllUkUwR0RlRjZ6RV8yZDlycC1hQ0U0Z3NNUDhqdkhfOGE4b0UteVRLOUpWVVJ5Z2Q0UG4zbF9ORlBMcE9nOXhTVUFGbzhWVmxMMXpUZDFtV04yNFNqdUIwdVFjWGNkbGxwT0NrZjA",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-31 13:00"
       },
       {
-        "id": "radar-8fd70d890d25",
+        "id": "radar-54395945bca5",
         "kind": "radar",
-        "title": "Most AI Fails Without Human Workflow Design",
-        "summary": "inc.com reports: Most AI Fails Without Human Workflow Design inc.com",
+        "title": "Design Operations: What It Is and Why It Matters",
+        "summary": "Figma reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 61,
-        "date": "2026-08-05 13:00",
-        "displayDate": "2026-08-05 13:00",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDNkOFplbzFhemZfa3JldnU2bVRnTE50blB0dV9kRjJDTzl4a0xwbjgtY2FwbmFSRzJaRXA1bHNSMFB5eEtsaHdUSVZESWlqMDBnRGdxMElJbkYtZVg2cVFvd3J6ektyU0FfUGt2aUlXOWdsOWdpMllvTWRHbjhVY1F6SzBTTTROVkVZ",
-        "source": "News signal — verify before acting · Source: inc.com · Time: 2026-08-05 13:00"
+        "score": 56,
+        "date": "2026-08-03 16:39",
+        "displayDate": "2026-08-03 16:39",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yWER2NEcxakdJM1lhOTg3dGhXVVQtRWlEdkVLcTRGbG5VYTBzaXFmbG01ZDgxOFpiN3lvNE1rZUN5TUg5ZC1IbG5DemdWOF90cVY0TThaZFctZl9aNjZuMl9MWXVsSmlS",
+        "source": "Official / vendor signal · Source: Figma · Time: 2026-08-03 16:39"
       },
       {
-        "id": "radar-e25488591fc9",
+        "id": "radar-1f8b414560bd",
         "kind": "radar",
-        "title": "Prime Agent: A Self-Improving RLM Agent",
+        "title": "The Corporate Agentic Brain May Be the Next Honey Pot for a Rogue AI",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-08-06 06:20",
-        "displayDate": "2026-08-06 06:20",
-        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-06 06:20"
+        "date": "2026-08-06 10:59",
+        "displayDate": "2026-08-06 10:59",
+        "url": "https://serendb.substack.com/p/dont-let-your-corporate-agentic-brain",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-06 10:59"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-06T16:08:45.890119+08:00",
-        "nextRun": "2026-08-06T17:08:46.190793+08:00",
+        "lastRun": "2026-08-06T19:15:50.469525+08:00",
+        "nextRun": "2026-08-06T20:15:55.034505+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-06T16:15:20.989626+08:00",
-        "nextRun": "2026-08-06T19:10:00+08:00",
+        "lastRun": "2026-08-06T19:12:44.864347+08:00",
+        "nextRun": "2026-08-06T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-06T16:37:48.826799+08:00",
-        "nextRun": "2026-08-06T16:39:48.826799+08:00",
+        "lastRun": "2026-08-06T19:43:53.290841+08:00",
+        "nextRun": "2026-08-06T19:47:55.027861+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-06T16:31:02.689321+08:00",
-        "nextRun": "2026-08-06T19:30:00+08:00",
+        "lastRun": "2026-08-06T19:31:07.542741+08:00",
+        "nextRun": "2026-08-06T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-06T15:46:29.711569+08:00",
-        "nextRun": "2026-08-06T18:40:00+08:00",
+        "lastRun": "2026-08-06T18:45:18.347368+08:00",
+        "nextRun": "2026-08-06T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-06T16:38:46.191792+08:00"
+    "updatedAt": "2026-08-06T19:45:55.035504+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
