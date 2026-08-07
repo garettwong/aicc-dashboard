@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-07T19:55:05+08:00",
+    "generatedAt": "2026-08-07T22:56:12+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-07_09-03-29.md",
-    "radarSource": "ai_opportunity_radar_20260807_193021.html",
+    "radarSource": "ai_opportunity_radar_20260807_223028.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,27 +14,27 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260807_193021.html",
+    "sourceFile": "ai_opportunity_radar_20260807_223028.html",
     "items": [
       {
-        "id": "radar-1c38a488ee10",
+        "id": "radar-ec68dbb4156e",
         "kind": "radar",
-        "title": "AI Agents Need Speed Humans Simply Can't Match",
-        "summary": "BankInfoSecurity is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-07 07:18",
-        "displayDate": "2026-08-07 07:18",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWZpRXplbzc0SmQ5cjkwZWtNZzdiMUdmRU9uenRZN2FkZENCX3VXeDZGNnJWMjZFY2ZEY3RaeVFpLW5kUllrQ1M1d0lMamNMTF9JWVMyYTVDeTE4M190ZVFmYTVjME5ONWZwMGJtelp4QlljWEZUZ244aTNFbnYyMjFxODRaOXVyeWE4VmRxdw",
-        "source": "News signal — verify before acting · Source: BankInfoSecurity · Time: 2026-08-07 07:18"
+        "score": 43,
+        "date": "2026-08-07 11:43",
+        "displayDate": "2026-08-07 11:43",
+        "url": "https://akintu.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-07 11:43"
       },
       {
         "id": "radar-894350028b86",
         "kind": "radar",
         "title": "Microsoft automates test generation with AI agent",
-        "summary": "Techzine Global reports: Microsoft automates test generation with AI agent Techzine Global",
+        "summary": "techzine.eu reports: Microsoft automates test generation with AI agent techzine.eu",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -42,21 +42,21 @@
         "date": "2026-08-07 08:44",
         "displayDate": "2026-08-07 08:44",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclE4SWxhVnhoajRfZFRLWEVnOE1MbWQ1NnBZVW1UWnZ4cmJPWlhvLXJneXdycEJRbTYwWXlDejJDY2tGMURERHF2N3ZHYzJSMzg5WDhjXzVDRGpIaVZXSEdNd2E2eE5jSFlSNUNCR3o0RnU2X2NKa2JxQUxDVG9NTnNJR01wYllERmNzQzJWaU84Sm1yS1Y1RA",
-        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-08-07 08:44"
+        "source": "News signal — verify before acting · Source: techzine.eu · Time: 2026-08-07 08:44"
       },
       {
-        "id": "radar-0340b6e43e54",
+        "id": "radar-b9d1774b9290",
         "kind": "radar",
-        "title": "Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner",
-        "summary": "Yahoo Finance reports: Cybersphere Names Tim Chao Chief Sales Officer to Scale Enterprise Voice AI as Anthropic Partner Yahoo Finance",
+        "title": "Flagstaff Startup Seeks to Help Businesses, Employees Facing the AI Skills Crisis",
+        "summary": "flagstaffbusinessnews.com reports: Flagstaff Startup Seeks to Help Businesses, Employees Facing the AI Skills Crisis flagstaffbusinessnews.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-07-31 13:00",
-        "displayDate": "2026-07-31 13:00",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3BPS2VmY05QVkZpRkNobnZyU3AwZzBkWkt1V3FNNzF3TzNGMzJPNGlOeU42bWllUkUwR0RlRjZ6RV8yZDlycC1hQ0U0Z3NNUDhqdkhfOGE4b0UteVRLOUpWVVJ5Z2Q0UG4zbF9ORlBMcE9nOXhTVUFGbzhWVmxMMXpUZDFtV04yNFNqdUIwdVFjWGNkbGxwT0NrZjA",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-07-31 13:00"
+        "score": 78,
+        "date": "2026-08-07 08:58",
+        "displayDate": "2026-08-07 08:58",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmM5cXdQUEIyaE9ndmYzbGRDZEdla1VlWnhjN2dBRVJWN0lXRTJvSnZQeGlmUmZvMTJVbjZGY1Vwa0ZsSXZGd0FoeG5BSk9tQl9ZZXR6d1k0MWphT1NLRmI1WGh0QkxWMjBYWFhlT185dVk1aktHdUxwSFRTRk81bHlaWFhLNEQ3UUJEOTNfNEFXNk9zSmJzQzZFY3dQVDJWU0oxUC1CRW85aTdZaUhnWkIxZ1FORllJblFV",
+        "source": "News signal — verify before acting · Source: flagstaffbusinessnews.com · Time: 2026-08-07 08:58"
       },
       {
         "id": "radar-dd3a818a48c2",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: HPCwire · Time: 2026-08-06 19:03"
       },
       {
-        "id": "radar-f6e4a22ca1ec",
+        "id": "radar-d92f7e4c72cb",
         "kind": "radar",
-        "title": "AI-First Procurement: How Autonomous Agents Drive Competitive Advantage",
-        "summary": "Boston Consulting Group reports: AI-First Procurement: How Autonomous Agents Drive Competitive Advantage Boston Consulting Group",
+        "title": "How Zoho is Helping Businesses Adopt AI Agents",
+        "summary": "Cyber Magazine reports: How Zoho is Helping Businesses Adopt AI Agents Cyber Magazine",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 54,
-        "date": "2026-08-07 04:24",
-        "displayDate": "2026-08-07 04:24",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlRHWjBMOTdlWUMxLWE0dFNzY1JCZGgzZ3F2V0hodmsteUQwUG1FRzBMLUNsRi0yZG5jMnJGOUJnNmxucUw2YzVYT3o3YUZTZDhWcjRpYURXMkpXMU9jQnltS1BzZTk2eFBqdEx1ZmhqN1VxNFJhVnpyODdfUEJoMzRvYTJsRjM5TFUyaw",
-        "source": "News signal — verify before acting · Source: Boston Consulting Group · Time: 2026-08-07 04:24"
+        "score": 38,
+        "date": "2026-08-07 07:20",
+        "displayDate": "2026-08-07 07:20",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXhlQkpwWVdVMTNPeUpFZlNMT1RzUnBPdFo4YVVjYklxRlFVRzdxbVRBaEttcm9CdjRmaEJnU1FsNmFCX296bjlXbmI5MEVaWHlCZW52Vi1tQ2lrVmlsTmw3VTFadzkzS2J3NERSbTFJaUdkQjQ5aXM4TWcycVk4VzZsQQ",
+        "source": "News signal — verify before acting · Source: Cyber Magazine · Time: 2026-08-07 07:20"
       },
       {
         "id": "radar-0169ea9e2ece",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-04 19:30"
       },
       {
-        "id": "radar-68a8fc3572e7",
+        "id": "radar-f2e0935ecf8c",
         "kind": "radar",
-        "title": "Big Tech places philanthropic bet on AI training",
-        "summary": "The Business Journals is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "AI won’t enhance physician autonomy. It will further diminish it",
+        "summary": "STAT reports: AI won’t enhance physician autonomy.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-07-31 12:03",
-        "displayDate": "2026-07-31 12:03",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkJOWnpUWXZMd18xOGJQVDFtd2xfelVldm5uMnVCbkJVT3FDeUtxbTF3aFFoX0pTR2tkUF91TGQ4Mkw4NzBIU2N0WE1sVDlpS0ZWNXBhSzJMeHdhTl9BdGpzX0psckRHbmJwOUk0Tk5obHZXRUFQaTdsNWcxQllOU2ZFb3ZoQlJwcU43VHFEMlNtdE1DbkJzWGYxZnNDZw",
-        "source": "News signal — verify before acting · Source: The Business Journals · Time: 2026-07-31 12:03"
+        "score": 78,
+        "date": "2026-08-07 08:34",
+        "displayDate": "2026-08-07 08:34",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ed1lfWVY5ZDNwa1BLQ3dwOVk0eFV0TEdzR29CMnpTdG0wSEdnVktSbFdva1dxa0FzM1lWTHdxZXR3bVUzM3MzZDhaV1pia1JrbVZXYXpzcnR5MzhsWUUwTks0S09KaFVheHFoUmkyNFV2UQ",
+        "source": "News signal — verify before acting · Source: STAT · Time: 2026-08-07 08:34"
       },
       {
         "id": "radar-54395945bca5",
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T15:02:01.944415+08:00",
-        "nextRun": "2026-08-07T21:00:00+08:00",
+        "lastRun": "2026-08-07T21:01:29.768426+08:00",
+        "nextRun": "2026-08-08T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T19:25:04.795852+08:00",
-        "nextRun": "2026-08-07T20:25:05.037172+08:00",
+        "lastRun": "2026-08-07T22:26:12.084710+08:00",
+        "nextRun": "2026-08-07T23:26:12.253001+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T19:11:19.970997+08:00",
-        "nextRun": "2026-08-07T22:10:00+08:00",
+        "lastRun": "2026-08-07T22:12:08.594974+08:00",
+        "nextRun": "2026-08-08T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T19:53:07.663530+08:00",
-        "nextRun": "2026-08-07T19:55:07.663530+08:00",
+        "lastRun": "2026-08-07T22:55:14.753210+08:00",
+        "nextRun": "2026-08-07T22:57:14.753210+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T19:30:21.109823+08:00",
-        "nextRun": "2026-08-07T22:30:00+08:00",
+        "lastRun": "2026-08-07T22:30:28.250628+08:00",
+        "nextRun": "2026-08-08T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-07T18:47:33.196821+08:00",
-        "nextRun": "2026-08-07T21:40:00+08:00",
+        "lastRun": "2026-08-07T21:52:04.021471+08:00",
+        "nextRun": "2026-08-08T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-07T19:55:05.038172+08:00"
+    "updatedAt": "2026-08-07T22:56:12.255001+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
