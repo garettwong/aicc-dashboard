@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-09T16:33:08+08:00",
+    "generatedAt": "2026-08-09T19:34:12+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-09_09-03-22.md",
-    "radarSource": "ai_opportunity_radar_20260809_163024.html",
+    "radarSource": "ai_opportunity_radar_20260809_193028.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260809_163024.html",
+    "sourceFile": "ai_opportunity_radar_20260809_193028.html",
     "items": [
       {
         "id": "radar-5e42bcaddb08",
         "kind": "radar",
         "title": "You can build an AI agent's memory layer with only Go's standard library",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=4.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=5.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -87,20 +87,6 @@
         "source": "News signal — verify before acting · Source: StorageReview.com · Time: 2026-08-04 21:05"
       },
       {
-        "id": "radar-560714a72766",
-        "kind": "radar",
-        "title": "Hyperscayle Launches Scaylr RevOps AI Agents Suite with Unified Command Center for Go-to-Market Teams",
-        "summary": "markets.businessinsider.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-08-08 16:36",
-        "displayDate": "2026-08-08 16:36",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ01yc3Q3ZmVGTFVlNDRFVDluQmZydHRWSWx4a1F6NkJNMU1Zbmo3R2V4WnpJZ2duWjQtVXlGRzBZLW1UTmM1Y2UxZktrWV9OUWlvRmk1WFF6Um80YkxnZ2QtQkY5S2dwR3hqUkJ5UDRTdGpObm5aaUlMcGpHYUZnTWN6VS1zaHVzOHVUTi16cnEyV3pUaTJnVUsyOUU2VU93d3Q3MEhvSmJQV1pUWXEzWGFVbjBjWUJtem5nc0NRQmIwV3h0MWxISE1sY1hodnM1b3pXOXNyZjZOdkFBSEpjWFdneDk2eGcyTEotU0dRWUNQZw",
-        "source": "News signal — verify before acting · Source: markets.businessinsider.com · Time: 2026-08-08 16:36"
-      },
-      {
         "id": "radar-b58a4f4e8320",
         "kind": "radar",
         "title": "Cursor Hits $3.4B as AI Coding Startups Shake Out [2026] - tech-insider.org",
@@ -118,7 +104,7 @@
         "id": "radar-472a845ff8f2",
         "kind": "radar",
         "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
-        "summary": "news.samsung.com reports: Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure news.samsung.com",
+        "summary": "samsung.com reports: Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure samsung.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -126,7 +112,7 @@
         "date": "2026-08-04 19:30",
         "displayDate": "2026-08-04 19:30",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFBBLTdxMWxLN3djSUtCaFNxZjFRbUdrcE9xTDdpbE91WTFVUEIzV1V5QjBMcDZJanF2YWQ0NDVLRFhlQmJac1RJNGF0NEpjNFNiMHJPMEpBVHFic2o4RENuQjFlVWdMdUlEY20wVjktZG5abDluZXA0NzVQN3pvMUNESDhCLUNPMVZLTnhNWlVoQ2w5ckpXV3BDRWJFOUcxOEJ4cDZjVHdLSEpJN3RLeUd3WHFuSjFHekotLU9JWTdONFVQ",
-        "source": "News signal — verify before acting · Source: news.samsung.com · Time: 2026-08-04 19:30"
+        "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-04 19:30"
       },
       {
         "id": "radar-3ac9cfe38d65",
@@ -155,6 +141,20 @@
         "displayDate": "2026-08-08 19:02",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTRmQi1vYXltWG03UkttWTdJT3ZUTkJVTTVGaEhTQWN1YmptM0Z1N3VObWhzRjlyTXpOTjlndHozTjJ5ejQ4bUYzMkk1MFcxZEFheF9fVFhmbDJUUnNkaUxSbVZJRzR2ZDBBLTNKUENBY1ZuNUNpRk1xTk1nR2ZFNHZLQi1BOU5qTGhpNzBzWmlWUHNSVEZrMGE5ZzhIUFd6bVdxTA",
         "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-08-08 19:02"
+      },
+      {
+        "id": "radar-f150240af59e",
+        "kind": "radar",
+        "title": "15 Top AI Design Tools to Know",
+        "summary": "Built In is a current AI signal: 15 Top AI Design Tools to Know. Treat it as a lead to verify, not as final advice.",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 48,
+        "date": "2026-08-07 15:13",
+        "displayDate": "2026-08-07 15:13",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQURBMHZDQms4RmZlZktGYV9ETXpQSUtMNktOX0I1MjJ0VGl0UFEtZE1jNnF5bC1FNl8zUU5TZUxXVEZrVUxtMEh0eWlUdnNtdFkxSk9qSQ",
+        "source": "News signal — verify before acting · Source: Built In · Time: 2026-08-07 15:13"
       }
     ]
   },
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-09T16:03:07.749146+08:00",
-        "nextRun": "2026-08-09T17:03:07.973030+08:00",
+        "lastRun": "2026-08-09T19:04:12.247255+08:00",
+        "nextRun": "2026-08-09T20:04:12.442992+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-09T16:12:10.464706+08:00",
-        "nextRun": "2026-08-09T19:10:00+08:00",
+        "lastRun": "2026-08-09T19:12:10.690285+08:00",
+        "nextRun": "2026-08-09T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-09T16:30:13.032476+08:00",
-        "nextRun": "2026-08-09T16:35:07.966880+08:00",
+        "lastRun": "2026-08-09T19:33:17.507064+08:00",
+        "nextRun": "2026-08-09T19:35:17.507064+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-09T16:30:24.213355+08:00",
-        "nextRun": "2026-08-09T19:30:00+08:00",
+        "lastRun": "2026-08-09T19:30:28.692469+08:00",
+        "nextRun": "2026-08-09T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-09T15:47:47.731973+08:00",
-        "nextRun": "2026-08-09T18:40:00+08:00",
+        "lastRun": "2026-08-09T18:43:43.731517+08:00",
+        "nextRun": "2026-08-09T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-09T16:33:07.973030+08:00"
+    "updatedAt": "2026-08-09T19:34:12.443993+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
