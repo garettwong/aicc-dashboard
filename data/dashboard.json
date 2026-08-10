@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-10T19:38:03+08:00",
+    "generatedAt": "2026-08-10T22:39:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-10_11-30-52.md",
-    "radarSource": "ai_opportunity_radar_20260810_193018.html",
+    "radarSource": "ai_opportunity_radar_20260810_223025.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260810_193018.html",
+    "sourceFile": "ai_opportunity_radar_20260810_223025.html",
     "items": [
       {
-        "id": "radar-36838d632be4",
+        "id": "radar-835dc2fea82b",
         "kind": "radar",
-        "title": "How should we evaluate memory for AI agents?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+        "summary": "SecurityWeek reports: ‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad SecurityWeek",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-08-10 08:25",
-        "displayDate": "2026-08-10 08:25",
-        "url": "https://x.com/AgentMemoryL",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-10 08:25"
+        "score": 50,
+        "date": "2026-08-10 12:59",
+        "displayDate": "2026-08-10 12:59",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjRfaUNUUmY1MDR4eHAtZzJUQVZ2MXpWaHNXcDRtMkpUd3huYXdXZmRmaW9kdEtvdnIzS1ptcFNaakwwVG5QekFIYlAzb2JhRzg0aEFOYkNJUlFQYnQxa0RkTVpzOVJqT1lGbVFTbWxYRVdWMDhiS0s0VThLSl9ZWlN0ZnA0NG9Tc2VlVlhUX2pHc0VK0gGaAUFVX3lxTE5NZTE0UUlSbXBTdWN2Y19lX0ZLcXRDWGNHdWxqWGp3YjdhZUJsTHBBRlQ1TzBlV2MycVBUU0J0cWJMakNjNDZ4NlJGZ2wtZEJtemZYVEVHb3BmbGJfajZQcmdPQ2dFVEVLOTJKVHZqQUZ2ODF1Y1F0M2JEUUZ4UUZpMWJWZXRpaFl2bWUxTElPU1k5bWNsUXZIRHc",
+        "source": "News signal — verify before acting · Source: SecurityWeek · Time: 2026-08-10 12:59"
       },
       {
-        "id": "radar-a5b2da8b33b2",
+        "id": "radar-9c686274d519",
         "kind": "radar",
-        "title": "11-Year-Old Uses AI to Build Browser, Bypassing Parental Controls—Sparking Education Rethink as Tech Barriers Collapse",
-        "summary": "finance.biggo.com reports: 11-Year-Old Uses AI to Build Browser, Bypassing Parental Controls—Sparking Education Rethink as Tech Barriers Collapse finance.biggo.com",
+        "title": "Anthropic makes Claude Code's Auto Mode the default, reducing the need for user approvals",
+        "summary": "Storyboard18 reports: Anthropic makes Claude Code's Auto Mode the default, reducing the need for user approvals Storyboard18",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-10 09:56",
-        "displayDate": "2026-08-10 09:56",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pc1RuUzd3ZzN6TTVnbWs2bjg5SXZSUC1fSFh4RndseS1qNGpOd2ZST1VGOVZYd1NJbDkzSGRPbUlSOXVCQWZyTWlySjhfYTB0UHZ6RnZoMUdTT3FOVlk2MEQ3aFVrS2tCTFcxbF9LT0pSWHI1SXc",
-        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-10 09:56"
+        "date": "2026-08-10 12:46",
+        "displayDate": "2026-08-10 12:46",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkRLeGpZVXZLdDJrRnJsSmlCVnZMUmJReXlhTFZ1ZWcwYl9kbmt5SEh5VjBoWllRMFNyQWktNjRiVXdIMnhCV2RydEFYUllMbHE5U0hGWEdMdi1qUU96cGMybWt6OF95aEhEVmJ1M3dlMnJzM3AwRkZ2NE9HV21zX1ZPWVcyeHkydktXa2FkSWlPd0pobThqYk5Rcm1pcWgtZDZOeUhFZW9wWGR0VkFFZEFwVGp6aUpVRVE0RnlMXzVWd0wxMVRpZ0FVQnZzNERZ0gHWAUFVX3lxTE0zeFhzUy1mY19RcDNUdk9sRUpuMmxBOEdNc1VsSzJYM0VfUGkwUUlweXpXcE5Kdmw3WkFnYnFiMWR3NHpSTmZXc0J6bVJZUVl4UEdHM1VVd1VtVzdJTGpacHV5TVNqVy1MTUxSN1FmNXhESEs2c3V3UGdicUo1SWk0WF91Tzk1VVZ2djV1Yl9CSXdVUHJXZFRVcThQSVRnWXY5QTF3QUt1TDUteGU0cEU1dUhzTGx3dEZldzl4ZEI3SUk3dDdKSkJpTk1ta1lLcDhMQ0RmRGc",
+        "source": "News signal — verify before acting · Source: Storyboard18 · Time: 2026-08-10 12:46"
       },
       {
-        "id": "radar-c3ca47509539",
+        "id": "radar-1b1c03fbef61",
         "kind": "radar",
-        "title": "Education’s AI ‘gold rush’ comes with risks for students",
-        "summary": "The Christian Science Monitor is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Consulting in the Age of AI",
+        "summary": "SSON is a current AI signal: Consulting in the Age of AI. Treat it as a lead to verify, not as final advice.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-07 16:15",
-        "displayDate": "2026-08-07 16:15",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTl5aFNaMHd5TFpRbmFnYXFnQ1lCVF93NW5JTzFkWTlvODVTNmh2a2tGdjNXUldMS3NldWdHYkpibXB1enhFOG1wbmpkTFZGcFViQW42RW5JSkREUUlTNE4xa1Jhck90LS0waGxMNVpiWDdqdjhVVEpYb3R1UmF4VtIBmgFBVV95cUxNQ3JIV2NJazNCVzJzd1Y2SjBqeEREa1VqRjdINC1vSWlQODhpc1V4N2F2VXprV2N4VVJxaVlRNEJyUjh2VEg3SmVtQm5TTkVDUjV0M1F2QlFBMHgtTXJZeXBmczZLWUtYcFprdk1JSU9iN1c0R25ua0FGbzV4UExab3NXYVlESDl3RUxhUDZFdEVLVXJxazViNlhB",
-        "source": "News signal — verify before acting · Source: The Christian Science Monitor · Time: 2026-08-07 16:15"
+        "date": "2026-08-10 12:29",
+        "displayDate": "2026-08-10 12:29",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbDhjV2tGNWZmTVVKMGx4ZnVJM1BxdXhHQUsxbnk1S0JoaDR6ZU8temp6ZGRmTGFLc3hDTlh1MV8yMGZWVFBYVFltN1JPbGRhdzVfQ2NOaDZaSmJNaHBXejlhLWdTb2dCZHF4ZGFOVmVUSWk1b0xxNXczMERWZXVNeQ",
+        "source": "News signal — verify before acting · Source: SSON · Time: 2026-08-10 12:29"
       },
       {
         "id": "radar-8fd70d890d25",
@@ -87,6 +87,20 @@
         "source": "News signal — verify before acting · Source: StorageReview.com · Time: 2026-08-04 21:05"
       },
       {
+        "id": "radar-5c67e437c564",
+        "kind": "radar",
+        "title": "A.I. Agents Are Taking Entire Online Courses for Cheating Students",
+        "summary": "The New York Times is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 52,
+        "date": "2026-08-10 09:00",
+        "displayDate": "2026-08-10 09:00",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3VOUGJuTnR6aEtsM0ZtYllsdmxtNXg3dG8zSWczYTRPS29Dc285b3BZRkxyXzhhOGNuRFZOSVhpUjdYZUNweDZDU2k1NUdSZU5hUC16RWpEQmJDVDNJLUE1SWk4M2w4cks2ZXp2LTRzMUNJZk1BU0dPZ2NhMVBmaUpGSWd1RmZiVDZvOTlBUzBDTUJmN3Nz",
+        "source": "News signal — verify before acting · Source: The New York Times · Time: 2026-08-10 09:00"
+      },
+      {
         "id": "radar-7bc57f5ce80c",
         "kind": "radar",
         "title": "Anthropic lets Claude Code make decisions on its own more often",
@@ -115,24 +129,24 @@
         "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-04 19:30"
       },
       {
-        "id": "radar-f2e0935ecf8c",
+        "id": "radar-618ebfa5b1fc",
         "kind": "radar",
-        "title": "AI won’t enhance physician autonomy. It will further diminish it",
-        "summary": "STAT reports: AI won’t enhance physician autonomy.",
+        "title": "California education news: What’s the latest?",
+        "summary": "EdSource reports: California education news: What’s the latest?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-07 08:34",
-        "displayDate": "2026-08-07 08:34",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ed1lfWVY5ZDNwa1BLQ3dwOVk0eFV0TEdzR29CMnpTdG0wSEdnVktSbFdva1dxa0FzM1lWTHdxZXR3bVUzM3MzZDhaV1pia1JrbVZXYXpzcnR5MzhsWUUwTks0S09KaFVheHFoUmkyNFV2UQ",
-        "source": "News signal — verify before acting · Source: STAT · Time: 2026-08-07 08:34"
+        "date": "2026-08-07 07:00",
+        "displayDate": "2026-08-07 07:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55b1RBcWxWU09GMHNjc2F2UUlHallaMF9xcUh6MkVmZlc4NFB3bi1jZDNoa0EtVUJ1Sm9obEFxRndrRW56MGNwdQ",
+        "source": "News signal — verify before acting · Source: EdSource · Time: 2026-08-07 07:00"
       },
       {
-        "id": "radar-3d3b5c9e1309",
+        "id": "radar-3ffbe38713ec",
         "kind": "radar",
-        "title": "“Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Co",
-        "summary": "Infosecurity Magazine reports: “Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Co Infosecurity Magazine",
+        "title": "“Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Controls",
+        "summary": "Infosecurity Magazine reports: “Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Controls Infosecurity Magazine",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -141,20 +155,6 @@
         "displayDate": "2026-08-10 10:45",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qdWhPYkdBdF9Sc2Fwb0hNRDBKYkM1cDBIakJRMVZROGlrd3lrMWo3Y1VDdEtnWWl6ZkwtS29LWHh2aVV2dG1fNUdnS2hDWTNpWFBpc2J4S3RpMENXTlJKXzV4MXMyZl9sSUdIbUdHaEJUbk95ZERpLXN3ZVo",
         "source": "News signal — verify before acting · Source: Infosecurity Magazine · Time: 2026-08-10 10:45"
-      },
-      {
-        "id": "radar-ae3df7e9f115",
-        "kind": "radar",
-        "title": "AI Coding Clients Are Reading Each Other's Personal Instructions",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 50,
-        "date": "2026-08-10 04:48",
-        "displayDate": "2026-08-10 04:48",
-        "url": "https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-10 04:48"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T15:05:06.316486+08:00",
-        "nextRun": "2026-08-10T21:00:00+08:00",
+        "lastRun": "2026-08-10T21:01:02.610180+08:00",
+        "nextRun": "2026-08-11T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T19:08:02.744283+08:00",
-        "nextRun": "2026-08-10T20:08:02.931122+08:00",
+        "lastRun": "2026-08-10T22:09:08.541949+08:00",
+        "nextRun": "2026-08-10T23:09:08.658033+08:00",
         "message": "No recent error."
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T19:12:00.448154+08:00",
-        "nextRun": "2026-08-10T22:10:00+08:00",
+        "lastRun": "2026-08-10T22:12:44.981054+08:00",
+        "nextRun": "2026-08-11T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T19:36:05.986774+08:00",
-        "nextRun": "2026-08-10T19:38:05.986774+08:00",
+        "lastRun": "2026-08-10T22:36:11.861811+08:00",
+        "nextRun": "2026-08-10T22:41:08.651999+08:00",
         "message": "unused"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T19:30:18.718619+08:00",
-        "nextRun": "2026-08-10T22:30:00+08:00",
+        "lastRun": "2026-08-10T22:30:25.207978+08:00",
+        "nextRun": "2026-08-11T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-10T18:45:25.755720+08:00",
-        "nextRun": "2026-08-10T21:40:00+08:00",
+        "lastRun": "2026-08-10T21:49:02.287900+08:00",
+        "nextRun": "2026-08-11T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-10T19:38:02.931122+08:00"
+    "updatedAt": "2026-08-10T22:39:08.659038+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
