@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-12T20:25:48+08:00",
+    "generatedAt": "2026-08-12T21:25:54+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-12_09-06-15.md",
     "radarSource": "ai_opportunity_radar_20260812_193106.html",
@@ -161,25 +161,14 @@
   "health": {
     "jobs": [
       {
-        "id": "7c5cdfdce2e0",
-        "name": "AICC Dashboard Data Sync",
-        "enabled": true,
-        "state": "error",
-        "schedule": "every 30m",
-        "lastStatus": "error",
-        "lastRun": "2026-08-12T19:54:49.084826+08:00",
-        "nextRun": "2026-08-12T20:55:48.478581+08:00",
-        "message": "Script exited with code 1 stderr: Traceback (most recent call last): File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V2\\scripts\\publish_if_changed.py\", line 45, in <module> raise SystemExit(main()) ^^^^^^ File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V"
-      },
-      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-12T15:04:30.662917+08:00",
-        "nextRun": "2026-08-12T21:00:00+08:00",
+        "lastRun": "2026-08-12T21:01:32.899185+08:00",
+        "nextRun": "2026-08-13T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -205,6 +194,17 @@
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
+        "id": "7c5cdfdce2e0",
+        "name": "AICC Dashboard Data Sync",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "every 30m",
+        "lastStatus": "ok",
+        "lastRun": "2026-08-12T20:55:54.096809+08:00",
+        "nextRun": "2026-08-12T21:55:54.334438+08:00",
+        "message": "No recent error."
+      },
+      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-12T20:23:53.620612+08:00",
-        "nextRun": "2026-08-12T20:25:53.620612+08:00",
+        "lastRun": "2026-08-12T21:23:57.248204+08:00",
+        "nextRun": "2026-08-12T21:25:57.248204+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-12T20:25:48.478581+08:00"
+    "updatedAt": "2026-08-12T21:25:54.335438+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
