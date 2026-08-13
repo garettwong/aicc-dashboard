@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-13T23:39:07+08:00",
+    "generatedAt": "2026-08-14T01:41:10+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-13_09-00-23.md",
-    "radarSource": "ai_opportunity_radar_20260813_223020.html",
+    "radarSource": "ai_opportunity_radar_20260814_013025.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260813_223020.html",
+    "sourceFile": "ai_opportunity_radar_20260814_013025.html",
     "items": [
       {
-        "id": "radar-844db0b09647",
+        "id": "radar-b94aca812c30",
         "kind": "radar",
-        "title": "Memento – Shared, durable memory for multiple AI agents, with MCP access",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Solving the Identity Crisis for AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 73,
-        "date": "2026-08-13 14:23",
-        "displayDate": "2026-08-13 14:23",
-        "url": "https://rcarmo.github.io/projects/memento",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-13 14:23"
+        "score": 43,
+        "date": "2026-08-13 16:24",
+        "displayDate": "2026-08-13 16:24",
+        "url": "https://uber.com/us/en/blog/solving-the-agent-identity-crisis",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-13 16:24"
       },
       {
-        "id": "radar-be3c93b85aee",
+        "id": "radar-b78f768a88ae",
         "kind": "radar",
-        "title": "Claude Code, Codex and Devin Can Now Query Live MongoDB Data",
-        "summary": "Stock Titan reports: Claude Code, Codex and Devin Can Now Query Live MongoDB Data Stock Titan",
+        "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows",
+        "summary": "reuters.com reports: Google unveils Gemini 3.7 Flash AI model for coding, agent workflows reuters.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-13 13:00",
-        "displayDate": "2026-08-13 13:00",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2pHbHVTdml4RHl4X0JlVzhzQ1o3d0lZMElYejZjMmp6REt1d1dfZzZoZDktSWNrSFBlUFNRUDNCaV85VkdMSmlybjRVczA3eDNsaWpTRFR6ekhyLWRHWEtoSXU2NjdZRGtFQ0Q1NFdIUzRaVjVuMnJGdGl0LVFmT2h1ajI0Wkh1a0dqb0hFOVdxbUU0VFM5Rk9aYjNvZXVXU2lseThESkNXZVZLOTBtejFoOA",
-        "source": "News signal — verify before acting · Source: Stock Titan · Time: 2026-08-13 13:00"
+        "date": "2026-08-13 17:06",
+        "displayDate": "2026-08-13 17:06",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8",
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-08-13 17:06"
       },
       {
         "id": "radar-4a70d9a1b176",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-08-13 10:02"
       },
       {
-        "id": "radar-9fd17df9c40b",
+        "id": "radar-0df8a6f7a7b3",
         "kind": "radar",
-        "title": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
-        "summary": "Yahoo Finance reports: Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD Yahoo Finance",
+        "title": "Anthropic’s Boris Cherny Says AI Coding Bugs Are Getting Harder: ‘Less Off-by-Ones,’ More System Design Problems",
+        "summary": "Yahoo Tech reports: Anthropic’s Boris Cherny Says AI Coding Bugs Are Getting Harder: ‘Less Off-by-Ones,’ More System Design Problems Yahoo Tech",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-08-10 14:39",
-        "displayDate": "2026-08-10 14:39",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3NOZWhMS3R2dDZkMVZXYndEem9Xb0pwYVYyVXktWm9xTklueTdjYU5wUWp0c2hfWGNwbEl4bDlOdFUyM0NhZENZQTZBZVF5X0ZzMlp6emNGZ3ZzZnVFalFmN2wtNDliZlk1Uk03d19QVjNYT3l6aUxhVE9CaVpoYllNdG1fWkRNTU5pT19Jbk5MZmZVaHJNdkx4c3NfRU0",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-08-10 14:39"
+        "score": 100,
+        "date": "2026-08-13 13:31",
+        "displayDate": "2026-08-13 13:31",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkVTS0w2czZKZ0ZmcnhjX1B6LU0wNUpQaDZZUmwzMDE3TnN1N1pOVmF5bmJlWl9DVWNrMmJPZEk0Sl85bzJOOUdCWEZYQTROdWt4OVVTVHlQZVBoTl9ZcWtNLW5hMlF2QkItdkFNRmxKamRvV3dLbkI5QUVxQ2xla3o5Y3VGVml6bnNmTUlTeWE",
+        "source": "News signal — verify before acting · Source: Yahoo Tech · Time: 2026-08-13 13:31"
       },
       {
         "id": "radar-b7b1541ade6c",
@@ -101,24 +101,24 @@
         "source": "News signal — verify before acting · Source: CX Today · Time: 2026-08-13 13:52"
       },
       {
-        "id": "radar-eeed1f31fcf4",
+        "id": "radar-be3c93b85aee",
         "kind": "radar",
-        "title": "Claude Code Captures 75% of Developers in New Survey",
-        "summary": "The Tech Buzz reports: Claude Code Captures 75% of Developers in New Survey The Tech Buzz",
+        "title": "Claude Code, Codex and Devin Can Now Query Live MongoDB Data",
+        "summary": "Stock Titan reports: Claude Code, Codex and Devin Can Now Query Live MongoDB Data Stock Titan",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-13 12:40",
-        "displayDate": "2026-08-13 12:40",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa19IeDlVS3VfSm5rZV9MdWdpRTlRdVFJYUtZTE55anV5OWpaRGo0NFZuUjdRTFhuQ3drUjFZMm5OTHVpazY1azZNT2dhRHdrRjVDOFZXWEFZMVVNNW9SNkpfejZLQThQME9wWWQ1NG1uM3hnOEFhTVdJZkVZTUJKVXZtUHVNVWxPMVRLMQ",
-        "source": "News signal — verify before acting · Source: The Tech Buzz · Time: 2026-08-13 12:40"
+        "date": "2026-08-13 13:00",
+        "displayDate": "2026-08-13 13:00",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2pHbHVTdml4RHl4X0JlVzhzQ1o3d0lZMElYejZjMmp6REt1d1dfZzZoZDktSWNrSFBlUFNRUDNCaV85VkdMSmlybjRVczA3eDNsaWpTRFR6ekhyLWRHWEtoSXU2NjdZRGtFQ0Q1NFdIUzRaVjVuMnJGdGl0LVFmT2h1ajI0Wkh1a0dqb0hFOVdxbUU0VFM5Rk9aYjNvZXVXU2lseThESkNXZVZLOTBtejFoOA",
+        "source": "News signal — verify before acting · Source: Stock Titan · Time: 2026-08-13 13:00"
       },
       {
         "id": "radar-8499eb1663e0",
         "kind": "radar",
         "title": "Meta launches new AI model as Zuckerberg champions open-weight push",
-        "summary": "Reuters flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "reuters.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -126,35 +126,35 @@
         "date": "2026-08-10 12:26",
         "displayDate": "2026-08-10 12:26",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-10 12:26"
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-08-10 12:26"
       },
       {
-        "id": "radar-77ffd1e88a70",
+        "id": "radar-57f78b0f61b3",
         "kind": "radar",
-        "title": "AI training boosts productivity, four-and-a-half-day workweek at small firms through 'workforce doctor' program",
-        "summary": "헤럴드경제 is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Vietnam targets 50,000 AI-skilled professionals for key sectors by 2030 - Vietnam Investment Review",
+        "summary": "Vietnam Investment Review - VIR shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-13 04:30",
-        "displayDate": "2026-08-13 04:30",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUR3NsLS1NcmNzTXI1WnVEYVdZWmhSSzB5RDJSaHUtOEhCR256djlmMWhvOGwxNzhxY1NmQS1RX0FBcWl2TGVOLVJtV1U1Wk1iMVc4TDRLVQ",
-        "source": "News signal — verify before acting · Source: 헤럴드경제 · Time: 2026-08-13 04:30"
+        "date": "2026-08-13 07:09",
+        "displayDate": "2026-08-13 07:09",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjhDdUN2MWJKQjVSdUVYNEkxSU5wZHBQOWprbUFoLTFhOHV1YjJCdDA3dUdtZDJTTk42QzJQdmh0ODFsZ3BObnpwRU8yR25ia0x6LVVMVU5TbUVtWEdHc3hsdnR0aHF1ekJmSEMwZUtTMEljYWNFMHAtWHV4eHlUT1NGTTJTUm9kb2pzVHVuQnBlWXFXUm51OWRGNlN3Q2N3Rmhv",
+        "source": "News signal — verify before acting · Source: Vietnam Investment Review - VIR · Time: 2026-08-13 07:09"
       },
       {
-        "id": "radar-43d403c1a479",
+        "id": "radar-db52423d60b0",
         "kind": "radar",
-        "title": "AI Can Design New Proteins. It’s Time to Build Real Biosecurity Guardrails",
-        "summary": "The Nuclear Threat Initiative highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
+        "title": "Figma's AI Agent Raises New Challenges for Design System Consistency",
+        "summary": "DesignRush shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 60,
-        "date": "2026-08-11 12:58",
-        "displayDate": "2026-08-11 12:58",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHZoVVdCNWx2dERvNDhLV2pXa2JtNXEtdHMzQUZuemFUQlpTWVVkN0IwbkRsaHhjOThYTlVwXzR4YzdYSV9QT3RrdXJSNXpfaVhwOVlKSUk4SXBRME9GekJhZmhWYURXd1NBR3BHTVNyU0RDQUtJWVhQVG9UNTZLZU9RV0VZdWo1ZDFpLUVuRmJuczNlajF0ajZMTzY2NDJZdW1aVngzU0N4aE5f",
-        "source": "News signal — verify before acting · Source: The Nuclear Threat Initiative · Time: 2026-08-11 12:58"
+        "score": 66,
+        "date": "2026-08-13 10:30",
+        "displayDate": "2026-08-13 10:30",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJNUGlyOE5aMTFHN1Q4TmV1ZHpxREhoR3hxOHRscGlMMl8tSE5OZm9ISGJqMlhxeFNUWkxpd080NVJkblh4cjdJNnprUUR3RFMtcGpPd0NPbmZjT2poSERkUUcyclRQRFNkNk10VTZZOTVqTzJCTTh0bjBMemRRVFZyR19ndkViczV3",
+        "source": "News signal — verify before acting · Source: DesignRush · Time: 2026-08-13 10:30"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-13T22:10:08.201230+08:00",
-        "nextRun": "2026-08-14T01:10:00+08:00",
+        "lastRun": "2026-08-14T01:10:11.604706+08:00",
+        "nextRun": "2026-08-14T04:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-13T21:40:06.590660+08:00",
-        "nextRun": "2026-08-14T00:40:00+08:00",
+        "lastRun": "2026-08-14T00:40:12.685214+08:00",
+        "nextRun": "2026-08-14T03:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-13T23:08:10.264180+08:00",
-        "nextRun": "2026-08-14T00:09:06.896099+08:00",
+        "lastRun": "2026-08-14T01:11:09.546534+08:00",
+        "nextRun": "2026-08-14T02:11:09.853159+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-13T23:38:12.128972+08:00",
-        "nextRun": "2026-08-13T23:40:12.128972+08:00",
+        "lastRun": "2026-08-14T01:38:14.356853+08:00",
+        "nextRun": "2026-08-14T01:43:09.847648+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-13T22:30:21.011287+08:00",
-        "nextRun": "2026-08-14T01:30:00+08:00",
+        "lastRun": "2026-08-14T01:30:25.886281+08:00",
+        "nextRun": "2026-08-14T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-13T23:39:06.896099+08:00"
+    "updatedAt": "2026-08-14T01:41:09.853159+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
