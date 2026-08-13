@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-13T09:18:21+08:00",
+    "generatedAt": "2026-08-13T09:49:21+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-13_09-00-23.md",
     "radarSource": "ai_opportunity_radar_20260813_084736.html",
@@ -194,14 +194,25 @@
         "message": "RuntimeError: Server disconnected without sending a response."
       },
       {
+        "id": "a0a3b6174708",
+        "name": "WhatsApp link Q&A digest — daily",
+        "enabled": true,
+        "state": "error",
+        "schedule": "30 9 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-08-13T09:30:25.777836+08:00",
+        "nextRun": "2026-08-14T09:30:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
+      },
+      {
         "id": "198f213f6827",
         "name": "X AI Tools & Business Collector — local only — every 3 hours",
         "enabled": true,
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-13T08:47:25.400895+08:00",
-        "nextRun": "2026-08-13T09:40:00+08:00",
+        "lastRun": "2026-08-13T09:40:23.887556+08:00",
+        "nextRun": "2026-08-13T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-13T08:47:31.051598+08:00",
-        "nextRun": "2026-08-13T09:48:20.834691+08:00",
+        "lastRun": "2026-08-13T09:18:24.345324+08:00",
+        "nextRun": "2026-08-13T10:19:21.615952+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-13T09:17:23.209903+08:00",
-        "nextRun": "2026-08-13T09:19:23.209903+08:00",
+        "lastRun": "2026-08-13T09:47:24.003836+08:00",
+        "nextRun": "2026-08-13T09:49:24.003836+08:00",
         "message": "unused"
       },
       {
@@ -247,17 +258,6 @@
         "lastRun": "2026-08-13T08:47:36.280188+08:00",
         "nextRun": "2026-08-13T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
-      },
-      {
-        "id": "a0a3b6174708",
-        "name": "WhatsApp link Q&A digest — daily",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "30 9 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-08-12T09:37:23.426166+08:00",
-        "nextRun": "2026-08-13T09:30:00+08:00",
-        "message": "Create Garett’s WhatsApp Link Q&A Digest from genuine user-authored WhatsApp messages since the previous successful digest. A link plus a question is an instruction to answer—not m"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-13T09:18:20.834691+08:00"
+    "updatedAt": "2026-08-13T09:49:21.616957+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
