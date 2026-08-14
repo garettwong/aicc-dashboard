@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-14T13:46:30+08:00",
+    "generatedAt": "2026-08-14T16:47:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-14_09-00-27.md",
-    "radarSource": "ai_opportunity_radar_20260814_133045.html",
+    "radarSource": "ai_opportunity_radar_20260814_163050.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,63 +14,63 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260814_133045.html",
+    "sourceFile": "ai_opportunity_radar_20260814_163050.html",
     "items": [
       {
-        "id": "radar-43088f25a657",
+        "id": "radar-b4191fe21795",
         "kind": "radar",
-        "title": "Executable SOAR playbook dataset – AI agents pay per record via HTTP 402",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Noviz AI open source code launched for ERP agent architecture",
+        "summary": "Hacker News flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-08-14 03:59",
-        "displayDate": "2026-08-14 03:59",
-        "url": "https://lateos.ai/soar",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-14 03:59"
+        "date": "2026-08-14 08:28",
+        "displayDate": "2026-08-14 08:28",
+        "url": "https://news.ycombinator.com/item",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-14 08:28"
       },
       {
-        "id": "radar-7f0abfa6499b",
+        "id": "radar-38a2743f6c50",
         "kind": "radar",
-        "title": "3 myths about coding with AI that even experienced developers still believe",
-        "summary": "XDA reports: 3 myths about coding with AI that even experienced developers still believe XDA",
+        "title": "AI Agent Rewrites Arduino Code",
+        "summary": "Open Source For You reports: AI Agent Rewrites Arduino Code Open Source For You",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-13 21:00",
-        "displayDate": "2026-08-13 21:00",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTV9jZlhSclNkdG5waWdRVGtiWk1rTWVoN0xyMEFldU9tazNXb2Rjd3dWZU1SWVhKYTRycklqVjVKVF9EQmRrcXYwRHM3ZDktNlBLQWJ4UFlFVHNncGVQU2ZjUHBCck5BUFZCZWQyUVA1MGl2QlgxOTdnOXhSSF9OUWZaQXhCWDVoQy1rVzRtdlA5T1gzY1hVUHR6SFJ3Z2NtNHhjaXlCa1VIODg",
-        "source": "News signal — verify before acting · Source: XDA · Time: 2026-08-13 21:00"
+        "date": "2026-08-14 07:51",
+        "displayDate": "2026-08-14 07:51",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnaGRwOVQtb19RX2RMNEV0VmJDaFJyNG9lUjF5MGF3OVl0amJSX3JyVUZuWlNNZGR3VEtLdFdrZnJtUHdoMGFyOVF5V04xdzZSX0ttVXBsTko4MW84Y01Vb19EdF93Smh5bWYyVmZqOWF0X1dPb2p4X2ln",
+        "source": "News signal — verify before acting · Source: Open Source For You · Time: 2026-08-14 07:51"
       },
       {
-        "id": "radar-97843595c079",
+        "id": "radar-d96ca85f2017",
         "kind": "radar",
-        "title": "Tech advisors grapple with AI malaise, budget puzzles",
-        "summary": "Channel Dive reports: Tech advisors grapple with AI malaise, budget puzzles Channel Dive",
+        "title": "SpaceX IPO Frenzy Gets Fresh AI Fuel: Elon Musk Cheers Nvidia Vera CPU For Training Smarter AI Models",
+        "summary": "Stocktwits is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-08-14 04:07",
-        "displayDate": "2026-08-14 04:07",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHBzYVJvc19YejAyTjgyQVhnTjg5bmtjdXJBX3RQRU9oNm9qNWhlQk9BbzNiV2xscllHYUxRbU9ONUU0SDI3TGFkNlkzbzV0R0tMR1RyRDlJQkJyM0JvdWh3cFNGdldweERlbmFiNnI3elUwMUxId2dMQ0ttNEc0aWY1NEtITnByaS1UbXEyTzlycGc1MDJKbkNzT2JMU2hNR3ZqS3Rab2hHSFAtblBMb19manozb1k",
-        "source": "News signal — verify before acting · Source: Channel Dive · Time: 2026-08-14 04:07"
+        "score": 88,
+        "date": "2026-08-13 20:06",
+        "displayDate": "2026-08-13 20:06",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUl85YTNsUkkwVUhHTWZjTmxqbW1PbXJoc3RBUHpDQ1dXVUkzVjRubi1UMGVRdW9iTTNDNmlCSXpHNnVGYlRMOXBRbnYyUEN0YVNkcWJhcnh5cXBraUpNemR2TFJYTkFkbU83cGszQ0FTT3dKMGhzN0NLVEhma1VYTFNtbC10ZHpWZG1VeXM0ckVFSkI5aDdJMEFPOGduaVhNU3Rib2ZlM1FDMjdLYS1ER2R5THlnVlJoLXFEUA",
+        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-08-13 20:06"
       },
       {
-        "id": "radar-0df8a6f7a7b3",
+        "id": "radar-6ba1f61d610e",
         "kind": "radar",
-        "title": "Anthropic’s Boris Cherny Says AI Coding Bugs Are Getting Harder: ‘Less Off-by-Ones,’ More System Design Problems",
-        "summary": "Yahoo Tech reports: Anthropic’s Boris Cherny Says AI Coding Bugs Are Getting Harder: ‘Less Off-by-Ones,’ More System Design Problems Yahoo Tech",
+        "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
+        "summary": "eetimes.com reports: Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design eetimes.com",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 100,
-        "date": "2026-08-13 13:31",
-        "displayDate": "2026-08-13 13:31",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkVTS0w2czZKZ0ZmcnhjX1B6LU0wNUpQaDZZUmwzMDE3TnN1N1pOVmF5bmJlWl9DVWNrMmJPZEk0Sl85bzJOOUdCWEZYQTROdWt4OVVTVHlQZVBoTl9ZcWtNLW5hMlF2QkItdkFNRmxKamRvV3dLbkI5QUVxQ2xla3o5Y3VGVml6bnNmTUlTeWE",
-        "source": "News signal — verify before acting · Source: Yahoo Tech · Time: 2026-08-13 13:31"
+        "score": 66,
+        "date": "2026-08-11 22:01",
+        "displayDate": "2026-08-11 22:01",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRm80aTgxRDk4UFl1X1VFSVJkQjZmUjd6RjlZTDNFQkJiX1c0OHJtbV95MThhOURteDhxbWRfbW1IWW9oa08waGZrazVYaU9Va3UybFVDa3E2b1ctNTc5b2RUeVFkVXNrUWNTSUJVUzR6VmhLN0UxVkVmVHNtSGUyaXpLWjlWMUdrakgtVFBLeXlLWWs1",
+        "source": "News signal — verify before acting · Source: eetimes.com · Time: 2026-08-11 22:01"
       },
       {
         "id": "radar-b7b1541ade6c",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: Futurism · Time: 2026-08-13 16:46"
       },
       {
-        "id": "radar-1ba42623aeb7",
+        "id": "radar-df3500cb7328",
         "kind": "radar",
-        "title": "Etzioni on AI: Claude is marking its text — Caveat Promptor!",
-        "summary": "geekwire.com reports: Etzioni on AI: Claude is marking its text — Caveat Promptor!",
+        "title": "DeepSeek Just Open-Sourced Its Answer to Claude Code — And Developers Noticed Fast",
+        "summary": "Binance reports: DeepSeek Just Open-Sourced Its Answer to Claude Code — And Developers Noticed Fast Binance",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-13 17:31",
-        "displayDate": "2026-08-13 17:31",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0E4MEVwY1BNV0I4UWRaMTEzXzR1NnFOZ1VHY24xZGxnSnVZTFJHX0NObXhzRTFPRlZCZkF4WUptZTdqaWp4UndkTW9oUHZqWXFka2RpRkVwYV9CQlU0eFpwcnE1eW82S2ZXRWlwRWZaZDlKVmlfc1Q5NkhLVlVLYWx6WWtYVjlTOFBrTGlYUHI",
-        "source": "News signal — verify before acting · Source: geekwire.com · Time: 2026-08-13 17:31"
+        "date": "2026-08-14 05:08",
+        "displayDate": "2026-08-14 05:08",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwN3dNeGlCTHNldVFWLVl5bFVvVXRGOFRCZWhUSVdOSWhWbjR5dnhRZUJYUGF5RmtBZFRjaFhTd1FFRm4zekE0bmVaa0d5YUVQeWZlcUJoMnVaM2lHa3E2bV9LZDY",
+        "source": "News signal — verify before acting · Source: Binance · Time: 2026-08-14 05:08"
       },
       {
         "id": "radar-8499eb1663e0",
@@ -129,32 +129,32 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-10 12:26"
       },
       {
-        "id": "radar-e2f2fdaa3e96",
+        "id": "radar-97843595c079",
         "kind": "radar",
-        "title": "How AI use is shifting from assistive to autonomous",
-        "summary": "EY reports: How AI use is shifting from assistive to autonomous EY",
+        "title": "Tech advisors grapple with AI malaise, budget puzzles",
+        "summary": "channeldive.com reports: Tech advisors grapple with AI malaise, budget puzzles channeldive.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-14 01:38",
-        "displayDate": "2026-08-14 01:38",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHAwaUNPY1MxRE1ySm5EdXJMeVU1ekZWeVplRTlqVW9JX2JBdXF4S0lEeWVreDYwTE04ZER5VTUzdDJtYnVBZWg0TFBIbTRNeXRvX2dfNDdaRnh5d3AyazdxZDRLUlVOQldSWTgyZURWbUVPVS1VNlhJZ0h6VVQ5ZFJaNzVNclVWemhOVTN1Z2Rtd0d3aFZ6bG0yOFc",
-        "source": "News signal — verify before acting · Source: EY · Time: 2026-08-14 01:38"
+        "date": "2026-08-14 04:07",
+        "displayDate": "2026-08-14 04:07",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHBzYVJvc19YejAyTjgyQVhnTjg5bmtjdXJBX3RQRU9oNm9qNWhlQk9BbzNiV2xscllHYUxRbU9ONUU0SDI3TGFkNlkzbzV0R0tMR1RyRDlJQkJyM0JvdWh3cFNGdldweERlbmFiNnI3elUwMUxId2dMQ0ttNEc0aWY1NEtITnByaS1UbXEyTzlycGc1MDJKbkNzT2JMU2hNR3ZqS3Rab2hHSFAtblBMb19manozb1k",
+        "source": "News signal — verify before acting · Source: channeldive.com · Time: 2026-08-14 04:07"
       },
       {
-        "id": "radar-6ba1f61d610e",
+        "id": "radar-9fd17df9c40b",
         "kind": "radar",
-        "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
-        "summary": "eetimes.com reports: Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design eetimes.com",
+        "title": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
+        "summary": "Yahoo Finance reports: Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD Yahoo Finance",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 66,
-        "date": "2026-08-11 22:01",
-        "displayDate": "2026-08-11 22:01",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRm80aTgxRDk4UFl1X1VFSVJkQjZmUjd6RjlZTDNFQkJiX1c0OHJtbV95MThhOURteDhxbWRfbW1IWW9oa08waGZrazVYaU9Va3UybFVDa3E2b1ctNTc5b2RUeVFkVXNrUWNTSUJVUzR6VmhLN0UxVkVmVHNtSGUyaXpLWjlWMUdrakgtVFBLeXlLWWs1",
-        "source": "News signal — verify before acting · Source: eetimes.com · Time: 2026-08-11 22:01"
+        "date": "2026-08-10 14:39",
+        "displayDate": "2026-08-10 14:39",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3NOZWhMS3R2dDZkMVZXYndEem9Xb0pwYVYyVXktWm9xTklueTdjYU5wUWp0c2hfWGNwbEl4bDlOdFUyM0NhZENZQTZBZVF5X0ZzMlp6emNGZ3ZzZnVFalFmN2wtNDliZlk1Uk03d19QVjNYT3l6aUxhVE9CaVpoYllNdG1fWkRNTU5pT19Jbk5MZmZVaHJNdkx4c3NfRU0",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-08-10 14:39"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-14T09:00:32.165485+08:00",
-        "nextRun": "2026-08-14T15:00:00+08:00",
+        "lastRun": "2026-08-14T15:00:38.074735+08:00",
+        "nextRun": "2026-08-14T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-14T13:10:32.304309+08:00",
-        "nextRun": "2026-08-14T16:10:00+08:00",
+        "lastRun": "2026-08-14T16:10:37.875031+08:00",
+        "nextRun": "2026-08-14T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-14T12:40:33.349065+08:00",
-        "nextRun": "2026-08-14T15:40:00+08:00",
+        "lastRun": "2026-08-14T15:40:46.560939+08:00",
+        "nextRun": "2026-08-14T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-14T13:16:30.335712+08:00",
-        "nextRun": "2026-08-14T14:16:30.575174+08:00",
+        "lastRun": "2026-08-14T16:17:34.737499+08:00",
+        "nextRun": "2026-08-14T17:17:35.001408+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-14T13:43:33.158514+08:00",
-        "nextRun": "2026-08-14T13:48:30.565172+08:00",
+        "lastRun": "2026-08-14T16:46:37.527833+08:00",
+        "nextRun": "2026-08-14T16:48:37.527833+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-14T13:30:46.030524+08:00",
-        "nextRun": "2026-08-14T16:30:00+08:00",
+        "lastRun": "2026-08-14T16:30:50.577761+08:00",
+        "nextRun": "2026-08-14T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-14T13:46:30.575174+08:00"
+    "updatedAt": "2026-08-14T16:47:35.002408+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
