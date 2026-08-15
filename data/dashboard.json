@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-15T19:52:28+08:00",
+    "generatedAt": "2026-08-15T21:22:34+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-15_09-00-17.md",
     "radarSource": "ai_opportunity_radar_20260815_193046.html",
@@ -167,9 +167,9 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-15T15:00:30.737107+08:00",
-        "nextRun": "2026-08-15T21:00:00+08:00",
-        "message": "RuntimeError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
+        "lastRun": "2026-08-15T21:00:40.632642+08:00",
+        "nextRun": "2026-08-16T09:00:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
         "id": "ac7e45cc6fc4",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-15T19:22:27.503008+08:00",
-        "nextRun": "2026-08-15T20:22:27.686742+08:00",
+        "lastRun": "2026-08-15T20:52:34.363952+08:00",
+        "nextRun": "2026-08-15T21:52:34.504636+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-15T19:49:30.475440+08:00",
-        "nextRun": "2026-08-15T19:54:27.681739+08:00",
+        "lastRun": "2026-08-15T21:19:37.378282+08:00",
+        "nextRun": "2026-08-15T21:24:34.499211+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-15T19:52:27.687742+08:00"
+    "updatedAt": "2026-08-15T21:22:34.505635+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
