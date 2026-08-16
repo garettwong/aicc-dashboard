@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-16T16:34:24+08:00",
+    "generatedAt": "2026-08-16T19:35:28+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-16_12-01-22.md",
-    "radarSource": "ai_opportunity_radar_20260816_163040.html",
+    "radarSource": "ai_opportunity_radar_20260816_193044.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260816_163040.html",
+    "sourceFile": "ai_opportunity_radar_20260816_193044.html",
     "items": [
       {
-        "id": "radar-9375dfb3e4d4",
+        "id": "radar-663c013ee887",
         "kind": "radar",
-        "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "AGCX: Why AI Agents aren't assistants",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-08-16 05:55",
-        "displayDate": "2026-08-16 05:55",
-        "url": "https://github.com/dburnett11155-rgb/Tokencompress",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-16 05:55"
+        "score": 55,
+        "date": "2026-08-16 11:04",
+        "displayDate": "2026-08-16 11:04",
+        "url": "https://agcx.org/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-16 11:04"
       },
       {
         "id": "radar-d7fb339944c2",
@@ -45,18 +45,18 @@
         "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-08-16 00:33"
       },
       {
-        "id": "radar-c93cfe668f8a",
+        "id": "radar-f907a11bbd24",
         "kind": "radar",
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "summary": "TechCrunch reports: As AI safety concerns mount, three pioneers make the case for staying open TechCrunch",
+        "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations",
+        "summary": "IBM Newsroom reports: IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations IBM Newsroom",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-08-12 17:51",
-        "displayDate": "2026-08-12 17:51",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1hXNkZidkw1UHJ1NUIzbF9Id1pTNGJndDNpMVp3bC1BaUJKbDhqcXoyX1NWLWt1WWtpTlk4S012ZDI0TWZGbzNob1M1YWtIUGZIb3k5cllsRTRBSFJqVmVreU5PS3UwRGdIZ0NMM2x2YzhwOWFZVGE5UWZpLXpwNHF1Y29KMXpUZkNjRGY4MVlmX1ZXMm05WEQ4WnEzOVhnSGtTTDZEOHFkbFdm",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-12 17:51"
+        "score": 90,
+        "date": "2026-08-13 10:08",
+        "displayDate": "2026-08-13 10:08",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE",
+        "source": "News signal — verify before acting · Source: IBM Newsroom · Time: 2026-08-13 10:08"
       },
       {
         "id": "radar-db52423d60b0",
@@ -87,18 +87,18 @@
         "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-10 12:26"
       },
       {
-        "id": "radar-f54ea31486e2",
+        "id": "radar-edb74c02b42f",
         "kind": "radar",
-        "title": "If you run a solo business, here’s how AI agents can help you",
-        "summary": "Fast Company reports: If you run a solo business, here’s how AI agents can help you Fast Company",
+        "title": "Business Owners Have a New Security Problem: AI Agents With Keys to Company Secrets",
+        "summary": "inc.com reports: Business Owners Have a New Security Problem: AI Agents With Keys to Company Secrets inc.com",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-08-14 13:20",
-        "displayDate": "2026-08-14 13:20",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMm1hOFAtQk1iamVIRzlNaVhfMlF2SUFxTk03SFkwRkYwQkJHQmdWVjN2NnJEU0dfWDNZYmhXSDhVZVp3bjk5OTJrMV8zcDRPclQ2N1g5NkhWSllTYUN5eWQ2emJCZjMzdmFmb29xaE1ucXVQRVpXT05KTHZDX3BuOWpfenJWei1aQ0x6R1ZRejlmaTNDQTRybm5R",
-        "source": "News signal — verify before acting · Source: Fast Company · Time: 2026-08-14 13:20"
+        "score": 50,
+        "date": "2026-08-16 11:10",
+        "displayDate": "2026-08-16 11:10",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGJrNHlISGZ1cE1faUNZQjRhZE1wQ1VTOEJKZ1psaE5PazAwYjBiN0RXMXNOZjF5QlhrUGhqZVhKU2pQdWVMVDIyZ2JCZEtJVEdHRDFkUHRDZzhNcHYxQWpUallvQVhTNTNJVVlyUUFjdVE4eVVZcGJ4eHMxanNudVJQZEd6dFEwRF9uOGRtcWdGenZ3NzNrZy1oVnV1eHl3WXllRzZCaHp4eXduTjd5OU1zaTZXVG9lbFFfVVpRTkYzUQ",
+        "source": "News signal — verify before acting · Source: inc.com · Time: 2026-08-16 11:10"
       },
       {
         "id": "radar-5bb967af26d5",
@@ -118,7 +118,7 @@
         "id": "radar-1bbd1b044485",
         "kind": "radar",
         "title": "Tripo AI aims to revolutionize the 3D content-creation landscape",
-        "summary": "Jon Peddie Research reports: Tripo AI aims to revolutionize the 3D content-creation landscape Jon Peddie Research",
+        "summary": "jonpeddie.com reports: Tripo AI aims to revolutionize the 3D content-creation landscape jonpeddie.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -126,21 +126,21 @@
         "date": "2026-08-14 18:31",
         "displayDate": "2026-08-14 18:31",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmJRZmE2N1UtcVlKVzJHZkVKN2RMQmIwQThTZGgwQ0pZS1lWMXVwLVNOek1tbWdPOUJObmdWaW1lYUNGUWQxVWVXWUlOeU94bk95ZUlIUTcyWGo3MXIyZFhNSUI1MmNrWnFmc3M0RGRWTGFDNVhXZlpPcDhRRHVudjFTZXY2Z2IwbU9VNkd3XzQ4R2ZIZmVUb2dxSk0",
-        "source": "News signal — verify before acting · Source: Jon Peddie Research · Time: 2026-08-14 18:31"
+        "source": "News signal — verify before acting · Source: jonpeddie.com · Time: 2026-08-14 18:31"
       },
       {
-        "id": "radar-94151c10133f",
+        "id": "radar-c93cfe668f8a",
         "kind": "radar",
-        "title": "How older generations are engaging with AI – and why it matters",
-        "summary": "EY reports: How older generations are engaging with AI – and why it matters EY",
+        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+        "summary": "TechCrunch reports: As AI safety concerns mount, three pioneers make the case for staying open TechCrunch",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-08-15 18:19",
-        "displayDate": "2026-08-15 18:19",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3AwWTc1RkU3VkRzSS05S3ZuZ01Tc3FRU2lncWlzTTBuMlRubUQ4Tk05a3FXRjkwaWZsaGVtSEFqSllaTHZBdVRPaWF5dndzaXdBVVVYeUx6TUtkUWJQRWpQWE9uS1RtQnhxeGZBMi1Sb1c4eXR3X0o3cjRPOEk0bnltZTVQLWZsTzJCMWlib3VnSnJPTG9VV0VEeEpTTWVfQU5iU3VPWXVjN0dzZUJJRzlPS0xxQTZHZkJ5OA",
-        "source": "News signal — verify before acting · Source: EY · Time: 2026-08-15 18:19"
+        "score": 83,
+        "date": "2026-08-12 17:51",
+        "displayDate": "2026-08-12 17:51",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1hXNkZidkw1UHJ1NUIzbF9Id1pTNGJndDNpMVp3bC1BaUJKbDhqcXoyX1NWLWt1WWtpTlk4S012ZDI0TWZGbzNob1M1YWtIUGZIb3k5cllsRTRBSFJqVmVreU5PS3UwRGdIZ0NMM2x2YzhwOWFZVGE5UWZpLXpwNHF1Y29KMXpUZkNjRGY4MVlmX1ZXMm05WEQ4WnEzOVhnSGtTTDZEOHFkbFdm",
+        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-12 17:51"
       },
       {
         "id": "radar-53f911b6fa67",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-16T16:10:26.517265+08:00",
-        "nextRun": "2026-08-16T19:10:00+08:00",
+        "lastRun": "2026-08-16T19:10:30.335896+08:00",
+        "nextRun": "2026-08-16T22:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-16T15:40:25.823704+08:00",
-        "nextRun": "2026-08-16T18:40:00+08:00",
+        "lastRun": "2026-08-16T18:40:31.203538+08:00",
+        "nextRun": "2026-08-16T21:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-16T16:04:24.082097+08:00",
-        "nextRun": "2026-08-16T17:04:24.194785+08:00",
+        "lastRun": "2026-08-16T19:05:28.248904+08:00",
+        "nextRun": "2026-08-16T20:05:28.468635+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-16T16:31:29.097854+08:00",
-        "nextRun": "2026-08-16T16:36:24.187739+08:00",
+        "lastRun": "2026-08-16T19:34:33.381270+08:00",
+        "nextRun": "2026-08-16T19:36:33.381270+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-16T16:30:40.417131+08:00",
-        "nextRun": "2026-08-16T19:30:00+08:00",
+        "lastRun": "2026-08-16T19:30:45.009531+08:00",
+        "nextRun": "2026-08-16T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-16T16:34:24.194785+08:00"
+    "updatedAt": "2026-08-16T19:35:28.468635+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
