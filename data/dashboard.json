@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-17T04:38:44+08:00",
+    "generatedAt": "2026-08-17T07:39:49+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-16_12-01-22.md",
-    "radarSource": "ai_opportunity_radar_20260817_043100.html",
+    "radarSource": "ai_opportunity_radar_20260817_073104.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260817_043100.html",
+    "sourceFile": "ai_opportunity_radar_20260817_073104.html",
     "items": [
       {
-        "id": "radar-39d2a43db7a2",
+        "id": "radar-c1a495c599c5",
         "kind": "radar",
-        "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Show HN: Manthan a MCP server to store Concept cards with prerequisite links",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 71,
-        "date": "2026-08-16 17:12",
-        "displayDate": "2026-08-16 17:12",
-        "url": "https://github.com/aiconnai/agentshield",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-16 17:12"
+        "score": 59,
+        "date": "2026-08-16 19:41",
+        "displayDate": "2026-08-16 19:41",
+        "url": "https://manthan.sirune.tech/share.html",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-16 19:41"
       },
       {
         "id": "radar-f09f44e65f07",
@@ -39,24 +39,24 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-16 16:20",
-        "displayDate": "2026-08-16 16:20",
+        "date": "2026-08-16 18:04",
+        "displayDate": "2026-08-16 18:04",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWQU5KMmFpN0dudVJSY21sUjJ2NkFwSmVnd2ktY1RTbi1KSlBOS0JOS0t3THR3eHZPMjZCbFRsRHdvbjFGRFlpRDE3QmlkaEVaWnY2UXFR",
-        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-08-16 16:20"
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-08-16 18:04"
       },
       {
-        "id": "radar-c93cfe668f8a",
+        "id": "radar-f907a11bbd24",
         "kind": "radar",
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "summary": "TechCrunch reports: As AI safety concerns mount, three pioneers make the case for staying open TechCrunch",
+        "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations",
+        "summary": "IBM Newsroom reports: IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations IBM Newsroom",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-08-12 17:51",
-        "displayDate": "2026-08-12 17:51",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1hXNkZidkw1UHJ1NUIzbF9Id1pTNGJndDNpMVp3bC1BaUJKbDhqcXoyX1NWLWt1WWtpTlk4S012ZDI0TWZGbzNob1M1YWtIUGZIb3k5cllsRTRBSFJqVmVreU5PS3UwRGdIZ0NMM2x2YzhwOWFZVGE5UWZpLXpwNHF1Y29KMXpUZkNjRGY4MVlmX1ZXMm05WEQ4WnEzOVhnSGtTTDZEOHFkbFdm",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-12 17:51"
+        "score": 90,
+        "date": "2026-08-13 10:08",
+        "displayDate": "2026-08-13 10:08",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE",
+        "source": "News signal — verify before acting · Source: IBM Newsroom · Time: 2026-08-13 10:08"
       },
       {
         "id": "radar-db52423d60b0",
@@ -101,46 +101,46 @@
         "source": "News signal — verify before acting · Source: inc.com · Time: 2026-08-16 11:10"
       },
       {
-        "id": "radar-d1e0dcdb5506",
+        "id": "radar-8ef727214945",
         "kind": "radar",
-        "title": "Claude Code Tutorial - Build Apps 10x Faster With AI Priyanka Chopra (Vph6LGQaUM)",
-        "summary": "Mshale reports: Claude Code Tutorial - Build Apps 10x Faster With AI Priyanka Chopra (Vph6LGQaUM) Mshale",
+        "title": "Claude Code, Codex, and Cursor are all overkill — here’s the lightweight tool I use instead",
+        "summary": "XDA reports: Claude Code, Codex, and Cursor are all overkill — here’s the lightweight tool I use instead XDA",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-16 13:24",
-        "displayDate": "2026-08-16 13:24",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFWFhwc3dVYkJTcXY5QzE5bk40OXVMM0JQU3NqbzBEWUdaX3hwSkU0Yzd2UmVFT0taSjBCNWFHZWxMYmN3bTNXN2lzNzNTTE43bFZtSE1Rb0VlVVZnWU5tRg",
-        "source": "News signal — verify before acting · Source: Mshale · Time: 2026-08-16 13:24"
+        "date": "2026-08-16 18:00",
+        "displayDate": "2026-08-16 18:00",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZU9XUHhyNlREdFVfaHZYLTB6OGphY2JzZnlhTUliSmVZeHJoUVFCYjdLSThueDF5c21XdEJKOGszY3BUTFlHWDNtem1qdTlUOVFndk9mcmZERVZ3MzVnNnhQODdka2kxaFJIT21rYXhvNEJ2YjBkRHJ3cVEwdnVnUjVxTFJsUXltalU3ajhkcUJLZENjdzd3Qy1DeWNSRkFV",
+        "source": "News signal — verify before acting · Source: XDA · Time: 2026-08-16 18:00"
       },
       {
-        "id": "radar-1bbd1b044485",
+        "id": "radar-f55f6dade652",
         "kind": "radar",
-        "title": "Tripo AI aims to revolutionize the 3D content-creation landscape",
-        "summary": "Jon Peddie Research reports: Tripo AI aims to revolutionize the 3D content-creation landscape Jon Peddie Research",
+        "title": "Report Suggests Nearly No One Is Buying AI Generated Goods",
+        "summary": "Kotaku reports: Report Suggests Nearly No One Is Buying AI Generated Goods Kotaku",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-08-14 18:31",
-        "displayDate": "2026-08-14 18:31",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmJRZmE2N1UtcVlKVzJHZkVKN2RMQmIwQThTZGgwQ0pZS1lWMXVwLVNOek1tbWdPOUJObmdWaW1lYUNGUWQxVWVXWUlOeU94bk95ZUlIUTcyWGo3MXIyZFhNSUI1MmNrWnFmc3M0RGRWTGFDNVhXZlpPcDhRRHVudjFTZXY2Z2IwbU9VNkd3XzQ4R2ZIZmVUb2dxSk0",
-        "source": "News signal — verify before acting · Source: Jon Peddie Research · Time: 2026-08-14 18:31"
+        "date": "2026-08-16 20:04",
+        "displayDate": "2026-08-16 20:04",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbk05TWNVQmpNbE5yQlU4RmhHSTNLQkZiNTVfMnRfR0REOFZEcWFwT3NNTGdxaFA3XzB1Z25hNUFaeTUwME9fSTlzX3ZDNm5mNEtCYjFxd2J0Z3hLRzV1R2lLTnQyZ3dfN1d4YU5kMklubXJQaWdRdUlsd0ZEZ1hCV2doN1VrMzRnMEVGZ1dGa0ZLNEtYV0htQjFHd0J4RlFE",
+        "source": "News signal — verify before acting · Source: Kotaku · Time: 2026-08-16 20:04"
       },
       {
-        "id": "radar-b5ded8ac0e99",
+        "id": "radar-c93cfe668f8a",
         "kind": "radar",
-        "title": "The skill BCG's North America boss thinks matters more in the AI era",
-        "summary": "Business Insider reports: The skill BCG's North America boss thinks matters more in the AI era Business Insider",
+        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+        "summary": "TechCrunch reports: As AI safety concerns mount, three pioneers make the case for staying open TechCrunch",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-08-16 09:35",
-        "displayDate": "2026-08-16 09:35",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjdiWFBuZmltanVoNnZKQlR0SU4tTmUtcnExOGtDVGRaTWJtQ3k5MEZyZjRpTzFxYTh2anVjU1NUR1dVcVkyQVV1X0Q0djNoOEVQVFI5cjQxVDNkb1lGbG5sN2xmVkxNZmphR0p3Nk40a1lDWmF2Mnk2RW1GODZNNU9QUzdjYzRvWkJScGE0Zkl3Z2E4WmViZG5mRTk",
-        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-08-16 09:35"
+        "score": 83,
+        "date": "2026-08-12 17:51",
+        "displayDate": "2026-08-12 17:51",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1hXNkZidkw1UHJ1NUIzbF9Id1pTNGJndDNpMVp3bC1BaUJKbDhqcXoyX1NWLWt1WWtpTlk4S012ZDI0TWZGbzNob1M1YWtIUGZIb3k5cllsRTRBSFJqVmVreU5PS3UwRGdIZ0NMM2x2YzhwOWFZVGE5UWZpLXpwNHF1Y29KMXpUZkNjRGY4MVlmX1ZXMm05WEQ4WnEzOVhnSGtTTDZEOHFkbFdm",
+        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-12 17:51"
       },
       {
         "id": "radar-9fd17df9c40b",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T04:10:46.193153+08:00",
-        "nextRun": "2026-08-17T07:10:00+08:00",
+        "lastRun": "2026-08-17T07:10:50.397464+08:00",
+        "nextRun": "2026-08-17T10:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T03:40:47.251202+08:00",
-        "nextRun": "2026-08-17T06:40:00+08:00",
+        "lastRun": "2026-08-17T06:40:51.391135+08:00",
+        "nextRun": "2026-08-17T09:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T04:08:44.203381+08:00",
-        "nextRun": "2026-08-17T05:08:44.450859+08:00",
+        "lastRun": "2026-08-17T07:09:48.538270+08:00",
+        "nextRun": "2026-08-17T08:09:48.796470+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T04:37:49.344470+08:00",
-        "nextRun": "2026-08-17T04:39:49.344470+08:00",
+        "lastRun": "2026-08-17T07:37:53.874870+08:00",
+        "nextRun": "2026-08-17T07:39:53.874870+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T04:31:00.840935+08:00",
-        "nextRun": "2026-08-17T07:30:00+08:00",
+        "lastRun": "2026-08-17T07:31:04.571690+08:00",
+        "nextRun": "2026-08-17T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-17T04:38:44.451856+08:00"
+    "updatedAt": "2026-08-17T07:39:48.797469+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
