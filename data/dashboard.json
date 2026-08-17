@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-17T13:42:58+08:00",
+    "generatedAt": "2026-08-17T16:44:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-17_09-00-54.md",
-    "radarSource": "ai_opportunity_radar_20260817_133113.html",
+    "radarSource": "ai_opportunity_radar_20260817_163018.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260817_133113.html",
+    "sourceFile": "ai_opportunity_radar_20260817_163018.html",
     "items": [
       {
-        "id": "radar-c1a495c599c5",
+        "id": "radar-28625cb47bc1",
         "kind": "radar",
-        "title": "Show HN: Manthan a MCP server to store Concept cards with prerequisite links",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=7, comments=2.",
+        "title": "Managing AI Agent Identity and Access at Scale | Kovrr",
+        "summary": "Security Boulevard reports: Managing AI Agent Identity and Access at Scale | Kovrr Security Boulevard",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-08-16 19:41",
-        "displayDate": "2026-08-16 19:41",
-        "url": "https://manthan.sirune.tech/share.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-16 19:41"
+        "score": 50,
+        "date": "2026-08-17 06:22",
+        "displayDate": "2026-08-17 06:22",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1lkcDRMSGFpTVBPWFlGX3ZGOUNwV29Ya3RuMkxEMFI0WmtnbDA3ZEJkZjhIWThZdDJkYXNHaGw3RlVtUVMtbFFySnplTVgxRFZUN1VVWVNPU0Q3VUNqSEcyODRhdzNKNnBEZDMybjM3eldXSTJoUDdheWU3NGRMM2FZdGN5UU0tVDYwLW5oa1dyRVIzZGc",
+        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-08-17 06:22"
       },
       {
-        "id": "radar-22252b79f959",
+        "id": "radar-406d08dc1be3",
         "kind": "radar",
-        "title": "OpenAI Researcher: 100% of Code Development Handed Over to AI – Claude Rewrites Entire Python Libraries",
-        "summary": "36Kr reports: OpenAI Researcher: 100% of Code Development Handed Over to AI – Claude Rewrites Entire Python Libraries 36Kr",
+        "title": "\"Rather Be Unemployed Than Write 1 Line of AI-Assisted Code\": 20-Year Industry Vet Quits AI Tools After 18 Months to Regain Pure Manual Coding Joy",
+        "summary": "36Kr reports: \"Rather Be Unemployed Than Write 1 Line of AI-Assisted Code\": 20-Year Industry Vet Quits AI Tools After 18 Months to Regain Pure Manual Coding Joy 36Kr",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-17 04:40",
-        "displayDate": "2026-08-17 04:40",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sQTllRi1id0NzUE1mQzd5bmUzRWhvUm16VzQyWlFOZW1FNXpnZzRsMHlfYkM3bUVrYTI2QkUwSUlXcTFZbHVoLUpmd2xxS19RdWM0",
-        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-08-17 04:40"
+        "date": "2026-08-17 08:10",
+        "displayDate": "2026-08-17 08:10",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tS0NPMnUybzUyZzFvOTlJZmI3YUdHeG1OdklReHJ5elhIQkVxck5VMHhpLS1Mei1HRHQ0UHBtWEg4ZUtzNmFPaUx0ckk3VlJTMnJz",
+        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-08-17 08:10"
       },
       {
         "id": "radar-f907a11bbd24",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: Currently.com · Time: 2026-08-16 23:22"
       },
       {
-        "id": "radar-c50d48d51409",
+        "id": "radar-3997c1c2fc51",
         "kind": "radar",
-        "title": "OpenAI Codex CLI Vs Claude Code - There’s A Clear Winner Shane Mcclanahan (ncmti7RCvW)",
-        "summary": "Mshale reports: OpenAI Codex CLI Vs Claude Code - There’s A Clear Winner Shane Mcclanahan (ncmti7RCvW) Mshale",
+        "title": "SpaceX closes $60bn acquisition of AI coding agent Cursor",
+        "summary": "verdict.co.uk reports: SpaceX closes $60bn acquisition of AI coding agent Cursor verdict.co.uk",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-17 02:42",
-        "displayDate": "2026-08-17 02:42",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Fa0twcDAyVTlVcnFLNWVCdlpMTFl2cGxBTXlvVlVuWTBkMzQxajFReUoza09wLXExTlpqcjZGdmljZXVLUi1aX0lXQ2ItOWtiWnRZbmVmM0hvd01wdFZCVQ",
-        "source": "News signal — verify before acting · Source: Mshale · Time: 2026-08-17 02:42"
+        "date": "2026-08-17 08:01",
+        "displayDate": "2026-08-17 08:01",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ReHl4UmEzSFZLdjRhM0RRWXZWSUxlR2FyNFM3SnI4M1FSdHB2dlBwR3FtQVN4TXI1UzJaZHFhdks1bExfaVQzek0zaEZJdUJJbUlsRTYzTzY4T003d3BreGZXLUZaOE83TjJv",
+        "source": "News signal — verify before acting · Source: verdict.co.uk · Time: 2026-08-17 08:01"
       },
       {
         "id": "radar-f55f6dade652",
@@ -123,10 +123,10 @@
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-08-16 20:04",
-        "displayDate": "2026-08-16 20:04",
+        "date": "2026-08-15 23:54",
+        "displayDate": "2026-08-15 23:54",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbk05TWNVQmpNbE5yQlU4RmhHSTNLQkZiNTVfMnRfR0REOFZEcWFwT3NNTGdxaFA3XzB1Z25hNUFaeTUwME9fSTlzX3ZDNm5mNEtCYjFxd2J0Z3hLRzV1R2lLTnQyZ3dfN1d4YU5kMklubXJQaWdRdUlsd0ZEZ1hCV2doN1VrMzRnMEVGZ1dGa0ZLNEtYV0htQjFHd0J4RlFE",
-        "source": "News signal — verify before acting · Source: Kotaku · Time: 2026-08-16 20:04"
+        "source": "News signal — verify before acting · Source: Kotaku · Time: 2026-08-15 23:54"
       },
       {
         "id": "radar-c93cfe668f8a",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T09:00:58.499997+08:00",
-        "nextRun": "2026-08-17T15:00:00+08:00",
+        "lastRun": "2026-08-17T15:01:05.447695+08:00",
+        "nextRun": "2026-08-17T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T13:10:59.274054+08:00",
-        "nextRun": "2026-08-17T16:10:00+08:00",
+        "lastRun": "2026-08-17T16:10:05.328931+08:00",
+        "nextRun": "2026-08-17T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T12:41:00.284430+08:00",
-        "nextRun": "2026-08-17T15:40:00+08:00",
+        "lastRun": "2026-08-17T15:40:04.216890+08:00",
+        "nextRun": "2026-08-17T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T13:12:57.589230+08:00",
-        "nextRun": "2026-08-17T14:12:57.886162+08:00",
+        "lastRun": "2026-08-17T16:14:02.452805+08:00",
+        "nextRun": "2026-08-17T17:14:02.739006+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T13:41:02.756668+08:00",
-        "nextRun": "2026-08-17T13:43:02.756668+08:00",
+        "lastRun": "2026-08-17T16:41:07.412761+08:00",
+        "nextRun": "2026-08-17T16:46:02.732492+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T13:31:13.720605+08:00",
-        "nextRun": "2026-08-17T16:30:00+08:00",
+        "lastRun": "2026-08-17T16:30:18.200099+08:00",
+        "nextRun": "2026-08-17T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-17T13:42:57.887163+08:00"
+    "updatedAt": "2026-08-17T16:44:02.740006+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
