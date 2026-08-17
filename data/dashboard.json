@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-18T01:50:20+08:00",
+    "generatedAt": "2026-08-18T04:51:25+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-17_09-00-54.md",
-    "radarSource": "ai_opportunity_radar_20260818_013035.html",
+    "radarSource": "ai_opportunity_radar_20260818_043040.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260818_013035.html",
+    "sourceFile": "ai_opportunity_radar_20260818_043040.html",
     "items": [
       {
-        "id": "radar-af2c2e3625c9",
+        "id": "radar-72096d3b41dc",
         "kind": "radar",
-        "title": "An AI agent's memory changes while reading Harry Potte",
+        "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
         "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-08-17 16:57",
-        "displayDate": "2026-08-17 16:57",
-        "url": "https://squidler.io/blog/agent-memory-harry-potter",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-17 16:57"
+        "score": 73,
+        "date": "2026-08-17 18:47",
+        "displayDate": "2026-08-17 18:47",
+        "url": "https://saor.io/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-17 18:47"
       },
       {
         "id": "radar-f1d1230335b4",
@@ -39,24 +39,24 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-17 17:15",
-        "displayDate": "2026-08-17 17:15",
+        "date": "2026-08-17 17:25",
+        "displayDate": "2026-08-17 17:25",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXhMMUNVTm1wV1g1S3V2Tk5NYTZOTVpmU2YxTU0xMExoeGtyUWVXOC13XzhScGJzdGxXV3ctZlduVGdMUExjdmhldE5kMkFLMDhxMENtMl9fRjVndmZ6ZC1LRkpUbTkxelV0bTQzdjIwT09tSkJya2VsVFdOd1d4LW1VZUMtM3lXb3JyZGRwOXQzcTBEWGxRQkF5bEZhWkRJNGd1Mw",
-        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-08-17 17:15"
+        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-08-17 17:25"
       },
       {
-        "id": "radar-4d03c7ccfdf3",
+        "id": "radar-b5ded8ac0e99",
         "kind": "radar",
-        "title": "Insight Global Invests More Than $100 Million in Employee Training and Development Programs",
-        "summary": "PR Newswire is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "The skill BCG's North America boss thinks matters more in the AI era",
+        "summary": "Business Insider reports: The skill BCG's North America boss thinks matters more in the AI era Business Insider",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-17 13:29",
-        "displayDate": "2026-08-17 13:29",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjZiZHFXM3RLZnVsNF9qTW1mRlRPSnlzWVlRZDlkemJjTFlQbjBfQldLN1JPM3RPMmdrcU9DbEtyX051YjRLV1JQZmJfOTFxQ3o2UkI2dTlxMjBQLTFlR0pOVUNyOTIyNGt1ZEhiOTJ3VUtrY0xMUHpmTVdvMk1XY2I1WHlKa0lrcjBIX1ZrM0hxQng2Q1Y0RWJHN0JLSkNuUDF1U19UbTZ4c1luNFB5UlhiS2NhMGNNZk1JR0ppLTFSdEdzdjBKaXVaa29OZGJFZHF0RUgwUzN4OWJleGFF",
-        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-17 13:29"
+        "date": "2026-08-16 09:33",
+        "displayDate": "2026-08-16 09:33",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjdiWFBuZmltanVoNnZKQlR0SU4tTmUtcnExOGtDVGRaTWJtQ3k5MEZyZjRpTzFxYTh2anVjU1NUR1dVcVkyQVV1X0Q0djNoOEVQVFI5cjQxVDNkb1lGbG5sN2xmVkxNZmphR0p3Nk40a1lDWmF2Mnk2RW1GODZNNU9QUzdjYzRvWkJScGE0Zkl3Z2E4WmViZG5mRTk",
+        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-08-16 09:33"
       },
       {
         "id": "radar-db52423d60b0",
@@ -129,24 +129,24 @@
         "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-12 07:28"
       },
       {
-        "id": "radar-b5ded8ac0e99",
+        "id": "radar-58ef053c27ee",
         "kind": "radar",
-        "title": "The skill BCG's North America boss thinks matters more in the AI era",
-        "summary": "Business Insider reports: The skill BCG's North America boss thinks matters more in the AI era Business Insider",
+        "title": "How organizations can help close the gender gap in AI for Good initiatives",
+        "summary": "ey.com reports: How organizations can help close the gender gap in AI for Good initiatives ey.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-16 09:33",
-        "displayDate": "2026-08-16 09:33",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjdiWFBuZmltanVoNnZKQlR0SU4tTmUtcnExOGtDVGRaTWJtQ3k5MEZyZjRpTzFxYTh2anVjU1NUR1dVcVkyQVV1X0Q0djNoOEVQVFI5cjQxVDNkb1lGbG5sN2xmVkxNZmphR0p3Nk40a1lDWmF2Mnk2RW1GODZNNU9QUzdjYzRvWkJScGE0Zkl3Z2E4WmViZG5mRTk",
-        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-08-16 09:33"
+        "date": "2026-08-15 18:13",
+        "displayDate": "2026-08-15 18:13",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUlDelBSNXIwa1A0NVBOSjA1U0psMS1WcUk3WFAxaHpqNkUzWlFYYTBtNmRTRl9vSFNRMWJrWGJuMXlVak5vQmxmVGQtbmduWHQzaDF3N0g3QWtHdk42SXVPN0RST1hVZ2JTUXJpMWRLZF9DaU1Qdi1zNmpTQnNJdWlKbmZybXRHaWlYVHdXcldMNnc5V1pqZDNJNV9wQ3ZrcDBac3ZHenliNEhwd1pSREVZbERNM0R2aUNWT2RDdGsyU3FJaHNUMlpmdzJFUQ",
+        "source": "News signal — verify before acting · Source: ey.com · Time: 2026-08-15 18:13"
       },
       {
         "id": "radar-53f911b6fa67",
         "kind": "radar",
         "title": "16 Indispensable AI Tools for Real Estate Agents",
-        "summary": "HousingWire reports: 16 Indispensable AI Tools for Real Estate Agents HousingWire",
+        "summary": "housingwire.com reports: 16 Indispensable AI Tools for Real Estate Agents housingwire.com",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -154,7 +154,7 @@
         "date": "2026-08-12 07:00",
         "displayDate": "2026-08-12 07:00",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VVVuX0UwSW5oOURlekNlOHJ1UTFQUzVWR3VfcFE1bnI1OGVScmdkbG5LUmltQ1dweVdrZ3U0OE5tbzlYenA0Y3lTZGxCbXVtX2xUb3BUekU2XzRJZEtudmZKdlkzeEVqQnc",
-        "source": "News signal — verify before acting · Source: HousingWire · Time: 2026-08-12 07:00"
+        "source": "News signal — verify before acting · Source: housingwire.com · Time: 2026-08-12 07:00"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-18T01:10:21.609409+08:00",
-        "nextRun": "2026-08-18T04:10:00+08:00",
+        "lastRun": "2026-08-18T04:10:26.237520+08:00",
+        "nextRun": "2026-08-18T07:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-18T00:40:27.525617+08:00",
-        "nextRun": "2026-08-18T03:40:00+08:00",
+        "lastRun": "2026-08-18T03:40:27.170402+08:00",
+        "nextRun": "2026-08-18T06:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T01:20:19.899622+08:00",
-        "nextRun": "2026-08-18T02:20:20.146046+08:00",
+        "lastRun": "2026-08-18T04:21:24.480736+08:00",
+        "nextRun": "2026-08-18T05:21:24.671841+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T01:47:25.560040+08:00",
-        "nextRun": "2026-08-18T01:52:20.138557+08:00",
+        "lastRun": "2026-08-18T04:50:29.815791+08:00",
+        "nextRun": "2026-08-18T04:52:29.815791+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T01:30:35.869854+08:00",
-        "nextRun": "2026-08-18T04:30:00+08:00",
+        "lastRun": "2026-08-18T04:30:40.701670+08:00",
+        "nextRun": "2026-08-18T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-18T01:50:20.146046+08:00"
+    "updatedAt": "2026-08-18T04:51:24.672841+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
