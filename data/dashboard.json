@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-17T21:47:14+08:00",
+    "generatedAt": "2026-08-17T22:18:15+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-17_09-00-54.md",
     "radarSource": "ai_opportunity_radar_20260817_193022.html",
@@ -189,9 +189,9 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-17T19:10:08.584803+08:00",
-        "nextRun": "2026-08-17T22:10:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Invalid refresh token. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-17T22:10:18.206661+08:00",
+        "nextRun": "2026-08-18T01:10:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "a0a3b6174708",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T21:16:17.127293+08:00",
-        "nextRun": "2026-08-17T22:17:13.928278+08:00",
+        "lastRun": "2026-08-17T21:47:17.819089+08:00",
+        "nextRun": "2026-08-17T22:48:14.775018+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-17T21:44:19.279961+08:00",
-        "nextRun": "2026-08-17T21:49:13.923278+08:00",
+        "lastRun": "2026-08-17T22:17:20.241901+08:00",
+        "nextRun": "2026-08-17T22:19:20.241901+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-17T21:47:13.929277+08:00"
+    "updatedAt": "2026-08-17T22:18:14.776018+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
