@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-18T13:56:38+08:00",
+    "generatedAt": "2026-08-18T16:57:43+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-18_09-00-34.md",
-    "radarSource": "ai_opportunity_radar_20260818_133054.html",
+    "radarSource": "ai_opportunity_radar_20260818_163058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260818_133054.html",
+    "sourceFile": "ai_opportunity_radar_20260818_163058.html",
     "items": [
       {
-        "id": "radar-488791c7e7fe",
+        "id": "radar-bf26b195caec",
         "kind": "radar",
-        "title": "Fortinet acquires Virtue AI to expand security for AI agents",
-        "summary": "MSSP Alert reports: Fortinet acquires Virtue AI to expand security for AI agents MSSP Alert",
+        "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-17 19:44",
-        "displayDate": "2026-08-17 19:44",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0VxREF1ZTJ6MnNwUEE4UjVyRURVUE02QkliMnEyMF9kU2xFdHNfWlNyVTJDbk54eUtCYmRvZTQxRXl1OTlxTm0xVEdvdk5ETFh4WFYzN2ZOalpLT1BCVHBYNlFPZnhyVndVUDI1bDBkYTJIQzZRUzJaaXNPbjFvVzRpRllNUmVfbDZkcU1DMktqaUFNSzJF",
-        "source": "News signal — verify before acting · Source: MSSP Alert · Time: 2026-08-17 19:44"
+        "score": 43,
+        "date": "2026-08-18 07:07",
+        "displayDate": "2026-08-18 07:07",
+        "url": "https://github.com/tianzizhiming-svg/agentbridge",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-18 07:07"
       },
       {
-        "id": "radar-267c75efefbd",
+        "id": "radar-b628fb0f50a3",
         "kind": "radar",
-        "title": "SpaceX Completes $60 Billion Acquisition of AI Coding Startup Cursor",
-        "summary": "Channel Insider reports: SpaceX Completes $60 Billion Acquisition of AI Coding Startup Cursor Channel Insider",
+        "title": "Anthropic’s AI Agents Started A Turf War During A Coding Test",
+        "summary": "Memeburn reports: Anthropic’s AI Agents Started A Turf War During A Coding Test Memeburn",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-18 02:26",
-        "displayDate": "2026-08-18 02:26",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTndNX3h3NWFMZDZhSUVGZ2hRMkExOWhUUFhQMDhfYktqbDVBM3MyRTBZS3JVQy14R19rX1lETzF2UUZVakE4UzZGeGgxR19LdTdNS0VZLUZkY00yRXdiUldZYWFOdXlOamJWTzNtVy1fTTNWMFdyM2ItS2kxNU00NjJn",
-        "source": "News signal — verify before acting · Source: Channel Insider · Time: 2026-08-18 02:26"
+        "date": "2026-08-18 07:07",
+        "displayDate": "2026-08-18 07:07",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmE3RXFGcEl2bnFTa2c1Tlo2S1V0UXZvdkRWUC0yd1JJd0h0RHhHNUg3X1ZVVzU2ZDdCY1dyaVZ5Z3RPWTFxa3pHelZYb2laQnppa29rYlM2TjEtN1NseEN1QjJaTGgtY0lPZE5LN3M2V1ZyNXZyYzlNR2NzWHFkUENiQTJ0RzBDLUE",
+        "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-08-18 07:07"
       },
       {
         "id": "radar-0e3f0ffa23db",
@@ -87,32 +87,32 @@
         "source": "News signal — verify before acting · Source: samsung.com · Time: 2026-08-12 07:28"
       },
       {
-        "id": "radar-64fd1f338f2e",
+        "id": "radar-0ff52ceb1dd2",
         "kind": "radar",
-        "title": "Survey: Agentic AI Moves from Pilot Phase to Production, Bringing Governance to the Forefront",
-        "summary": "THE Journal: Technological Horizons in Education reports: Survey: Agentic AI Moves from Pilot Phase to Production, Bringing Governance to the Forefront THE Journal: Technological Horizons in Education",
+        "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
+        "summary": "ZDNET reports: Business adoption of AI agents tripled this year - as measurable ROI emerges ZDNET",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 52,
-        "date": "2026-08-17 18:25",
-        "displayDate": "2026-08-17 18:25",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWplY0NMSjJuanFJVUdKcFE5SDBuaUwwZFpjYUJ5ODl5UmQzdzQxZ3RJV0JKdDljVm44T2lzTlJNQnE5WXk5OEZLUzNzVlRrSzlfQThwSmc1elo3a3MwdkN2dGkzNGhwS0Y3bHJpcVdLeS16ZVl5eFF0bUFuM2VNakRSR3BBbDhLelpqVnlES1F5VGl6U29GLUpUUzN3MmhZOVlwRDJKaXl1UzdWWTVsM2w0TlVKcC1QUXdsZ0FsRUJack13S3otSUxraFZJQ0MxT1Q3MHRB",
-        "source": "News signal — verify before acting · Source: THE Journal: Technological Horizons in Education · Time: 2026-08-17 18:25"
+        "score": 43,
+        "date": "2026-08-17 18:35",
+        "displayDate": "2026-08-17 18:35",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vWjZ3Q1dwaFJUb1ViRUpUYlRLMHBqaFJ6S25haFE3NFpvZlVsUlZJSE9wU0lfTTVIbVBlYmFlOUZtcldBYkUxc2I2ZkwySVlwbUdtekVPbFlUYUlCMWo4VHYzWTRINmRMd0RTTUtVN1c2bkdMMmx3NkpNSQ",
+        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-08-17 18:35"
       },
       {
-        "id": "radar-cc64321f7cc1",
+        "id": "radar-267c75efefbd",
         "kind": "radar",
-        "title": "Elice Group Unveils AI Coding Agent Helpy Code and Enterprise Knowledge Ontology Helpy Context",
-        "summary": "Wowtale reports: Elice Group Unveils AI Coding Agent Helpy Code and Enterprise Knowledge Ontology Helpy Context Wowtale",
+        "title": "SpaceX Completes $60 Billion Acquisition of AI Coding Startup Cursor",
+        "summary": "Channel Insider reports: SpaceX Completes $60 Billion Acquisition of AI Coding Startup Cursor Channel Insider",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-18 02:03",
-        "displayDate": "2026-08-18 02:03",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHZFd4M2lKTEZxTFB2MDdLT21SVFc2LUNiN08yV2l0V3pnM19OZDU3NTlQSU9CczZHU2VrNnZwUGtEUWh3NkNxbkJQSXpDUThVV3RB",
-        "source": "News signal — verify before acting · Source: Wowtale · Time: 2026-08-18 02:03"
+        "date": "2026-08-18 02:26",
+        "displayDate": "2026-08-18 02:26",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTndNX3h3NWFMZDZhSUVGZ2hRMkExOWhUUFhQMDhfYktqbDVBM3MyRTBZS3JVQy14R19rX1lETzF2UUZVakE4UzZGeGgxR19LdTdNS0VZLUZkY00yRXdiUldZYWFOdXlOamJWTzNtVy1fTTNWMFdyM2ItS2kxNU00NjJn",
+        "source": "News signal — verify before acting · Source: Channel Insider · Time: 2026-08-18 02:26"
       },
       {
         "id": "radar-76af92db9d1d",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: 3Dnatives · Time: 2026-08-18 00:10"
       },
       {
-        "id": "radar-bfa73b45bb45",
+        "id": "radar-457481d22b49",
         "kind": "radar",
-        "title": "AI Translator: Definition, Salary, and How to Get a Degree | Nexford University",
-        "summary": "Nexford University reports: AI Translator: Definition, Salary, and How to Get a Degree | Nexford University Nexford University",
+        "title": "Your workforce is ready for AI. Your training plans are not.",
+        "summary": "HRTech Series is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-08-17 19:00",
-        "displayDate": "2026-08-17 19:00",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDRKS3NTanhXMTNnU3U0VC1fT1VUSHdlUjBGWG1xUFhkTHhJbHFzSE9NelZOUnZOdzJ4X0RkOUhsbEVtN3VlcHQ3VjZNbjJ3T3pfSDhSTmp2eVhCY25rdzBGSkNMQmRHcHlLMi1pbWk0YWFSUFpRZTVhN25qb2FxLV9tZG9fcEhhaEZQMllONUNXekhWdFVoN21UZjFpZExtaWxRUUdRaDRjNU5zcmJ5SmNWWEgxUjRETUMw0gG7AUFVX3lxTE50NEpLc1NqeFcxM2dTdTRULV9PVVRId2VSMEZYbXFQWGRMeElscXNIT016Vk5Sdk53MnhfRGQ5SGxsRW03dWVwdDdWNk1uMndPel9IOFJOanZ5WEJjbmt3MEZKQ0xCZEdweUsyLWltaTRhYVJQWlFlNWE3bmpvYXEtX21kb19wSGFoRlAyWU41Q1d6SFZ0VWg3bVRmMWlkTG1pbFFRR1FoNGM1TnNyYnlKY1ZYSDFSNERNQzA",
-        "source": "News signal — verify before acting · Source: Nexford University · Time: 2026-08-17 19:00"
+        "date": "2026-08-18 07:00",
+        "displayDate": "2026-08-18 07:00",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbW5POXo5b283LVJrWWlhZzlmdWhnOTRpRW5wV1pwZmNuVlNSME1DbmhhSGRncTMxM1hwMzZQTmF2Sk1yelhBZlJqckV6TWdEYUxzUk9SaTk4YW41cTV6VjhNNTJaOVJZYi1nYnFQTmd0cUhTa1lCb1pNTzBiQWNCa0pMZUhnY1hFVGNSaGNjVDlHaGMyVWowUUxsMA",
+        "source": "News signal — verify before acting · Source: HRTech Series · Time: 2026-08-18 07:00"
       },
       {
         "id": "radar-53f911b6fa67",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-18T09:00:38.890347+08:00",
-        "nextRun": "2026-08-18T15:00:00+08:00",
+        "lastRun": "2026-08-18T15:00:46.758388+08:00",
+        "nextRun": "2026-08-18T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-18T13:10:41.520963+08:00",
-        "nextRun": "2026-08-18T16:10:00+08:00",
+        "lastRun": "2026-08-18T16:10:45.915576+08:00",
+        "nextRun": "2026-08-18T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-18T12:40:39.638338+08:00",
-        "nextRun": "2026-08-18T15:40:00+08:00",
+        "lastRun": "2026-08-18T15:40:44.229799+08:00",
+        "nextRun": "2026-08-18T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T13:26:38.463404+08:00",
-        "nextRun": "2026-08-18T14:26:38.671545+08:00",
+        "lastRun": "2026-08-18T16:27:43.254198+08:00",
+        "nextRun": "2026-08-18T17:27:43.584805+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T13:53:41.894119+08:00",
-        "nextRun": "2026-08-18T13:58:38.666036+08:00",
+        "lastRun": "2026-08-18T16:56:49.011069+08:00",
+        "nextRun": "2026-08-18T16:58:49.011069+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-18T13:30:54.972425+08:00",
-        "nextRun": "2026-08-18T16:30:00+08:00",
+        "lastRun": "2026-08-18T16:30:58.656260+08:00",
+        "nextRun": "2026-08-18T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-18T13:56:38.671545+08:00"
+    "updatedAt": "2026-08-18T16:57:43.585805+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
