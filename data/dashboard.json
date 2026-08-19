@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-19T10:41:47+08:00",
+    "generatedAt": "2026-08-19T13:42:51+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-19_09-00-48.md",
-    "radarSource": "ai_opportunity_radar_20260819_103102.html",
+    "radarSource": "ai_opportunity_radar_20260819_133106.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260819_103102.html",
+    "sourceFile": "ai_opportunity_radar_20260819_133106.html",
     "items": [
       {
-        "id": "radar-01e224e47ae9",
+        "id": "radar-2b4535364df1",
         "kind": "radar",
-        "title": "Netwrix Extends Identity Security Monitoring to AI Agents in Microsoft Entra ID",
-        "summary": "Redmond Channel Partner reports: Netwrix Extends Identity Security Monitoring to AI Agents in Microsoft Entra ID Redmond Channel Partner",
+        "title": "Show HN: Memanto Is a Memory Agent",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-18 23:45",
-        "displayDate": "2026-08-18 23:45",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXItYjRDNWJ3TVkyalo3LUZNNjdxeEZmM1NybDFoVGMzenFlbllSR1VvUkVmUEg5eXo0c2IxQXZkR1ZZV0N3NGJVQ3ViZXZTNndIOFk2RFZJV1lzdnZxZUlJdzNsMTZVSHplaHRxV1lqaC0wbXBEenlmME1oQS1RME4yb3hTV3R4T1VaX3hUeUVHX04zVWI3OXVocjBMakpXMWg4SnNfc0FveUV2UG92YkJiZ2xFdUk",
-        "source": "News signal — verify before acting · Source: Redmond Channel Partner · Time: 2026-08-18 23:45"
+        "score": 57,
+        "date": "2026-08-19 04:01",
+        "displayDate": "2026-08-19 04:01",
+        "url": "https://github.com/moorcheh-ai/memanto",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-19 04:01"
       },
       {
-        "id": "radar-c59848145cea",
+        "id": "radar-f2dd4fd3aa5e",
         "kind": "radar",
-        "title": "The Workspace Trap: How MCP Auto-Execution Turns Developer IDEs Into Attack Vectors",
-        "summary": "forkast.news reports: The Workspace Trap: How MCP Auto-Execution Turns Developer IDEs Into Attack Vectors forkast.news",
+        "title": "How Does AI Agent Sandboxing Actually Work, and Why Founders Skip It",
+        "summary": "Startup Fortune reports: How Does AI Agent Sandboxing Actually Work, and Why Founders Skip It Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 01:19",
-        "displayDate": "2026-08-19 01:19",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGd1c0lEUXROUzJYLWZNYXR3STFtNHVUSFQycVJhT2wxUkI0RHZJQnEwRElERkFxRzAyYUJ5am5wNThucGp2SVN6eE1jWElQY1JjQklQTlRGc09BZXFlTEpDMlh0MEpRODF0VFY5ZzQxdm5PQXhwTHJPUktOV0xUeHFoUzN5SEdWaEN4a1pRa3dNcHZQX3daXzFWV3I1dTNGZ2xFbEV2bw",
-        "source": "News signal — verify before acting · Source: forkast.news · Time: 2026-08-19 01:19"
+        "date": "2026-08-19 02:34",
+        "displayDate": "2026-08-19 02:34",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3JJa2tQSi1GUG0tWHFpU1NjUlNnUDZhQTRhV0lNTDJuTF9FWENfV0FpbzZHSTI4QzJNdXBGdFdUUUdWTy0yQ1NnNVNSV3RqODNHTV83cEJYdUNqMmFPbHpPMjhJVTlLU2hiNEpOOW1RQlQ3MlkwMjlzZDBRSk5YWHl1aWxKb1oycjVWYzZwQ3BoOE9DR2tmTk5Rcw",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-08-19 02:34"
       },
       {
         "id": "radar-defe216f34a4",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-18 12:30"
       },
       {
-        "id": "radar-db52423d60b0",
+        "id": "radar-a5ef1da8e341",
         "kind": "radar",
-        "title": "Figma's AI Agent Raises New Challenges for Design System Consistency",
-        "summary": "DesignRush shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Anthropic's annualized revenue tops $65 billion, adds UI design feature to Claude Code",
+        "summary": "finance.biggo.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-08-13 10:30",
-        "displayDate": "2026-08-13 10:30",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJNUGlyOE5aMTFHN1Q4TmV1ZHpxREhoR3hxOHRscGlMMl8tSE5OZm9ISGJqMlhxeFNUWkxpd080NVJkblh4cjdJNnprUUR3RFMtcGpPd0NPbmZjT2poSERkUUcyclRQRFNkNk10VTZZOTVqTzJCTTh0bjBMemRRVFZyR19ndkViczV3",
-        "source": "News signal — verify before acting · Source: DesignRush · Time: 2026-08-13 10:30"
+        "score": 100,
+        "date": "2026-08-19 02:35",
+        "displayDate": "2026-08-19 02:35",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xeDdvanNkT1hMRFI4RlVESXdmMkNaMExZWDlESkhIV25hT0JtUjhPZ0ZWZDdUQ1JxemtOVk1vVGFjRDh1R3F3SzJCWEVjeGJ6empRSTN1czd3WDA0YlgyMWFOZ0FsemNFUm9FNmxqWG80cUVibmc",
+        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-19 02:35"
       },
       {
         "id": "radar-a975c3a79aa6",
@@ -87,46 +87,32 @@
         "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-08-18 22:17"
       },
       {
-        "id": "radar-464c79139083",
+        "id": "radar-c59848145cea",
         "kind": "radar",
-        "title": "Show HN: ResumeSkip – automatically tailor your resume to jobs",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-08-18 23:08",
-        "displayDate": "2026-08-18 23:08",
-        "url": "https://resumeskip.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-18 23:08"
-      },
-      {
-        "id": "radar-3dd2ed0b047e",
-        "kind": "radar",
-        "title": "How to guide a coding agent",
-        "summary": "IT Brew is a current AI signal: How to guide a coding agent. Treat it as a lead to verify, not as final advice.",
+        "title": "The Workspace Trap: How MCP Auto-Execution Turns Developer IDEs Into Attack Vectors",
+        "summary": "forkast.news reports: The Workspace Trap: How MCP Auto-Execution Turns Developer IDEs Into Attack Vectors forkast.news",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 00:00",
-        "displayDate": "2026-08-19 00:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FS0xOelVXZXBHdzBWN2Jwb1NrblNBSHcxaE5OTElGckdSc29BY2M1OUNOU0pwaXFySzBQZng0ckp0aG9IbXhYbjRmZUlCR2ZFRjlVNVkzRmhEamZaZE5LZEFvcWNKNVlGdHc",
-        "source": "News signal — verify before acting · Source: IT Brew · Time: 2026-08-19 00:00"
+        "date": "2026-08-19 01:19",
+        "displayDate": "2026-08-19 01:19",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGd1c0lEUXROUzJYLWZNYXR3STFtNHVUSFQycVJhT2wxUkI0RHZJQnEwRElERkFxRzAyYUJ5am5wNThucGp2SVN6eE1jWElQY1JjQklQTlRGc09BZXFlTEpDMlh0MEpRODF0VFY5ZzQxdm5PQXhwTHJPUktOV0xUeHFoUzN5SEdWaEN4a1pRa3dNcHZQX3daXzFWV3I1dTNGZ2xFbEV2bw",
+        "source": "News signal — verify before acting · Source: forkast.news · Time: 2026-08-19 01:19"
       },
       {
-        "id": "radar-76af92db9d1d",
+        "id": "radar-d3c6119f3b7f",
         "kind": "radar",
-        "title": "Hi3D V3.0 raises AI 3D models to 2048³ voxel resolution. 48-hour free trial",
-        "summary": "3dnatives.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Hi3D V3.0 Launches Industry’s First Commercial 2048³ Ultra-High-Precision AI 3D Model, Free for 48 Hours",
+        "summary": "3DPrint.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-08-18 00:10",
-        "displayDate": "2026-08-18 00:10",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tazNYQXVON2lKZFBpMkdnc0V3Sk00V1BOQXNMWTlTXzY0ZDNQLTBrcEhHLUZmVXJVU0Y1MkZvb1dyR3VhZ2VvZFR3RDlFMUh3OG9vOHZzc3JVMU9MdkNGcDRTVmlCU0trVGNB0gFwQVVfeXFMTW5nME53WWJGNDJwZjlKOXByYXhXenJTN1YwTk51U3VXekpZZGJwZ2ZSTmFVNEcxWGY4N2tlVFJLSmhsU0xKZVlWUnRUQkdRSFVCa2xPX0EzTlBRNVRMbzhEOTlHRGl4NTJxeENmRzVVQg",
-        "source": "News signal — verify before acting · Source: 3dnatives.com · Time: 2026-08-18 00:10"
+        "date": "2026-08-18 22:00",
+        "displayDate": "2026-08-18 22:00",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejduOHFwRVlRdk13NmlMa08wRDJXajlmeE5MV1g0RXMtOXE3NnpaelBXaWF5dU9KMDlIQ0xDOXNYRkxJWXVhcG1Jb2hfblctYkdGZ3ZkNmc3LWMzOXhud0UtUzZRdXZ2eGtXazNFcHNNNVJCQWdDdzFqdHZBOVNWRk5JclJsOWZmZUpXem9xV1Nod9IBkgFBVV95cUxPejduOHFwRVlRdk13NmlMa08wRDJXajlmeE5MV1g0RXMtOXE3NnpaelBXaWF5dU9KMDlIQ0xDOXNYRkxJWXVhcG1Jb2hfblctYkdGZ3ZkNmc3LWMzOXhud0UtUzZRdXZ2eGtXazNFcHNNNVJCQWdDdzFqdHZBOVNWRk5JclJsOWZmZUpXem9xV1Nodw",
+        "source": "News signal — verify before acting · Source: 3DPrint.com · Time: 2026-08-18 22:00"
       },
       {
         "id": "radar-2837239df9da",
@@ -143,18 +129,32 @@
         "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-08-18 21:06"
       },
       {
-        "id": "radar-6ba1f61d610e",
+        "id": "radar-db52423d60b0",
         "kind": "radar",
-        "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
-        "summary": "EE Times reports: Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design EE Times",
+        "title": "Figma's AI Agent Raises New Challenges for Design System Consistency",
+        "summary": "DesignRush shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 66,
-        "date": "2026-08-13 07:00",
-        "displayDate": "2026-08-13 07:00",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRm80aTgxRDk4UFl1X1VFSVJkQjZmUjd6RjlZTDNFQkJiX1c0OHJtbV95MThhOURteDhxbWRfbW1IWW9oa08waGZrazVYaU9Va3UybFVDa3E2b1ctNTc5b2RUeVFkVXNrUWNTSUJVUzR6VmhLN0UxVkVmVHNtSGUyaXpLWjlWMUdrakgtVFBLeXlLWWs1",
-        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-13 07:00"
+        "date": "2026-08-13 10:30",
+        "displayDate": "2026-08-13 10:30",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJNUGlyOE5aMTFHN1Q4TmV1ZHpxREhoR3hxOHRscGlMMl8tSE5OZm9ISGJqMlhxeFNUWkxpd080NVJkblh4cjdJNnprUUR3RFMtcGpPd0NPbmZjT2poSERkUUcyclRQRFNkNk10VTZZOTVqTzJCTTh0bjBMemRRVFZyR19ndkViczV3",
+        "source": "News signal — verify before acting · Source: DesignRush · Time: 2026-08-13 10:30"
+      },
+      {
+        "id": "radar-01e224e47ae9",
+        "kind": "radar",
+        "title": "Netwrix Extends Identity Security Monitoring to AI Agents in Microsoft Entra ID",
+        "summary": "rcpmag.com reports: Netwrix Extends Identity Security Monitoring to AI Agents in Microsoft Entra ID rcpmag.com",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 50,
+        "date": "2026-08-18 23:45",
+        "displayDate": "2026-08-18 23:45",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXItYjRDNWJ3TVkyalo3LUZNNjdxeEZmM1NybDFoVGMzenFlbllSR1VvUkVmUEg5eXo0c2IxQXZkR1ZZV0N3NGJVQ3ViZXZTNndIOFk2RFZJV1lzdnZxZUlJdzNsMTZVSHplaHRxV1lqaC0wbXBEenlmME1oQS1RME4yb3hTV3R4T1VaX3hUeUVHX04zVWI3OXVocjBMakpXMWg4SnNfc0FveUV2UG92YkJiZ2xFdUk",
+        "source": "News signal — verify before acting · Source: rcpmag.com · Time: 2026-08-18 23:45"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T10:10:49.729163+08:00",
-        "nextRun": "2026-08-19T13:10:00+08:00",
+        "lastRun": "2026-08-19T13:10:52.683436+08:00",
+        "nextRun": "2026-08-19T16:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T09:40:47.986771+08:00",
-        "nextRun": "2026-08-19T12:40:00+08:00",
+        "lastRun": "2026-08-19T12:40:57.522139+08:00",
+        "nextRun": "2026-08-19T15:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T10:11:46.687392+08:00",
-        "nextRun": "2026-08-19T11:11:46.897918+08:00",
+        "lastRun": "2026-08-19T13:12:50.977077+08:00",
+        "nextRun": "2026-08-19T14:12:51.162493+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T10:39:49.598789+08:00",
-        "nextRun": "2026-08-19T10:41:49.598789+08:00",
+        "lastRun": "2026-08-19T13:39:53.675023+08:00",
+        "nextRun": "2026-08-19T13:44:51.156899+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T10:31:02.182986+08:00",
-        "nextRun": "2026-08-19T13:30:00+08:00",
+        "lastRun": "2026-08-19T13:31:06.428890+08:00",
+        "nextRun": "2026-08-19T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-19T10:41:46.897918+08:00"
+    "updatedAt": "2026-08-19T13:42:51.163996+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
