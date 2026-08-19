@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-19T22:46:06+08:00",
+    "generatedAt": "2026-08-20T01:47:10+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-19_09-00-48.md",
-    "radarSource": "ai_opportunity_radar_20260819_223022.html",
+    "radarSource": "ai_opportunity_radar_20260820_013027.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260819_223022.html",
+    "sourceFile": "ai_opportunity_radar_20260820_013027.html",
     "items": [
       {
-        "id": "radar-4982e83780e5",
+        "id": "radar-4f0c2e123fa0",
         "kind": "radar",
-        "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation",
+        "summary": "Fierce Healthcare reports: Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation Fierce Healthcare",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-08-19 14:23",
-        "displayDate": "2026-08-19 14:23",
-        "url": "https://github.com/danielealbano/android-remote-control-mcp",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-19 14:23"
+        "score": 51,
+        "date": "2026-08-19 11:30",
+        "displayDate": "2026-08-19 11:30",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0x3MzF1enVIdE50cm1xb3Nsa0lxRk1VWWxQc2JGaHU3OHBmQVdEYldHY043NFVUeFlqUTFrTUp6VFUxTDhkbjV5WkIzQ2dacF9zVV8wekZhMm1UMGI5cTdhdnNQNUctUkdwTUZYSVNxb0FlbVBJNWl4S2tMTmFhLU5EVWxZc0VyNWE0MWZJY0N6Z1d1SVJEV0RseGR5Z2RsMjBaVDFLQzNNSHBJblJTVC1SQTZTdGhlaEY5elI1Y3RzdTUxbXJKOHh4ZWU",
+        "source": "News signal — verify before acting · Source: Fierce Healthcare · Time: 2026-08-19 11:30"
       },
       {
-        "id": "radar-2742b74cd2e0",
+        "id": "radar-937d0268badb",
         "kind": "radar",
-        "title": "Claude Code’s Temporary Usage Boost Expires Tonight. Here’s What Actually Changes",
-        "summary": "DevOps.com reports: Claude Code’s Temporary Usage Boost Expires Tonight.",
+        "title": "UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents",
+        "summary": "SD Times reports: UiPath Introduces UiPath Maestro Flow, Delivering Developer-First Orchestration for Coding Agents SD Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 13:07",
-        "displayDate": "2026-08-19 13:07",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkh5TFNKWHNTQXZzUV9XTGthdUZBQzJzRThrQlRwZ1YzalBhUEYtU29Sc2FBcWNDbWctQzFRRkxiQ2xtaWRxT2pUOGsyclBLME9udDgyX0tpRjM3NlV2V0dKME5QMDF1VHNHZ0VSSGF0amNaU09SSXljNzd2S1ZYN2twTUlyUWJHVG5iTDNmbExPN3ZDWjBqTU10U2JRTFU",
-        "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-08-19 13:07"
+        "date": "2026-08-19 14:38",
+        "displayDate": "2026-08-19 14:38",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXdoVktTRXM0b3R6aDVRTmFfS09RQzBWTlJwcFkwVW1uaThsSURLeDIzZHE3UlRhMENsRHNTV01FdHdHWUJOMjBESkFMendVWXFxWDVlTFgwb09nRnZHcVA2aWJUUF9lMkpXWTNVRjRrcjJWUmlXM3d0eElrbkcycjE3eUdjQ1M5dFA5eVljcUtfSktLYnI2ZFI2TlZDa1RiaWRGRGpxcjhjM3V1S0Q2ZEJ3Qmh6ZjlJejBfa2VxbVYtMGVXaVhN",
+        "source": "News signal — verify before acting · Source: SD Times · Time: 2026-08-19 14:38"
       },
       {
         "id": "radar-e411b49ddc1d",
@@ -87,32 +87,32 @@
         "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-08-18 22:17"
       },
       {
-        "id": "radar-fe6a0dd11524",
+        "id": "radar-303132826b84",
         "kind": "radar",
-        "title": "AI Agents Are Advancing Faster Than Enterprise Data Is Ready for Them",
-        "summary": "Business Wire reports: AI Agents Are Advancing Faster Than Enterprise Data Is Ready for Them Business Wire",
+        "title": "AI agents create new problem for enterprise software",
+        "summary": "thestreet.com reports: AI agents create new problem for enterprise software thestreet.com",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 38,
-        "date": "2026-08-19 13:30",
-        "displayDate": "2026-08-19 13:30",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm8tOWFYazVqaXFMTjRkNlhNXzZPY2dyRlJXaEV4d2cxSmhNaHZsSUNKS205S0I5WjFKNTRmUXZqcnVFc2tPWXNFVkpWSE13WnlXWVJOcDlHYjFCNzlfV3EzRUhyUFlrUWdLblEyeHNsc2xRY3A5QjVTeGlIam1oZ2ZxUVZrR1lyN1RGYjFtdmJvMHNnLXdPVjZJbDROOTJQck5jY0ZPblhxUUUyRnV1U1ZwUHIyYUd0NEFyTVJXc0gxRHN2",
-        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-19 13:30"
+        "date": "2026-08-19 15:47",
+        "displayDate": "2026-08-19 15:47",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRlg2cEI4dFcwOXJieHhYaHhjMzhlUFlaLWo1SFdzeVRBdm1uTTBUVE5ZWnVoVzRPNXRsSFFWVWNMdUlSbTFxMDlORloxbFA0SVNPWXhDSFJYTzdRX1REdmxLWm1iQ0ZsVHF2LUZyZGZKc3dpX0ktLU12QWk3TXg2RW5iZ19fVmRqRXoyM2tLTUliWTg",
+        "source": "News signal — verify before acting · Source: thestreet.com · Time: 2026-08-19 15:47"
       },
       {
-        "id": "radar-49079d4f82d3",
+        "id": "radar-2742b74cd2e0",
         "kind": "radar",
-        "title": "Adronite Unveils AI Coding Tool Based on Embedded Context Engine",
-        "summary": "DevOps.com reports: Adronite Unveils AI Coding Tool Based on Embedded Context Engine DevOps.com",
+        "title": "Claude Code’s Temporary Usage Boost Expires Tonight. Here’s What Actually Changes",
+        "summary": "DevOps.com reports: Claude Code’s Temporary Usage Boost Expires Tonight.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 13:00",
-        "displayDate": "2026-08-19 13:00",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTc4UmRQdl9RUmlSVXN0U2RZcktSSmlua1BlM0FCUUY5Y2lZeFRyYV90dTRFdlpKOWJOa0N1TVJoSkRUZ1JWbEQ5QUhYcUZXM2dfclotRjQ3WUl0czJ0cWZiVEtrYmVPQjNHSUxtck1lbmJheG1McmNSMENYX2tLMTFXRDhvRmM3SDFuSw",
-        "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-08-19 13:00"
+        "date": "2026-08-19 13:07",
+        "displayDate": "2026-08-19 13:07",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkh5TFNKWHNTQXZzUV9XTGthdUZBQzJzRThrQlRwZ1YzalBhUEYtU29Sc2FBcWNDbWctQzFRRkxiQ2xtaWRxT2pUOGsyclBLME9udDgyX0tpRjM3NlV2V0dKME5QMDF1VHNHZ0VSSGF0amNaU09SSXljNzd2S1ZYN2twTUlyUWJHVG5iTDNmbExPN3ZDWjBqTU10U2JRTFU",
+        "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-08-19 13:07"
       },
       {
         "id": "radar-d3c6119f3b7f",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T22:10:10.289514+08:00",
-        "nextRun": "2026-08-20T01:10:00+08:00",
+        "lastRun": "2026-08-20T01:10:12.598941+08:00",
+        "nextRun": "2026-08-20T04:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T21:40:08.182119+08:00",
-        "nextRun": "2026-08-20T00:40:00+08:00",
+        "lastRun": "2026-08-20T00:40:13.564010+08:00",
+        "nextRun": "2026-08-20T03:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T22:16:06.252986+08:00",
-        "nextRun": "2026-08-19T23:16:06.456572+08:00",
+        "lastRun": "2026-08-20T01:17:10.444360+08:00",
+        "nextRun": "2026-08-20T02:17:10.648472+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T22:43:09.302593+08:00",
-        "nextRun": "2026-08-19T22:48:06.450928+08:00",
+        "lastRun": "2026-08-20T01:46:13.479007+08:00",
+        "nextRun": "2026-08-20T01:48:13.479007+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T22:30:22.738971+08:00",
-        "nextRun": "2026-08-20T01:30:00+08:00",
+        "lastRun": "2026-08-20T01:30:27.171807+08:00",
+        "nextRun": "2026-08-20T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-19T22:46:06.457573+08:00"
+    "updatedAt": "2026-08-20T01:47:10.649471+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
