@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-20T09:20:22+08:00",
+    "generatedAt": "2026-08-20T09:51:22+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-20_09-00-28.md",
     "radarSource": "ai_opportunity_radar_20260820_073034.html",
@@ -200,9 +200,9 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T09:30:49.735095+08:00",
-        "nextRun": "2026-08-20T09:30:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-20T09:30:27.867740+08:00",
+        "nextRun": "2026-08-21T09:30:00+08:00",
+        "message": "RuntimeError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
       },
       {
         "id": "198f213f6827",
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-20T06:40:21.920420+08:00",
-        "nextRun": "2026-08-20T09:40:00+08:00",
+        "lastRun": "2026-08-20T09:40:25.281610+08:00",
+        "nextRun": "2026-08-20T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T08:50:21.542199+08:00",
-        "nextRun": "2026-08-20T09:50:21.848601+08:00",
+        "lastRun": "2026-08-20T09:20:25.159491+08:00",
+        "nextRun": "2026-08-20T10:21:22.643658+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T09:19:24.446255+08:00",
-        "nextRun": "2026-08-20T09:21:24.446255+08:00",
+        "lastRun": "2026-08-20T09:49:25.282783+08:00",
+        "nextRun": "2026-08-20T09:51:25.282783+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-20T09:20:21.848601+08:00"
+    "updatedAt": "2026-08-20T09:51:22.643658+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
