@@ -1,9 +1,9 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-20T07:49:19+08:00",
+    "generatedAt": "2026-08-20T09:20:22+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-19_09-00-48.md",
+    "dailySource": "2026-08-20_09-00-28.md",
     "radarSource": "ai_opportunity_radar_20260820_073034.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
@@ -167,9 +167,9 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T21:00:10.352777+08:00",
-        "nextRun": "2026-08-20T09:00:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-20T09:00:34.376838+08:00",
+        "nextRun": "2026-08-20T15:00:00+08:00",
+        "message": "RuntimeError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
       },
       {
         "id": "ac7e45cc6fc4",
@@ -178,9 +178,9 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-19T09:00:48.246619+08:00",
-        "nextRun": "2026-08-20T09:00:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-20T09:00:28.986217+08:00",
+        "nextRun": "2026-08-21T09:00:00+08:00",
+        "message": "RuntimeError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
       },
       {
         "id": "cac8032fb676",
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-19T09:15:44.999807+08:00",
-        "nextRun": "2026-08-20T09:15:00+08:00",
+        "lastRun": "2026-08-20T09:15:21.848415+08:00",
+        "nextRun": "2026-08-21T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T07:19:19.287034+08:00",
-        "nextRun": "2026-08-20T08:19:19.556507+08:00",
+        "lastRun": "2026-08-20T08:50:21.542199+08:00",
+        "nextRun": "2026-08-20T09:50:21.848601+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T07:46:22.099781+08:00",
-        "nextRun": "2026-08-20T07:51:19.550942+08:00",
+        "lastRun": "2026-08-20T09:19:24.446255+08:00",
+        "nextRun": "2026-08-20T09:21:24.446255+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-20T07:49:19.557507+08:00"
+    "updatedAt": "2026-08-20T09:20:21.848601+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
