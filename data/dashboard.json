@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-20T18:02:29+08:00",
+    "generatedAt": "2026-08-20T18:33:17+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-20_09-00-28.md",
-    "radarSource": "ai_opportunity_radar_20260820_073034.html",
+    "radarSource": "ai_opportunity_radar_20260820_180233.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260820_073034.html",
+    "sourceFile": "ai_opportunity_radar_20260820_180233.html",
     "items": [
       {
-        "id": "radar-c529816df56c",
+        "id": "radar-b1b75cb8949c",
         "kind": "radar",
-        "title": "Semantica, the Open Source Palantir for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Our security harness can hack to get root 9/10 times",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-19 22:28",
-        "displayDate": "2026-08-19 22:28",
-        "url": "https://github.com/semantica-agi/semantica",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-19 22:28"
+        "score": 55,
+        "date": "2026-08-20 07:24",
+        "displayDate": "2026-08-20 07:24",
+        "url": "https://donely.ai/ai-employees/autonomous-security-agent",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-20 07:24"
       },
       {
-        "id": "radar-2d4e22ac42d3",
+        "id": "radar-4078659c97c4",
         "kind": "radar",
-        "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-        "summary": "NVIDIA Developer reports: Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents NVIDIA Developer",
+        "title": "xAI Launches Grok Build: An Agentic CLI That Runs Your Computer - BASENOR",
+        "summary": "BASENOR - Tesla Accessories flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 22:34",
-        "displayDate": "2026-08-19 22:34",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVZONzdFRUtzTlVfdXAwdDRPREFuWXdjNzUzM2N2SHF6Q0ZIcnVvVndBWGZNUVJfUjVGVHM5WnRoTDlXRzJsaVlRcWh3NWNlTW1PdU9JcmdRdnlxcWdZY3FDRXBCZVJwUHhKVDBTNjlMUjYwYk9FNTk5VmdRaGlHYy1zUHpKUHVBN2FsUXVEREpIWmNyRHBnM2JPVU9YcGRtTHlaRmt0azEyWGluaW1uaQ",
-        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-08-19 22:34"
+        "date": "2026-08-20 05:10",
+        "displayDate": "2026-08-20 05:10",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXJ6RGtlbkM0MmxscWF0Vk9jU3EzbmNTbWl0d1BhcmRSaUxfdEFmZ3FkNk92UGF0TTlDMnNUdFlobXZGeW55eGRGZXBDUFJpV1cwVkYyQnJSejV4Q3hYSGtZbkNKUDd0NW5IbXc1TzBGMGhpc01qOEhRdlFES1lLOXYxdU5abHRUTy1KdWhzclBDVFRwU1JkUnBzQW5vUQ",
+        "source": "News signal — verify before acting · Source: BASENOR - Tesla Accessories · Time: 2026-08-20 05:10"
       },
       {
         "id": "radar-e411b49ddc1d",
@@ -59,32 +59,32 @@
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-13 19:19"
       },
       {
-        "id": "radar-db52423d60b0",
+        "id": "radar-4e57cc1ead8e",
         "kind": "radar",
-        "title": "Figma's AI Agent Raises New Challenges for Design System Consistency",
-        "summary": "DesignRush shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "PTC Advances Leadership in AI-Driven Design with Launch of Onshape FeatureScript MCP Server",
+        "summary": "PR Newswire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-08-13 10:30",
-        "displayDate": "2026-08-13 10:30",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJNUGlyOE5aMTFHN1Q4TmV1ZHpxREhoR3hxOHRscGlMMl8tSE5OZm9ISGJqMlhxeFNUWkxpd080NVJkblh4cjdJNnprUUR3RFMtcGpPd0NPbmZjT2poSERkUUcyclRQRFNkNk10VTZZOTVqTzJCTTh0bjBMemRRVFZyR19ndkViczV3",
-        "source": "News signal — verify before acting · Source: DesignRush · Time: 2026-08-13 10:30"
+        "score": 64,
+        "date": "2026-08-13 12:30",
+        "displayDate": "2026-08-13 12:30",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQXzd3Z3loVkI0TFpQRjE4ekFma0xlN2FqSnFMUmpiOE5XSDlfTThaWm9Xc014Wm5OU2M1VWh0QU9rU1RGVVZuOTZ1eFU3Yll5TmlURi1LcGkyZUpsQTdzXzVNMC1EVGZuNXYweERJWndaMTlRdXZIS3U1WHRpWGZBLWtzaW8zNWZoZmUtN2g2TmhYek4ydUh4NVdlQkM0RFlTOHQtaFJ5OFl6ZENqeXVDQ0htSGZlRW5lRUNXQmtVMDFfMEJxejVoS0J4Yk5lWWhTcGlKbjZXdW1NT1NCSTdfRA",
+        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-13 12:30"
       },
       {
-        "id": "radar-076c7f8ef4bf",
+        "id": "radar-84e073fd3bf4",
         "kind": "radar",
-        "title": "First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance",
-        "summary": "GameDev.net reports: First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance GameDev.net",
+        "title": "'Oxygen tunnel' structure could solve 3D memory reliability problem to boost AI chip performance",
+        "summary": "Tech Xplore reports: 'Oxygen tunnel' structure could solve 3D memory reliability problem to boost AI chip performance Tech Xplore",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 92,
-        "date": "2026-08-19 21:02",
-        "displayDate": "2026-08-19 21:02",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVk5hT3hiM3FxMnlfc0pWcV84d0JzeHZBdkd0dkpGbUphNkJYaVEwbHRWYktmTHFaeV9Zd2NFRWd6RDJiOENLdk4wYVE5X1Y2dFZhY3czcmF1dVFNZ0lfcDNrd1dKWTRGRUNMdm1CVm5RY2x0TzhJQk1sUWlSbjV3TnhLTG9nWkxmLU9uRHA1cGtlMG9ZbVlaWEJqY3N0SFI5Y1FWRnF0dmE4a2YyaktKX190ZVFwQVh6V2JENXpjc0JEMmc4djNncU40blhQSnM",
-        "source": "News signal — verify before acting · Source: GameDev.net · Time: 2026-08-19 21:02"
+        "score": 100,
+        "date": "2026-08-19 15:20",
+        "displayDate": "2026-08-19 15:20",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkc4bHlmU2llUHc0bE1FWjRXQ3FzaDVkTjFZOFVFREpFZzNhbFg4d251dFRicVR0X0lLbFBnZ0VxSzhYRVZaNk45SVpXS1dZYnhsM19DTkZLdGdxR3Zqc3lXVjRaYnJjdGtCZ3k3WU90RG1NeklKcERaRE5qQVBMMVpB",
+        "source": "News signal — verify before acting · Source: Tech Xplore · Time: 2026-08-19 15:20"
       },
       {
         "id": "radar-e86ef480a714",
@@ -101,32 +101,32 @@
         "source": "News signal — verify before acting · Source: USC Viterbi School of Engineering · Time: 2026-08-19 18:33"
       },
       {
-        "id": "radar-63d49726535e",
+        "id": "radar-5f0c3c4e5918",
         "kind": "radar",
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "summary": "TechCrunch reports: Cognition CEO denies report that SpaceX tried to acquire the startup TechCrunch",
+        "title": "Theo Browne: The Terminal Is Dead for AI Coding, and the GUI Won",
+        "summary": "finance.biggo.com reports: Theo Browne: The Terminal Is Dead for AI Coding, and the GUI Won finance.biggo.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-19 21:51",
-        "displayDate": "2026-08-19 21:51",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hlckx5ckZLaDBjd0w5MU5jMlhtTWtnMkgwZ3NUVFpBdGtlSHR3VTJIZmxLc2dHYUJsMndfREhpd3FjaDdLN0lOdkYwdlhuTVFlNFU4cjhXcVRoMC04WUJkS3NrZjMwLWJXY3FCeTlnVWVEcmdJc2pCTDJCa19nVXV0SDNRcDdLVEI2bjh4aC1hVXRWRXB2V0xPWjlHQmlmdnRTT1lR",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-19 21:51"
+        "date": "2026-08-20 00:12",
+        "displayDate": "2026-08-20 00:12",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtM09QVWU4OTN5QU1GSUM5bFBVcDR2elJ4aUwtUk03MFBETHc1NFFoMEQybklvUTFtdUxuTFZIbzJKbXY3T0NkSGRYZXZrcktoMzIwSHJBV3RPUjQ",
+        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-20 00:12"
       },
       {
-        "id": "radar-a975c3a79aa6",
+        "id": "radar-076c7f8ef4bf",
         "kind": "radar",
-        "title": "Hi3D, the first commercially available AI 3D model with 2048³ voxel resolution",
-        "summary": "VoxelMatters reports: Hi3D, the first commercially available AI 3D model with 2048³ voxel resolution VoxelMatters",
+        "title": "First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance",
+        "summary": "GameDev.net reports: First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance GameDev.net",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-08-18 22:17",
-        "displayDate": "2026-08-18 22:17",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDltclV1RXBZdE9HUGQ2bzJtYnFWWGZFVzEtbWgydkMwSVZmemIyVG85TkVTam5jVmJxUnFibWtHeWhpWE56WTUzVG9IOUpYVWxrTHVPdzNpSzVfQXBSNV9qUmlWODd3UldURVBzbmlxZ2xKOXpaLWVVdEZLdHdMNEtPZUdoMEJiQU5ZWl81THhMXzA5YndaeDBFeWdheXdkZmwwMEthMVV0VW0xVmtRVUR30gG3AUFVX3lxTFBTWGFsaXJweG8wZE40OUNLT1ZzYXBTWjV3QkFaVWl5QlBxeGl0QlhoZEFiSDExeUFxOWh5Z2RDZ3FhRlF6QWdhb3RwbU8wOGJsRkVGSmU3ZTlGOVNJbjBGTVYwZ1U2ZXllVzdLa3paZURKaUpMZFQ1Rkg5VVdDM3pVUlNGRTRHZzd2S2V6aWhURmpTdzI5NGh3Z1hBaGdNVFZFaTd1Ml9kMnJVWWJ5ZElzMlRob1ZYWQ",
-        "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-08-18 22:17"
+        "date": "2026-08-19 21:02",
+        "displayDate": "2026-08-19 21:02",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVk5hT3hiM3FxMnlfc0pWcV84d0JzeHZBdkd0dkpGbUphNkJYaVEwbHRWYktmTHFaeV9Zd2NFRWd6RDJiOENLdk4wYVE5X1Y2dFZhY3czcmF1dVFNZ0lfcDNrd1dKWTRGRUNMdm1CVm5RY2x0TzhJQk1sUWlSbjV3TnhLTG9nWkxmLU9uRHA1cGtlMG9ZbVlaWEJqY3N0SFI5Y1FWRnF0dmE4a2YyaktKX190ZVFwQVh6V2JENXpjc0JEMmc4djNncU40blhQSnM",
+        "source": "News signal — verify before acting · Source: GameDev.net · Time: 2026-08-19 21:02"
       },
       {
         "id": "radar-defe216f34a4",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-18 12:30"
       },
       {
-        "id": "radar-4e57cc1ead8e",
+        "id": "radar-5bc300d23e9c",
         "kind": "radar",
-        "title": "PTC Advances Leadership in AI-Driven Design with Launch of Onshape FeatureScript MCP Server",
-        "summary": "PR Newswire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "AI‑designed viruses are a test of whether biosecurity can keep pace",
+        "summary": "Gavi, the Vaccine Alliance reports: AI‑designed viruses are a test of whether biosecurity can keep pace Gavi, the Vaccine Alliance",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 64,
-        "date": "2026-08-13 12:30",
-        "displayDate": "2026-08-13 12:30",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQXzd3Z3loVkI0TFpQRjE4ekFma0xlN2FqSnFMUmpiOE5XSDlfTThaWm9Xc014Wm5OU2M1VWh0QU9rU1RGVVZuOTZ1eFU3Yll5TmlURi1LcGkyZUpsQTdzXzVNMC1EVGZuNXYweERJWndaMTlRdXZIS3U1WHRpWGZBLWtzaW8zNWZoZmUtN2g2TmhYek4ydUh4NVdlQkM0RFlTOHQtaFJ5OFl6ZENqeXVDQ0htSGZlRW5lRUNXQmtVMDFfMEJxejVoS0J4Yk5lWWhTcGlKbjZXdW1NT1NCSTdfRA",
-        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-13 12:30"
+        "score": 60,
+        "date": "2026-08-17 13:02",
+        "displayDate": "2026-08-17 13:02",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRktFTmp0WHhTSzZFMGZzdTAyNHlLZ0lpTTloY2lrVHlXWmt1TzczVHBJbDR2X1VzV3RyYnJRR01oRE1IVEtyazVkalhVUEd2Z09vQ2lFaEpEUHU5TmVnRkJKRE0tU2FtTnlzc3lVckZZQzA3bkprTk12VWQ1TzhEb0JhU05jRzdSUDA2VmlSaDZSdS1LTWZPVmlzOEo",
+        "source": "News signal — verify before acting · Source: Gavi, the Vaccine Alliance · Time: 2026-08-17 13:02"
       }
     ]
   },
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T10:22:24.019242+08:00",
-        "nextRun": "2026-08-20T18:32:16.038198+08:00",
+        "lastRun": "2026-08-20T18:02:32.933832+08:00",
+        "nextRun": "2026-08-20T19:03:16.807088+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T18:02:19.986489+08:00",
-        "nextRun": "2026-08-20T18:04:19.986489+08:00",
+        "lastRun": "2026-08-20T18:32:19.681480+08:00",
+        "nextRun": "2026-08-20T18:34:19.681480+08:00",
         "message": "unused"
       },
       {
@@ -255,7 +255,7 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T07:30:35.031276+08:00",
+        "lastRun": "2026-08-20T18:02:33.567115+08:00",
         "nextRun": "2026-08-20T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-20T18:02:29.045794+08:00"
+    "updatedAt": "2026-08-20T18:33:16.808088+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
