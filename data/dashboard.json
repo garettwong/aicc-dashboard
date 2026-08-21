@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-21T13:42:46+08:00",
+    "generatedAt": "2026-08-21T15:43:49+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-21_09-00-45.md",
     "radarSource": "ai_opportunity_radar_20260821_133102.html",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-21T09:00:49.922675+08:00",
-        "nextRun": "2026-08-21T15:00:00+08:00",
+        "lastRun": "2026-08-21T15:00:53.403334+08:00",
+        "nextRun": "2026-08-21T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,9 +211,9 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-21T12:41:46.850566+08:00",
-        "nextRun": "2026-08-21T15:40:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Country, region, or territory not supported Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-21T15:40:51.521154+08:00",
+        "nextRun": "2026-08-21T18:40:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "a21bade0ba2a",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-21T13:12:45.843623+08:00",
-        "nextRun": "2026-08-21T14:12:45.980805+08:00",
+        "lastRun": "2026-08-21T15:13:48.557022+08:00",
+        "nextRun": "2026-08-21T16:13:48.794515+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-21T13:41:50.457001+08:00",
-        "nextRun": "2026-08-21T13:43:50.457001+08:00",
+        "lastRun": "2026-08-21T15:41:53.566119+08:00",
+        "nextRun": "2026-08-21T15:43:53.566119+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-21T13:42:45.981803+08:00"
+    "updatedAt": "2026-08-21T15:43:48.794515+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
