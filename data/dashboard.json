@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-21T09:09:41+08:00",
+    "generatedAt": "2026-08-21T09:40:45+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-21_09-00-45.md",
     "radarSource": "ai_opportunity_radar_20260821_073055.html",
@@ -200,9 +200,9 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-20T09:30:27.867740+08:00",
-        "nextRun": "2026-08-21T09:30:00+08:00",
-        "message": "RuntimeError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
+        "lastRun": "2026-08-21T09:30:46.916781+08:00",
+        "nextRun": "2026-08-22T09:30:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "198f213f6827",
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-21T06:40:41.884078+08:00",
-        "nextRun": "2026-08-21T09:40:00+08:00",
+        "lastRun": "2026-08-21T09:40:44.965123+08:00",
+        "nextRun": "2026-08-21T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-20T09:15:21.848415+08:00",
-        "nextRun": "2026-08-21T09:15:00+08:00",
+        "lastRun": "2026-08-21T09:15:41.677871+08:00",
+        "nextRun": "2026-08-22T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-21T08:39:41.119173+08:00",
-        "nextRun": "2026-08-21T09:39:41.408700+08:00",
+        "lastRun": "2026-08-21T09:09:44.890792+08:00",
+        "nextRun": "2026-08-21T10:10:42.174353+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-21T09:07:43.720651+08:00",
-        "nextRun": "2026-08-21T09:09:43.720651+08:00",
+        "lastRun": "2026-08-21T09:40:44.579144+08:00",
+        "nextRun": "2026-08-21T09:42:44.579144+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-21T09:09:41.409705+08:00"
+    "updatedAt": "2026-08-21T09:40:44.966123+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
