@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-22T19:31:15+08:00",
+    "generatedAt": "2026-08-22T22:31:51+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-22_11-25-16.md",
-    "radarSource": "ai_opportunity_radar_20260822_193032.html",
+    "radarSource": "ai_opportunity_radar_20260822_223108.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260822_193032.html",
+    "sourceFile": "ai_opportunity_radar_20260822_223108.html",
     "items": [
       {
-        "id": "radar-6e520d8a6bd5",
+        "id": "radar-b5eb85e5d712",
         "kind": "radar",
-        "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
-        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Show HN: Knowl – agent memory that retires stale facts when they change",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 65,
-        "date": "2026-08-22 02:12",
-        "displayDate": "2026-08-22 02:12",
-        "url": "https://anjadhe.com/demo",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-22 02:12"
+        "score": 57,
+        "date": "2026-08-22 14:13",
+        "displayDate": "2026-08-22 14:13",
+        "url": "https://github.com/dat999zx/knowl",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-22 14:13"
       },
       {
         "id": "radar-1d0c524131bf",
@@ -73,18 +73,18 @@
         "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
       },
       {
-        "id": "radar-882055ffdf79",
+        "id": "radar-30f0515471ae",
         "kind": "radar",
-        "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
-        "summary": "ABC News - Breaking News, Latest News and Videos reports: 'Rogue' AI agent went haywire at tech company.",
+        "title": "ViewX Launches Liber and Immer Glasses-Free AI 3D Displays on Kickstarter",
+        "summary": "PR Newswire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-08-21 13:50",
-        "displayDate": "2026-08-21 13:50",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm",
-        "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-08-21 13:50"
+        "score": 92,
+        "date": "2026-08-21 15:37",
+        "displayDate": "2026-08-21 15:37",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmdKbUZwa0c0SGsxU0J2Y2lFeE5USVJiU2dZVTItQUZ1OFFjWW1sNFdIU0s4dVJuZlZHMnJDOFVvYUY1Qm1MdzFtNTVRTWxmUFRGZDdweHlvd1FHRE1sSnZqeWNTWm1PTm9scEtZd19nQTN4VFVmcEZxc0czbnJtWTRwYVpTRGhVZENkX0tiYkVTbFgwRndWNUtTWU1xMk1CRDhpamhXM3JJejFrZnA1MHIybTQ1V0kxU2VyQUtpekpmcnJBLVg1bA",
+        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-21 15:37"
       },
       {
         "id": "radar-b82b5626aa6d",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: 36 Kr · Time: 2026-08-22 08:55"
       },
       {
-        "id": "radar-30f0515471ae",
+        "id": "radar-076c7f8ef4bf",
         "kind": "radar",
-        "title": "ViewX Launches Liber and Immer Glasses-Free AI 3D Displays on Kickstarter",
-        "summary": "PR Newswire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance",
+        "summary": "GameDev.net reports: First-Pass Tests for an AI-Generated 3D Level in Unity: Reachability, Collisions, and Performance GameDev.net",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-08-21 15:37",
-        "displayDate": "2026-08-21 15:37",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmdKbUZwa0c0SGsxU0J2Y2lFeE5USVJiU2dZVTItQUZ1OFFjWW1sNFdIU0s4dVJuZlZHMnJDOFVvYUY1Qm1MdzFtNTVRTWxmUFRGZDdweHlvd1FHRE1sSnZqeWNTWm1PTm9scEtZd19nQTN4VFVmcEZxc0czbnJtWTRwYVpTRGhVZENkX0tiYkVTbFgwRndWNUtTWU1xMk1CRDhpamhXM3JJejFrZnA1MHIybTQ1V0kxU2VyQUtpekpmcnJBLVg1bA",
-        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-21 15:37"
+        "date": "2026-08-19 21:02",
+        "displayDate": "2026-08-19 21:02",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVk5hT3hiM3FxMnlfc0pWcV84d0JzeHZBdkd0dkpGbUphNkJYaVEwbHRWYktmTHFaeV9Zd2NFRWd6RDJiOENLdk4wYVE5X1Y2dFZhY3czcmF1dVFNZ0lfcDNrd1dKWTRGRUNMdm1CVm5RY2x0TzhJQk1sUWlSbjV3TnhLTG9nWkxmLU9uRHA1cGtlMG9ZbVlaWEJqY3N0SFI5Y1FWRnF0dmE4a2YyaktKX190ZVFwQVh6V2JENXpjc0JEMmc4djNncU40blhQSnM",
+        "source": "News signal — verify before acting · Source: GameDev.net · Time: 2026-08-19 21:02"
       },
       {
         "id": "radar-420ddf3e9910",
@@ -151,10 +151,10 @@
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 56,
-        "date": "2026-08-20 10:01",
-        "displayDate": "2026-08-20 10:01",
+        "date": "2026-08-19 17:01",
+        "displayDate": "2026-08-19 17:01",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ",
-        "source": "News signal — verify before acting · Source: Axios · Time: 2026-08-20 10:01"
+        "source": "News signal — verify before acting · Source: Axios · Time: 2026-08-19 17:01"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T15:00:21.750201+08:00",
-        "nextRun": "2026-08-22T21:00:00+08:00",
+        "lastRun": "2026-08-22T21:00:56.493563+08:00",
+        "nextRun": "2026-08-23T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T19:10:17.667476+08:00",
-        "nextRun": "2026-08-22T22:10:00+08:00",
+        "lastRun": "2026-08-22T22:10:54.838051+08:00",
+        "nextRun": "2026-08-23T01:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T18:40:26.030515+08:00",
-        "nextRun": "2026-08-22T21:40:00+08:00",
+        "lastRun": "2026-08-22T21:40:58.202578+08:00",
+        "nextRun": "2026-08-23T00:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T19:01:15.309303+08:00",
-        "nextRun": "2026-08-22T20:01:15.594915+08:00",
+        "lastRun": "2026-08-22T22:01:51.446549+08:00",
+        "nextRun": "2026-08-22T23:01:51.645369+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T19:29:18.680953+08:00",
-        "nextRun": "2026-08-22T19:31:18.680953+08:00",
+        "lastRun": "2026-08-22T22:29:54.746332+08:00",
+        "nextRun": "2026-08-22T22:31:54.746332+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T19:30:32.332080+08:00",
-        "nextRun": "2026-08-22T22:30:00+08:00",
+        "lastRun": "2026-08-22T22:31:08.130299+08:00",
+        "nextRun": "2026-08-23T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-22T19:31:15.595665+08:00"
+    "updatedAt": "2026-08-22T22:31:51.645369+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
