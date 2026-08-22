@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-22T13:57:15+08:00",
+    "generatedAt": "2026-08-22T16:59:19+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-22_11-25-16.md",
-    "radarSource": "ai_opportunity_radar_20260822_133030.html",
+    "radarSource": "ai_opportunity_radar_20260822_163035.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260822_133030.html",
+    "sourceFile": "ai_opportunity_radar_20260822_163035.html",
     "items": [
       {
         "id": "radar-6e520d8a6bd5",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: LawSites · Time: 2026-08-21 15:59"
       },
       {
-        "id": "radar-9493422e3e35",
+        "id": "radar-8da45282ab78",
         "kind": "radar",
-        "title": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
-        "summary": "DefenseScoop reports: Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities DefenseScoop",
+        "title": "Securing AI Agents: What NCSC Guidance Means for Security Teams",
+        "summary": "Darktrace reports: Securing AI Agents: What NCSC Guidance Means for Security Teams Darktrace",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-08-21 15:35",
-        "displayDate": "2026-08-21 15:35",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXd3WXpZODVkUUE2aWFMNEhfZ0hrNXZCX3hzUUdjbVJzeDd4UTRpeV8xYm5LWnVWbjUxUHN3RjF1SERRN2pYZnRSMVo2Mk92cnVIdlpYcmhzdEdRd0o3c2dXalRCZUdaYnRXVnFtSkF3aHFzNW5rNmxHZG9udi1walRuUXZIaF80QlJZM0NzMXk4M0k0dHk1aW50Z3NQaEdTSTVZZmVjT1V1ZmRmR3VIaVE1WU1lNUlF",
-        "source": "News signal — verify before acting · Source: DefenseScoop · Time: 2026-08-21 15:35"
+        "date": "2026-08-21 18:22",
+        "displayDate": "2026-08-21 18:22",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHV3aTdZWG5oMFgzeGxoc3JYb0hFZXpZSkR2SDZDRjBXZkRsbkIzalBodGYxZk1fbXVvcTVuTzNUSmRaMjZIOVhkWS13c1FrRkkzR0hQMEFXQkQtVFJ1SXRKd1Bqd0J6LUJaUFJ6WjAxYmRObjVyc3oxa3lzU1c1R3NSaDBtM2c",
+        "source": "News signal — verify before acting · Source: Darktrace · Time: 2026-08-21 18:22"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T11:25:23.941486+08:00",
-        "nextRun": "2026-08-22T15:00:00+08:00",
+        "lastRun": "2026-08-22T15:00:21.750201+08:00",
+        "nextRun": "2026-08-22T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T13:10:15.986152+08:00",
-        "nextRun": "2026-08-22T16:10:00+08:00",
+        "lastRun": "2026-08-22T16:10:21.627903+08:00",
+        "nextRun": "2026-08-22T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T12:40:16.894231+08:00",
-        "nextRun": "2026-08-22T15:40:00+08:00",
+        "lastRun": "2026-08-22T15:40:19.773301+08:00",
+        "nextRun": "2026-08-22T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T13:27:14.579793+08:00",
-        "nextRun": "2026-08-22T14:27:14.751393+08:00",
+        "lastRun": "2026-08-22T16:29:18.894650+08:00",
+        "nextRun": "2026-08-22T17:29:19.189792+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T13:55:17.720260+08:00",
-        "nextRun": "2026-08-22T13:57:17.720260+08:00",
+        "lastRun": "2026-08-22T16:58:22.515759+08:00",
+        "nextRun": "2026-08-22T17:00:22.515759+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-22T13:30:30.878713+08:00",
-        "nextRun": "2026-08-22T16:30:00+08:00",
+        "lastRun": "2026-08-22T16:30:35.299739+08:00",
+        "nextRun": "2026-08-22T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-22T13:57:14.751393+08:00"
+    "updatedAt": "2026-08-22T16:59:19.190793+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
