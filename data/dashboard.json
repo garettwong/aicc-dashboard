@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-23T11:22:05+08:00",
+    "generatedAt": "2026-08-23T13:53:09+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-23_11-21-52.md",
-    "radarSource": "ai_opportunity_radar_20260823_112205.html",
+    "radarSource": "ai_opportunity_radar_20260823_133124.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260823_112205.html",
+    "sourceFile": "ai_opportunity_radar_20260823_133124.html",
     "items": [
       {
         "id": "radar-0ea4cbc354af",
         "kind": "radar",
         "title": "Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-23T11:22:05.526063+08:00",
-        "nextRun": "2026-08-23T13:10:00+08:00",
+        "lastRun": "2026-08-23T13:10:51.313157+08:00",
+        "nextRun": "2026-08-23T16:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -200,7 +200,7 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-22T11:25:31.873559+08:00",
+        "lastRun": "2026-08-23T11:22:14.676189+08:00",
         "nextRun": "2026-08-24T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-23T11:21:56.192275+08:00",
-        "nextRun": "2026-08-23T12:40:00+08:00",
+        "lastRun": "2026-08-23T12:40:52.126844+08:00",
+        "nextRun": "2026-08-23T15:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-23T00:32:54.970845+08:00",
-        "nextRun": "2026-08-23T11:51:45.883607+08:00",
+        "lastRun": "2026-08-23T13:22:50.138907+08:00",
+        "nextRun": "2026-08-23T14:23:08.588426+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-23T11:21:49.971507+08:00",
-        "nextRun": "2026-08-23T11:23:49.971507+08:00",
+        "lastRun": "2026-08-23T13:52:11.570314+08:00",
+        "nextRun": "2026-08-23T13:54:11.570314+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-23T11:22:05.149759+08:00",
-        "nextRun": "2026-08-23T13:30:00+08:00",
+        "lastRun": "2026-08-23T13:31:25.422321+08:00",
+        "nextRun": "2026-08-23T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-23T11:22:05.527065+08:00"
+    "updatedAt": "2026-08-23T13:53:08.589427+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
