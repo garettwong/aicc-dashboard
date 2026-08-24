@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-24T19:34:55+08:00",
+    "generatedAt": "2026-08-24T22:35:23+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-24_09-00-46.md",
-    "radarSource": "ai_opportunity_radar_20260824_193110.html",
+    "radarSource": "ai_opportunity_radar_20260824_223039.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260824_193110.html",
+    "sourceFile": "ai_opportunity_radar_20260824_223039.html",
     "items": [
       {
-        "id": "radar-fca4af3c1605",
+        "id": "radar-f04feabcf7f2",
         "kind": "radar",
-        "title": "The Web-Search Latency Your Agent Pays",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Google can track exactly how your agent spends your money — but it's no help when it buys something you didn't approve",
+        "summary": "Fortune reports: Google can track exactly how your agent spends your money — but it's no help when it buys something you didn't approve Fortune",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-08-23 13:19",
-        "displayDate": "2026-08-23 13:19",
-        "url": "https://telem.ai/blog/latency-research",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-23 13:19"
+        "date": "2026-08-24 08:45",
+        "displayDate": "2026-08-24 08:45",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vUG9xX2dyT0laaDQ4YS1icmpldDIydWZQd1liOWR5di1qWTcySTVQaVROcG90aU03b3hDWmRrMXQ2X0Jsa2NzX3UtOUJMTlN6aU5VUmxzMU1XeWZnelBwZ0RMaGlIdk1jcU9scVBISF9jUHlxaVJV",
+        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-08-24 08:45"
       },
       {
-        "id": "radar-ed972c6f25a9",
+        "id": "radar-56c113405988",
         "kind": "radar",
-        "title": "Secure Vibe Coding: Why Retool Is Betting Governance Is the Next Enterprise Battleground",
-        "summary": "analyticsindiamag.com reports: Secure Vibe Coding: Why Retool Is Betting Governance Is the Next Enterprise Battleground analyticsindiamag.com",
+        "title": "AI Weekly: Codex Growth Overtakes Claude Code; DeepSeek Quietly Launches Vision Model",
+        "summary": "finance.biggo.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-24 08:48",
-        "displayDate": "2026-08-24 08:48",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUk1blZYRmNaU20zSlZxNWNRb0RJZFlweGhhdXFYaUJZTXl0czJURjd6SGw5bTFnbC1wUk1xcXhhWS1OTm4zekRQenI1ek9wcVJrSlo0NHd3R193em4yT3pNZHNDaXBvNXF5OXBsaXhZZWpWOFBLX0ItNnhLSm8zUXJKZWo5SzVHVnh3NGlYcWM0TUZRbWhBckhBa1lUdDhKS2FkaktSQi1aQnlGR2FRaGVaRjBwOGFNNkdfaEJGV05DV2xKZWF1WV9nRQ",
-        "source": "News signal — verify before acting · Source: analyticsindiamag.com · Time: 2026-08-24 08:48"
+        "date": "2026-08-24 13:35",
+        "displayDate": "2026-08-24 13:35",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02dlFiYVh5emEzZjNBdlJZN3BqRWtraVJ3T2kwYXdVajJHZmh6MGszSk1ydmJmVDlaV254WjFlSjRlZHdGYkhvc0Mtd3pKV212Y1NQSk0xVURtM2VIbGFqamozaERCTVFNcm91RDZDMndzTEE1SUE",
+        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-24 13:35"
       },
       {
-        "id": "radar-d336866e5457",
+        "id": "radar-defe216f34a4",
         "kind": "radar",
-        "title": "Agentic AI and legal: How it’s redefining the profession",
-        "summary": "Thomson Reuters Legal Solutions reports: Agentic AI and legal: How it’s redefining the profession Thomson Reuters Legal Solutions",
+        "title": "Preparing the Workforce for the AI Era: New Training Series Addresses Growing Need for AI Security Expertise",
+        "summary": "Business Wire shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 100,
-        "date": "2026-08-21 07:00",
-        "displayDate": "2026-08-21 07:00",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc01QMXVmNWpzb0NlUmxsN0RfeTdyUVdiQ2NiMGxLejZ3NENQY3VOM1hGRXZDRWdoUlc5WkU3QlZZWkZENldHeUNUNzMzOXVKbnpKaWlMLXp4aHY1bUptd3JPODNSWTVfaUl1VGEzSmdpX3cwQTcxSmcxSUVBZHM4aVRRMU9YR0tQc0JUWUhzRmNRMlpSUzQxbQ",
-        "source": "Trusted news / community signal · Source: Thomson Reuters Legal Solutions · Time: 2026-08-21 07:00"
+        "score": 90,
+        "date": "2026-08-18 12:30",
+        "displayDate": "2026-08-18 12:30",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNekNXNDlxMVFrcEc2VnFwdXBKbTBkTVc0ZHpPRDJlNExQcWRXNEFWYUhySmh5Wnd3WDFDM3RVbVh6TkRVWmFneGdaVTBzS29MSVVsLXpSR3pEQUl0VzJ3R0JyT3J3VUNPalBaQXRTeU1VYjd0RVpoQVM5SGE1T1BqeUZ5Z3FkVHJjZTFnM1h0NElrY1NBUEFoWVFleFhObUlWTjBkOEYyZXJ6MWp4bGRuNE05MHhRenJQbFBmMXlLOVpBaG4xTG9PMTVrbWx4SGswOHJRNUJiMjN3VERYbTFCN0xFT3RvaURtUWpKWG1KQ0Z4NkpGdzQw",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-18 12:30"
       },
       {
         "id": "radar-e10b24a94b2d",
@@ -87,32 +87,32 @@
         "source": "News signal — verify before acting · Source: USA Today · Time: 2026-08-19 18:40"
       },
       {
-        "id": "radar-f9eb1445dfad",
+        "id": "radar-f8bd5bb4b04f",
         "kind": "radar",
-        "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-        "summary": "VentureBeat reports: Enterprise AI agents are only as reliable as the messiest documents behind them VentureBeat",
+        "title": "Artificial intelligence in action: how AI agents are transforming businesses, public administrations and strategic sectors",
+        "summary": "telefonica.com reports: Artificial intelligence in action: how AI agents are transforming businesses, public administrations and strategic sectors telefonica.com",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-08-23 23:00",
-        "displayDate": "2026-08-23 23:00",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-23 23:00"
+        "score": 38,
+        "date": "2026-08-24 07:30",
+        "displayDate": "2026-08-24 07:30",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnFsQU5oNkJrSzl5d0p1WDFvQWJkdE53TmlJd0pOX2FWYjhxbzN4cHZka2xZZjVSd1BXd01aOXY4d1ZoTDJhRDd5bk1abHFiSGtsLUdGYmlBUUlLMUp2ZTE5eVhXenBXS1QxU2hadldxTDJ6bjhVTkprUTZ5amtqZWxQODJhbEpaRHpoS3ItRlM",
+        "source": "News signal — verify before acting · Source: telefonica.com · Time: 2026-08-24 07:30"
       },
       {
-        "id": "radar-abee5abf0018",
+        "id": "radar-99d58451a077",
         "kind": "radar",
-        "title": "Vibe Coding Security Risks in AI-Generated Code Revealed",
-        "summary": "The Cryptonomist is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Slack code brings AI coding agents into team chats",
+        "summary": "YourStory.com reports: Slack code brings AI coding agents into team chats YourStory.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-24 08:29",
-        "displayDate": "2026-08-24 08:29",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VUlFvSzVRYkc0a3pNZFhzTWwyc1VkUURsSTdkeDgwQ05CRTB2dDN5TGRyMzdHMnlZeGQ3RzlrVlljR25oMWZTQzM1UHZuQ2FvZHMyQ0xYVDFWZGpIRHdFc1NQZFlJM1Z1dTdueGVQLWVRRmM",
-        "source": "News signal — verify before acting · Source: The Cryptonomist · Time: 2026-08-24 08:29"
+        "date": "2026-08-24 13:15",
+        "displayDate": "2026-08-24 13:15",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmhlblNheXpQNm1QWVJ6aFc0WWFoakFKX2JpVlJUTlcxV1RoNDdrUGxVcGtSWWVra0xCZnNUQUVSMjZ0V09hc0xDaWlGSU1haWxEVTlPaWRfaUFLVFZidU9oRjN6dnRMU2gzOUhjNTVKU0lINXAzeVZBd0Z3dHhISjFDWHBJb2NI",
+        "source": "News signal — verify before acting · Source: YourStory.com · Time: 2026-08-24 13:15"
       },
       {
         "id": "radar-30f0515471ae",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-08-21 15:37"
       },
       {
-        "id": "radar-defe216f34a4",
+        "id": "radar-cb69357c961c",
         "kind": "radar",
-        "title": "Preparing the Workforce for the AI Era: New Training Series Addresses Growing Need for AI Security Expertise",
-        "summary": "Business Wire shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "summary": "WIRED reports: I Saw the Future of AI in a Robot That Can Learn on the Spot WIRED",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-08-18 12:30",
-        "displayDate": "2026-08-18 12:30",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNekNXNDlxMVFrcEc2VnFwdXBKbTBkTVc0ZHpPRDJlNExQcWRXNEFWYUhySmh5Wnd3WDFDM3RVbVh6TkRVWmFneGdaVTBzS29MSVVsLXpSR3pEQUl0VzJ3R0JyT3J3VUNPalBaQXRTeU1VYjd0RVpoQVM5SGE1T1BqeUZ5Z3FkVHJjZTFnM1h0NElrY1NBUEFoWVFleFhObUlWTjBkOEYyZXJ6MWp4bGRuNE05MHhRenJQbFBmMXlLOVpBaG4xTG9PMTVrbWx4SGswOHJRNUJiMjN3VERYbTFCN0xFT3RvaURtUWpKWG1KQ0Z4NkpGdzQw",
-        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-18 12:30"
+        "score": 83,
+        "date": "2026-08-19 19:30",
+        "displayDate": "2026-08-19 19:30",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGZkR3hzWk5ucFlyNTFmTEI1V05oUXBSdUJNMDNhLXNUdE1lTFZiUjJQT0pXdVREY1ZwVmZFaWdSTktpZ2ZxSjdTejFPMThDdlFnMDZ2aDBxSW5VcHdLblB1X3Bxc0dhUXdDSGlFaW8wYlMtR2t6cWtvYm9mREEzeDNn",
+        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-08-19 19:30"
       },
       {
         "id": "radar-df3881a56faf",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T15:00:54.472734+08:00",
-        "nextRun": "2026-08-24T21:00:00+08:00",
+        "lastRun": "2026-08-24T21:00:27.482669+08:00",
+        "nextRun": "2026-08-25T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T19:10:56.958390+08:00",
-        "nextRun": "2026-08-24T22:10:00+08:00",
+        "lastRun": "2026-08-24T22:10:27.237775+08:00",
+        "nextRun": "2026-08-25T01:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T18:40:58.033578+08:00",
-        "nextRun": "2026-08-24T21:40:00+08:00",
+        "lastRun": "2026-08-24T21:40:26.818765+08:00",
+        "nextRun": "2026-08-25T00:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T19:04:54.713568+08:00",
-        "nextRun": "2026-08-24T20:04:54.988795+08:00",
+        "lastRun": "2026-08-24T22:05:23.381434+08:00",
+        "nextRun": "2026-08-24T23:05:23.553885+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T19:33:58.252399+08:00",
-        "nextRun": "2026-08-24T19:35:58.252399+08:00",
+        "lastRun": "2026-08-24T22:33:29.093744+08:00",
+        "nextRun": "2026-08-24T22:35:29.093744+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T19:31:10.960522+08:00",
-        "nextRun": "2026-08-24T22:30:00+08:00",
+        "lastRun": "2026-08-24T22:30:39.522942+08:00",
+        "nextRun": "2026-08-25T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-24T19:34:54.989795+08:00"
+    "updatedAt": "2026-08-24T22:35:23.554885+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
