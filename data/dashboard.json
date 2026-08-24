@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-24T13:32:46+08:00",
+    "generatedAt": "2026-08-24T16:33:50+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-24_09-00-46.md",
-    "radarSource": "ai_opportunity_radar_20260824_133101.html",
+    "radarSource": "ai_opportunity_radar_20260824_163106.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260824_133101.html",
+    "sourceFile": "ai_opportunity_radar_20260824_163106.html",
     "items": [
       {
-        "id": "radar-6fa3a304f5e3",
+        "id": "radar-fca4af3c1605",
         "kind": "radar",
-        "title": "Fortinet Expands AI Security Strategy With Virtue AI Acquisition",
-        "summary": "The Fast Mode reports: Fortinet Expands AI Security Strategy With Virtue AI Acquisition The Fast Mode",
+        "title": "The Web-Search Latency Your Agent Pays",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-24 01:39",
-        "displayDate": "2026-08-24 01:39",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkZuNnQzLURxenIwWnpzSnN4V2xWM2xvRjZGVnVBZmU1Ql82RzNycTRnZGlJaEgxeHhITDlsUE9qTDBqVkhPNkdEOC1RVzFSNVc3WGtid2Vud1NZTUdxLVlRNW5IWENhYnc4cDhobW81NFZEZXhidms2aXVqTWdNYU11cHVZODB1MWxhcFh0eU1fdlZRYUFaZG8yM1hGSlRCejkwMWNTbmx5RGhpU1RTQWJkRFU0WVZrVnhF",
-        "source": "News signal — verify before acting · Source: The Fast Mode · Time: 2026-08-24 01:39"
+        "score": 43,
+        "date": "2026-08-23 13:19",
+        "displayDate": "2026-08-23 13:19",
+        "url": "https://telem.ai/blog/latency-research",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-23 13:19"
       },
       {
-        "id": "radar-e86f695877bf",
+        "id": "radar-b628fb0f50a3",
         "kind": "radar",
-        "title": "Claude Code overtakes GitHub Copilot to top developers' AI coding tools",
-        "summary": "디지털투데이 reports: Claude Code overtakes GitHub Copilot to top developers' AI coding tools 디지털투데이",
+        "title": "Anthropic’s AI Agents Started A Turf War During A Coding Test",
+        "summary": "Memeburn reports: Anthropic’s AI Agents Started A Turf War During A Coding Test Memeburn",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-24 04:46",
-        "displayDate": "2026-08-24 04:46",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTks5U21OR0JWaDhNUDlabDRrSUxQaVJrOWl2R00yYW1BVGZqeWNwMmZzN3VJUnpMcEd6b1pKYjlJYUV6c0I1NVl4MU8zMzRoNDVoRV93UHlMTFk4bzlETVozWlhxWUdQWFBLOEJydkc1WUZQMWlXNkY4b040VGw2elpWWGM5dVYteDBuWG9SUlp2MWx6Szl3TFpZX0FDcjl5NE5UaUY3V0RGRzctQksxZUczX3hRQQ",
-        "source": "News signal — verify before acting · Source: 디지털투데이 · Time: 2026-08-24 04:46"
+        "date": "2026-08-24 05:07",
+        "displayDate": "2026-08-24 05:07",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmE3RXFGcEl2bnFTa2c1Tlo2S1V0UXZvdkRWUC0yd1JJd0h0RHhHNUg3X1ZVVzU2ZDdCY1dyaVZ5Z3RPWTFxa3pHelZYb2laQnppa29rYlM2TjEtN1NseEN1QjJaTGgtY0lPZE5LN3M2V1ZyNXZyYzlNR2NzWHFkUENiQTJ0RzBDLUE",
+        "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-08-24 05:07"
       },
       {
         "id": "radar-24504e16a0b6",
@@ -101,18 +101,18 @@
         "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-23 23:00"
       },
       {
-        "id": "radar-9b709b87ff43",
+        "id": "radar-e86f695877bf",
         "kind": "radar",
-        "title": "Salesforce unveils Slack Code for collaborative AI software dev’t",
-        "summary": "Newsbytes.PH reports: Salesforce unveils Slack Code for collaborative AI software dev’t Newsbytes.PH",
+        "title": "Claude Code overtakes GitHub Copilot to top developers' AI coding tools",
+        "summary": "디지털투데이 reports: Claude Code overtakes GitHub Copilot to top developers' AI coding tools 디지털투데이",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-24 04:35",
-        "displayDate": "2026-08-24 04:35",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOay1RRUVBWV9rMk01MC1uenNMaExBSnppNjVwdGl4R0Z0ZmJaZWVCWG9WeGRtOHJmako0NGVDOXp4YUQ1NUZiRXhIMDZIZE93cE4wSU5jUE9kQ3F2S2xjZWNKSkxWR3lYX01kOGpKb2ROYjAtWU9Ma2FIRHVETGVtZmpxNG1qWnZkZmZ4V2ZGTVZ2eWNNM1JabUdKYjVzUQ",
-        "source": "News signal — verify before acting · Source: Newsbytes.PH · Time: 2026-08-24 04:35"
+        "date": "2026-08-24 04:46",
+        "displayDate": "2026-08-24 04:46",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTks5U21OR0JWaDhNUDlabDRrSUxQaVJrOWl2R00yYW1BVGZqeWNwMmZzN3VJUnpMcEd6b1pKYjlJYUV6c0I1NVl4MU8zMzRoNDVoRV93UHlMTFk4bzlETVozWlhxWUdQWFBLOEJydkc1WUZQMWlXNkY4b040VGw2elpWWGM5dVYteDBuWG9SUlp2MWx6Szl3TFpZX0FDcjl5NE5UaUY3V0RGRzctQksxZUczX3hRQQ",
+        "source": "News signal — verify before acting · Source: 디지털투데이 · Time: 2026-08-24 04:46"
       },
       {
         "id": "radar-30f0515471ae",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-08-18 12:30"
       },
       {
-        "id": "radar-15008880a1da",
+        "id": "radar-13e17fa2c94b",
         "kind": "radar",
-        "title": "Meta's new Mac app takes aim at creators, small businesses",
-        "summary": "Axios reports: Meta's new Mac app takes aim at creators, small businesses Axios",
+        "title": "How To Use AI Social Media Tools To Grow Your Small Business",
+        "summary": "Forbes reports: How To Use AI Social Media Tools To Grow Your Small Business Forbes",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 56,
-        "date": "2026-08-19 17:01",
-        "displayDate": "2026-08-19 17:01",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ",
-        "source": "News signal — verify before acting · Source: Axios · Time: 2026-08-19 17:01"
+        "score": 48,
+        "date": "2026-08-22 11:00",
+        "displayDate": "2026-08-22 11:00",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTE1JRHpQZW1TZU9fZ3Z4RzExd0xWOC1vckFxQnJKZ21ubFlSMzRva1d4Skk0UTcybU15amI3dHlWcUNSQkxCbUV4aW9OT2RmNEhTNDNQMDQ4eTk3X2xFdDl1bGtIZUR1SmZNc2NkNFdLaU5IbUlrRjU0cUNtMVhXTG1JTDhqeGI4Mm5CTkk2Tzg3b0ZDYVRQc0xFSXJKeTdSWTFNTVJLbktGNmM",
+        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-08-22 11:00"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T09:00:44.150846+08:00",
-        "nextRun": "2026-08-24T15:00:00+08:00",
+        "lastRun": "2026-08-24T15:00:54.472734+08:00",
+        "nextRun": "2026-08-24T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T13:10:47.963826+08:00",
-        "nextRun": "2026-08-24T16:10:00+08:00",
+        "lastRun": "2026-08-24T16:10:54.177145+08:00",
+        "nextRun": "2026-08-24T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-24T12:40:48.645458+08:00",
-        "nextRun": "2026-08-24T15:40:00+08:00",
+        "lastRun": "2026-08-24T15:40:52.154402+08:00",
+        "nextRun": "2026-08-24T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T13:02:45.491117+08:00",
-        "nextRun": "2026-08-24T14:02:45.731945+08:00",
+        "lastRun": "2026-08-24T16:03:50.429966+08:00",
+        "nextRun": "2026-08-24T17:03:50.634345+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T13:30:48.604036+08:00",
-        "nextRun": "2026-08-24T13:32:48.604036+08:00",
+        "lastRun": "2026-08-24T16:30:53.895483+08:00",
+        "nextRun": "2026-08-24T16:35:50.628345+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-24T13:31:01.531697+08:00",
-        "nextRun": "2026-08-24T16:30:00+08:00",
+        "lastRun": "2026-08-24T16:31:06.412199+08:00",
+        "nextRun": "2026-08-24T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-24T13:32:45.732943+08:00"
+    "updatedAt": "2026-08-24T16:33:50.635346+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
