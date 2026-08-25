@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-25T13:41:45+08:00",
+    "generatedAt": "2026-08-25T16:42:50+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-25_09-00-42.md",
-    "radarSource": "ai_opportunity_radar_20260825_133100.html",
+    "radarSource": "ai_opportunity_radar_20260825_163105.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260825_133100.html",
+    "sourceFile": "ai_opportunity_radar_20260825_163105.html",
     "items": [
       {
         "id": "radar-a70964935eab",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: EdTrust · Time: 2026-08-24 12:22"
       },
       {
-        "id": "radar-422efb3d2f27",
+        "id": "radar-ea14555acaf4",
         "kind": "radar",
-        "title": "Eighteen Months ago, I Wrote About How AI Agents Could Be Used to Run an Entire Investment Business",
-        "summary": "Institutional Investor shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "AI Toolbox: Give every agent a job, then build the team",
+        "summary": "IBM reports: AI Toolbox: Give every agent a job, then build the team IBM",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 38,
-        "date": "2026-08-24 22:33",
-        "displayDate": "2026-08-24 22:33",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0FSRGdkdHBFTzE5Q2JoU0tRYWtPdkNDODZxeXMtbFNjUFdoNTVfMkhtaDVzR05rTEJKS1VTby1ramxUbUo4cVFVYzQ5aEwtT0JuNTZlX1l5OU5XeHIwMHJNOC13Vk5Ha19sempBcGdNdjN4MjEzUklDTGhiNTFjSDFHX09fYkpQcEs1S1NsZXQ0MFRzRWFFTkNldW1ELXRIdzdsX2JyRTJ4TW40YTdrdlpyVTQwbUlFMDFBNUdpdEdUWVA0Q0xhNw",
-        "source": "News signal — verify before acting · Source: Institutional Investor · Time: 2026-08-24 22:33"
+        "date": "2026-08-25 03:25",
+        "displayDate": "2026-08-25 03:25",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2JRLVh5NlNhMm9ydDFCcHJyRlNtQzNxdDB4VUpmMWZpV2RYcW5fdEhlNTFDLThGUkEzeGYxck53LVhJNXFfNGtvNWNkRDdzNGY0cnBUYzFPa29xUHBiNXhpRE1pRWJrWmtTdERLZXVBOXB1TFpJb0V5bjJiczBLcVljWUwxZjhyVkJOcTd0THM1Y0NaT0E",
+        "source": "News signal — verify before acting · Source: IBM · Time: 2026-08-25 03:25"
       },
       {
         "id": "radar-252837b1b485",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-25T09:00:46.738250+08:00",
-        "nextRun": "2026-08-25T15:00:00+08:00",
+        "lastRun": "2026-08-25T15:00:53.335549+08:00",
+        "nextRun": "2026-08-25T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-25T13:10:47.614314+08:00",
-        "nextRun": "2026-08-25T16:10:00+08:00",
+        "lastRun": "2026-08-25T16:10:52.691612+08:00",
+        "nextRun": "2026-08-25T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-25T12:40:48.199580+08:00",
-        "nextRun": "2026-08-25T15:40:00+08:00",
+        "lastRun": "2026-08-25T15:40:51.195520+08:00",
+        "nextRun": "2026-08-25T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-25T13:11:45.435200+08:00",
-        "nextRun": "2026-08-25T14:11:45.592842+08:00",
+        "lastRun": "2026-08-25T16:12:49.663991+08:00",
+        "nextRun": "2026-08-25T17:12:50.094404+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-25T13:39:50.614128+08:00",
-        "nextRun": "2026-08-25T13:41:50.614128+08:00",
+        "lastRun": "2026-08-25T16:39:55.391782+08:00",
+        "nextRun": "2026-08-25T16:44:50.088394+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-25T13:31:00.746891+08:00",
-        "nextRun": "2026-08-25T16:30:00+08:00",
+        "lastRun": "2026-08-25T16:31:05.092463+08:00",
+        "nextRun": "2026-08-25T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-25T13:41:45.593842+08:00"
+    "updatedAt": "2026-08-25T16:42:50.094404+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
