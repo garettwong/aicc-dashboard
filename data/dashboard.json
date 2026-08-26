@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-26T22:52:55+08:00",
+    "generatedAt": "2026-08-27T01:53:59+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-26_09-14-36.md",
-    "radarSource": "ai_opportunity_radar_20260826_223111.html",
+    "radarSource": "ai_opportunity_radar_20260827_013117.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260826_223111.html",
+    "sourceFile": "ai_opportunity_radar_20260827_013117.html",
     "items": [
       {
-        "id": "radar-fe1ce7c67b0c",
+        "id": "radar-c9c90598f00c",
         "kind": "radar",
-        "title": "Exclusive: Mate Security launches Gamebooks to govern how AI agents run investigations",
-        "summary": "SiliconANGLE flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=52, comments=47.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-08-26 14:00",
-        "displayDate": "2026-08-26 14:00",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdS03eXlVdENxVzFhMVlmOERMemcwRlV0TmlSb0lCSmliTTNabnRyOFFSYklpNzRUeWNBYkpJWFhLS0E5emcwXzFHbmZpN3BTdmN1YmprRlNibFlIYThxekNqUEREdDVxRm1NRmxIT1BScTlNVGpxZWdwT0pmaW9BWTJVQ2dhR012QXpYaTRkVjAwdURGSkl5bFlJdktseTNpenJFVVNuRy10bU1uWVBRanl5NmhLVUtvY2I3TEJOQQ",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-08-26 14:00"
+        "score": 65,
+        "date": "2026-08-26 15:02",
+        "displayDate": "2026-08-26 15:02",
+        "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-26 15:02"
       },
       {
-        "id": "radar-dfc5c4b8d768",
+        "id": "radar-81c542cc9b38",
         "kind": "radar",
-        "title": "10 Rules for Getting Better Results from AI Coding Agents",
-        "summary": "KDnuggets reports: 10 Rules for Getting Better Results from AI Coding Agents KDnuggets",
+        "title": "GhostJacking: the fix for AI agents that hijack DNS",
+        "summary": "VentureBeat reports: GhostJacking: the fix for AI agents that hijack DNS VentureBeat",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-26 12:23",
-        "displayDate": "2026-08-26 12:23",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2VWbl8yTUJveTdJRnF1OFFwT1hXem9feC1hVm5KSmNrLWFINW5NMFFWRlVXa1BHR1B5Z20waUhiSFJUazVwTVJCbnVrdldyZHRxMlV4SUg5cmNtT2xYOHgtb2k0dmVQN0lQX0hWRWc5SWNQTllIQklpM2ViYlBQdUFFa0R4RVJXZk9j",
-        "source": "News signal — verify before acting · Source: KDnuggets · Time: 2026-08-26 12:23"
+        "date": "2026-08-26 16:13",
+        "displayDate": "2026-08-26 16:13",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTdsbjhObElpY3RZenkwRjJneHZHTnk5WnV3WUJXLUg0U1NETDRDc0d5amVNcEtmOXhLQmNIM1ZKMXdTMFpIeHdZM0RaWm1MaWJNcDl0ZWRlcUd3SllXZHBXSHZ0QnRnUHBoZVpYNVRsN24yTmRhWnpINVJVdE9ZdjAxaEpRZjUxUVUxQnZvb2hwNHpFbEtNT2swWkdxd0x6S1lwTVpvdnhZMUtRLXZaSTJiOENubDdadjRiZUw2VlNjYTZJT2FZcTZUdU1aeHdM",
+        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-26 16:13"
       },
       {
         "id": "radar-42b33611dde4",
@@ -73,6 +73,48 @@
         "source": "News signal — verify before acting · Source: GlobeNewswire · Time: 2026-08-24 12:00"
       },
       {
+        "id": "radar-ffde400b43ca",
+        "kind": "radar",
+        "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
+        "summary": "EE Times reports: From Days to Minutes: Accelerating 3D IC Debug with Agentic AI EE Times",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-08-26 13:02",
+        "displayDate": "2026-08-26 13:02",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRzWVZ3TUI5U0pUZWJDczhCalVrXy1IMTcyMlpfNVhCUTM5el9VNW1vMklhaWIwSlNWeWk5bW9rZ25LTm02YzRyQlp6LUlOQTVJX2JYWVlJdGtkdjAwZXpyaHhwRTFVUi1tZUJVRWFBT0s2bGt1YTRERWJQUm1pTi1xaDhkUWdJdDA0amNLRQ",
+        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:02"
+      },
+      {
+        "id": "radar-51ba0d531eff",
+        "kind": "radar",
+        "title": "Is enterprise software becoming too autonomous?",
+        "summary": "Spiceworks reports: Is enterprise software becoming too autonomous?",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-08-26 16:00",
+        "displayDate": "2026-08-26 16:00",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckxNX09CWEZVeGRyaHBfRTJjRWRrQXphai12V0R2REVjbUlEZW1tbUc0empiOWJucW5zR09Wb3FseHVaUzhrc0ozZzBEeGNFa1Vmd2s2VUN4YXVtcnRHMlpUZnlkZUhtRjFtNTlrQ2c5YjBQOE1OcVdGM0RhUTVld0cxUlhuQmtlRXFZ",
+        "source": "News signal — verify before acting · Source: Spiceworks · Time: 2026-08-26 16:00"
+      },
+      {
+        "id": "radar-9afcb87da55e",
+        "kind": "radar",
+        "title": "Qualcomm IMSDK 2.0 – accelerated AI and multimedia in one toolkit",
+        "summary": "Qualcomm reports: Qualcomm IMSDK 2.0 – accelerated AI and multimedia in one toolkit Qualcomm",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-08-26 15:38",
+        "displayDate": "2026-08-26 15:38",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUo5MHZWeHF1MU1vNFFIaWxPOVBGMW1ZVHFHRVhqb1NvT1hNY3RaYjZfV3ZJOE0wVXZfV0c0NHhNVURaMzZwT254RHRPbG9HMDd6cVl4UTRwemgzRmt1YUlsWW82LTNyUkpMTFVVdENCOXBOa3VWMWxDQTdlbnVDSXA0dFVGblVkS05QMDd4TTl5SnhYUS1IOTdzWFNLUUE",
+        "source": "News signal — verify before acting · Source: Qualcomm · Time: 2026-08-26 15:38"
+      },
+      {
         "id": "radar-83600e84c111",
         "kind": "radar",
         "title": "Claude Code Sparks Developer Backlash Over AGENTS.md Ban: Anthropic's Controversial Industry Standard Rejection & Official Response That Enraged the Dev Community",
@@ -85,48 +127,6 @@
         "displayDate": "2026-08-26 09:34",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IeWhZak5Hdkd3S2M3clQ3YVVMeUxLYVg3YzJhbmZkM2JtMGQ0UEZOaThZbURKa3Zhem5jMU9EOTZPMDFzemk2blY0eWZSaEcweFhn",
         "source": "News signal — verify before acting · Source: 36 Kr · Time: 2026-08-26 09:34"
-      },
-      {
-        "id": "radar-0d37b9ffb4c0",
-        "kind": "radar",
-        "title": "How Companies Are Using Old-School Software to Grade AI Agents",
-        "summary": "The Information is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-08-26 14:00",
-        "displayDate": "2026-08-26 14:00",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWdiQ0xYemVqN2ZHdjFHRnBoNlp3bEt2R3c0SUk5allHSDJnR2FQTDltOFF2UEZFNWRudzM1dktQcUxqOFpZVFY4ZkVKUlIxaXBDWklIOU9LRElrN3Y3eDFZeEU1elNSTXlYa0VqeGdBMHVxcVVGbVB2OUxITE53bVBnb0p4V180d2xLeks5Z3JKc1dWbm5acXNVZHZZQVgzQW5wdUJOYw",
-        "source": "Trusted news / community signal · Source: The Information · Time: 2026-08-26 14:00"
-      },
-      {
-        "id": "radar-a78abc66f4c3",
-        "kind": "radar",
-        "title": "Shopify CEO threatens to ditch Claude Code; Anthropic finally responds to AGENTS.md compatibility dispute",
-        "summary": "finance.biggo.com reports: Shopify CEO threatens to ditch Claude Code; Anthropic finally responds to AGENTS.md compatibility dispute finance.biggo.com",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-08-26 11:55",
-        "displayDate": "2026-08-26 11:55",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tYUhxVlk2TkduODlnVDB6S3FBQXhrS0dFb1lQZEpSUXpaMWRzUzRXV1A5X2l1NVNwTmFOV1pVeU51ZnNFMWhVODRzSTlRMUdxMmI4ZkYwVkRZeklyRjFEeUJCOXo5NHY5ZXdsT2RkUlM3bnpQSkE",
-        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-26 11:55"
-      },
-      {
-        "id": "radar-52dc7c5d51db",
-        "kind": "radar",
-        "title": "Higher Education Policymakers Are Focused on Preparing Students for AI. They Should Also Focus on Protecting Them",
-        "summary": "EdTrust is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-08-24 12:22",
-        "displayDate": "2026-08-24 12:22",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0RDOGxEZ3BpNVctZk1aajVUTmJKaHVaR2lQSW5uR1hULV9XQlJMU2JKVjV3NVM0NThfRWVnd05PTktLTXoyVWlfS3ZrZnVReWVJOTJUMEpTeHpHNEtZYTRLdHVwS19YR280S3hxN1VVTTg3QnJ5V25tMk1zMURLaThtYlNMNFVheHZJeDE4NWk0V2QxWFpSanJId2JrVXByc0pEa1dITHMxRVpDRllVdzN3RmNmOVlTZEFJRTdLbnAtbVY0YTkwcVV4bnFXV0RpeFhB",
-        "source": "News signal — verify before acting · Source: EdTrust · Time: 2026-08-24 12:22"
       },
       {
         "id": "radar-eb948a7ab5ce",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-26T22:11:01.039043+08:00",
-        "nextRun": "2026-08-27T01:10:00+08:00",
+        "lastRun": "2026-08-27T01:11:01.503423+08:00",
+        "nextRun": "2026-08-27T04:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-26T21:40:57.430985+08:00",
-        "nextRun": "2026-08-27T00:40:00+08:00",
+        "lastRun": "2026-08-27T00:41:03.341863+08:00",
+        "nextRun": "2026-08-27T03:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T22:22:55.389537+08:00",
-        "nextRun": "2026-08-26T23:22:55.579797+08:00",
+        "lastRun": "2026-08-27T01:23:59.498188+08:00",
+        "nextRun": "2026-08-27T02:23:59.565894+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T22:51:00.609735+08:00",
-        "nextRun": "2026-08-26T22:53:00.609735+08:00",
+        "lastRun": "2026-08-27T01:51:04.405272+08:00",
+        "nextRun": "2026-08-27T01:55:59.555387+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T22:31:11.130234+08:00",
-        "nextRun": "2026-08-27T01:30:00+08:00",
+        "lastRun": "2026-08-27T01:31:17.583269+08:00",
+        "nextRun": "2026-08-27T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-26T22:52:55.583301+08:00"
+    "updatedAt": "2026-08-27T01:53:59.566895+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
