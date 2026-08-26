@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-26T09:45:35+08:00",
+    "generatedAt": "2026-08-26T10:16:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-26_09-14-36.md",
     "radarSource": "ai_opportunity_radar_20260826_091441.html",
@@ -189,9 +189,9 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-26T09:14:38.252459+08:00",
-        "nextRun": "2026-08-26T10:10:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Country, region, or territory not supported Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-26T10:10:38.015257+08:00",
+        "nextRun": "2026-08-26T13:10:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "a0a3b6174708",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T09:14:41.913409+08:00",
-        "nextRun": "2026-08-26T10:15:34.912538+08:00",
+        "lastRun": "2026-08-26T09:45:38.391589+08:00",
+        "nextRun": "2026-08-26T10:46:35.659350+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T09:44:37.336163+08:00",
-        "nextRun": "2026-08-26T09:46:37.336163+08:00",
+        "lastRun": "2026-08-26T10:14:38.566001+08:00",
+        "nextRun": "2026-08-26T10:16:38.566001+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-26T09:45:34.913538+08:00"
+    "updatedAt": "2026-08-26T10:16:35.660853+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
