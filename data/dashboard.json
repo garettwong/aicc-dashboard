@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-27T01:53:59+08:00",
+    "generatedAt": "2026-08-27T04:55:04+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-26_09-14-36.md",
-    "radarSource": "ai_opportunity_radar_20260827_013117.html",
+    "radarSource": "ai_opportunity_radar_20260827_043019.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260827_013117.html",
+    "sourceFile": "ai_opportunity_radar_20260827_043019.html",
     "items": [
       {
-        "id": "radar-c9c90598f00c",
+        "id": "radar-7f8a6caf82a6",
         "kind": "radar",
-        "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=52, comments=47.",
+        "title": "Why AI Agents Need Persistent Browser Identities",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 65,
-        "date": "2026-08-26 15:02",
-        "displayDate": "2026-08-26 15:02",
-        "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-26 15:02"
+        "score": 43,
+        "date": "2026-08-26 19:46",
+        "displayDate": "2026-08-26 19:46",
+        "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-26 19:46"
       },
       {
-        "id": "radar-81c542cc9b38",
+        "id": "radar-fa3b6edc4315",
         "kind": "radar",
-        "title": "GhostJacking: the fix for AI agents that hijack DNS",
-        "summary": "VentureBeat reports: GhostJacking: the fix for AI agents that hijack DNS VentureBeat",
+        "title": "Vibe Coders Now Have Their Own Language",
+        "summary": "User Mag | Taylor Lorenz reports: Vibe Coders Now Have Their Own Language User Mag | Taylor Lorenz",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-26 16:13",
-        "displayDate": "2026-08-26 16:13",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTdsbjhObElpY3RZenkwRjJneHZHTnk5WnV3WUJXLUg0U1NETDRDc0d5amVNcEtmOXhLQmNIM1ZKMXdTMFpIeHdZM0RaWm1MaWJNcDl0ZWRlcUd3SllXZHBXSHZ0QnRnUHBoZVpYNVRsN24yTmRhWnpINVJVdE9ZdjAxaEpRZjUxUVUxQnZvb2hwNHpFbEtNT2swWkdxd0x6S1lwTVpvdnhZMUtRLXZaSTJiOENubDdadjRiZUw2VlNjYTZJT2FZcTZUdU1aeHdM",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-26 16:13"
+        "date": "2026-08-26 18:27",
+        "displayDate": "2026-08-26 18:27",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wcDJpRE02OUp0YmtlSGpmc0ZTenEyOG1vb01NdEN6SXVqZ1IwOThOZ1dKdHVoNDhZNXlaZm83UUFYc0c0alRsRFA3TFNkWFAyT3p6TV9hbkFHQllWR3dnSUJibm04czZYQWpjNi1JVk5qQQ",
+        "source": "News signal — verify before acting · Source: User Mag | Taylor Lorenz · Time: 2026-08-26 18:27"
       },
       {
         "id": "radar-42b33611dde4",
@@ -81,38 +81,24 @@
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-08-26 13:02",
-        "displayDate": "2026-08-26 13:02",
+        "date": "2026-08-26 13:03",
+        "displayDate": "2026-08-26 13:03",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRzWVZ3TUI5U0pUZWJDczhCalVrXy1IMTcyMlpfNVhCUTM5el9VNW1vMklhaWIwSlNWeWk5bW9rZ25LTm02YzRyQlp6LUlOQTVJX2JYWVlJdGtkdjAwZXpyaHhwRTFVUi1tZUJVRWFBT0s2bGt1YTRERWJQUm1pTi1xaDhkUWdJdDA0amNLRQ",
-        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:02"
+        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
       },
       {
-        "id": "radar-51ba0d531eff",
+        "id": "radar-317c5eb5a546",
         "kind": "radar",
-        "title": "Is enterprise software becoming too autonomous?",
-        "summary": "Spiceworks reports: Is enterprise software becoming too autonomous?",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-08-26 16:00",
-        "displayDate": "2026-08-26 16:00",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckxNX09CWEZVeGRyaHBfRTJjRWRrQXphai12V0R2REVjbUlEZW1tbUc0empiOWJucW5zR09Wb3FseHVaUzhrc0ozZzBEeGNFa1Vmd2s2VUN4YXVtcnRHMlpUZnlkZUhtRjFtNTlrQ2c5YjBQOE1OcVdGM0RhUTVld0cxUlhuQmtlRXFZ",
-        "source": "News signal — verify before acting · Source: Spiceworks · Time: 2026-08-26 16:00"
-      },
-      {
-        "id": "radar-9afcb87da55e",
-        "kind": "radar",
-        "title": "Qualcomm IMSDK 2.0 – accelerated AI and multimedia in one toolkit",
-        "summary": "Qualcomm reports: Qualcomm IMSDK 2.0 – accelerated AI and multimedia in one toolkit Qualcomm",
+        "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+        "summary": "VentureBeat reports: The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it VentureBeat",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-26 15:38",
-        "displayDate": "2026-08-26 15:38",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUo5MHZWeHF1MU1vNFFIaWxPOVBGMW1ZVHFHRVhqb1NvT1hNY3RaYjZfV3ZJOE0wVXZfV0c0NHhNVURaMzZwT254RHRPbG9HMDd6cVl4UTRwemgzRmt1YUlsWW82LTNyUkpMTFVVdENCOXBOa3VWMWxDQTdlbnVDSXA0dFVGblVkS05QMDd4TTl5SnhYUS1IOTdzWFNLUUE",
-        "source": "News signal — verify before acting · Source: Qualcomm · Time: 2026-08-26 15:38"
+        "date": "2026-08-26 16:13",
+        "displayDate": "2026-08-26 16:13",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTdsbjhObElpY3RZenkwRjJneHZHTnk5WnV3WUJXLUg0U1NETDRDc0d5amVNcEtmOXhLQmNIM1ZKMXdTMFpIeHdZM0RaWm1MaWJNcDl0ZWRlcUd3SllXZHBXSHZ0QnRnUHBoZVpYNVRsN24yTmRhWnpINVJVdE9ZdjAxaEpRZjUxUVUxQnZvb2hwNHpFbEtNT2swWkdxd0x6S1lwTVpvdnhZMUtRLXZaSTJiOENubDdadjRiZUw2VlNjYTZJT2FZcTZUdU1aeHdM",
+        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-26 16:13"
       },
       {
         "id": "radar-83600e84c111",
@@ -155,6 +141,20 @@
         "displayDate": "2026-08-22 06:00",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
         "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
+      },
+      {
+        "id": "radar-9664790d1ada",
+        "kind": "radar",
+        "title": "Serve Markdown to AI Agents with Accept Headers",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=6, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-08-26 19:45",
+        "displayDate": "2026-08-26 19:45",
+        "url": "https://acceptmarkdown.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-26 19:45"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T01:11:01.503423+08:00",
-        "nextRun": "2026-08-27T04:10:00+08:00",
+        "lastRun": "2026-08-27T04:10:04.983392+08:00",
+        "nextRun": "2026-08-27T07:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T00:41:03.341863+08:00",
-        "nextRun": "2026-08-27T03:40:00+08:00",
+        "lastRun": "2026-08-27T03:40:06.096771+08:00",
+        "nextRun": "2026-08-27T06:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T01:23:59.498188+08:00",
-        "nextRun": "2026-08-27T02:23:59.565894+08:00",
+        "lastRun": "2026-08-27T04:25:03.539454+08:00",
+        "nextRun": "2026-08-27T05:25:03.811976+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T01:51:04.405272+08:00",
-        "nextRun": "2026-08-27T01:55:59.555387+08:00",
+        "lastRun": "2026-08-27T04:54:08.515064+08:00",
+        "nextRun": "2026-08-27T04:56:08.515064+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T01:31:17.583269+08:00",
-        "nextRun": "2026-08-27T04:30:00+08:00",
+        "lastRun": "2026-08-27T04:30:19.433291+08:00",
+        "nextRun": "2026-08-27T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-27T01:53:59.566895+08:00"
+    "updatedAt": "2026-08-27T04:55:03.811976+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
