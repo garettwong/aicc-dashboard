@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-28T04:39:39+08:00",
+    "generatedAt": "2026-08-28T07:39:47+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-27_19-05-30.md",
-    "radarSource": "ai_opportunity_radar_20260828_043055.html",
+    "radarSource": "ai_opportunity_radar_20260828_073103.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260828_043055.html",
+    "sourceFile": "ai_opportunity_radar_20260828_073103.html",
     "items": [
       {
-        "id": "radar-11185e9c2540",
+        "id": "radar-353f53932490",
         "kind": "radar",
-        "title": "Show HN: Telem – Route agent web search across providers and inspect the traces",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=6, comments=1.",
+        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=15, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-08-27 19:13",
-        "displayDate": "2026-08-27 19:13",
-        "url": "https://telem.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 19:13"
+        "date": "2026-08-27 21:46",
+        "displayDate": "2026-08-27 21:46",
+        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 21:46"
       },
       {
-        "id": "radar-3b6dd17d7ec1",
+        "id": "radar-7258a2ced0ee",
         "kind": "radar",
-        "title": "Reuters: Russian-speaking hackers breached seven companies by tricking the AI agent in Cursor, the coding tool now owned by Elon Musk’s SpaceX, into thinking the attacks were a test",
-        "summary": "Meduza reports: Reuters: Russian-speaking hackers breached seven companies by tricking the AI agent in Cursor, the coding tool now owned by Elon Musk’s SpaceX, into thinking the attacks were a test Meduza",
+        "title": "AWS Toolkit Gives Coding Agents Specialized Cloud Development Skills",
+        "summary": "ADTmag reports: AWS Toolkit Gives Coding Agents Specialized Cloud Development Skills ADTmag",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-27 19:05",
-        "displayDate": "2026-08-27 19:05",
-        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOOG5zZVVpT2dCNV9jeTVpRW5XSnFnRHg2T0dPY3JBT3M3Y0FYdVl5M2hMMnp6M1dLYWZzVV8zWUdwcEx1Z29OVENyLTlmQjZDeW5FM0RGdUtoQXBXT0VIUVp1eTdCckVGQUM1WGpPbUUxTTg0MXV1Ml94WklFVmNLZmM2bFYxNmdQUDBtdFJSRTlyV2phTDdLcFJkN0VCdzZyajJ2bi11eUtVMEVRVEVVTWVha0RjY3lWV1haT3BOMnI5ZVFUWVZpUzNIcXBhRXNmWUpSM2lCbHRIV1RjYWtpRHlHRExIR19BUEUzelRoTUpPVWM0WVhEVjFUc1dEM2JXdTVKWWpuN2JsTXBzZ0VLUkFEdU1lemx5a2NwYnNDekJxZkc2amNlZlhObk5obWY5VklVaXVIUG1qOEXSAcACQVVfeXFMTlp4b0hmckQ1Y1lCN3JZY1VURmJ4dkgwZ2c0SXlRdWNZTUhmT3RrOURZeUhFNVhPOEpCbFY3SU5xT2FqUy1wSUR6TmFEZWN0a2dKeHFzd3JETEZuYmVLSE9qaVdzQ3VYYzE0T0poLW4yOTlSNEIxcVpPV1NMRUg5ZGpwZTVxOVhaWlJiWjdTTlRyVUFXZHZQVGxrTXJvQnBPSERwMERTenZZcGpkRFhkQ1BPVVczaXppekpGT0ZEVjRyVG05Q21jU19FVWQ1N1hBaHZzc2NEVnBiSFJ3UHpDWUVaX3JUNWRHVDh2YnpZMWpyYmdZVF9sSTZmeHZZcDFCWlh6MEJiT1Qwb1MzbUpvdGMtWVA5YzByTzlnZ1NtNkdrRmtQcnRiQVlxRnEwaThYZVNndzVyMU5LUFJXek5JUWg",
-        "source": "News signal — verify before acting · Source: Meduza · Time: 2026-08-27 19:05"
+        "date": "2026-08-27 22:59",
+        "displayDate": "2026-08-27 22:59",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUtLcVpnejlXSnoxekFJWVFCUW4tN2RBQ05Yb3V1OTg4QzhSTDg4SjJDVWVBS2dfakppUHltSGZGcUgtOVlzN0hVMGMxREFKYk1mUEdfQUNTUnJBRzRSaElBaTVsX0ZBNWtQUHBuazAwMW5CQm44UEFnV0tKcXVSbHlScG9aelNJaWNlc2FfV0k2ZjMyX0MyZEs2SDBmaTJKWGNrZS15Y0twbTRFQlFwTGFR",
+        "source": "News signal — verify before acting · Source: ADTmag · Time: 2026-08-27 22:59"
       },
       {
         "id": "radar-42b33611dde4",
@@ -87,32 +87,18 @@
         "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
       },
       {
-        "id": "radar-e3879257179e",
+        "id": "radar-07204a1edbee",
         "kind": "radar",
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "VentureBeat reports: Enterprise AI's real risk isn't autonomous agents.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-08-27 14:01",
-        "displayDate": "2026-08-27 14:01",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTViMlJtYnY0eHk0dE05Y3E1dzJLN1lzQkVxMHVKSkQ2R3g4MlhMRXg5LTlaVUJkRTlCcG0wQ2tzNkRza2pFTmNqb1UyVzZ2UWtkZWs0R1QyaFZpTW1HT1dQMEJaMlhSTmxTeVdKa2wxbW9yOENxNTQwUGV6Z2lJaG9tTGRqalB1dmU2RHNucGxSNnVvOEk3V2haT1FDYWM1UmxpaFY0cFZMUQ",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-27 14:01"
-      },
-      {
-        "id": "radar-0721e9d69ef4",
-        "kind": "radar",
-        "title": "Introducing Slack Code: Agentic Coding for Teams",
-        "summary": "Salesforce reports: Introducing Slack Code: Agentic Coding for Teams Salesforce",
+        "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
+        "summary": "Reuters reports: EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies Reuters",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-27 17:10",
-        "displayDate": "2026-08-27 17:10",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSHpTTGdnZ2JUYS01X3Y0Vm1MSkw2eUFvVXRDZGI0U2Flc3pNUHBzSjRkZFZ2ODBybUljd3FHUWxLTE8xa2d4U0MwdENyd2l3MU1MVmRKeTJYSlJCajQ0",
-        "source": "News signal — verify before acting · Source: Salesforce · Time: 2026-08-27 17:10"
+        "date": "2026-08-27 22:31",
+        "displayDate": "2026-08-27 22:31",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ",
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-27 22:31"
       },
       {
         "id": "radar-52dc7c5d51db",
@@ -155,6 +141,20 @@
         "displayDate": "2026-08-22 06:00",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
         "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
+      },
+      {
+        "id": "radar-a446f65e5e7b",
+        "kind": "radar",
+        "title": "Show HN: ChessRabbit – The AI Chess Analysis Platform",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-08-27 21:22",
+        "displayDate": "2026-08-27 21:22",
+        "url": "https://chessrabbit.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 21:22"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T04:10:40.599459+08:00",
-        "nextRun": "2026-08-28T07:10:00+08:00",
+        "lastRun": "2026-08-28T07:10:49.041764+08:00",
+        "nextRun": "2026-08-28T10:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T03:40:41.302574+08:00",
-        "nextRun": "2026-08-28T06:40:00+08:00",
+        "lastRun": "2026-08-28T06:40:49.765662+08:00",
+        "nextRun": "2026-08-28T09:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T04:09:38.521424+08:00",
-        "nextRun": "2026-08-28T05:09:38.805317+08:00",
+        "lastRun": "2026-08-28T07:09:46.989504+08:00",
+        "nextRun": "2026-08-28T08:09:47.333460+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T04:38:41.666095+08:00",
-        "nextRun": "2026-08-28T04:40:41.666095+08:00",
+        "lastRun": "2026-08-28T07:38:49.988728+08:00",
+        "nextRun": "2026-08-28T07:40:49.988728+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T04:30:55.412756+08:00",
-        "nextRun": "2026-08-28T07:30:00+08:00",
+        "lastRun": "2026-08-28T07:31:03.579186+08:00",
+        "nextRun": "2026-08-28T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-28T04:39:38.806317+08:00"
+    "updatedAt": "2026-08-28T07:39:47.334460+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
