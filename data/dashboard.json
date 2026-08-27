@@ -1,9 +1,9 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-27T04:55:04+08:00",
+    "generatedAt": "2026-08-27T19:05:40+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-26_09-14-36.md",
+    "dailySource": "2026-08-27_19-05-30.md",
     "radarSource": "ai_opportunity_radar_20260827_043019.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-26T21:00:59.488847+08:00",
-        "nextRun": "2026-08-27T09:00:00+08:00",
+        "lastRun": "2026-08-27T19:05:37.833536+08:00",
+        "nextRun": "2026-08-27T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,9 +178,9 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-26T09:14:36.070173+08:00",
-        "nextRun": "2026-08-27T09:00:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Country, region, or territory not supported Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-27T19:05:30.150970+08:00",
+        "nextRun": "2026-08-28T09:00:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "cac8032fb676",
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T04:10:04.983392+08:00",
-        "nextRun": "2026-08-27T07:10:00+08:00",
+        "lastRun": "2026-08-27T19:05:40.518895+08:00",
+        "nextRun": "2026-08-27T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -201,7 +201,7 @@
         "schedule": "30 9 * * *",
         "lastStatus": "error",
         "lastRun": "2026-08-26T09:30:39.087689+08:00",
-        "nextRun": "2026-08-27T09:30:00+08:00",
+        "nextRun": "2026-08-28T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T03:40:06.096771+08:00",
-        "nextRun": "2026-08-27T06:40:00+08:00",
+        "lastRun": "2026-08-27T19:05:32.623750+08:00",
+        "nextRun": "2026-08-27T21:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-26T09:15:34.328096+08:00",
-        "nextRun": "2026-08-27T09:15:00+08:00",
+        "lastRun": "2026-08-27T19:05:24.762341+08:00",
+        "nextRun": "2026-08-28T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T04:25:03.539454+08:00",
-        "nextRun": "2026-08-27T05:25:03.811976+08:00",
+        "lastRun": "2026-08-27T06:56:07.310462+08:00",
+        "nextRun": "2026-08-27T19:35:24.319419+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T04:54:08.515064+08:00",
-        "nextRun": "2026-08-27T04:56:08.515064+08:00",
+        "lastRun": "2026-08-27T19:05:29.400690+08:00",
+        "nextRun": "2026-08-27T19:07:29.400690+08:00",
         "message": "unused"
       },
       {
@@ -256,7 +256,7 @@
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
         "lastRun": "2026-08-27T04:30:19.433291+08:00",
-        "nextRun": "2026-08-27T07:30:00+08:00",
+        "nextRun": "2026-08-27T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-27T04:55:03.811976+08:00"
+    "updatedAt": "2026-08-27T19:05:40.518895+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
