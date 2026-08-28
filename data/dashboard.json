@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-28T07:39:47+08:00",
+    "generatedAt": "2026-08-28T10:41:55+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-27_19-05-30.md",
-    "radarSource": "ai_opportunity_radar_20260828_073103.html",
+    "dailySource": "2026-08-28_09-00-54.md",
+    "radarSource": "ai_opportunity_radar_20260828_103116.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260828_073103.html",
+    "sourceFile": "ai_opportunity_radar_20260828_103116.html",
     "items": [
       {
-        "id": "radar-353f53932490",
+        "id": "radar-6bafe01b3ee9",
         "kind": "radar",
-        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=15, comments=0.",
+        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=30, comments=5.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-27 21:46",
-        "displayDate": "2026-08-27 21:46",
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 21:46"
+        "score": 57,
+        "date": "2026-08-28 00:06",
+        "displayDate": "2026-08-28 00:06",
+        "url": "https://terminal-bench-science.ai/announcement",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 00:06"
       },
       {
         "id": "radar-7258a2ced0ee",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
       },
       {
-        "id": "radar-07204a1edbee",
+        "id": "radar-af3155eb3f5c",
         "kind": "radar",
-        "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-        "summary": "Reuters reports: EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies Reuters",
+        "title": "Announcing AI Studio Skill—pro-code tools for developers",
+        "summary": "Oracle Blogs reports: Announcing AI Studio Skill—pro-code tools for developers Oracle Blogs",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-27 22:31",
-        "displayDate": "2026-08-27 22:31",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-08-27 22:31"
+        "date": "2026-08-27 22:49",
+        "displayDate": "2026-08-27 22:49",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWxKTWp3Tl81a0Exd2dSZ0FMV1hIRnhWNi02NWVCeGlqdmQ2NUU1T0JrN1RBenUtYmpkZW1aM28zUm5oVFhneURpMVAzZjdpZXJxd0RjV2psbExJZTVYZEZFdXVsSm1heEJHSUM3V2NGb1ZvTm54SS1fQ3RrX1dKZlE5alRSVzluY21YdF93ZWdPQ21wZzdtcDVGYw",
+        "source": "News signal — verify before acting · Source: Oracle Blogs · Time: 2026-08-27 22:49"
       },
       {
         "id": "radar-52dc7c5d51db",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
       },
       {
-        "id": "radar-a446f65e5e7b",
+        "id": "radar-353f53932490",
         "kind": "radar",
-        "title": "Show HN: ChessRabbit – The AI Chess Analysis Platform",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=49, comments=5.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-27 21:22",
-        "displayDate": "2026-08-27 21:22",
-        "url": "https://chessrabbit.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 21:22"
+        "score": 45,
+        "date": "2026-08-27 21:46",
+        "displayDate": "2026-08-27 21:46",
+        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-27 21:46"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T21:00:33.599920+08:00",
-        "nextRun": "2026-08-28T09:00:00+08:00",
+        "lastRun": "2026-08-28T09:00:59.277297+08:00",
+        "nextRun": "2026-08-28T15:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,8 +178,8 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T19:05:30.150970+08:00",
-        "nextRun": "2026-08-28T09:00:00+08:00",
+        "lastRun": "2026-08-28T09:00:54.350259+08:00",
+        "nextRun": "2026-08-29T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T07:10:49.041764+08:00",
-        "nextRun": "2026-08-28T10:10:00+08:00",
+        "lastRun": "2026-08-28T10:10:54.846209+08:00",
+        "nextRun": "2026-08-28T13:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -200,8 +200,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-27T19:05:49.043260+08:00",
-        "nextRun": "2026-08-28T09:30:00+08:00",
+        "lastRun": "2026-08-28T09:30:55.571103+08:00",
+        "nextRun": "2026-08-29T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T06:40:49.765662+08:00",
-        "nextRun": "2026-08-28T09:40:00+08:00",
+        "lastRun": "2026-08-28T09:40:54.984852+08:00",
+        "nextRun": "2026-08-28T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-27T19:05:24.762341+08:00",
-        "nextRun": "2026-08-28T09:15:00+08:00",
+        "lastRun": "2026-08-28T09:15:49.892611+08:00",
+        "nextRun": "2026-08-29T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T07:09:46.989504+08:00",
-        "nextRun": "2026-08-28T08:09:47.333460+08:00",
+        "lastRun": "2026-08-28T10:11:51.550780+08:00",
+        "nextRun": "2026-08-28T11:11:51.767018+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T07:38:49.988728+08:00",
-        "nextRun": "2026-08-28T07:40:49.988728+08:00",
+        "lastRun": "2026-08-28T10:38:58.142326+08:00",
+        "nextRun": "2026-08-28T10:43:51.756512+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T07:31:03.579186+08:00",
-        "nextRun": "2026-08-28T10:30:00+08:00",
+        "lastRun": "2026-08-28T10:31:16.736799+08:00",
+        "nextRun": "2026-08-28T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-28T07:39:47.334460+08:00"
+    "updatedAt": "2026-08-28T10:41:51.767018+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
