@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-28T19:45:05+08:00",
+    "generatedAt": "2026-08-28T22:46:12+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-28_09-00-54.md",
-    "radarSource": "ai_opportunity_radar_20260828_193021.html",
+    "radarSource": "ai_opportunity_radar_20260828_223029.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260828_193021.html",
+    "sourceFile": "ai_opportunity_radar_20260828_223029.html",
     "items": [
       {
-        "id": "radar-675a62c3ff0d",
+        "id": "radar-9f98d5449eef",
         "kind": "radar",
-        "title": "Show HN: Rafter – an MCP server that shares one team's memory, skills and agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "AI Agent Guardrails Don't Work. Safer Platforms Do",
+        "summary": "Hacker News highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 73,
-        "date": "2026-08-28 08:45",
-        "displayDate": "2026-08-28 08:45",
-        "url": "https://heyrafter.xyz/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 08:45"
+        "score": 43,
+        "date": "2026-08-28 13:44",
+        "displayDate": "2026-08-28 13:44",
+        "url": "https://syntasso.io/post/ai-agent-guardrails-don-t-work-safer-platforms-do",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 13:44"
       },
       {
-        "id": "radar-c699158c6557",
+        "id": "radar-d4aec7aa4015",
         "kind": "radar",
-        "title": "Russian-Speaking Ransomware Crew Used Cursor AI to Break Into Seven Companies",
-        "summary": "Technology Org reports: Russian-Speaking Ransomware Crew Used Cursor AI to Break Into Seven Companies Technology Org",
+        "title": "You’re Drowning Claude Code in Instructions You Can’t Explain, or Remember",
+        "summary": "analyticsindiamag.com reports: You’re Drowning Claude Code in Instructions You Can’t Explain, or Remember analyticsindiamag.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-28 09:22",
-        "displayDate": "2026-08-28 09:22",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOE9heWRsckhKUjBrWmYyeEItUmZxRVZfLTJHQlBFV1hGWDA2a0ZxbzFYb2d2Qm5pcGZ1RDd5V0pvdVZiOXFlbHcya19Ka045Si1MSG5FdjdROXREV1k2OTBjNUM1SDNaMjZvdGpwQXB0b1lXbjZwMW1NMWt3b3JFU1Jvb0hfdW5aOXc",
-        "source": "News signal — verify before acting · Source: Technology Org · Time: 2026-08-28 09:22"
+        "date": "2026-08-28 11:50",
+        "displayDate": "2026-08-28 11:50",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU03ZjFqbzd2R0pjMldfWEN5TUNvQlo2d2NCUkltTW41Vm9rZURfUkM3Xzk1aDRHLV8ybDNRWlpweVdXTzRPYWt1WVRWUG1LV0lhQThkZk1zNGlzS09yS3ZvOUdIR2Z2cjVEQ0VrTm10RUJTcHRYcFZNMU00SXRMMndoc2h4eHZleDhncExaMTFiZnFDLTV1TXcxQVViVWJHUk1NTVpOZV9KUmkxcXJjYUxBdw",
+        "source": "News signal — verify before acting · Source: analyticsindiamag.com · Time: 2026-08-28 11:50"
       },
       {
         "id": "radar-42b33611dde4",
@@ -87,18 +87,32 @@
         "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
       },
       {
-        "id": "radar-b1ec54003d06",
+        "id": "radar-6c08c41b2737",
         "kind": "radar",
-        "title": "Cursor AI Hack: Aurora Ransomware Breaches 7 Firms [2026] - tech-insider.org",
-        "summary": "tech-insider.org reports: Cursor AI Hack: Aurora Ransomware Breaches 7 Firms [2026] tech-insider.org",
+        "title": "Why Auditability and Compliance Are Now Non-Negotiable for Enterprise AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 43,
+        "date": "2026-08-28 13:47",
+        "displayDate": "2026-08-28 13:47",
+        "url": "https://medium.com/@MirArshadTalpur/why-auditability-and-compliance-are-now-non-negotiable-for-enterprise-ai-agents-8654c6e9b237",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 13:47"
+      },
+      {
+        "id": "radar-1f43a952c3c2",
+        "kind": "radar",
+        "title": "😺 7 Companies Got Hacked by a Tricked AI",
+        "summary": "The Neuron reports: 😺 7 Companies Got Hacked by a Tricked AI The Neuron",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-28 03:23",
-        "displayDate": "2026-08-28 03:23",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fek1sb0xzMGNJZHFJelNvMkNLallTamxhbTJxS3k1QlVmdndNWGlaUDMyRDF6eUVMMktvd212STNMb0NCTEZ5bG92R0ZaUm43NGhramRlcEdCSENDdEZsQWN6VVRPTjRXY3RuYlhXN0c",
-        "source": "News signal — verify before acting · Source: tech-insider.org · Time: 2026-08-28 03:23"
+        "date": "2026-08-28 09:31",
+        "displayDate": "2026-08-28 09:31",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUmFOdGZXbG0walNWWDdWUTBvSnljbm8yMzhrcEFvX2N1R0hjT1Y4Y2ZnMnlyaVNCMTRVMDMxTW1RMnlORjYzYTF0NHFyZ2YzSGUxVTVuaTFBOGFXYV81SEF6S2JPQUJ5TXdQMGJXd29wc1lUcjROUERsTQ",
+        "source": "News signal — verify before acting · Source: The Neuron · Time: 2026-08-28 09:31"
       },
       {
         "id": "radar-52dc7c5d51db",
@@ -141,20 +155,6 @@
         "displayDate": "2026-08-22 06:00",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
         "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
-      },
-      {
-        "id": "radar-1a0764985943",
-        "kind": "radar",
-        "title": "Making Your Data Ready for Agentic AI",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-28 10:15",
-        "displayDate": "2026-08-28 10:15",
-        "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 10:15"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T15:01:04.905340+08:00",
-        "nextRun": "2026-08-28T21:00:00+08:00",
+        "lastRun": "2026-08-28T21:00:17.206987+08:00",
+        "nextRun": "2026-08-29T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T19:10:07.476200+08:00",
-        "nextRun": "2026-08-28T22:10:00+08:00",
+        "lastRun": "2026-08-28T22:10:15.381098+08:00",
+        "nextRun": "2026-08-29T01:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-28T18:40:08.379269+08:00",
-        "nextRun": "2026-08-28T21:40:00+08:00",
+        "lastRun": "2026-08-28T21:40:13.702649+08:00",
+        "nextRun": "2026-08-29T00:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T19:15:05.141596+08:00",
-        "nextRun": "2026-08-28T20:15:05.392418+08:00",
+        "lastRun": "2026-08-28T22:16:12.126517+08:00",
+        "nextRun": "2026-08-28T23:16:12.251781+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T19:42:08.261873+08:00",
-        "nextRun": "2026-08-28T19:47:05.379364+08:00",
+        "lastRun": "2026-08-28T22:45:15.365203+08:00",
+        "nextRun": "2026-08-28T22:47:15.365203+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-28T19:30:21.843827+08:00",
-        "nextRun": "2026-08-28T22:30:00+08:00",
+        "lastRun": "2026-08-28T22:30:29.170327+08:00",
+        "nextRun": "2026-08-29T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-28T19:45:05.393422+08:00"
+    "updatedAt": "2026-08-28T22:46:12.252780+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
