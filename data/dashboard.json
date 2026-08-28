@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-29T01:47:17+08:00",
+    "generatedAt": "2026-08-29T04:48:21+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-28_09-00-54.md",
-    "radarSource": "ai_opportunity_radar_20260829_013033.html",
+    "radarSource": "ai_opportunity_radar_20260829_043037.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260829_013033.html",
+    "sourceFile": "ai_opportunity_radar_20260829_043037.html",
     "items": [
       {
-        "id": "radar-915211631b5d",
+        "id": "radar-59ca526b307c",
         "kind": "radar",
-        "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+        "summary": "VentureBeat reports: The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents VentureBeat",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-28 16:28",
-        "displayDate": "2026-08-28 16:28",
-        "url": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 16:28"
+        "score": 55,
+        "date": "2026-08-28 17:52",
+        "displayDate": "2026-08-28 17:52",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0RYS2dqbGk1cU5uOVk0eE56SWg5ZFZnbEtjSzduV1BYWk9wWU9XRGUwVzFqQkhQUWthTlBZS1h5Z0lqWXQ5Q2x3SlVUdktTbWxpVEJhSlNJTlpIekNIcENxajFTNDNoVFVjbGdFLTA4YTZBWlR6Vy1iZXFRY3VEcUlldHJvLVF2RjB1dm5YLWMzcEhzMklvSGtOMEVfTmVnaGR5VFNIeUg5bXpILTJBeE1BVVFqQWk0QjIwSnhQVExVNnZm",
+        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-28 17:52"
       },
       {
         "id": "radar-1f43a952c3c2",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Black Voice News · Time: 2026-08-25 18:34"
       },
       {
-        "id": "radar-df3881a56faf",
+        "id": "radar-064b0294d5fc",
         "kind": "radar",
-        "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
-        "summary": "The Guardian is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Consultants are walking away when AI clients need them most",
+        "summary": "Channel Dive reports: Consultants are walking away when AI clients need them most Channel Dive",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 78,
-        "date": "2026-08-22 06:00",
-        "displayDate": "2026-08-22 06:00",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
-        "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
+        "score": 88,
+        "date": "2026-08-28 14:39",
+        "displayDate": "2026-08-28 14:39",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2owSXl1R1FiU2M1SWlua3pXbkNSbklCbzRRR1QtV0tWQWRWMkdIekJGRENGZUI3dFhvU3pXRUhNY0FocTdaZXhJUVR3TzBxTXIwbGpQdWpyTjNzalVIdFZMZUFzQXVwdkJBQzV3V3NtZmRmMDJFWGo2ZWxDN1JFaHB5SmdwSTRTTGsw",
+        "source": "News signal — verify before acting · Source: Channel Dive · Time: 2026-08-28 14:39"
       },
       {
         "id": "radar-ffde400b43ca",
@@ -85,20 +85,6 @@
         "displayDate": "2026-08-26 13:03",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRzWVZ3TUI5U0pUZWJDczhCalVrXy1IMTcyMlpfNVhCUTM5el9VNW1vMklhaWIwSlNWeWk5bW9rZ25LTm02YzRyQlp6LUlOQTVJX2JYWVlJdGtkdjAwZXpyaHhwRTFVUi1tZUJVRWFBT0s2bGt1YTRERWJQUm1pTi1xaDhkUWdJdDA0amNLRQ",
         "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
-      },
-      {
-        "id": "radar-22aa94836706",
-        "kind": "radar",
-        "title": "AI Agents Bring Governance, Efficiency to Financial Institutions",
-        "summary": "Mexico Business News reports: AI Agents Bring Governance, Efficiency to Financial Institutions Mexico Business News",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-08-28 16:03",
-        "displayDate": "2026-08-28 16:03",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTFBSk9RUUpERGFUQzRjRWd4S01MMFBDTUlDeDVZTldaS1BtS2NoX19PRUFXdHhselVBYTFia3I3eHJRZG40ZVZpRlM5ejFCVVdiZGZOYm83TUJLYWwtNjZydlNRNzZlUDJMS1laWlNUZzN4M1E2U0dJSVBmREpNXzQwUXhfalJpdFY3Q0hsM3dySnV6NjJVeXp1eDBCWGR1c3R0eWIxU253QQ",
-        "source": "News signal — verify before acting · Source: Mexico Business News · Time: 2026-08-28 16:03"
       },
       {
         "id": "radar-d4aec7aa4015",
@@ -143,18 +129,32 @@
         "source": "News signal — verify before acting · Source: Florida Politics · Time: 2026-08-24 20:28"
       },
       {
-        "id": "radar-4d497497dd78",
+        "id": "radar-df3881a56faf",
         "kind": "radar",
-        "title": "Designing Loyalty: AI Agents and Conflicts of Interest",
-        "summary": "Stanford HAI reports: Designing Loyalty: AI Agents and Conflicts of Interest Stanford HAI",
+        "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
+        "summary": "The Guardian is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-08-25 12:03",
-        "displayDate": "2026-08-25 12:03",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS0yblhvZkx4alc4WFRhczkxYmVkS0VCZjFXRDhxSmdILURIY29oUHVrcDY4ZzJrVUMxbjhoSEZGbnZ1TldWVFQ2VWlnbjBvZllwb0lXMzkxVzNoU3lDeEkzaWZ1SGlIVFpTcGt2amFqOVB1bnljMWM0UGV5aTJTYnJQRG9telZYTWdRUU5n",
-        "source": "News signal — verify before acting · Source: Stanford HAI · Time: 2026-08-25 12:03"
+        "score": 78,
+        "date": "2026-08-22 06:00",
+        "displayDate": "2026-08-22 06:00",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
+        "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
+      },
+      {
+        "id": "radar-4c2e68776827",
+        "kind": "radar",
+        "title": "Why Agentic AI Needs a Strong Identity Foundation",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-08-28 20:17",
+        "displayDate": "2026-08-28 20:17",
+        "url": "https://nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-28 20:17"
       }
     ]
   },
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T01:10:18.098493+08:00",
-        "nextRun": "2026-08-29T04:10:00+08:00",
+        "lastRun": "2026-08-29T04:10:22.862077+08:00",
+        "nextRun": "2026-08-29T07:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T00:40:19.063212+08:00",
-        "nextRun": "2026-08-29T03:40:00+08:00",
+        "lastRun": "2026-08-29T03:40:23.785703+08:00",
+        "nextRun": "2026-08-29T06:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T01:17:16.526178+08:00",
-        "nextRun": "2026-08-29T02:17:16.719981+08:00",
+        "lastRun": "2026-08-29T04:18:21.008650+08:00",
+        "nextRun": "2026-08-29T05:18:21.221238+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T01:45:19.720252+08:00",
-        "nextRun": "2026-08-29T01:47:19.720252+08:00",
+        "lastRun": "2026-08-29T04:45:24.046846+08:00",
+        "nextRun": "2026-08-29T04:50:21.214976+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T01:30:33.782309+08:00",
-        "nextRun": "2026-08-29T04:30:00+08:00",
+        "lastRun": "2026-08-29T04:30:37.140687+08:00",
+        "nextRun": "2026-08-29T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-29T01:47:16.719981+08:00"
+    "updatedAt": "2026-08-29T04:48:21.222255+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
