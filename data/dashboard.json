@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-29T13:51:34+08:00",
+    "generatedAt": "2026-08-29T16:52:39+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-29_09-00-33.md",
-    "radarSource": "ai_opportunity_radar_20260829_133049.html",
+    "radarSource": "ai_opportunity_radar_20260829_163054.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260829_133049.html",
+    "sourceFile": "ai_opportunity_radar_20260829_163054.html",
     "items": [
       {
-        "id": "radar-59ca526b307c",
+        "id": "radar-89469974f384",
         "kind": "radar",
-        "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-        "summary": "VentureBeat reports: The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents VentureBeat",
+        "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 55,
-        "date": "2026-08-28 17:52",
-        "displayDate": "2026-08-28 17:52",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0RYS2dqbGk1cU5uOVk0eE56SWg5ZFZnbEtjSzduV1BYWk9wWU9XRGUwVzFqQkhQUWthTlBZS1h5Z0lqWXQ5Q2x3SlVUdktTbWxpVEJhSlNJTlpIekNIcENxajFTNDNoVFVjbGdFLTA4YTZBWlR6Vy1iZXFRY3VEcUlldHJvLVF2RjB1dm5YLWMzcEhzMklvSGtOMEVfTmVnaGR5VFNIeUg5bXpILTJBeE1BVVFqQWk0QjIwSnhQVExVNnZm",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-28 17:52"
+        "date": "2026-08-29 07:36",
+        "displayDate": "2026-08-29 07:36",
+        "url": "https://truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-29 07:36"
       },
       {
-        "id": "radar-3548650721fd",
+        "id": "radar-85ecedf48eb3",
         "kind": "radar",
-        "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
-        "summary": "Bloomberg.com reports: OpenAI to End Partnership With Cursor After SpaceX Acquisition Bloomberg.com",
+        "title": "Fake Claude Code Spreads Malware to Windows, macOS Users",
+        "summary": "TechRepublic reports: Fake Claude Code Spreads Malware to Windows, macOS Users TechRepublic",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-29 02:16",
-        "displayDate": "2026-08-29 02:16",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhSSDV2SHJEdUlBZ1RtYmZQNVR3TjNTMVkwS1BaLWlLYldadFZ1ZnM2NmRsM01BT2UwdVNBaVJMY1Y1RzEzNVQxNkZDZXFHSjhFTHlLeWxFVkZ6T3o4cVZfem9KS2RFWjNnSGZ2Mk5MU0hVTGJaellRZi1rQnQ4enlpeklTUjkwX29JT1I4ZFNpVXoteDFaRlpSNXFRd210QTBuekw3XzRNdkxfS1pSZnZlcw",
-        "source": "Trusted news / community signal · Source: Bloomberg.com · Time: 2026-08-29 02:16"
+        "date": "2026-08-29 03:28",
+        "displayDate": "2026-08-29 03:28",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlJKZjFCTDVDcWFKYjdNWHMxOHF5RTJKdHowZUs2VWFETEVobTltdDRtRVNrZFR4U1dmUmVxOGV5S0YyM0JrOWt0OTFQcVRCMk9JcHAwRGwxN2JZd3k2N0FlRjdreEx4N1hYSXN5OTlXbkFBLXNiN0hkZEZXbUZ3bnlzd2NEMG44X1NKOWJ0eDdTTHZMU2VmVEtuTmZFM2c",
+        "source": "News signal — verify before acting · Source: TechRepublic · Time: 2026-08-29 03:28"
       },
       {
         "id": "radar-42b33611dde4",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-08-28 21:38"
       },
       {
-        "id": "radar-1958a732ec7a",
+        "id": "radar-3548650721fd",
         "kind": "radar",
-        "title": "Russian Hackers Tricked Cursor's AI Agent Into Breaching Six Companies",
-        "summary": "Startup Fortune reports: Russian Hackers Tricked Cursor's AI Agent Into Breaching Six Companies Startup Fortune",
+        "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+        "summary": "Bloomberg.com reports: OpenAI to End Partnership With Cursor After SpaceX Acquisition Bloomberg.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-29 01:14",
-        "displayDate": "2026-08-29 01:14",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzlIQ24wYk5aUzFqaU1kTFVTb2NtOVpOSW9ZcGpBbEZKbEdvVV8zMlRjeHRLVGk5R0trcU1HTVU0OGF3V0M4bVZhNTdGQnV4Ny1kQnhyampGWmgxc3VNeFZKc2JTdkhkR1J5d0lrb1oyUHJHZC0wUy1uV0ZwQm1QM24tT29lYzlGbkRDNnJwUjlSM3dxYzg0d2hVSWo0QQ",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-08-29 01:14"
+        "date": "2026-08-29 02:16",
+        "displayDate": "2026-08-29 02:16",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhSSDV2SHJEdUlBZ1RtYmZQNVR3TjNTMVkwS1BaLWlLYldadFZ1ZnM2NmRsM01BT2UwdVNBaVJMY1Y1RzEzNVQxNkZDZXFHSjhFTHlLeWxFVkZ6T3o4cVZfem9KS2RFWjNnSGZ2Mk5MU0hVTGJaellRZi1rQnQ4enlpeklTUjkwX29JT1I4ZFNpVXoteDFaRlpSNXFRd210QTBuekw3XzRNdkxfS1pSZnZlcw",
+        "source": "Trusted news / community signal · Source: Bloomberg.com · Time: 2026-08-29 02:16"
       },
       {
         "id": "radar-52dc7c5d51db",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Florida Politics · Time: 2026-08-24 20:28"
       },
       {
-        "id": "radar-df3881a56faf",
+        "id": "radar-2ec8e820cf82",
         "kind": "radar",
-        "title": "‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs",
-        "summary": "The Guardian is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "TTEC RealSkill™ Wins Gold for Best Use of AI for Learning at 2026 Brandon Hall Group™ HCM Excellence Awards",
+        "summary": "GlobeNewswire reports: TTEC RealSkill™ Wins Gold for Best Use of AI for Learning at 2026 Brandon Hall Group™ HCM Excellence Awards GlobeNewswire",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 78,
-        "date": "2026-08-22 06:00",
-        "displayDate": "2026-08-22 06:00",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn",
-        "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-08-22 06:00"
+        "date": "2026-08-24 12:00",
+        "displayDate": "2026-08-24 12:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcWtibENXdS0yRzFnX0xwb2cybjdlTk11d3pULVpqRVp3TE83N3Z5cnl2aTlPNnI0VWpzNjFTQWdIQzRPWTBYQ3cwbjF3ekZBRWlSWEdiNkxnaktiNFh3OEIyaVVrQnRaT0pXVDluajZkdFZxOUhGNURSMkkyOVhFTmtyYzdicWtSR2JDUnRaOWxfRzE0OFQ0SUIwYTNONXBHV0w1WWNEbm9RS05NRFVHRW9vazU3YldWY3IwTXBNaGMzY0cxdGZZYTJMM1B6WUFGWWJvaWxsU0xaaXRRcVpXcktvb0lSN1pGS2o3a3ZDWHNlWDUwZHd2SjVya29ZVnVQS1c2SzVCaXc",
+        "source": "News signal — verify before acting · Source: GlobeNewswire · Time: 2026-08-24 12:00"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T09:00:32.472078+08:00",
-        "nextRun": "2026-08-29T15:00:00+08:00",
+        "lastRun": "2026-08-29T15:00:42.416432+08:00",
+        "nextRun": "2026-08-29T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T13:10:36.317740+08:00",
-        "nextRun": "2026-08-29T16:10:00+08:00",
+        "lastRun": "2026-08-29T16:10:42.501272+08:00",
+        "nextRun": "2026-08-29T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T12:40:36.882463+08:00",
-        "nextRun": "2026-08-29T15:40:00+08:00",
+        "lastRun": "2026-08-29T15:40:39.802246+08:00",
+        "nextRun": "2026-08-29T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T13:21:34.159083+08:00",
-        "nextRun": "2026-08-29T14:21:34.557493+08:00",
+        "lastRun": "2026-08-29T16:22:38.639256+08:00",
+        "nextRun": "2026-08-29T17:22:38.894872+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T13:48:37.493982+08:00",
-        "nextRun": "2026-08-29T13:53:34.511907+08:00",
+        "lastRun": "2026-08-29T16:51:41.734902+08:00",
+        "nextRun": "2026-08-29T16:53:41.734902+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T13:30:49.616953+08:00",
-        "nextRun": "2026-08-29T16:30:00+08:00",
+        "lastRun": "2026-08-29T16:30:54.135613+08:00",
+        "nextRun": "2026-08-29T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-29T13:51:34.557493+08:00"
+    "updatedAt": "2026-08-29T16:52:38.894872+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
