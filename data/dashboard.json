@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-30T07:57:07+08:00",
+    "generatedAt": "2026-08-30T10:58:11+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-29_09-00-33.md",
-    "radarSource": "ai_opportunity_radar_20260830_073026.html",
+    "dailySource": "2026-08-30_09-00-12.md",
+    "radarSource": "ai_opportunity_radar_20260830_103026.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,119 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260830_073026.html",
+    "sourceFile": "ai_opportunity_radar_20260830_103026.html",
     "items": [
       {
-        "id": "radar-dcc5be7353f5",
+        "id": "radar-ff5bcfafd9a8",
         "kind": "radar",
-        "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance - the-decoder.com",
-        "summary": "the-decoder.com reports: Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance the-decoder.com",
+        "title": "Crbro – Local, file-based persistent memory for AI agents (MCP)",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 52,
-        "date": "2026-08-29 12:54",
-        "displayDate": "2026-08-29 12:54",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFV6RlpSVDJJU0FxaTRkcnU5YWo4VjQzeWR1OThJdnNXSUJvUVMxVlEtMlJpWXhxb0dRUXNaMVI5b3F3QXNraTd6T1NWbXJiSWI0SEEtR1RaSGo4bTRZYUF2b1FwZGdBbFZnNVJzSW5VSGhSN0p4a2dvV3lISTA2RVB4clNxRF9acU4zMGwyRHhmVndGSGNRMW1yS0ctc2Juc25fMWlPZmFPQnhf",
-        "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-08-29 12:54"
+        "score": 73,
+        "date": "2026-08-30 00:55",
+        "displayDate": "2026-08-30 00:55",
+        "url": "https://github.com/Octonove/crbro-memory",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-30 00:55"
       },
       {
-        "id": "radar-5f4f8e56ee02",
+        "id": "radar-e1f041fa8f79",
         "kind": "radar",
-        "title": "Mingsheng Hong: AI Coding's Real Bottleneck Is No Longer Writing Code, It's Trusting It",
-        "summary": "finance.biggo.com reports: Mingsheng Hong: AI Coding's Real Bottleneck Is No Longer Writing Code, It's Trusting It finance.biggo.com",
+        "title": "Coding Agents Security Failed 70 Times, Same Bugs",
+        "summary": "StartupHub.ai reports: Coding Agents Security Failed 70 Times, Same Bugs StartupHub.ai",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-29 17:08",
-        "displayDate": "2026-08-29 17:08",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSVNmR3gxV0NtS24tZDNva0FRMUlWTGs0dU1Bdk5tSE01MFFmZmJBTk5tTm41X3hidGxKbURtb1VhNjVFUkstT25TSHhIcENtZGhDbmoyRzUwZHc",
-        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-29 17:08"
+        "date": "2026-08-29 21:02",
+        "displayDate": "2026-08-29 21:02",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGo1ZDRFc3VMQ0VrMFg2VGFtb1hNRTdieFRPWFJldlZKdzloRGxIT0RoWGVWVzNXSDloYktHcHN6Q3hXaE1kNVdPZW1vLXhUZXpvQ2U2dWhwNnhoX2tQbFdkZXA4RmxubUVyRTRFTHltSnliVU1VSEthS0V6NnhENnlsTDgxTU01Ni1zR0ZpMWsxZw",
+        "source": "News signal — verify before acting · Source: StartupHub.ai · Time: 2026-08-29 21:02"
       },
       {
-        "id": "radar-42b33611dde4",
+        "id": "radar-587f95eafbfb",
         "kind": "radar",
-        "title": "Black Chamber of Commerce Inland Empire Presents AI and Cybersecurity Workshop for Local Business Owners",
-        "summary": "Black Voice News is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "OpenAI Pumps Brakes on Frontier AI Training After Hugging Face Breach",
+        "summary": "Campus Technology is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 90,
-        "date": "2026-08-25 18:34",
-        "displayDate": "2026-08-25 18:34",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aVFpHbXg2V3lramxkQ1ZzV2w5T01qVTZlRWlkVHRRV3JBV0Y2TTU1UDJVcnFaNmRoa0ZTZEdEaktKcG5xZk1vcnVTaklnQWFJV1lrSzhhN0xoOU9JODg1clo4QzRqU2ZtSmt2ejdVWmpKZWt4WHpEOFd3U08za1U",
-        "source": "News signal — verify before acting · Source: Black Voice News · Time: 2026-08-25 18:34"
-      },
-      {
-        "id": "radar-064b0294d5fc",
-        "kind": "radar",
-        "title": "Consultants are walking away when AI clients need them most",
-        "summary": "Channel Dive reports: Consultants are walking away when AI clients need them most Channel Dive",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 88,
-        "date": "2026-08-28 14:39",
-        "displayDate": "2026-08-28 14:39",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2owSXl1R1FiU2M1SWlua3pXbkNSbklCbzRRR1QtV0tWQWRWMkdIekJGRENGZUI3dFhvU3pXRUhNY0FocTdaZXhJUVR3TzBxTXIwbGpQdWpyTjNzalVIdFZMZUFzQXVwdkJBQzV3V3NtZmRmMDJFWGo2ZWxDN1JFaHB5SmdwSTRTTGsw",
-        "source": "News signal — verify before acting · Source: Channel Dive · Time: 2026-08-28 14:39"
-      },
-      {
-        "id": "radar-ffde400b43ca",
-        "kind": "radar",
-        "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
-        "summary": "EE Times reports: From Days to Minutes: Accelerating 3D IC Debug with Agentic AI EE Times",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-08-26 13:03",
-        "displayDate": "2026-08-26 13:03",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRzWVZ3TUI5U0pUZWJDczhCalVrXy1IMTcyMlpfNVhCUTM5el9VNW1vMklhaWIwSlNWeWk5bW9rZ25LTm02YzRyQlp6LUlOQTVJX2JYWVlJdGtkdjAwZXpyaHhwRTFVUi1tZUJVRWFBT0s2bGt1YTRERWJQUm1pTi1xaDhkUWdJdDA0amNLRQ",
-        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
-      },
-      {
-        "id": "radar-4a7d0d62fb73",
-        "kind": "radar",
-        "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-        "summary": "24/7 Wall St. reports: Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger 24/7 Wall St.",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-08-29 15:05",
-        "displayDate": "2026-08-29 15:05",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1MzZFo4WkxhWEJyc1ItM1A5ZXpkdEFvZXNzSlBuSXlnamw1c0VKVTB0aUJhXzVsd1FUNjVWUV9rdlNqSTBzSF9aV2hIQ3hiT253b3Fqb3ZhYWwwdk42cjlrTnZOV2ZwTlR3MkppU1dTb2FLYTA4dTVZNkk3bDJBQW9HclR5RWZpZndjZGxkUVhFWDdadnlKTWF1aUFPRmxKclp5bzJiZWE3STRUNjV6YTlJUG9PdUozUzBWNUFQVlc",
-        "source": "News signal — verify before acting · Source: 24/7 Wall St. · Time: 2026-08-29 15:05"
-      },
-      {
-        "id": "radar-52dc7c5d51db",
-        "kind": "radar",
-        "title": "Higher Education Policymakers Are Focused on Preparing Students for AI. They Should Also Focus on Protecting Them",
-        "summary": "EdTrust is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-08-24 12:22",
-        "displayDate": "2026-08-24 12:22",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0RDOGxEZ3BpNVctZk1aajVUTmJKaHVaR2lQSW5uR1hULV9XQlJMU2JKVjV3NVM0NThfRWVnd05PTktLTXoyVWlfS3ZrZnVReWVJOTJUMEpTeHpHNEtZYTRLdHVwS19YR280S3hxN1VVTTg3QnJ5V25tMk1zMURLaThtYlNMNFVheHZJeDE4NWk0V2QxWFpSanJId2JrVXByc0pEa1dITHMxRVpDRllVdzN3RmNmOVlTZEFJRTdLbnAtbVY0YTkwcVV4bnFXV0RpeFhB",
-        "source": "News signal — verify before acting · Source: EdTrust · Time: 2026-08-24 12:22"
-      },
-      {
-        "id": "radar-eb948a7ab5ce",
-        "kind": "radar",
-        "title": "Meta brings hands-on AI training to more than 150 Central Florida small businesses",
-        "summary": "Florida Politics is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 86,
-        "date": "2026-08-24 20:28",
-        "displayDate": "2026-08-24 20:28",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDEtWGtaLVhpT2I1OEpReHk0TGtQZ1Z6cDNZQXlhTDIzQ05Oeko4RE9oQVIzS194aDg5bVQ5R3hhR25nN204c2RPVWc3Q3Z1V2EyQXFGbm9Na05NY3RWTXNPU2hSazBCdkFfS2R1WEV1WmhtSWNzcEhEVThTMkhrN3hLVW9GYXh1RjlIT2ZRVzI0aW92UVBaeXBaN0Vobjhwb1VoeFZWM3JGUVAzbzdfa3pmUzBodVgyd3RtNjN1aXdMcC0wRXc",
-        "source": "News signal — verify before acting · Source: Florida Politics · Time: 2026-08-24 20:28"
+        "date": "2026-08-26 21:15",
+        "displayDate": "2026-08-26 21:15",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1l6b2lac2VQTmFiSkFDd0RIdXFDX1VpNUZpNzVtYkVtZThlMVRSYWVxdlk4Mmh2a3pUMVhNS3ExQWprRVh4TmRZUDhBMF9TYXNROUhlMy1UTWJxRGdYX01aODcxbTVBbU80TzJ1NkxxdEFWajhSYi02enJXUDFxdWIxdll6YUtVby1OdGw5MzFzd1RVbkE4TVU3OFdMRlJ3cWhVSzEta3paNjZUTzN3Uk56Q2RtelBib1dsWHdxYjA",
+        "source": "News signal — verify before acting · Source: Campus Technology · Time: 2026-08-26 21:15"
       },
       {
         "id": "radar-2ec8e820cf82",
@@ -143,18 +73,88 @@
         "source": "News signal — verify before acting · Source: GlobeNewswire · Time: 2026-08-24 12:00"
       },
       {
-        "id": "radar-89ec5a10c0d7",
+        "id": "radar-b899ecaacd9f",
         "kind": "radar",
-        "title": "Show HN: I might have built the best Linear alternative",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "ATLANT 3D Launches New Platform to Physically Validate AI-Designed Materials",
+        "summary": "3D Printing Industry flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-08-27 06:33",
+        "displayDate": "2026-08-27 06:33",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFAzUjd3dWZKbS13UTdlckdERVFESHNOWk4tTGpGcm9manhHeHd2Rm5aNEJJZmI3Z0ZfUHNFRUpvZ1hBMEEwSVVfbHB3dXVLbzZpS1RsOFItQ1NhY1dZQjJOUGhmeUpvSHlVdXFPMElDVWwyUFF4RjdrNm50U3lOQ192WF8zODlZb2JoV3VGRkZmY0pzY2ktRmxYMXhKdlYxdHhzS2RwTVc5S0t1bjY0czhTQ0pVdWkxMldCWg",
+        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-08-27 06:33"
+      },
+      {
+        "id": "radar-5f4f8e56ee02",
+        "kind": "radar",
+        "title": "Mingsheng Hong: AI Coding's Real Bottleneck Is No Longer Writing Code, It's Trusting It",
+        "summary": "finance.biggo.com reports: Mingsheng Hong: AI Coding's Real Bottleneck Is No Longer Writing Code, It's Trusting It finance.biggo.com",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-08-29 17:08",
+        "displayDate": "2026-08-29 17:08",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSVNmR3gxV0NtS24tZDNva0FRMUlWTGs0dU1Bdk5tSE01MFFmZmJBTk5tTm41X3hidGxKbURtb1VhNjVFUkstT25TSHhIcENtZGhDbmoyRzUwZHc",
+        "source": "News signal — verify before acting · Source: finance.biggo.com · Time: 2026-08-29 17:08"
+      },
+      {
+        "id": "radar-ffde400b43ca",
+        "kind": "radar",
+        "title": "From Days to Minutes: Accelerating 3D IC Debug with Agentic AI",
+        "summary": "EE Times reports: From Days to Minutes: Accelerating 3D IC Debug with Agentic AI EE Times",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-08-26 13:03",
+        "displayDate": "2026-08-26 13:03",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkRzWVZ3TUI5U0pUZWJDczhCalVrXy1IMTcyMlpfNVhCUTM5el9VNW1vMklhaWIwSlNWeWk5bW9rZ25LTm02YzRyQlp6LUlOQTVJX2JYWVlJdGtkdjAwZXpyaHhwRTFVUi1tZUJVRWFBT0s2bGt1YTRERWJQUm1pTi1xaDhkUWdJdDA0amNLRQ",
+        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
+      },
+      {
+        "id": "radar-42b33611dde4",
+        "kind": "radar",
+        "title": "Black Chamber of Commerce Inland Empire Presents AI and Cybersecurity Workshop for Local Business Owners",
+        "summary": "Black Voice News is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 90,
+        "date": "2026-08-25 18:34",
+        "displayDate": "2026-08-25 18:34",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aVFpHbXg2V3lramxkQ1ZzV2w5T01qVTZlRWlkVHRRV3JBV0Y2TTU1UDJVcnFaNmRoa0ZTZEdEaktKcG5xZk1vcnVTaklnQWFJV1lrSzhhN0xoOU9JODg1clo4QzRqU2ZtSmt2ejdVWmpKZWt4WHpEOFd3U08za1U",
+        "source": "News signal — verify before acting · Source: Black Voice News · Time: 2026-08-25 18:34"
+      },
+      {
+        "id": "radar-4d497497dd78",
+        "kind": "radar",
+        "title": "Designing Loyalty: AI Agents and Conflicts of Interest",
+        "summary": "Stanford HAI reports: Designing Loyalty: AI Agents and Conflicts of Interest Stanford HAI",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 66,
+        "date": "2026-08-25 12:03",
+        "displayDate": "2026-08-25 12:03",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS0yblhvZkx4alc4WFRhczkxYmVkS0VCZjFXRDhxSmdILURIY29oUHVrcDY4ZzJrVUMxbjhoSEZGbnZ1TldWVFQ2VWlnbjBvZllwb0lXMzkxVzNoU3lDeEkzaWZ1SGlIVFpTcGt2amFqOVB1bnljMWM0UGV5aTJTYnJQRG9telZYTWdRUU5n",
+        "source": "News signal — verify before acting · Source: Stanford HAI · Time: 2026-08-25 12:03"
+      },
+      {
+        "id": "radar-dcc5be7353f5",
+        "kind": "radar",
+        "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance - the-decoder.com",
+        "summary": "the-decoder.com reports: Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance the-decoder.com",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-08-29 22:55",
-        "displayDate": "2026-08-29 22:55",
-        "url": "https://github.com/croffasia/itsaplan",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-29 22:55"
+        "score": 52,
+        "date": "2026-08-29 12:54",
+        "displayDate": "2026-08-29 12:54",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFV6RlpSVDJJU0FxaTRkcnU5YWo4VjQzeWR1OThJdnNXSUJvUVMxVlEtMlJpWXhxb0dRUXNaMVI5b3F3QXNraTd6T1NWbXJiSWI0SEEtR1RaSGo4bTRZYUF2b1FwZGdBbFZnNVJzSW5VSGhSN0p4a2dvV3lISTA2RVB4clNxRF9acU4zMGwyRHhmVndGSGNRMW1yS0ctc2Juc25fMWlPZmFPQnhf",
+        "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-08-29 12:54"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T21:00:55.243042+08:00",
-        "nextRun": "2026-08-30T09:00:00+08:00",
+        "lastRun": "2026-08-30T09:00:16.488075+08:00",
+        "nextRun": "2026-08-30T15:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,8 +178,8 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T09:00:33.179344+08:00",
-        "nextRun": "2026-08-30T09:00:00+08:00",
+        "lastRun": "2026-08-30T09:00:12.645950+08:00",
+        "nextRun": "2026-08-31T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T07:10:08.248872+08:00",
-        "nextRun": "2026-08-30T10:10:00+08:00",
+        "lastRun": "2026-08-30T10:10:14.245842+08:00",
+        "nextRun": "2026-08-30T13:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -200,8 +200,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-29T09:30:34.151471+08:00",
-        "nextRun": "2026-08-30T09:30:00+08:00",
+        "lastRun": "2026-08-30T09:30:14.218658+08:00",
+        "nextRun": "2026-08-31T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T06:40:08.903787+08:00",
-        "nextRun": "2026-08-30T09:40:00+08:00",
+        "lastRun": "2026-08-30T09:40:12.463691+08:00",
+        "nextRun": "2026-08-30T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-29T09:15:27.880973+08:00",
-        "nextRun": "2026-08-30T09:15:00+08:00",
+        "lastRun": "2026-08-30T09:15:09.223880+08:00",
+        "nextRun": "2026-08-31T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T07:27:06.788734+08:00",
-        "nextRun": "2026-08-30T08:27:07.036384+08:00",
+        "lastRun": "2026-08-30T10:28:11.393924+08:00",
+        "nextRun": "2026-08-30T11:28:11.534811+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T07:54:12.198029+08:00",
-        "nextRun": "2026-08-30T07:59:07.026325+08:00",
+        "lastRun": "2026-08-30T10:57:16.588194+08:00",
+        "nextRun": "2026-08-30T10:59:16.588194+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T07:30:26.179277+08:00",
-        "nextRun": "2026-08-30T10:30:00+08:00",
+        "lastRun": "2026-08-30T10:30:26.888331+08:00",
+        "nextRun": "2026-08-30T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-30T07:57:07.037494+08:00"
+    "updatedAt": "2026-08-30T10:58:11.535810+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
