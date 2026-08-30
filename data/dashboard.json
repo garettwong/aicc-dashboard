@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-30T13:59:16+08:00",
+    "generatedAt": "2026-08-30T16:31:20+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-30_09-00-12.md",
-    "radarSource": "ai_opportunity_radar_20260830_133031.html",
+    "radarSource": "ai_opportunity_radar_20260830_163036.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260830_133031.html",
+    "sourceFile": "ai_opportunity_radar_20260830_163036.html",
     "items": [
       {
-        "id": "radar-ff5bcfafd9a8",
+        "id": "radar-4a2cb1bf1b9e",
         "kind": "radar",
-        "title": "Crbro – Local, file-based persistent memory for AI agents (MCP)",
+        "title": "AIPass – AI agents whose memory is small JSON files they own",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 73,
-        "date": "2026-08-30 00:55",
-        "displayDate": "2026-08-30 00:55",
-        "url": "https://github.com/Octonove/crbro-memory",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-30 00:55"
+        "score": 57,
+        "date": "2026-08-30 06:58",
+        "displayDate": "2026-08-30 06:58",
+        "url": "https://aipass.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-30 06:58"
       },
       {
         "id": "radar-89fe06829329",
@@ -73,18 +73,18 @@
         "source": "News signal — verify before acting · Source: GlobeNewswire · Time: 2026-08-24 12:00"
       },
       {
-        "id": "radar-3d661cd2d8f3",
+        "id": "radar-b899ecaacd9f",
         "kind": "radar",
-        "title": "Oak Ridge and Idaho National Laboratories partner to 3D print and AI-qualify nuclear pressure vessels for U.S. energy supply chain",
-        "summary": "Energies Media reports: Oak Ridge and Idaho National Laboratories partner to 3D print and AI-qualify nuclear pressure vessels for U.S.",
+        "title": "ATLANT 3D Launches New Platform to Physically Validate AI-Designed Materials",
+        "summary": "3D Printing Industry flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-08-27 20:11",
-        "displayDate": "2026-08-27 20:11",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XQTF3amw4aTBBc1lwUkZtMEJGWmdGWHlwcTBreGNyNzFqNVpFZk1nNDRMX1VYOTU1OTl3dGdMazUtODNDM1Bhb3c2aHNiNjFlRFF0UHY4TzZFYk1Db0NRcnRpT1pzRFpJTk5fazZWSHI3cC10cGc",
-        "source": "News signal — verify before acting · Source: Energies Media · Time: 2026-08-27 20:11"
+        "date": "2026-08-27 06:33",
+        "displayDate": "2026-08-27 06:33",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFAzUjd3dWZKbS13UTdlckdERVFESHNOWk4tTGpGcm9manhHeHd2Rm5aNEJJZmI3Z0ZfUHNFRUpvZ1hBMEEwSVVfbHB3dXVLbzZpS1RsOFItQ1NhY1dZQjJOUGhmeUpvSHlVdXFPMElDVWwyUFF4RjdrNm50U3lOQ192WF8zODlZb2JoV3VGRkZmY0pzY2ktRmxYMXhKdlYxdHhzS2RwTVc5S0t1bjY0czhTQ0pVdWkxMldCWg",
+        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-08-27 06:33"
       },
       {
         "id": "radar-66b09efe60f2",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Stanford HAI · Time: 2026-08-25 12:03"
       },
       {
-        "id": "radar-dcc5be7353f5",
+        "id": "radar-bb64f04a967a",
         "kind": "radar",
-        "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance - the-decoder.com",
-        "summary": "the-decoder.com reports: Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance the-decoder.com",
+        "title": "Show HN: AgentGate – signed receipts for AI agent SaaS actions",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 52,
-        "date": "2026-08-29 12:54",
-        "displayDate": "2026-08-29 12:54",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFV6RlpSVDJJU0FxaTRkcnU5YWo4VjQzeWR1OThJdnNXSUJvUVMxVlEtMlJpWXhxb0dRUXNaMVI5b3F3QXNraTd6T1NWbXJiSWI0SEEtR1RaSGo4bTRZYUF2b1FwZGdBbFZnNVJzSW5VSGhSN0p4a2dvV3lISTA2RVB4clNxRF9acU4zMGwyRHhmVndGSGNRMW1yS0ctc2Juc25fMWlPZmFPQnhf",
-        "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-08-29 12:54"
+        "score": 43,
+        "date": "2026-08-30 07:00",
+        "displayDate": "2026-08-30 07:00",
+        "url": "https://github.com/Clawdlinux/agentgate",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-30 07:00"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T09:00:16.488075+08:00",
-        "nextRun": "2026-08-30T15:00:00+08:00",
+        "lastRun": "2026-08-30T15:00:23.920644+08:00",
+        "nextRun": "2026-08-30T21:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T13:10:17.519643+08:00",
-        "nextRun": "2026-08-30T16:10:00+08:00",
+        "lastRun": "2026-08-30T16:10:23.453070+08:00",
+        "nextRun": "2026-08-30T19:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T12:40:18.333512+08:00",
-        "nextRun": "2026-08-30T15:40:00+08:00",
+        "lastRun": "2026-08-30T15:40:21.704060+08:00",
+        "nextRun": "2026-08-30T18:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T13:29:16.101918+08:00",
-        "nextRun": "2026-08-30T14:29:16.223745+08:00",
+        "lastRun": "2026-08-30T16:01:19.750210+08:00",
+        "nextRun": "2026-08-30T17:01:19.959041+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T13:57:21.255852+08:00",
-        "nextRun": "2026-08-30T13:59:21.255852+08:00",
+        "lastRun": "2026-08-30T16:30:25.308383+08:00",
+        "nextRun": "2026-08-30T16:32:25.308383+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T13:30:31.079580+08:00",
-        "nextRun": "2026-08-30T16:30:00+08:00",
+        "lastRun": "2026-08-30T16:30:36.655911+08:00",
+        "nextRun": "2026-08-30T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-30T13:59:16.224745+08:00"
+    "updatedAt": "2026-08-30T16:31:19.960067+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
