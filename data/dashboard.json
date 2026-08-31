@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-31T19:42:10+08:00",
+    "generatedAt": "2026-08-31T21:13:16+08:00",
     "sourceCount": 4,
     "dailySource": "2026-08-31_09-00-56.md",
     "radarSource": "ai_opportunity_radar_20260831_193026.html",
@@ -167,9 +167,9 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-31T15:00:07.338715+08:00",
-        "nextRun": "2026-08-31T21:00:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-08-31T21:00:21.929535+08:00",
+        "nextRun": "2026-09-01T09:00:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "ac7e45cc6fc4",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T19:12:09.800419+08:00",
-        "nextRun": "2026-08-31T20:12:10.047827+08:00",
+        "lastRun": "2026-08-31T20:43:15.894992+08:00",
+        "nextRun": "2026-08-31T21:43:16.114555+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T19:40:15.532359+08:00",
-        "nextRun": "2026-08-31T19:42:15.532359+08:00",
+        "lastRun": "2026-08-31T21:10:21.975468+08:00",
+        "nextRun": "2026-08-31T21:15:16.105448+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-31T19:42:10.048826+08:00"
+    "updatedAt": "2026-08-31T21:13:16.115555+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
