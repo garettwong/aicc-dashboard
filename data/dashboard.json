@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-08-31T07:36:49+08:00",
+    "generatedAt": "2026-08-31T10:37:54+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-30_09-00-12.md",
-    "radarSource": "ai_opportunity_radar_20260831_073105.html",
+    "dailySource": "2026-08-31_09-00-56.md",
+    "radarSource": "ai_opportunity_radar_20260831_103110.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260831_073105.html",
+    "sourceFile": "ai_opportunity_radar_20260831_103110.html",
     "items": [
       {
-        "id": "radar-61ad142a8358",
+        "id": "radar-4d9d8c0eca76",
         "kind": "radar",
-        "title": "AI agents need their own identity before they need a gateway",
-        "summary": "VentureBeat reports: AI agents need their own identity before they need a gateway VentureBeat",
+        "title": "HermOS – a local-first AI agent IDE",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-08-30 23:00",
-        "displayDate": "2026-08-30 23:00",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemc1NjRCRWl6RG5CV2cya2hRYXY5THhhbmRBNVQwd0x4aXA0N0cyQm05Yi01bk9Kb2Zkd3YwUzkyYnVOMVA2U052TWl2Z21sZGRhVTJDT0ZlVTNEaFdLeERsc3lfeWY4NkI5OXZ0UjQwVVFCcjRzUHExN1FQdTl5TmhxX0xBR2lOOWJwWjJWUXdBN3kwemhtUA",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-08-30 23:00"
+        "date": "2026-08-31 02:09",
+        "displayDate": "2026-08-31 02:09",
+        "url": "https://hermos.is-a.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-08-31 02:09"
       },
       {
-        "id": "radar-c4469f68772d",
+        "id": "radar-a4670c9514b3",
         "kind": "radar",
-        "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-        "summary": "24/7 Wall St. reports: Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger 24/7 Wall St.",
+        "title": "Huawei Cloud launches the CodeArts Agent in Singapore",
+        "summary": "IT Brief New Zealand flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-30 15:14",
-        "displayDate": "2026-08-30 15:14",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYVBXZU5Kd0psZ0NaZHdoSDEyUVZPejNVTFF4S1pEX0hzOW5TTHBkODJRVVhJUlJ2b1RwZWd0QUZMZ09zZE5yVzRtdi13ZUpwNmdxZkhtNHBxeXJKcjM3U3FaQUk3bG5oOC04MndvcE95Y2haYVRsc1dmS1JxVkJKNDJBSkxTQ0N1ekFDYmI2SW5YVENuY295UHY4aGRiUTFUbXhXQlllSHVxV2MzbU5WeUFUSkIwUWZIcTc1eDI4Z3ljaFJ6dzBXNG81S09scUJqdUJ5aHc1VUl2c3E3MDlkOFJ3WEZLa3dFcjNuLWo4SQ",
-        "source": "News signal — verify before acting · Source: 24/7 Wall St. · Time: 2026-08-30 15:14"
+        "date": "2026-08-31 01:30",
+        "displayDate": "2026-08-31 01:30",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOME9SNDl5eU03d1d3SUp6YkF2RWZOYTY1MDlfYlZCaUc2TjhzRklBUU92VUVDZEhNMnVoZmVseWdKcTZIdzRuWUFRb3lmN2szNk0zNVlYQTRQanNvMjVWSWZ0alBxTmR3Nm1CQzR0bHJ2TUlaTjBxVkhHdFlTOWZ5THZMVXYydVJB",
+        "source": "News signal — verify before acting · Source: IT Brief New Zealand · Time: 2026-08-31 01:30"
       },
       {
         "id": "radar-587f95eafbfb",
@@ -87,32 +87,18 @@
         "source": "News signal — verify before acting · Source: EE Times · Time: 2026-08-26 13:03"
       },
       {
-        "id": "radar-fba44fc126c0",
+        "id": "radar-b3b27a9060a1",
         "kind": "radar",
-        "title": "Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense",
-        "summary": "Business Insider reports: Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense Business Insider",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-08-30 09:55",
-        "displayDate": "2026-08-30 09:55",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVWZ2M2NGJTTXhkUG9TclljMTR3N1MtTG1WbHpITkZYbE9YVTN6SXd2TmQyZTNVeWFEQWt1QmVuR2NsSFVCaDVGcjZNV19HS0ZQVm9zaFdHRkhTeDFGbmQtSDJNQUhmUW9UTHRlQU9rUGhfVmRPX3JBTWxtSVpNcFdNZ0lXazRKajFsX3MtMkc",
-        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-08-30 09:55"
-      },
-      {
-        "id": "radar-2dfd3faabc0e",
-        "kind": "radar",
-        "title": "AI coding agents can be tricked in under an hour, researchers find",
-        "summary": "The News International reports: AI coding agents can be tricked in under an hour, researchers find The News International",
+        "title": "Harness creates source code management for agent-ready development",
+        "summary": "SD Times reports: Harness creates source code management for agent-ready development SD Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-08-30 13:17",
-        "displayDate": "2026-08-30 13:17",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOby1kclpLUnFtSmRsd2lhSEJDa0VqUXgxVXI3RGtyZzNkLV92NHdZODJrekZ4dEM1OWVXVXN2T2tWM0xILTAwbUQ3R3VNUXVtMGR6aGdQUFNZbWFMbkExaWNjNTdFbUdSLXFwZWY1SGsyLV9MNEpTelV4QW11SzBGd3pSWjE0OUN1VFZRTzFHd0I1enROc2pHeXJaTW9QRGltbVhGblUxUjN0VkHSAacBQVVfeXFMTzRwVDRrbncyU3h3NEcxMHkxamt5R2V2TFlkNlVfTEZ3VDVGVTVqSUo1bmtVRlVhRUJFWUZLZFJPUmhjQWNrdF9QUVFaZXpSelR3Zlk2enVLdHpiYTJ3SjZGOEZGNHowMEJUOEtrMTR2TGNfektFRnY0RXhQcEVTVXNBYjVTRHR5RWw3S3FLX2xpZHpIcEVhdzRRWkR6aER5bTNtMElwVzA",
-        "source": "News signal — verify before acting · Source: The News International · Time: 2026-08-30 13:17"
+        "date": "2026-08-30 23:41",
+        "displayDate": "2026-08-30 23:41",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGd1Q25FcmF4V2xRNzRkTWFRdHNRelpiUFMzb0JrbGZLNVk1ZkF0bjJUT3VVUFRYaDhZR2g0VnJyOWdMNUZMaUp1cW5SV0VtV0IyS19MU2pVUFJYM1ZxOVpzblBobEtzcjZnUUY3bWdULVB6MmNGOWh3VHBXdGNicm9mcjdfQVJjMjd6TUxETTkzWnVrUkVLR1ZRWlVVbEQ2b0FtSk1WR2Q3RlJC",
+        "source": "News signal — verify before acting · Source: SD Times · Time: 2026-08-30 23:41"
       },
       {
         "id": "radar-52dc7c5d51db",
@@ -155,6 +141,20 @@
         "displayDate": "2026-08-28 18:19",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmVWVnNvRDNfQW1HZWpFQjlOWjBGbTBfUmhYbVdGRDg1Zjc2N0R3SVN4cGE1OFpiZEgtT2ZQakppX09mTUJIakIzTERIM0cxblpXOTlSa0xxXzQ4d2ZvaExCWWRneS00eEdkOHdPeVlJQW5HNUNVeHRJUXE0dmhfN3JhVEs0TDVXU1JfV1Frd1dRd1pTM1d0dkRqUFd2RVRFY2Z5WThuRlVDby1ySTBMOUNSRUxVRGl6WFRucTNPTV9KUHRDQUwwclduUXZiTVF2Rlhld01pcy1zYjA",
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-08-28 18:19"
+      },
+      {
+        "id": "radar-61ad142a8358",
+        "kind": "radar",
+        "title": "AI agents need their own identity before they need a gateway",
+        "summary": "Venturebeat reports: AI agents need their own identity before they need a gateway Venturebeat",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-08-30 23:00",
+        "displayDate": "2026-08-30 23:00",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemc1NjRCRWl6RG5CV2cya2hRYXY5THhhbmRBNVQwd0x4aXA0N0cyQm05Yi01bk9Kb2Zkd3YwUzkyYnVOMVA2U052TWl2Z21sZGRhVTJDT0ZlVTNEaFdLeERsc3lfeWY4NkI5OXZ0UjQwVVFCcjRzUHExN1FQdTl5TmhxX0xBR2lOOWJwWjJWUXdBN3kwemhtUA",
+        "source": "Trusted news / community signal · Source: Venturebeat · Time: 2026-08-30 23:00"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T21:00:38.131981+08:00",
-        "nextRun": "2026-08-31T09:00:00+08:00",
+        "lastRun": "2026-08-31T09:01:00.595965+08:00",
+        "nextRun": "2026-08-31T15:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,8 +178,8 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T09:00:12.645950+08:00",
-        "nextRun": "2026-08-31T09:00:00+08:00",
+        "lastRun": "2026-08-31T09:00:56.132979+08:00",
+        "nextRun": "2026-09-01T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-31T07:10:51.265549+08:00",
-        "nextRun": "2026-08-31T10:10:00+08:00",
+        "lastRun": "2026-08-31T10:10:57.654287+08:00",
+        "nextRun": "2026-08-31T13:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -200,8 +200,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-30T09:30:14.218658+08:00",
-        "nextRun": "2026-08-31T09:30:00+08:00",
+        "lastRun": "2026-08-31T09:30:57.282800+08:00",
+        "nextRun": "2026-09-01T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-31T06:40:52.067469+08:00",
-        "nextRun": "2026-08-31T09:40:00+08:00",
+        "lastRun": "2026-08-31T09:40:55.517578+08:00",
+        "nextRun": "2026-08-31T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-30T09:15:09.223880+08:00",
-        "nextRun": "2026-08-31T09:15:00+08:00",
+        "lastRun": "2026-08-31T09:15:52.286931+08:00",
+        "nextRun": "2026-09-01T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T07:06:48.880419+08:00",
-        "nextRun": "2026-08-31T08:06:49.116960+08:00",
+        "lastRun": "2026-08-31T10:07:53.850487+08:00",
+        "nextRun": "2026-08-31T11:07:54.111810+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T07:33:54.773518+08:00",
-        "nextRun": "2026-08-31T07:38:49.111960+08:00",
+        "lastRun": "2026-08-31T10:36:59.477959+08:00",
+        "nextRun": "2026-08-31T10:38:59.477959+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T07:31:05.123473+08:00",
-        "nextRun": "2026-08-31T10:30:00+08:00",
+        "lastRun": "2026-08-31T10:31:10.453358+08:00",
+        "nextRun": "2026-08-31T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-08-31T07:36:49.117960+08:00"
+    "updatedAt": "2026-08-31T10:37:54.112809+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
