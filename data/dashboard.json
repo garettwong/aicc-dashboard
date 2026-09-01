@@ -1,9 +1,9 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-01T07:49:33+08:00",
+    "generatedAt": "2026-09-01T09:20:35+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-08-31_09-00-56.md",
+    "dailySource": "2026-09-01_09-00-38.md",
     "radarSource": "ai_opportunity_radar_20260901_073048.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-31T21:00:21.929535+08:00",
-        "nextRun": "2026-09-01T09:00:00+08:00",
+        "lastRun": "2026-09-01T09:00:42.516973+08:00",
+        "nextRun": "2026-09-01T15:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,9 +178,9 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-08-31T09:00:56.132979+08:00",
-        "nextRun": "2026-09-01T09:00:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Your session has ended. Please log in again. Run `hermes model` to re-authenticate."
+        "lastRun": "2026-09-01T09:00:38.687411+08:00",
+        "nextRun": "2026-09-02T09:00:00+08:00",
+        "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
         "id": "cac8032fb676",
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-08-31T09:15:52.286931+08:00",
-        "nextRun": "2026-09-01T09:15:00+08:00",
+        "lastRun": "2026-09-01T09:15:35.243414+08:00",
+        "nextRun": "2026-09-02T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-01T07:19:32.617344+08:00",
-        "nextRun": "2026-09-01T08:19:32.815194+08:00",
+        "lastRun": "2026-09-01T08:50:34.929739+08:00",
+        "nextRun": "2026-09-01T09:50:35.245334+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-01T07:46:38.233145+08:00",
-        "nextRun": "2026-09-01T07:51:32.807192+08:00",
+        "lastRun": "2026-09-01T09:19:40.693962+08:00",
+        "nextRun": "2026-09-01T09:21:40.693962+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-01T07:49:32.816194+08:00"
+    "updatedAt": "2026-09-01T09:20:35.246332+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
