@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-03T22:51:07+08:00",
+    "generatedAt": "2026-09-04T01:52:12+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-03_09-00-46.md",
-    "radarSource": "ai_opportunity_radar_20260903_223022.html",
+    "radarSource": "ai_opportunity_radar_20260904_013029.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,133 +14,133 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260903_223022.html",
+    "sourceFile": "ai_opportunity_radar_20260904_013029.html",
     "items": [
       {
-        "id": "radar-0db5b7038363",
+        "id": "radar-15310442b2c6",
         "kind": "radar",
-        "title": "Skills vs. MCP tools for AI agents: when to use which",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Checking bags at the exit: detecting data exfiltration in AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-09-03 12:22",
-        "displayDate": "2026-09-03 12:22",
-        "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 12:22"
+        "score": 43,
+        "date": "2026-09-03 16:37",
+        "displayDate": "2026-09-03 16:37",
+        "url": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 16:37"
       },
       {
-        "id": "radar-5c2428fe558a",
+        "id": "radar-f99b160c338c",
         "kind": "radar",
-        "title": "How to Work with AI Coding Agents",
-        "summary": "Towards Data Science reports: How to Work with AI Coding Agents Towards Data Science",
+        "title": "OpenAI Ditches $1B Cursor Deal Over Musk's SpaceX",
+        "summary": "The Tech Buzz reports: OpenAI Ditches $1B Cursor Deal Over Musk's SpaceX The Tech Buzz",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-03 12:23",
-        "displayDate": "2026-09-03 12:23",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ZlB4Umw0dFR6LWlJZGhqallIenFqMFdGUUJaajd2RWtxUjBPYjZRQmN5dHc4d3paZVpKdm1aMHV0UlA5aWZWQk5YM3V6RG03M0tuWm82bUFxb0xWWDh3RWhHV1A5VFA0U09RSXlnYWxRZFU",
-        "source": "News signal — verify before acting · Source: Towards Data Science · Time: 2026-09-03 12:23"
+        "date": "2026-09-03 17:14",
+        "displayDate": "2026-09-03 17:14",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmY5Vy1MSkxPQW9Xdmx3TUo0cFhlQmg3NlVYQ1R4M3paS01JV2stMVBTYnZFSVZNbXpLMno4VkNHZkJOUHhFUkFwTGFmQnJmeTgzdG1SMWFVdjAxUU9FU0NIZUdXUjQ5NzMydE5HWkFydE1BYnVNTTFiTEFVMHVDc2p1a2cyRzRw",
+        "source": "News signal — verify before acting · Source: The Tech Buzz · Time: 2026-09-03 17:14"
       },
       {
-        "id": "radar-774a466c1b9d",
+        "id": "radar-68519d00b36e",
         "kind": "radar",
-        "title": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
-        "summary": "Axios reports: Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach Axios",
+        "title": "UKG's CIO says HR tech is AI's next big bet. The software firm's employees have already launched 387 AI tools and over 12,000 agents",
+        "summary": "Fortune flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 50,
-        "date": "2026-09-03 11:02",
-        "displayDate": "2026-09-03 11:02",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xR3ZLVzk0VUdDUVJlZFkzN18yWkpVV0wzUG1VU1BYTkhoVTJFcWdaM1ROWm92VjdoWHN6VEEyT2ZfSmZnU0dNc3JLWHpJdlhmZjZhc2Fpc0dHdWxqQm52SlVDcTVjNUxPVjBWeWJWYw",
-        "source": "News signal — verify before acting · Source: Axios · Time: 2026-09-03 11:02"
+        "score": 100,
+        "date": "2026-09-02 16:26",
+        "displayDate": "2026-09-02 16:26",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWlAxT0hWODY1VndZb2RPTldwM3hnS1RIRmhsbmdtZzR5X1I2VU5yd3d4anVWRThkQTJPbi1LLXlEWXV5ckxiZjA5RGZaOHh0NmZ3dkp5c0pLQkxMMXpaVTZzUV90UGEta24yOF9XS1d5b0lyMVJyVGFmbG9McGFMVFlORENWLUxTeGNoVV8wQXAtWDhtUTZ3M2ZqcFF4VWFKb0pNNWJIaVBGVUhTbDl3YkFGQWZjSlc2aXJQanZya2gxZWcxTWFLVVpiN1pfSTE5LXktZ2J1NV8zMkRyaDNfMWxvYVJQYUQ3VlJWeVVWWU0",
+        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-09-02 16:26"
       },
       {
-        "id": "radar-c34f87d2b449",
+        "id": "radar-064b0294d5fc",
         "kind": "radar",
-        "title": "Wellness Brand Rouge Care Let AI Agents Buy Its TV Ads, and Made 5x Its Money Back",
-        "summary": "ADWEEK reports: Wellness Brand Rouge Care Let AI Agents Buy Its TV Ads, and Made 5x Its Money Back ADWEEK",
+        "title": "Consultants are walking away when AI clients need them most",
+        "summary": "Channel Dive reports: Consultants are walking away when AI clients need them most Channel Dive",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 38,
-        "date": "2026-09-03 13:03",
-        "displayDate": "2026-09-03 13:03",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0xpeVlCMUJsYi0yYW1RSTRqVUdHUHlGcEFVXzNUY3RHSGlqR0NfRnZuRVdSZDlldkl4NTBiQnlvQnZBa0x3cVFsd2cxZnpHYmY3OXF2QVZyM3hEMjh1RUx1c0RpdExrWlNBNERzODBtRzFMaHdoRlpHTjF2R3ZXeUdQcmhDT2M1dWpjcFlsa2NQWHNhUlJ5TmF4OXRKZDJIOUpHck94MjNuSExUMWJLag",
-        "source": "News signal — verify before acting · Source: ADWEEK · Time: 2026-09-03 13:03"
+        "score": 88,
+        "date": "2026-08-28 14:39",
+        "displayDate": "2026-08-28 14:39",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2owSXl1R1FiU2M1SWlua3pXbkNSbklCbzRRR1QtV0tWQWRWMkdIekJGRENGZUI3dFhvU3pXRUhNY0FocTdaZXhJUVR3TzBxTXIwbGpQdWpyTjNzalVIdFZMZUFzQXVwdkJBQzV3V3NtZmRmMDJFWGo2ZWxDN1JFaHB5SmdwSTRTTGsw",
+        "source": "News signal — verify before acting · Source: Channel Dive · Time: 2026-08-28 14:39"
       },
       {
-        "id": "radar-17ecc2bb19c3",
+        "id": "radar-90f3d0ccacf0",
         "kind": "radar",
-        "title": "Amadeus and Anthropic collaborate on AI agents for travel",
-        "summary": "Globetrender reports: Amadeus and Anthropic collaborate on AI agents for travel Globetrender",
+        "title": "DLSS 5: 3D-Guided Neural Rendering Debuts in NBA 2K27",
+        "summary": "nvidia.com reports: DLSS 5: 3D-Guided Neural Rendering Debuts in NBA 2K27 nvidia.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 60,
-        "date": "2026-09-03 13:38",
-        "displayDate": "2026-09-03 13:38",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmhuZVp0WV9DQ3IzUlN0RC10Wi1tbUREM2FDeC1OM0lxUThKSHpqVlI3N0ZDc2JKMDhWaXN4NFBOYzg3N28xZ1UxbHhLV3ZDdVN2Qm1IV1NXelJSSUUyckxNNVRRc08xeG1Ta3dnUkY2cGFWNmk5RDBBSUtxQ29zQ3VXLTlVOU56emRHeUNmX1RqYXYtSGRzdnpR",
-        "source": "News signal — verify before acting · Source: Globetrender · Time: 2026-09-03 13:38"
+        "score": 100,
+        "date": "2026-09-01 13:00",
+        "displayDate": "2026-09-01 13:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHc3SVI4YWxNQUoybk51dWh5R1ZJb09iZHRkdUVoaXpJRUFOX3pFQnRPaXVjYkhxcGpZSGpVdERNV3Y4YzlSUF9yU2hHckhwWEs5azlkbHkzWjV0TE1mNFdGdFY0Q3VzalJZRk1lRlc4WTIzOXNmc29kVnRHUVE1VDd3",
+        "source": "Official / vendor signal · Source: nvidia.com · Time: 2026-09-01 13:00"
       },
       {
-        "id": "radar-995e1b342cac",
+        "id": "radar-18676f268ccf",
         "kind": "radar",
-        "title": "An AI agent sliced through an enterprise defenses in 10 hours",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-09-03 13:33",
-        "displayDate": "2026-09-03 13:33",
-        "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 13:33"
-      },
-      {
-        "id": "radar-7661d40900d5",
-        "kind": "radar",
-        "title": "Agent-manager - The fastest workflow for every coding agent (claude codex etc..)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
+        "title": "ChatGPT, Claude and Grok Suffer Same-Day Outages, Raising Cloud Infrastructure Stability Concerns",
+        "summary": "TradingKey highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-03 10:09",
-        "displayDate": "2026-09-03 10:09",
-        "url": "https://agent-manager.dev/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 10:09"
+        "date": "2026-09-03 16:31",
+        "displayDate": "2026-09-03 16:31",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmRBWllwTDNRRW5pMjJYYlVETXF1dlFBOU9ZWEp1OVBjcm9PcXBUN3VVclFrQ1RZbEl2UzRlc0w5ZFhmLURPbnlfeWZLcTZHalVVbmJfNzBUM2FDb3VzSjA3bm1pMVB4SFBnVzZaVlhkcjh4M3pyVUJNMVE1TFlBWDh3N05xS25xNXdlSzJoVDJhdFM5OWZ6bkt4N1lUNVIzdVBiSmQwQlJKZTBGV0FOZmhiSmQ5STl2MWl5QUZvUTJvVGdJMlVXQmRsSk1CMktrNlZOVjhLMlBCZUF0dEE",
+        "source": "News signal — verify before acting · Source: TradingKey · Time: 2026-09-03 16:31"
       },
       {
-        "id": "radar-51231e267c11",
+        "id": "radar-8e95a17b10e9",
         "kind": "radar",
-        "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-        "summary": "SecurityWeek reports: AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million SecurityWeek",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-09-03 12:00",
-        "displayDate": "2026-09-03 12:00",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2hWMmVscWtLbFdIZVE4OXl1ZXQzZDY4TWJFdGJkc1ZwSVYtSG1VRTdDVHJpcjBMYjl6b2E2WEdnTDYxa2czellpNVBkV1F0UGktT0l5b3NwMFNMaFFCYnBNRTZSamJaZzRUNExKVkdqb19oZ01zeW9jLTZBZG05dHRlaVQ2SDJEVHFJaWM0SERqcnFUQkVhT21nckdsbHo3eEFyNEN2SDDSAa4BQVVfeXFMTk1DNUVnYXY1Q25fSGFlb0ZoS3dzVlV5czNCTHVSaDBYRkk2TFF1UkFFQ2lWOWpKdVQySUppT0VvcDFQb1NlVUE0ejlWU2pnZXNhOUM0WC1Za2dlVHJsblZkcXoySmpNcGVwSi1aN2pvWndBR3NBeThYN29OQjhMYVhGYkpkVVBzSnAycmlFdW5XYVBucU5aWVRReUlBcFdWMjZaTktpZDZjemlDNmNn",
-        "source": "News signal — verify before acting · Source: SecurityWeek · Time: 2026-09-03 12:00"
+        "title": "This 3D-printable ESP32 robot acts as a physical body for your AI agent, thinking and typing alongside it",
+        "summary": "XDA reports: This 3D-printable ESP32 robot acts as a physical body for your AI agent, thinking and typing alongside it XDA",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-08-27 21:26",
+        "displayDate": "2026-08-27 21:26",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1VXQkF0VHpIN1dBbnc2TVZoaXpBRWt5ZDNlNWo4Q09aY0l2TjNpYTd6dlJBWlk5b0VQMG1fWm9EOGM5VVdPMnpKZ2V4al9DY1VwRmRkTmo5NzVaRGFIVTJGdzdwWjQ5Q3Fjb2JENlNxbVUzZGpNTzlXMjRlUFZzVjQ1R1o3UFhmbXQtUGhxaTBXM3dIYmZtOXQzRkg2S1RhMEF5T2hxV2xjNkF5VEZxWW5HVTZ6VlRlTjFqeG9IUVNMLTA3M0Q0cDF3N0ZMbllnT2c",
+        "source": "News signal — verify before acting · Source: XDA · Time: 2026-08-27 21:26"
       },
       {
-        "id": "radar-1a7ae152203f",
+        "id": "radar-083090230627",
         "kind": "radar",
-        "title": "US Government backs OpenAI in New York Times copyright case",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=1.",
+        "title": "Building an AI Agent Takes a Weekend. Governing It Takes Much Longer",
+        "summary": "HackerNoon reports: Building an AI Agent Takes a Weekend.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 37,
-        "date": "2026-09-03 11:44",
-        "displayDate": "2026-09-03 11:44",
-        "url": "https://reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 11:44"
+        "score": 96,
+        "date": "2026-09-01 06:05",
+        "displayDate": "2026-09-01 06:05",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmVITlZDdDhoRVVvc1pWTm9FQ3FDQlZMbnJHaS1pSTJObWprZ3pFem5JamdwZDZfMDBxVkg3d190X1Q0Z3BFZ280dnBxc0NFMFNGZWRqanZ2RVVXa243ODIxRzc2RDBlRXV3cDMxXzFRQi1WamVDVldHZS1fZ3o5dDIxX0U4X3BsWkVHdTd0cm1qYkRf",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-01 06:05"
+      },
+      {
+        "id": "radar-ba353a46d89e",
+        "kind": "radar",
+        "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+        "summary": "Hacker News flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-09-03 16:24",
+        "displayDate": "2026-09-03 16:24",
+        "url": "https://mireye.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 16:24"
       }
     ]
   },
@@ -175,8 +175,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-03T22:10:10.853236+08:00",
-        "nextRun": "2026-09-04T01:10:00+08:00",
+        "lastRun": "2026-09-04T01:10:13.929220+08:00",
+        "nextRun": "2026-09-04T04:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -197,8 +197,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-03T21:40:08.697775+08:00",
-        "nextRun": "2026-09-04T00:40:00+08:00",
+        "lastRun": "2026-09-04T00:40:15.004854+08:00",
+        "nextRun": "2026-09-04T03:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -219,8 +219,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-03T22:21:07.074937+08:00",
-        "nextRun": "2026-09-03T23:21:07.216699+08:00",
+        "lastRun": "2026-09-04T01:22:12.012976+08:00",
+        "nextRun": "2026-09-04T02:22:12.295470+08:00",
         "message": "No recent error."
       },
       {
@@ -230,8 +230,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-03T22:48:10.114568+08:00",
-        "nextRun": "2026-09-03T22:53:07.207700+08:00",
+        "lastRun": "2026-09-04T01:51:15.398727+08:00",
+        "nextRun": "2026-09-04T01:53:15.398727+08:00",
         "message": "unused"
       },
       {
@@ -241,8 +241,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-03T22:30:22.886989+08:00",
-        "nextRun": "2026-09-04T01:30:00+08:00",
+        "lastRun": "2026-09-04T01:30:29.391600+08:00",
+        "nextRun": "2026-09-04T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -301,7 +301,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-03T22:51:07.217699+08:00"
+    "updatedAt": "2026-09-04T01:52:12.297040+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
