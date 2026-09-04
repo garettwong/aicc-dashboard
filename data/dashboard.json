@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-04T07:54:22+08:00",
+    "generatedAt": "2026-09-04T10:55:27+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-09-03_09-00-46.md",
-    "radarSource": "ai_opportunity_radar_20260904_073041.html",
+    "dailySource": "2026-09-04_09-00-28.md",
+    "radarSource": "ai_opportunity_radar_20260904_103046.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260904_073041.html",
+    "sourceFile": "ai_opportunity_radar_20260904_103046.html",
     "items": [
       {
-        "id": "radar-7dd4c3b7ed6e",
+        "id": "radar-412f8b5799f2",
         "kind": "radar",
-        "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "AI agents expose 5G core security risks for telecom operators",
+        "summary": "Fierce Network is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-03 19:31",
-        "displayDate": "2026-09-03 19:31",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-03 19:31"
+        "score": 50,
+        "date": "2026-09-03 22:11",
+        "displayDate": "2026-09-03 22:11",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0lPbzBUMzA4Q25iWkpxUUc1M0s2Ym1KYzVjb0t1MW55bERlSExSYVU4M1RENjdOSWsyS2pmQ19sQVlpMXJ3MVJzLTQ4ajBPSF9RWXpnV2VHYXQ5RnFXbHA0NjZLZDJIQ3AyV3kzMUNFWDMyOHd0dE9RczJjR0FXNmh3UG5NQWszOXhrQjZJN2xBb2pvRUFJNnpYLXhyQQ",
+        "source": "News signal — verify before acting · Source: Fierce Network · Time: 2026-09-03 22:11"
       },
       {
-        "id": "radar-a7fb1a597af0",
+        "id": "radar-aa4263f6aa77",
         "kind": "radar",
-        "title": "IT Industry News & Trends",
-        "summary": "itbrew.com is a current AI signal: IT Industry News & Trends. Treat it as a lead to verify, not as final advice.",
+        "title": "ChatGPT, Claude, Grok Suffer Simultaneous Outages",
+        "summary": "조선일보 highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-03 17:42",
-        "displayDate": "2026-09-03 17:42",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80R1Y5ZHdLTjRxdlNVc1BKVE1Ca0V6TWNsNmNZTksxQ3dlYmI3RzZqbU4yb0VuMGR0Q1RhZnN3UG13dldYa1RVWnBWYm4xVXBIV2J2cEI1Zw",
-        "source": "News signal — verify before acting · Source: itbrew.com · Time: 2026-09-03 17:42"
+        "date": "2026-09-03 23:59",
+        "displayDate": "2026-09-03 23:59",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlFWdmhzbi03TzZkajNjVDFJcmRGd1RsR3dQX21hblNnN0hQblhSaWE0a1VvVmpNWkJaX3BjdUhCQUR0b2lDem1vcFJxOVd4cXdDc2ZYY3U3ckF2SEh3MXZtQmgySDJFSHF3b3FoXzVZT1p4c18zWWNVVHc4NkNNRld2WGZvaTlk",
+        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-09-03 23:59"
       },
       {
-        "id": "radar-abcac5fb954f",
+        "id": "radar-3d9b08bafa6c",
         "kind": "radar",
-        "title": "The Next Big AI Business: Fixing What We Failed to Govern",
-        "summary": "Mexico Business News reports: The Next Big AI Business: Fixing What We Failed to Govern Mexico Business News",
+        "title": "ISU's newly launched CHESS takes shape — with AI on the horizon",
+        "summary": "Idaho State Journal flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-09-03 13:30",
-        "displayDate": "2026-09-03 13:30",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0pzU1lMX2JUM1h4SVIxcFFrTVNkR2k4Mm1QNjFPeFRxcUZGcGxTTFpHQmVTbkRyT0JHcDk2ajE4cnllOGgwY0R3dUZ6X2gyeldLVXdVWHNhQW8zc3doSVE2NHFOTmlNZk5VQVJpX00yNVRoaDE2UlB2TFM4YUlQRHdjazBVaXBSQk5WbE84Ums0dmpGUXg2VTRBYw",
-        "source": "News signal — verify before acting · Source: Mexico Business News · Time: 2026-09-03 13:30"
+        "date": "2026-09-03 23:20",
+        "displayDate": "2026-09-03 23:20",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRGNFRGdtNTFrcHFiMTBZcl9CRXFCM1pnN0F5aEtZbjhhNkg2SHN4angzeWgtZmZwSEJFRE42RmhtNEd1ZVJXZFhVQzVsa3lYbk9CMFJhdzBCSWhCS01HcFZCM3k0SGtHZkl3Vk1hVDZkNmJDMGl4YkhFbDFscmF5TnpzMHhBRGtJQjVyM3BqNldHZl9DU3k1TktoT3JGR2IyLXdrZzZBakRfQ3I4ay03VUs5ZUdQaXZWa1lrMDRZdmpZRHR0ZG9jSW11b29famtldzliRzNOZEVFdnJHc1lFcGxvX0tCd2NQc3c",
+        "source": "News signal — verify before acting · Source: Idaho State Journal · Time: 2026-09-03 23:20"
       },
       {
         "id": "radar-5c88a99dac59",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: The Economist · Time: 2026-09-03 13:08"
       },
       {
-        "id": "radar-18676f268ccf",
+        "id": "radar-a7fb1a597af0",
         "kind": "radar",
-        "title": "ChatGPT, Claude and Grok Suffer Same-Day Outages, Raising Cloud Infrastructure Stability Concerns",
-        "summary": "TradingKey highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
+        "title": "IT Industry News & Trends",
+        "summary": "IT Brew is a current AI signal: IT Industry News & Trends. Treat it as a lead to verify, not as final advice.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-03 16:33",
-        "displayDate": "2026-09-03 16:33",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmRBWllwTDNRRW5pMjJYYlVETXF1dlFBOU9ZWEp1OVBjcm9PcXBUN3VVclFrQ1RZbEl2UzRlc0w5ZFhmLURPbnlfeWZLcTZHalVVbmJfNzBUM2FDb3VzSjA3bm1pMVB4SFBnVzZaVlhkcjh4M3pyVUJNMVE1TFlBWDh3N05xS25xNXdlSzJoVDJhdFM5OWZ6bkt4N1lUNVIzdVBiSmQwQlJKZTBGV0FOZmhiSmQ5STl2MWl5QUZvUTJvVGdJMlVXQmRsSk1CMktrNlZOVjhLMlBCZUF0dEE",
-        "source": "News signal — verify before acting · Source: TradingKey · Time: 2026-09-03 16:33"
+        "date": "2026-09-03 17:42",
+        "displayDate": "2026-09-03 17:42",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80R1Y5ZHdLTjRxdlNVc1BKVE1Ca0V6TWNsNmNZTksxQ3dlYmI3RzZqbU4yb0VuMGR0Q1RhZnN3UG13dldYa1RVWnBWYm4xVXBIV2J2cEI1Zw",
+        "source": "News signal — verify before acting · Source: IT Brew · Time: 2026-09-03 17:42"
       },
       {
         "id": "radar-f456f1d75fc0",
@@ -129,18 +129,18 @@
         "source": "Trusted news / community signal · Source: The Verge · Time: 2026-08-31 14:00"
       },
       {
-        "id": "radar-163e6ce7d35a",
+        "id": "radar-7e7c1f4c24af",
         "kind": "radar",
-        "title": "Build the AI audit trail now, before anyone asks for it",
-        "summary": "Healthcare IT News reports: Build the AI audit trail now, before anyone asks for it Healthcare IT News",
+        "title": "Consulting firms want junior staff back in the office. Here's why",
+        "summary": "hcamag.com reports: Consulting firms want junior staff back in the office.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-09-02 16:59",
-        "displayDate": "2026-09-02 16:59",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNURleUMtN2NuSkxlTlVMcGJkMklSeG1pSS1naTBVbVV6OGZrR1l2bGlNemxwY3QyaW9LRks2d3phOXBnV25hOTEtcHNNck9KOF9vYXpKXzdlMmpEd0xmZjJhbmdLRmpPaEFDVk5JT2h3aGoxaGlfakhmUm9nUElKMG91NA",
-        "source": "News signal — verify before acting · Source: Healthcare IT News · Time: 2026-09-02 16:59"
+        "date": "2026-09-03 19:19",
+        "displayDate": "2026-09-03 19:19",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0N4NzFLV1c5Q3dlZWlBM3hRNkxRbHFoeW00MnZIMmhKQThWMUs4bmFnMFdfUkhmVVFtNTY3YzZyQVNUUFlCRGhqV3QyU3ZLYjVmYzYtRXUzQy00ZVZjVGxFcDRGM1pvSElpM1JtNm5PYm1YYUpDN014VzBfTUlTX1dKZUo0NGpHdllPbVRsZXFIX0g3WTRNVHltZ1pfZy05enNwMk9QdzBnLUhGV1M2RWIxYjhlZGFhckdXYktIOEtIUlNrX0pBQUp1TQ",
+        "source": "News signal — verify before acting · Source: hcamag.com · Time: 2026-09-03 19:19"
       },
       {
         "id": "radar-365e3fe45160",
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-03T21:00:11.452604+08:00",
-        "nextRun": "2026-09-04T09:00:00+08:00",
+        "lastRun": "2026-09-04T09:00:33.325583+08:00",
+        "nextRun": "2026-09-04T15:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -178,8 +178,8 @@
         "state": "error",
         "schedule": "0 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-03T09:00:46.782516+08:00",
-        "nextRun": "2026-09-04T09:00:00+08:00",
+        "lastRun": "2026-09-04T09:00:29.015559+08:00",
+        "nextRun": "2026-09-05T09:00:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -189,8 +189,8 @@
         "state": "error",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-04T07:10:24.166313+08:00",
-        "nextRun": "2026-09-04T10:10:00+08:00",
+        "lastRun": "2026-09-04T10:10:30.739519+08:00",
+        "nextRun": "2026-09-04T13:10:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -200,8 +200,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-03T09:30:52.033716+08:00",
-        "nextRun": "2026-09-04T09:30:00+08:00",
+        "lastRun": "2026-09-04T09:30:30.723572+08:00",
+        "nextRun": "2026-09-05T09:30:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -211,8 +211,8 @@
         "state": "error",
         "schedule": "40 */3 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-04T06:40:25.381724+08:00",
-        "nextRun": "2026-09-04T09:40:00+08:00",
+        "lastRun": "2026-09-04T09:40:28.736957+08:00",
+        "nextRun": "2026-09-04T12:40:00+08:00",
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-03T09:15:44.002528+08:00",
-        "nextRun": "2026-09-04T09:15:00+08:00",
+        "lastRun": "2026-09-04T09:15:25.016664+08:00",
+        "nextRun": "2026-09-05T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-04T07:24:22.120637+08:00",
-        "nextRun": "2026-09-04T08:24:22.498337+08:00",
+        "lastRun": "2026-09-04T10:25:27.365313+08:00",
+        "nextRun": "2026-09-04T11:25:27.573985+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-04T07:51:26.098345+08:00",
-        "nextRun": "2026-09-04T07:56:22.489339+08:00",
+        "lastRun": "2026-09-04T10:54:31.725420+08:00",
+        "nextRun": "2026-09-04T10:56:31.725420+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-04T07:30:41.479291+08:00",
-        "nextRun": "2026-09-04T10:30:00+08:00",
+        "lastRun": "2026-09-04T10:30:46.183906+08:00",
+        "nextRun": "2026-09-04T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-04T07:54:22.499336+08:00"
+    "updatedAt": "2026-09-04T10:55:27.573985+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
