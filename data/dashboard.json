@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-10T00:50:03+08:00",
+    "generatedAt": "2026-09-10T01:21:04+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-09_09-00-57.md",
     "radarSource": "ai_opportunity_radar_20260909_223041.html",
@@ -183,17 +183,6 @@
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-09-09T22:10:25.118247+08:00",
-        "nextRun": "2026-09-10T01:10:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
-      },
-      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
@@ -222,9 +211,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-10T00:20:02.058381+08:00",
-        "nextRun": "2026-09-10T01:20:03.403637+08:00",
+        "lastRun": "2026-09-10T00:50:09.496074+08:00",
+        "nextRun": "2026-09-10T01:51:04.006768+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-09-10T01:11:20.306687+08:00",
+        "nextRun": "2026-09-10T04:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-10T00:48:06.529373+08:00",
-        "nextRun": "2026-09-10T00:50:06.529373+08:00",
+        "lastRun": "2026-09-10T01:18:06.785897+08:00",
+        "nextRun": "2026-09-10T01:23:03.999771+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-10T00:50:03.403637+08:00"
+    "updatedAt": "2026-09-10T01:21:04.008272+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
