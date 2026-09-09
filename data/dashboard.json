@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-09T22:46:21+08:00",
+    "generatedAt": "2026-09-10T00:50:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-09_09-00-57.md",
     "radarSource": "ai_opportunity_radar_20260909_223041.html",
@@ -205,17 +205,6 @@
         "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
       },
       {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-09-09T21:40:22.038595+08:00",
-        "nextRun": "2026-09-10T00:40:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
-      },
-      {
         "id": "a21bade0ba2a",
         "name": "ai-everyday-work-tools-smtp-delivery",
         "enabled": true,
@@ -233,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-09T22:16:21.449002+08:00",
-        "nextRun": "2026-09-09T23:16:21.615197+08:00",
+        "lastRun": "2026-09-10T00:20:02.058381+08:00",
+        "nextRun": "2026-09-10T01:20:03.403637+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-09T22:44:24.584941+08:00",
-        "nextRun": "2026-09-09T22:46:24.584941+08:00",
+        "lastRun": "2026-09-10T00:48:06.529373+08:00",
+        "nextRun": "2026-09-10T00:50:06.529373+08:00",
         "message": "unused"
       },
       {
@@ -258,6 +247,17 @@
         "lastRun": "2026-09-09T22:30:41.536292+08:00",
         "nextRun": "2026-09-10T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-09-10T00:49:34.932058+08:00",
+        "nextRun": "2026-09-10T03:40:00+08:00",
+        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-09T22:46:21.616198+08:00"
+    "updatedAt": "2026-09-10T00:50:03.403637+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
