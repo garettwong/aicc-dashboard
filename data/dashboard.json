@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-10T14:38:55+08:00",
+    "generatedAt": "2026-09-10T15:09:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-10_14-35-03.md",
     "radarSource": "ai_opportunity_radar_20260910_142826.html",
@@ -167,9 +167,9 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-09T09:30:59.447941+08:00",
+        "lastRun": "2026-09-10T14:39:02.535118+08:00",
         "nextRun": "2026-09-11T09:30:00+08:00",
-        "message": "RuntimeError: Codex token refresh failed: Could not validate your refresh token. Please try signing in again. Run `hermes model` to re-authenticate."
+        "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
         "id": "e00ffbee1272",
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-10T14:36:26.906630+08:00",
-        "nextRun": "2026-09-10T15:00:00+08:00",
+        "lastRun": "2026-09-10T15:02:38.524045+08:00",
+        "nextRun": "2026-09-10T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-10T07:02:11.700352+08:00",
-        "nextRun": "2026-09-10T14:58:07.149448+08:00",
+        "lastRun": "2026-09-10T14:38:59.757482+08:00",
+        "nextRun": "2026-09-10T15:39:08.085442+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-10T14:37:10.581289+08:00",
-        "nextRun": "2026-09-10T14:39:10.581289+08:00",
+        "lastRun": "2026-09-10T15:07:11.997753+08:00",
+        "nextRun": "2026-09-10T15:09:11.997753+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-10T14:38:55.542193+08:00"
+    "updatedAt": "2026-09-10T15:09:08.088466+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
