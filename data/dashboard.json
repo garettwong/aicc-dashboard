@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-11T01:57:25+08:00",
+    "generatedAt": "2026-09-11T04:58:29+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-10_14-35-03.md",
-    "radarSource": "ai_opportunity_radar_20260911_013044.html",
+    "radarSource": "ai_opportunity_radar_20260911_043049.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260911_013044.html",
+    "sourceFile": "ai_opportunity_radar_20260911_043049.html",
     "items": [
       {
-        "id": "radar-c273bb65a896",
+        "id": "radar-b96e76b1e4b4",
         "kind": "radar",
-        "title": "Coletivo – A place for AI agents to collaborate via MCP",
+        "title": "Show HN: Natively – comms for agents built by agents",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-09-10 16:45",
-        "displayDate": "2026-09-10 16:45",
-        "url": "https://coletivo.alganet.dev/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-10 16:45"
+        "score": 43,
+        "date": "2026-09-10 19:53",
+        "displayDate": "2026-09-10 19:53",
+        "url": "https://natively.io/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-10 19:53"
       },
       {
-        "id": "radar-26ea9c184791",
+        "id": "radar-3f3ad7e753d7",
         "kind": "radar",
-        "title": "GPT-6 Astra: A new generation of intelligence",
-        "summary": "OpenAI reports: GPT-6 Astra: A new generation of intelligence OpenAI",
+        "title": "Atlassian Aims to Fill Context and Governance Gap for AI Coding Agents",
+        "summary": "devops.com reports: Atlassian Aims to Fill Context and Governance Gap for AI Coding Agents devops.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-10 17:27",
-        "displayDate": "2026-09-10 17:27",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
-        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-10 17:27"
+        "date": "2026-09-10 16:00",
+        "displayDate": "2026-09-10 16:00",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanR1c2toOXhDVVVYY3IxTUZ1Q29WOVF2YVFqeFlSakFtc0RfNE9sTy03MGRoTXBlWHhlOVctT1o0V3I5M2NORzhQb2NvbG5SWFMzS1EwOXU3c1ptdjBZaU9ncTBXcWxib0IyRzczc3JlRTRLWTBycld6c2ozQ0RUal9XZFd1eEhUNzBxRjJUM0VfeE5q",
+        "source": "News signal — verify before acting · Source: devops.com · Time: 2026-09-10 16:00"
       },
       {
         "id": "radar-13aa8c48c2b2",
@@ -76,7 +76,7 @@
         "id": "radar-ffd6a4613fe7",
         "kind": "radar",
         "title": "Unity launches official Claude Code plugin with 29 built-in engine skills",
-        "summary": "pocketgamer.biz flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "Pocket Gamer.biz flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -84,21 +84,21 @@
         "date": "2026-09-10 12:50",
         "displayDate": "2026-09-10 12:50",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQejViNExuUDlaZU1tYllEU1B2WS1TYkl4b2k3enE3MHFzcUh3TE5Nd3R5dXlOYWljNFlPNGlFOWFsYkhWOTlEYXd4amF5OFJQWERfd2RkZUlZYmtVTFVuQlgzSjdqTFpYSGtPUlRJclgycmtBWmFjYU1LNi1lal94ZHd0SHV1MjJnT1plRThTN0hSUVE5SXA0dFdUWlJxOWlZbHBNZg",
-        "source": "News signal — verify before acting · Source: pocketgamer.biz · Time: 2026-09-10 12:50"
+        "source": "News signal — verify before acting · Source: Pocket Gamer.biz · Time: 2026-09-10 12:50"
       },
       {
-        "id": "radar-415ac7e98182",
+        "id": "radar-d8ceca51c02f",
         "kind": "radar",
-        "title": "Fierce AI Programming Competition: Devin's $48B Financing, SpaceX Acquires Cursor, Claude Code Overtakes GitHub Copilot",
-        "summary": "eu.36kr.com reports: Fierce AI Programming Competition: Devin's $48B Financing, SpaceX Acquires Cursor, Claude Code Overtakes GitHub Copilot eu.36kr.com",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-09-10 13:53",
-        "displayDate": "2026-09-10 13:53",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vaWpGZkRseDMxMEU0bFB4bTFjazJNT0JlSzlwTTVzaklYTGZ4VXpQN0oweXowcTNQcmc1dlZ5V2JZNzVDNEpBVDJMNXZuYW40X1RB",
-        "source": "News signal — verify before acting · Source: eu.36kr.com · Time: 2026-09-10 13:53"
+        "title": "A Blueprint for Keeping Humans in Control of AI",
+        "summary": "Stanford Graduate School of Business is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-09-10 19:35",
+        "displayDate": "2026-09-10 19:35",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0elhPZmo0ejBPMnZ5V3FPS3V5ZGJZTkZWX2M2LTdNbERRbjQxU2prTGxZYVM1UVRnRDdiVzAzY2RZUlcwX1V1amxmRVhzQ0RaaFRuajVibXJ3T1pwTHJ2R0xCRmgwMUtFNmloM2hVSDFweXlzem5VNGxrODNfQQ",
+        "source": "News signal — verify before acting · Source: Stanford Graduate School of Business · Time: 2026-09-10 19:35"
       },
       {
         "id": "radar-f62bf9b1562d",
@@ -115,18 +115,32 @@
         "source": "News signal — verify before acting · Source: Inven Global · Time: 2026-09-10 11:47"
       },
       {
-        "id": "radar-5c59dbd5a4b5",
+        "id": "radar-4c3c63848738",
         "kind": "radar",
-        "title": "AI in Infection Prevention: How IPs Can Use Artificial Intelligence for Surveillance, Training, and Patient Safety",
-        "summary": "Infection Control Today is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "What Is Herdr? The Open-Source Terminal That Herds AI Coding Agents",
+        "summary": "Intelligent Living reports: What Is Herdr?",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-09-10 02:13",
+        "displayDate": "2026-09-10 02:13",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51Q3dmVktkX2ViLXZpa09TaDhKNVdiUmx3dmlmUHdyaXNBdEtYMXZVZjZWTDhFb1BOQU1IMFRnR3phMUxoWHNuOUNYdmhRaWUyb1RtRHo0ZXBqT1NLZGZGRGFScG9CZTduWDhwdzJFX1BqT3FkdkpF",
+        "source": "News signal — verify before acting · Source: Intelligent Living · Time: 2026-09-10 02:13"
+      },
+      {
+        "id": "radar-8b2b9b4f6524",
+        "kind": "radar",
+        "title": "Forsyth commissioners consider AI roadmap consulting deal",
+        "summary": "Appen Media reports: Forsyth commissioners consider AI roadmap consulting deal Appen Media",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-09-10 16:37",
-        "displayDate": "2026-09-10 16:37",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3Nhc0JCU2JkSFQ1Ym1SUE9TeW93NldDakctQXFkNURRTkJELWlRWEdWRHk2OEFTcVNwTTJMTGRwbk5YNE1Vc3dqa1dTejUtenlwTDBNREs4SVl3aEFRdHl3N3ZMRDNUT2FaQnoydkFHajlvLUVqZWVDT245dndqY2VuT2lDUzZWczNiVFhGdVFPTEJBN2FXY3dyTEN3d1NSb2Z0N2VOZTgxYXVzdFhOUzYtcEpaUzZLWG5ZUy1JeDBtT1NuZklYYlNPVjQ2bXYyRHc1WlZXMFRqVlE",
-        "source": "News signal — verify before acting · Source: Infection Control Today · Time: 2026-09-10 16:37"
+        "date": "2026-09-10 18:16",
+        "displayDate": "2026-09-10 18:16",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3YzSnBma2tlcXR2T3FJWUlXV0pIdms2eVVxQW1pWlYxbVExV0NPcm1kOWNCSzVwZ3NmMDFHaUxQbmtpRVY0eU1pdlFMR29zRkd3QTN6OVdSeEFtMlVySmxCbUI2QVk2UXhXSS1OeFVsNHJKSnFxVmkxRHpfdGg1QmxzaE9OeWhjMHVEdjlGdEtlNXB1eHhzSmFPM3lVbV9LYVdrS2pLbU5kTzVhdXlXRlk5NFZOZ0hRc3hiQUJ5azdFRTVReHNVYTFTd0huamNreS1SaDYtekEydw",
+        "source": "News signal — verify before acting · Source: Appen Media · Time: 2026-09-10 18:16"
       },
       {
         "id": "radar-efa47e3cdec9",
@@ -141,20 +155,6 @@
         "displayDate": "2026-09-10 17:11",
         "url": "https://automatedteach.com/p/designing-tests-for-agentic-ai-tools",
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-10 17:11"
-      },
-      {
-        "id": "radar-dfd7e26c080c",
-        "kind": "radar",
-        "title": "Show HN: Open-source simulation testing infra for voice agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=1.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-10 17:01",
-        "displayDate": "2026-09-10 17:01",
-        "url": "https://github.com/egma-ai/egma",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-10 17:01"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T01:27:24.801486+08:00",
-        "nextRun": "2026-09-11T02:27:24.948497+08:00",
+        "lastRun": "2026-09-11T04:28:28.981657+08:00",
+        "nextRun": "2026-09-11T05:28:29.279654+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T01:12:13.377431+08:00",
-        "nextRun": "2026-09-11T04:10:00+08:00",
+        "lastRun": "2026-09-11T04:12:15.915662+08:00",
+        "nextRun": "2026-09-11T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T01:55:28.264417+08:00",
-        "nextRun": "2026-09-11T01:57:28.264417+08:00",
+        "lastRun": "2026-09-11T04:55:32.442004+08:00",
+        "nextRun": "2026-09-11T05:00:29.273949+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T01:30:44.264599+08:00",
-        "nextRun": "2026-09-11T04:30:00+08:00",
+        "lastRun": "2026-09-11T04:30:49.249452+08:00",
+        "nextRun": "2026-09-11T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T00:47:33.742092+08:00",
-        "nextRun": "2026-09-11T03:40:00+08:00",
+        "lastRun": "2026-09-11T03:47:18.152417+08:00",
+        "nextRun": "2026-09-11T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-11T01:57:24.949498+08:00"
+    "updatedAt": "2026-09-11T04:58:29.279654+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
