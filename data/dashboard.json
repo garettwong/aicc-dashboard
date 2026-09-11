@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-11T19:36:51+08:00",
+    "generatedAt": "2026-09-11T22:37:58+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-11_09-03-48.md",
-    "radarSource": "ai_opportunity_radar_20260911_193110.html",
+    "radarSource": "ai_opportunity_radar_20260911_223117.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260911_193110.html",
+    "sourceFile": "ai_opportunity_radar_20260911_223117.html",
     "items": [
       {
-        "id": "radar-0fe5581601bc",
+        "id": "radar-4a458f255d44",
         "kind": "radar",
-        "title": "AI agents exploited PaperCut flaws to breach 395 organizations",
-        "summary": "Help Net Security reports: AI agents exploited PaperCut flaws to breach 395 organizations Help Net Security",
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-09-11 10:05",
-        "displayDate": "2026-09-11 10:05",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkNuVktIaFUxQkpHSEJDdU45OTk4SFpCaUlfT2pxblVfSzRnNVFkME90R05Ec3pMYTZESEIxNGYyV1RFRzVfT1drNU1IOVZvQmZKLWw4aVpnZV9nT2xPdUF6eEtfMUh4YzV6cFdBaFhHUDE3bGFpSVlfNDVkcEVqMk5LdFd1c0U4bkJwMQ",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-09-11 10:05"
+        "score": 59,
+        "date": "2026-09-11 13:54",
+        "displayDate": "2026-09-11 13:54",
+        "url": "https://clawfight.ai/agents.md",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-11 13:54"
       },
       {
         "id": "radar-26ea9c184791",
         "kind": "radar",
         "title": "GPT-6 Astra: A new generation of intelligence",
-        "summary": "openai.com reports: GPT-6 Astra: A new generation of intelligence openai.com",
+        "summary": "OpenAI reports: GPT-6 Astra: A new generation of intelligence OpenAI",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-11 11:24",
-        "displayDate": "2026-09-11 11:24",
+        "date": "2026-09-11 14:28",
+        "displayDate": "2026-09-11 14:28",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
-        "source": "Official / vendor signal · Source: openai.com · Time: 2026-09-11 11:24"
+        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-11 14:28"
       },
       {
         "id": "radar-8b2b9b4f6524",
@@ -87,60 +87,32 @@
         "source": "News signal — verify before acting · Source: Pocket Gamer.biz · Time: 2026-09-10 12:50"
       },
       {
-        "id": "radar-28eeaacca706",
+        "id": "radar-83b07609b3ed",
         "kind": "radar",
-        "title": "Introducing Oracle Integration MCP Gateway: Governed Access for Enterprise AI Agents",
-        "summary": "blogs.oracle.com reports: Introducing Oracle Integration MCP Gateway: Governed Access for Enterprise AI Agents blogs.oracle.com",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 54,
-        "date": "2026-09-10 21:12",
-        "displayDate": "2026-09-10 21:12",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHdLbkVFT2ZPN19Rb09HbkVoaW5wQmU0aDYxNXNucXRvOVlWcVRZTVp3UDRJMXFuaUpFVVdDVS1hSEQwUE1yTW93TVdrV3dPcnBCRl84eVk2UHN0MkZteGZuc1VSTWZiY2JVUVRmU1lLdlZlS0Y0QWIxb0ItdzBZcUx0X3V4bWl3TzZSUDJkbEFiZWphbVpTRzZvTE9CaTlJSTYwUTJXdFljUlMyYmJ2NkRkMTg5VDVsYXlyVA",
-        "source": "News signal — verify before acting · Source: blogs.oracle.com · Time: 2026-09-10 21:12"
-      },
-      {
-        "id": "radar-5e394b21b662",
-        "kind": "radar",
-        "title": "AI Evolves from Advisor to Commander in Global Weapons, Cyberattacks",
-        "summary": "조선일보 reports: AI Evolves from Advisor to Commander in Global Weapons, Cyberattacks 조선일보",
+        "title": "Qodo delivers Agent-to-Agent code review and Governance",
+        "summary": "Techzine Global reports: Qodo delivers Agent-to-Agent code review and Governance Techzine Global",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-11 08:02",
-        "displayDate": "2026-09-11 08:02",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEc1WTFrbU1SZGwzM0xRQldHSVVhbGhGTm4teW9UREFoeDEwWFBMUndBVVl6aVZyS2RNNm5GU1dwQVJONDVDdTRZb1VjTjUwWWpWQkVJQ19peUxkTUJGYWE5SldnbHJhV2dwbnZWUWt2ZVdURTFyZDVrQTlIdUI4WWlyZDlLRGZS",
-        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-09-11 08:02"
+        "date": "2026-09-11 12:15",
+        "displayDate": "2026-09-11 12:15",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHRKWW1icWhKM2xueklHRzJoekxRWlFmNElOREJSRnNHQVV0ZnBtQUdicWUtelg2TU9HT0pUd3lKaHVuWE1nQnVodG84bTdhT2k3QzQ5ZGoxR0phbENTWGZmSzczWk5oVTZULVB2clVEOHlCRlNvTmpiVmZXdlhmTFZhb0t5TFd6Y1lTc3BaeVRpamFwMkw3MzZIRWI3RWphSDRwYVN5NmNiQQ",
+        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-09-11 12:15"
       },
       {
-        "id": "radar-f62bf9b1562d",
+        "id": "radar-a3321b627d1f",
         "kind": "radar",
-        "title": "Unity Unveils Official Unity Plugin for Claude Code",
-        "summary": "Inven Global reports: Unity Unveils Official Unity Plugin for Claude Code Inven Global",
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "summary": "TechCrunch reports: The hinge for Apple’s new foldable phone was built with AI TechCrunch",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-09-10 11:47",
-        "displayDate": "2026-09-10 11:47",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUhkclp5M1dDSWVEVTZJSEh3TEN0TUhfOTB6TE01MHRKYmQyc1VsTWtick8xSjNsMFlsQ0JzWURtZm00eEtUVXk5QzRVU2tncmJPdERKQm9oamVtQml3V2twUjZxMDJmeXliVFlZU1ROU0YxMC03cUN0eDJGeEp6cVZnajREZHJxcHdDMnU4U0dpSWxUX29Xc2h3",
-        "source": "News signal — verify before acting · Source: Inven Global · Time: 2026-09-10 11:47"
-      },
-      {
-        "id": "radar-547f16ffd214",
-        "kind": "radar",
-        "title": "Accenture and Google are teaming up to send 1,000 engineers into the field to help clients with AI",
-        "summary": "Business Insider reports: Accenture and Google are teaming up to send 1,000 engineers into the field to help clients with AI Business Insider",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 88,
-        "date": "2026-09-09 17:06",
-        "displayDate": "2026-09-09 17:06",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXhRQ0ZLeXhPOFlHMXloMDBQWjJSNjV0RFg4Zmw2NDU2SFhFY3VKNy10Zkx1SEM5a1lDOEtZWTVCQkpIYjA3NWh0ODVwVTNscE1SNmtDTjJRTlV4alB2RWc5TDNDUGNFcWZ5dHNnX2tpYXhYRDFsSjlCX0hnaHNsNjFOMWhwbG8xXzRia195X0cxenpTMWxwN0FWVE9xUkxHV1ktRkt4Y3RDeVZWU0xFUlV6MA",
-        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-09-09 17:06"
+        "score": 97,
+        "date": "2026-09-09 19:21",
+        "displayDate": "2026-09-09 19:21",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXQwcWU3aGU5ODlULTJpaU1aV0FpX2lZTUdPOFcweEM4YS1mRnZzalBoRjU0LURSTllWNkx2X3V1cjJ1WE1NY2NtZ29hdkF1NV8xNVBkX0NPbzBfb1BPMlQ2QzRKT1hwLVYzdFlJNmlOdjhiM3NTV2xRdlhiMDlnQkt2NWhpZm9QQmliMU9rTTg1SklwM2Z3",
+        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-09-09 19:21"
       },
       {
         "id": "radar-5c59dbd5a4b5",
@@ -155,6 +127,34 @@
         "displayDate": "2026-09-10 16:37",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3Nhc0JCU2JkSFQ1Ym1SUE9TeW93NldDakctQXFkNURRTkJELWlRWEdWRHk2OEFTcVNwTTJMTGRwbk5YNE1Vc3dqa1dTejUtenlwTDBNREs4SVl3aEFRdHl3N3ZMRDNUT2FaQnoydkFHajlvLUVqZWVDT245dndqY2VuT2lDUzZWczNiVFhGdVFPTEJBN2FXY3dyTEN3d1NSb2Z0N2VOZTgxYXVzdFhOUzYtcEpaUzZLWG5ZUy1JeDBtT1NuZklYYlNPVjQ2bXYyRHc1WlZXMFRqVlE",
         "source": "News signal — verify before acting · Source: Infection Control Today · Time: 2026-09-10 16:37"
+      },
+      {
+        "id": "radar-30157b44dc4f",
+        "kind": "radar",
+        "title": "Google DeepMind's co-founder urges creative industries to plot a \"new Renaissance\" in the age of AI",
+        "summary": "MusicWeek.com reports: Google DeepMind's co-founder urges creative industries to plot a \"new Renaissance\" in the age of AI MusicWeek.com",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 64,
+        "date": "2026-09-11 08:00",
+        "displayDate": "2026-09-11 08:00",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlBYd0F6eW9ic0dHQW1YcFNOemFZVzY0d3F3YmhZdmFOMlFZbkN6SF9TT3R5dEhiZHctdHNTZi1uUmdzNE9UYlhJQ1ZiTjFBelctQ0NvZ0xmNFhNdkU1SFVxSUF3TjB0aWp5bzVqd0xkWkZpMGJDN216d2NYdTZQSFNwZzlNX1pYdkdBdUhKUGMxMGJ0ZTFXNHFLSFRJUi1BWkZaWE4wYnFuc0h6NVA2NndqT0NzWWVTZXU3dVpBNC14elBncTlhYTRMRUo5dWxVeWtTbXZOSGE",
+        "source": "News signal — verify before acting · Source: MusicWeek.com · Time: 2026-09-11 08:00"
+      },
+      {
+        "id": "radar-a3c97fef6ffb",
+        "kind": "radar",
+        "title": "Gravwell releases AI agents for security data platform",
+        "summary": "MSSP Alert flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 50,
+        "date": "2026-09-11 13:53",
+        "displayDate": "2026-09-11 13:53",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJXX2VjR0ljVmVjOVliTkU1dmRoc2JDeGc4OURGMktFR1FkdnAwamlzNGZfcXdpRzNKWTBPMllLRTN1bXJ6bXRFNHFQSk5lWlpVOEM4NlNOdGpKZG5JVlp0VWVnVXluYVozVkpnb2E5R2Rnd2Z6cnlmTERiR2tkYXNQXzVXX0M2SHFkWHNYMA",
+        "source": "News signal — verify before acting · Source: MSSP Alert · Time: 2026-09-11 13:53"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T15:01:39.148976+08:00",
-        "nextRun": "2026-09-11T21:00:00+08:00",
+        "lastRun": "2026-09-11T21:03:27.430965+08:00",
+        "nextRun": "2026-09-12T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T19:06:50.992750+08:00",
-        "nextRun": "2026-09-11T20:06:51.220349+08:00",
+        "lastRun": "2026-09-11T22:07:58.344408+08:00",
+        "nextRun": "2026-09-11T23:07:58.550456+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T19:12:09.332637+08:00",
-        "nextRun": "2026-09-11T22:10:00+08:00",
+        "lastRun": "2026-09-11T22:12:26.075145+08:00",
+        "nextRun": "2026-09-12T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T19:34:56.700892+08:00",
-        "nextRun": "2026-09-11T19:36:56.700892+08:00",
+        "lastRun": "2026-09-11T22:35:03.578814+08:00",
+        "nextRun": "2026-09-11T22:39:58.541951+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T19:31:10.614700+08:00",
-        "nextRun": "2026-09-11T22:30:00+08:00",
+        "lastRun": "2026-09-11T22:31:17.964323+08:00",
+        "nextRun": "2026-09-12T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T18:45:45.117902+08:00",
-        "nextRun": "2026-09-11T21:40:00+08:00",
+        "lastRun": "2026-09-11T21:46:14.548772+08:00",
+        "nextRun": "2026-09-12T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-11T19:36:51.223349+08:00"
+    "updatedAt": "2026-09-11T22:37:58.551456+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
