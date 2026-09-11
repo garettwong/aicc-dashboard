@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-11T10:33:38+08:00",
+    "generatedAt": "2026-09-11T13:34:43+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-11_09-03-48.md",
-    "radarSource": "ai_opportunity_radar_20260911_103058.html",
+    "radarSource": "ai_opportunity_radar_20260911_133103.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260911_103058.html",
+    "sourceFile": "ai_opportunity_radar_20260911_133103.html",
     "items": [
       {
         "id": "radar-0855e5766b7b",
@@ -34,15 +34,15 @@
         "id": "radar-26ea9c184791",
         "kind": "radar",
         "title": "GPT-6 Astra: A new generation of intelligence",
-        "summary": "openai.com reports: GPT-6 Astra: A new generation of intelligence openai.com",
+        "summary": "OpenAI reports: GPT-6 Astra: A new generation of intelligence OpenAI",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-11 02:27",
-        "displayDate": "2026-09-11 02:27",
+        "date": "2026-09-11 05:27",
+        "displayDate": "2026-09-11 05:27",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
-        "source": "Official / vendor signal · Source: openai.com · Time: 2026-09-11 02:27"
+        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-11 05:27"
       },
       {
         "id": "radar-13aa8c48c2b2",
@@ -109,10 +109,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-11 02:15",
-        "displayDate": "2026-09-11 02:15",
+        "date": "2026-09-11 02:25",
+        "displayDate": "2026-09-11 02:25",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HYmRnQkgxTTNlX3lhdGkyMlo4bThLWXdLZy1MdE9DMlRLT2lCaEZoaWVhV0xDcy1oaEwxN0xOMkM5dmdDTG5kblktc3A1NjJEamJ4RFMyUGUwZ2NpZVV6OEFVeEM4MWVNallWbFk1dw",
-        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-09-11 02:15"
+        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-09-11 02:25"
       },
       {
         "id": "radar-f62bf9b1562d",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T10:03:38.446382+08:00",
-        "nextRun": "2026-09-11T11:03:38.640126+08:00",
+        "lastRun": "2026-09-11T13:04:42.712072+08:00",
+        "nextRun": "2026-09-11T14:04:42.874066+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T10:12:43.449806+08:00",
-        "nextRun": "2026-09-11T13:10:00+08:00",
+        "lastRun": "2026-09-11T13:12:55.350230+08:00",
+        "nextRun": "2026-09-11T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T10:31:41.440679+08:00",
-        "nextRun": "2026-09-11T10:33:41.440679+08:00",
+        "lastRun": "2026-09-11T13:31:48.513023+08:00",
+        "nextRun": "2026-09-11T13:36:42.868560+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T10:30:58.397408+08:00",
-        "nextRun": "2026-09-11T13:30:00+08:00",
+        "lastRun": "2026-09-11T13:31:03.628692+08:00",
+        "nextRun": "2026-09-11T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-11T09:44:50.382676+08:00",
-        "nextRun": "2026-09-11T12:40:00+08:00",
+        "lastRun": "2026-09-11T12:49:15.639472+08:00",
+        "nextRun": "2026-09-11T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-11T10:33:38.640126+08:00"
+    "updatedAt": "2026-09-11T13:34:42.874066+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
