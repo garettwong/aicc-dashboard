@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-12T09:37:37+08:00",
+    "generatedAt": "2026-09-12T10:12:22+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-12_09-11-13.md",
     "radarSource": "ai_opportunity_radar_20260912_073104.html",
@@ -161,13 +161,24 @@
   "health": {
     "jobs": [
       {
+        "id": "94b67a9712b2",
+        "name": "Live AI usage API collector",
+        "enabled": true,
+        "state": "error",
+        "schedule": "every 2m",
+        "lastStatus": "error",
+        "lastRun": "2026-09-12T09:48:48.408406+08:00",
+        "nextRun": "2026-09-12T10:13:14.105674+08:00",
+        "message": "Script timed out after 3600s: D:\\Hermes\\scripts\\refresh_live_ai_usage.py"
+      },
+      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-11T09:30:41.239087+08:00",
+        "lastRun": "2026-09-12T09:39:41.882140+08:00",
         "nextRun": "2026-09-13T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
@@ -211,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T08:56:59.173251+08:00",
-        "nextRun": "2026-09-12T09:57:09.395109+08:00",
+        "lastRun": "2026-09-12T09:39:39.549561+08:00",
+        "nextRun": "2026-09-12T10:40:14.046126+08:00",
         "message": "No recent error."
       },
       {
@@ -222,20 +233,9 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T07:12:22.681662+08:00",
-        "nextRun": "2026-09-12T10:10:00+08:00",
+        "lastRun": "2026-09-12T10:12:18.759324+08:00",
+        "nextRun": "2026-09-12T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
-      },
-      {
-        "id": "94b67a9712b2",
-        "name": "Live AI usage API collector",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "every 2m",
-        "lastStatus": "ok",
-        "lastRun": "2026-09-12T08:45:51.431992+08:00",
-        "nextRun": "2026-09-12T09:39:04.241888+08:00",
-        "message": "unused"
       },
       {
         "id": "27f7ee1494c6",
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T06:49:52.963918+08:00",
-        "nextRun": "2026-09-12T09:40:00+08:00",
+        "lastRun": "2026-09-12T09:44:42.661332+08:00",
+        "nextRun": "2026-09-12T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-12T09:37:04.241888+08:00"
+    "updatedAt": "2026-09-12T10:12:18.760329+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
