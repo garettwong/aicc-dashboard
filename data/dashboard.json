@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-12T13:48:35+08:00",
+    "generatedAt": "2026-09-12T15:19:37+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-12_09-11-13.md",
     "radarSource": "ai_opportunity_radar_20260912_133050.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "e00ffbee1272",
+        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "0 9-21/6 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-09-12T15:00:52.651040+08:00",
+        "nextRun": "2026-09-12T21:00:00+08:00",
+        "message": "RuntimeError: HTTP 429: The usage limit has been reached"
+      },
+      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -194,17 +205,6 @@
         "message": "RuntimeError: HTTP 429: The usage limit has been reached"
       },
       {
-        "id": "e00ffbee1272",
-        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "0 9-21/6 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-09-12T09:35:46.533819+08:00",
-        "nextRun": "2026-09-12T15:00:00+08:00",
-        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
-      },
-      {
         "id": "ac7e45cc6fc4",
         "name": "ai-everyday-work-tools",
         "enabled": true,
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T13:17:37.257797+08:00",
-        "nextRun": "2026-09-12T14:18:34.774276+08:00",
+        "lastRun": "2026-09-12T14:49:36.804369+08:00",
+        "nextRun": "2026-09-12T15:49:36.873191+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T13:46:37.908487+08:00",
-        "nextRun": "2026-09-12T13:48:37.908487+08:00",
+        "lastRun": "2026-09-12T15:16:41.805523+08:00",
+        "nextRun": "2026-09-12T15:21:36.864870+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-12T13:48:34.774276+08:00"
+    "updatedAt": "2026-09-12T15:19:36.874191+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
