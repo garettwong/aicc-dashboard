@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-12T13:17:34+08:00",
+    "generatedAt": "2026-09-12T13:48:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-12_09-11-13.md",
-    "radarSource": "ai_opportunity_radar_20260912_103047.html",
+    "radarSource": "ai_opportunity_radar_20260912_133050.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260912_103047.html",
+    "sourceFile": "ai_opportunity_radar_20260912_133050.html",
     "items": [
       {
-        "id": "radar-c7eb3ca1c7a1",
+        "id": "radar-4330454ae8ae",
         "kind": "radar",
-        "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "Build Agentic Memory That Keeps Your Loops Alive and Sharpens Them Every Run",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-09-12 01:11",
-        "displayDate": "2026-09-12 01:11",
-        "url": "https://github.com/XNet-NGO/aiope",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-12 01:11"
+        "score": 57,
+        "date": "2026-09-12 01:25",
+        "displayDate": "2026-09-12 01:25",
+        "url": "https://memanto.ai/blog/agentic-memory-course-keep-loops-alive",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-12 01:25"
       },
       {
         "id": "radar-a6176b4f6b7a",
@@ -76,7 +76,7 @@
         "id": "radar-088177e25553",
         "kind": "radar",
         "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
-        "summary": "Designboom reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "summary": "designboom.com reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -84,7 +84,7 @@
         "date": "2026-09-11 20:26",
         "displayDate": "2026-09-11 20:26",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFB5dWFkSFN2TDhrSEozVDltMkFaSTNFMEgzaEpMT2dtWW5PR25XSjA5M09HeGJWRVdtSjVCN1ZGN1pCS0tiUVFUOTB2dlVRTGc4di1UWXBEaW43aXlfM0hjWTNJZm1idS1tLTI2TDlsQ2pSNW42WXNOY184dVktWHAyYlpYa2lRZU1ta3doV1RTbVdYUHEtT2dxT3JTNlh6NzYzcmFiTTZiX1ZZYlNQSmdCMGozNFlEazlRNzI1VVN6dWg2MjJsd25sTTdkUQ",
-        "source": "News signal — verify before acting · Source: Designboom · Time: 2026-09-11 20:26"
+        "source": "News signal — verify before acting · Source: designboom.com · Time: 2026-09-11 20:26"
       },
       {
         "id": "radar-5ce523c441e0",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: TradingView · Time: 2026-09-08 22:45"
       },
       {
-        "id": "radar-4330454ae8ae",
+        "id": "radar-6c4eca7b364b",
         "kind": "radar",
-        "title": "Build Agentic Memory That Keeps Your Loops Alive and Sharpens Them Every Run",
+        "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-09-12 01:25",
-        "displayDate": "2026-09-12 01:25",
-        "url": "https://memanto.ai/blog/agentic-memory-course-keep-loops-alive",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-12 01:25"
+        "score": 43,
+        "date": "2026-09-12 05:28",
+        "displayDate": "2026-09-12 05:28",
+        "url": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-12 05:28"
       }
     ]
   },
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T12:46:37.060446+08:00",
-        "nextRun": "2026-09-12T13:47:34.041620+08:00",
+        "lastRun": "2026-09-12T13:17:37.257797+08:00",
+        "nextRun": "2026-09-12T14:18:34.774276+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T13:16:36.897219+08:00",
-        "nextRun": "2026-09-12T13:18:36.897219+08:00",
+        "lastRun": "2026-09-12T13:46:37.908487+08:00",
+        "nextRun": "2026-09-12T13:48:37.908487+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-12T10:30:47.291723+08:00",
-        "nextRun": "2026-09-12T13:30:00+08:00",
+        "lastRun": "2026-09-12T13:30:50.699812+08:00",
+        "nextRun": "2026-09-12T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-12T13:17:34.042623+08:00"
+    "updatedAt": "2026-09-12T13:48:34.774276+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
