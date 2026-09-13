@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-14T04:36:38+08:00",
+    "generatedAt": "2026-09-14T07:37:43+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-13_11-23-36.md",
-    "radarSource": "ai_opportunity_radar_20260914_043057.html",
+    "radarSource": "ai_opportunity_radar_20260914_073102.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260914_043057.html",
+    "sourceFile": "ai_opportunity_radar_20260914_073102.html",
     "items": [
       {
-        "id": "radar-7a9e1d85804d",
+        "id": "radar-e21535d8ac17",
         "kind": "radar",
-        "title": "I Built 15 SLOs for an AI Agent. Here's What OpenTelemetry Could Measure",
+        "title": "Ask HN: Multi-agent workflows in production; Where people using 1000s of agents?",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-13 20:24",
-        "displayDate": "2026-09-13 20:24",
-        "url": "https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:24"
+        "score": 56,
+        "date": "2026-09-13 22:37",
+        "displayDate": "2026-09-13 22:37",
+        "url": "https://news.ycombinator.com/item",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 22:37"
       },
       {
-        "id": "radar-7d4a5a83d437",
+        "id": "radar-65e757123c3a",
         "kind": "radar",
-        "title": "My Summer of Building",
-        "summary": "The AI Economy | Ken Yeung reports: My Summer of Building The AI Economy | Ken Yeung",
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "summary": "OpenAI reports: GPT-6 Astra: The next generation in intelligence for work OpenAI",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-13 18:49",
-        "displayDate": "2026-09-13 18:49",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUC1fc2VQMTZpdnFiR09Tc1RoTW02RXUzTWVrYWJVT1FFZFZFOEJUSzVSaGl5TmY2LVlVOW9zbGZBVVVNcnlFZ1BIWFBXS0c2N2prdThHT3pzSWl2N2RPN2VYeDRRWTFXUE0tcW4xM1hydV8xX25LS3c2a0VQTTVyUC0zNDVLc0RhT293NnRwdDh4eUdPWVM1b3BuX3d0TlE4RkxCMzk1OEI5R1lTU3RSQWU2YVg0ODZ4M3JZN2JZMEVld1Z0N24wTXF6bkhod1E",
-        "source": "News signal — verify before acting · Source: The AI Economy | Ken Yeung · Time: 2026-09-13 18:49"
+        "date": "2026-09-13 20:42",
+        "displayDate": "2026-09-13 20:42",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc",
+        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-13 20:42"
       },
       {
         "id": "radar-ab32db13e14f",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Designboom · Time: 2026-09-11 20:26"
       },
       {
-        "id": "radar-b545ab93c6ce",
+        "id": "radar-7d4a5a83d437",
         "kind": "radar",
-        "title": "How I Used Claude Code to Ship a Pixel-Matched WooCommerce Store With ERP Sync",
-        "summary": "HackerNoon reports: How I Used Claude Code to Ship a Pixel-Matched WooCommerce Store With ERP Sync HackerNoon",
+        "title": "My Summer of Building",
+        "summary": "The AI Economy | Ken Yeung reports: My Summer of Building The AI Economy | Ken Yeung",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-13 18:36",
-        "displayDate": "2026-09-13 18:36",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWJSb1RPQXRtSEJ0dVdjcmc0ZGoyMWpIU0tfZFZ0OElJUzg0bUMxbTNfcXhKbVRGMDNZQTA5ejRvOWFIV002enJyclhhQ3QzU18tRVRoMDFyT2FRVFlVcGZtUUpacGJHaGozREhCV1VGMHhQUDFUVzB0YVJTU3c0ZmQ5dXAwODl6M3RZNjBHM01wc0pjeGtxTmhaaDNzWnpjdTBB",
-        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-13 18:36"
+        "date": "2026-09-13 18:49",
+        "displayDate": "2026-09-13 18:49",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUC1fc2VQMTZpdnFiR09Tc1RoTW02RXUzTWVrYWJVT1FFZFZFOEJUSzVSaGl5TmY2LVlVOW9zbGZBVVVNcnlFZ1BIWFBXS0c2N2prdThHT3pzSWl2N2RPN2VYeDRRWTFXUE0tcW4xM1hydV8xX25LS3c2a0VQTTVyUC0zNDVLc0RhT293NnRwdDh4eUdPWVM1b3BuX3d0TlE4RkxCMzk1OEI5R1lTU3RSQWU2YVg0ODZ4M3JZN2JZMEVld1Z0N24wTXF6bkhod1E",
+        "source": "News signal — verify before acting · Source: The AI Economy | Ken Yeung · Time: 2026-09-13 18:49"
       },
       {
         "id": "radar-a3321b627d1f",
@@ -115,18 +115,18 @@
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-09-09 19:21"
       },
       {
-        "id": "radar-8b2b9b4f6524",
+        "id": "radar-c1861f627d64",
         "kind": "radar",
-        "title": "Forsyth commissioners consider AI roadmap consulting deal",
-        "summary": "Appen Media reports: Forsyth commissioners consider AI roadmap consulting deal Appen Media",
+        "title": "Zuckerberg's Secret Plan to Replace Meta Staff With AI Agents Collapsed",
+        "summary": "Startup Fortune reports: Zuckerberg's Secret Plan to Replace Meta Staff With AI Agents Collapsed Startup Fortune",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-09-10 18:16",
-        "displayDate": "2026-09-10 18:16",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3YzSnBma2tlcXR2T3FJWUlXV0pIdms2eVVxQW1pWlYxbVExV0NPcm1kOWNCSzVwZ3NmMDFHaUxQbmtpRVY0eU1pdlFMR29zRkd3QTN6OVdSeEFtMlVySmxCbUI2QVk2UXhXSS1OeFVsNHJKSnFxVmkxRHpfdGg1QmxzaE9OeWhjMHVEdjlGdEtlNXB1eHhzSmFPM3lVbV9LYVdrS2pLbU5kTzVhdXlXRlk5NFZOZ0hRc3hiQUJ5azdFRTVReHNVYTFTd0huamNreS1SaDYtekEydw",
-        "source": "News signal — verify before acting · Source: Appen Media · Time: 2026-09-10 18:16"
+        "score": 87,
+        "date": "2026-09-13 17:33",
+        "displayDate": "2026-09-13 17:33",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUNCRDVDUXZ2MVhzc2UzTEV6ZFF0d0FUX0pxdGozUXdKbF9LNVVhOVJoSTlNaG1vbWJHX1NpSm9jb240UUFkTlpXcXVhT1FtektYTWNVZ1AzS3dNemJLbVFqbGFzRGw4NmtrUjVSMGZ5U1p4VlNKOFU4REQ1SzUwN3RmV1NyUnVjb3ZQLW82UmYyRjdTczdUZTZYQnkzNjA",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-09-13 17:33"
       },
       {
         "id": "radar-dfdf3825d816",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: South China Morning Post · Time: 2026-09-13 06:00"
       },
       {
-        "id": "radar-353e63a0d2c7",
+        "id": "radar-7a9e1d85804d",
         "kind": "radar",
-        "title": "Show HN: Credit against tokenised stocks for agents. punish us please",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "I Built 15 SLOs for an AI Agent. Here's What OpenTelemetry Could Measure",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-13 20:03",
-        "displayDate": "2026-09-13 20:03",
-        "url": "https://vaaya.ai/credit-against-securities-for-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:03"
+        "date": "2026-09-13 20:24",
+        "displayDate": "2026-09-13 20:24",
+        "url": "https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:24"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T04:06:38.465029+08:00",
-        "nextRun": "2026-09-14T05:06:38.653524+08:00",
+        "lastRun": "2026-09-14T07:07:42.803946+08:00",
+        "nextRun": "2026-09-14T08:07:42.976012+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T04:12:19.333717+08:00",
-        "nextRun": "2026-09-14T07:10:00+08:00",
+        "lastRun": "2026-09-14T07:12:18.718968+08:00",
+        "nextRun": "2026-09-14T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T04:34:42.260743+08:00",
-        "nextRun": "2026-09-14T04:36:42.260743+08:00",
+        "lastRun": "2026-09-14T07:34:46.487267+08:00",
+        "nextRun": "2026-09-14T07:39:42.969252+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T04:30:57.583628+08:00",
-        "nextRun": "2026-09-14T07:30:00+08:00",
+        "lastRun": "2026-09-14T07:31:02.423929+08:00",
+        "nextRun": "2026-09-14T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T03:54:24.619211+08:00",
-        "nextRun": "2026-09-14T06:40:00+08:00",
+        "lastRun": "2026-09-14T06:44:59.882445+08:00",
+        "nextRun": "2026-09-14T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-14T04:36:38.653524+08:00"
+    "updatedAt": "2026-09-14T07:37:42.978012+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
