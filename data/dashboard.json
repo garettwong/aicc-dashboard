@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-14T01:35:34+08:00",
+    "generatedAt": "2026-09-14T04:36:38+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-13_11-23-36.md",
-    "radarSource": "ai_opportunity_radar_20260914_013054.html",
+    "radarSource": "ai_opportunity_radar_20260914_043057.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260914_013054.html",
+    "sourceFile": "ai_opportunity_radar_20260914_043057.html",
     "items": [
       {
-        "id": "radar-3710ec67c856",
+        "id": "radar-7a9e1d85804d",
         "kind": "radar",
-        "title": "Rate Your Agent's Memory",
+        "title": "I Built 15 SLOs for an AI Agent. Here's What OpenTelemetry Could Measure",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-09-13 15:56",
-        "displayDate": "2026-09-13 15:56",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 15:56"
+        "score": 43,
+        "date": "2026-09-13 20:24",
+        "displayDate": "2026-09-13 20:24",
+        "url": "https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:24"
       },
       {
-        "id": "radar-65e757123c3a",
+        "id": "radar-7d4a5a83d437",
         "kind": "radar",
-        "title": "GPT-6 Astra: The next generation in intelligence for work",
-        "summary": "OpenAI reports: GPT-6 Astra: The next generation in intelligence for work OpenAI",
+        "title": "My Summer of Building",
+        "summary": "The AI Economy | Ken Yeung reports: My Summer of Building The AI Economy | Ken Yeung",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-13 14:41",
-        "displayDate": "2026-09-13 14:41",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc",
-        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-13 14:41"
+        "date": "2026-09-13 18:49",
+        "displayDate": "2026-09-13 18:49",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUC1fc2VQMTZpdnFiR09Tc1RoTW02RXUzTWVrYWJVT1FFZFZFOEJUSzVSaGl5TmY2LVlVOW9zbGZBVVVNcnlFZ1BIWFBXS0c2N2prdThHT3pzSWl2N2RPN2VYeDRRWTFXUE0tcW4xM1hydV8xX25LS3c2a0VQTTVyUC0zNDVLc0RhT293NnRwdDh4eUdPWVM1b3BuX3d0TlE4RkxCMzk1OEI5R1lTU3RSQWU2YVg0ODZ4M3JZN2JZMEVld1Z0N24wTXF6bkhod1E",
+        "source": "News signal — verify before acting · Source: The AI Economy | Ken Yeung · Time: 2026-09-13 18:49"
       },
       {
         "id": "radar-ab32db13e14f",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: MIT Sloan Management Review · Time: 2026-09-08 11:00"
       },
       {
-        "id": "radar-dfdf3825d816",
+        "id": "radar-ab398556673b",
         "kind": "radar",
-        "title": "Beijing pushes AI chip design as part of self-sufficiency drive",
-        "summary": "South China Morning Post reports: Beijing pushes AI chip design as part of self-sufficiency drive South China Morning Post",
+        "title": "Show HN: ClientCoded – QA Platform for AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 48,
-        "date": "2026-09-13 06:00",
-        "displayDate": "2026-09-13 06:00",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXBFOUtIVmF5elFkZWVkejVEaHJWMElXVVBxaDFpSGVzWE5TU2NTU2JZSGlxVGkyZGtWRjNmeVBRUkZFMXkzVDdITkNMbGpiQU5wazRVSTd5MGZpYU1ydENlUkM5ZDN0dlJTSzYzNmpCeTdCY21CSzZWYmU1MF90dHM5NDVSRDlQVlRNa1Y5OWpJZld6cGhRenFyYm1JdDhkNFhiUjIwbVdhbXNzNDExUkNOb2VMZVFyQ1lNSdIBvAFBVV95cUxQbG9vS0RaRFZ0Q2RMZGxYdGhUeFV6VU1DX0F6Z3gxWVdaZGxkMTY1R0VZTnUtMmFRTFFGRFpoQUFQZlZmeW44M2NzWkMxeTVFSGo2SzRkc0VRSTc0U0UzTlE1N0hpejVXazJjUGFLUzgzQ3RBVlAxS3ZpOUhPUHlKSmZCUkNnNEtFcmYzQUYzMnFJQ3p1SU9WVVliTkZCT3lZY09ZVW5oLVBXZEc2RmpSdnY0V3B6amlNR01BUw",
-        "source": "News signal — verify before acting · Source: South China Morning Post · Time: 2026-09-13 06:00"
+        "score": 53,
+        "date": "2026-09-13 20:22",
+        "displayDate": "2026-09-13 20:22",
+        "url": "https://clientcoded.com/environments",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:22"
       },
       {
         "id": "radar-088177e25553",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Designboom · Time: 2026-09-11 20:26"
       },
       {
-        "id": "radar-21cece00392b",
+        "id": "radar-b545ab93c6ce",
         "kind": "radar",
-        "title": "What Is AI-Assisted Coding And How To Make It A Valuable Skill",
-        "summary": "Forbes reports: What Is AI-Assisted Coding And How To Make It A Valuable Skill Forbes",
+        "title": "How I Used Claude Code to Ship a Pixel-Matched WooCommerce Store With ERP Sync",
+        "summary": "HackerNoon reports: How I Used Claude Code to Ship a Pixel-Matched WooCommerce Store With ERP Sync HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-13 11:00",
-        "displayDate": "2026-09-13 11:00",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZEdIcHR2SWhDQWRURGhkcmxrbFlhMzE2M1A3TlJSWHdEWXpZSUtTUWV0bDlqQk8tMEpGa3Y0ZG1ENUQyaVVOblZwNWt0U2oxYzJLdmNNQngwbHFHTDNQbFdwckFyREQ3cTFjYzJtd1JTVWdZVUZYYUYzdlNPSE5wTHpDMkxxOTFLRE5ya1BKN3dLNzg2",
-        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-09-13 11:00"
+        "date": "2026-09-13 18:36",
+        "displayDate": "2026-09-13 18:36",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWJSb1RPQXRtSEJ0dVdjcmc0ZGoyMWpIU0tfZFZ0OElJUzg0bUMxbTNfcXhKbVRGMDNZQTA5ejRvOWFIV002enJyclhhQ3QzU18tRVRoMDFyT2FRVFlVcGZtUUpacGJHaGozREhCV1VGMHhQUDFUVzB0YVJTU3c0ZmQ5dXAwODl6M3RZNjBHM01wc0pjeGtxTmhaaDNzWnpjdTBB",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-13 18:36"
       },
       {
         "id": "radar-a3321b627d1f",
@@ -129,32 +129,32 @@
         "source": "News signal — verify before acting · Source: Appen Media · Time: 2026-09-10 18:16"
       },
       {
-        "id": "radar-c1be28f900ee",
+        "id": "radar-dfdf3825d816",
         "kind": "radar",
-        "title": "Codename MDASH brings agentic AI security scanning to US Government",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-09-13 11:56",
-        "displayDate": "2026-09-13 11:56",
-        "url": "https://microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 11:56"
-      },
-      {
-        "id": "radar-a2bce7f30ad5",
-        "kind": "radar",
-        "title": "InfinitForm brings determinism back to generative design",
-        "summary": "Engineering.com reports: InfinitForm brings determinism back to generative design Engineering.com",
+        "title": "Beijing pushes AI chip design as part of self-sufficiency drive",
+        "summary": "South China Morning Post reports: Beijing pushes AI chip design as part of self-sufficiency drive South China Morning Post",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 48,
-        "date": "2026-09-09 19:25",
-        "displayDate": "2026-09-09 19:25",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3lYbDJTTURWQ1JqejRoQzM3eVhObnV5RjZaU2dLZXNHM3ZuYTJmbkd2eV9fbW13emw5cXZjeDc4Q0ZyNk1XbkZGZkhjMjdNOFZQc1RxZ1FsSDh3UnROQ1FTSTN2VE5JdlNvUll3dzhnek5sTi13T2hfeG9GMElvdXNMSWZ6V0VIbWlxajBB",
-        "source": "News signal — verify before acting · Source: Engineering.com · Time: 2026-09-09 19:25"
+        "date": "2026-09-13 06:00",
+        "displayDate": "2026-09-13 06:00",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXBFOUtIVmF5elFkZWVkejVEaHJWMElXVVBxaDFpSGVzWE5TU2NTU2JZSGlxVGkyZGtWRjNmeVBRUkZFMXkzVDdITkNMbGpiQU5wazRVSTd5MGZpYU1ydENlUkM5ZDN0dlJTSzYzNmpCeTdCY21CSzZWYmU1MF90dHM5NDVSRDlQVlRNa1Y5OWpJZld6cGhRenFyYm1JdDhkNFhiUjIwbVdhbXNzNDExUkNOb2VMZVFyQ1lNSdIBvAFBVV95cUxQbG9vS0RaRFZ0Q2RMZGxYdGhUeFV6VU1DX0F6Z3gxWVdaZGxkMTY1R0VZTnUtMmFRTFFGRFpoQUFQZlZmeW44M2NzWkMxeTVFSGo2SzRkc0VRSTc0U0UzTlE1N0hpejVXazJjUGFLUzgzQ3RBVlAxS3ZpOUhPUHlKSmZCUkNnNEtFcmYzQUYzMnFJQ3p1SU9WVVliTkZCT3lZY09ZVW5oLVBXZEc2RmpSdnY0V3B6amlNR01BUw",
+        "source": "News signal — verify before acting · Source: South China Morning Post · Time: 2026-09-13 06:00"
+      },
+      {
+        "id": "radar-353e63a0d2c7",
+        "kind": "radar",
+        "title": "Show HN: Credit against tokenised stocks for agents. punish us please",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-09-13 20:03",
+        "displayDate": "2026-09-13 20:03",
+        "url": "https://vaaya.ai/credit-against-securities-for-agents",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-13 20:03"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T01:05:34.222421+08:00",
-        "nextRun": "2026-09-14T02:05:34.470881+08:00",
+        "lastRun": "2026-09-14T04:06:38.465029+08:00",
+        "nextRun": "2026-09-14T05:06:38.653524+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T01:12:37.370323+08:00",
-        "nextRun": "2026-09-14T04:10:00+08:00",
+        "lastRun": "2026-09-14T04:12:19.333717+08:00",
+        "nextRun": "2026-09-14T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T01:34:37.783604+08:00",
-        "nextRun": "2026-09-14T01:36:37.783604+08:00",
+        "lastRun": "2026-09-14T04:34:42.260743+08:00",
+        "nextRun": "2026-09-14T04:36:42.260743+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T01:30:54.994410+08:00",
-        "nextRun": "2026-09-14T04:30:00+08:00",
+        "lastRun": "2026-09-14T04:30:57.583628+08:00",
+        "nextRun": "2026-09-14T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-14T00:46:16.007437+08:00",
-        "nextRun": "2026-09-14T03:40:00+08:00",
+        "lastRun": "2026-09-14T03:54:24.619211+08:00",
+        "nextRun": "2026-09-14T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-14T01:35:34.470881+08:00"
+    "updatedAt": "2026-09-14T04:36:38.653524+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
