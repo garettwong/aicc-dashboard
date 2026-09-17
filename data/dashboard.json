@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-17T09:23:54+08:00",
+    "generatedAt": "2026-09-17T10:54:22+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-17_09-20-58.md",
-    "radarSource": "ai_opportunity_radar_20260917_091640.html",
+    "radarSource": "ai_opportunity_radar_20260917_103041.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260917_091640.html",
+    "sourceFile": "ai_opportunity_radar_20260917_103041.html",
     "items": [
       {
-        "id": "radar-28cfdba12dad",
+        "id": "radar-88c1169eae86",
         "kind": "radar",
-        "title": "Cortex: An open-source L1 memory and state layer for autonomous AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "AI agents are getting better at cybersecurity. That cuts both ways.",
+        "summary": "Nextgov/FCW reports: AI agents are getting better at cybersecurity.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-09-16 19:20",
-        "displayDate": "2026-09-16 19:20",
-        "url": "https://github.com/cortex-protocol/cortex-protocol",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-16 19:20"
+        "score": 50,
+        "date": "2026-09-16 18:41",
+        "displayDate": "2026-09-16 18:41",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3lDb09yYTlGODZsWE1SQ2Z6d1NJZHVwNTh1bHVMYjBBYUlRdUU1UG5OQlU4b191em1TeDRlaVo1RTd5c1pyV1U0R3NGYVpHMkVKR2pjdnNFUmI1TmZJUU5UTmtVdlVoTXdTcURZckY5UkFiWXc0U0xjdUdTb2VUTjA4Q0gtcU0xalRKTFJFSnVhbFVjXzBsQm1mNEZhbkpGR282bDRaeFNuVy1FbEh3OQ",
+        "source": "News signal — verify before acting · Source: Nextgov/FCW · Time: 2026-09-16 18:41"
       },
       {
-        "id": "radar-04d69bf649d3",
+        "id": "radar-33cf15e59775",
         "kind": "radar",
         "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
-        "summary": "siliconangle.com reports: Anthropic brings Cowork directly inside Claude’s chat interface siliconangle.com",
+        "summary": "SiliconANGLE reports: Anthropic brings Cowork directly inside Claude’s chat interface SiliconANGLE",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
         "date": "2026-09-16 23:45",
         "displayDate": "2026-09-16 23:45",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3cyWk9mRmRrazhWVjlnN1ZjSHAtaU8wVlRwRnppUEl3bm1icG1tN1VrNEdqWWJCeG1oc1NJc1JPandiR0JQUjlDZTNVU0E1V1g1ZnFETVdhZm95aXM3akVnMlJVM05odlAwRjBlcmFmTjNjaEZ3WEJONngzQ2dHZUtVRFBwVjJJcW83XzB4TzMwQ0xrYkx4NEYwVTUzNFNi",
-        "source": "News signal — verify before acting · Source: siliconangle.com · Time: 2026-09-16 23:45"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPT1RJY2w0V0VZX256aVY5WklYSHZLVWRZM3c0TjNHT18yaXhzc05kRlJRVzN4YVJzYzRfSmJ6UkJtYzlfTjdUVmln",
+        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-09-16 23:45"
       },
       {
         "id": "radar-822bc28b8173",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Cybersecurity Dive · Time: 2026-09-15 15:04"
       },
       {
-        "id": "radar-276019586c56",
+        "id": "radar-65e757123c3a",
         "kind": "radar",
-        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "summary": "IEEE Spectrum reports: How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip IEEE Spectrum",
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "summary": "OpenAI reports: GPT-6 Astra: The next generation in intelligence for work OpenAI",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 60,
-        "date": "2026-09-14 14:12",
-        "displayDate": "2026-09-14 14:12",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qZHNKd2tXekgwRDdScjFFc0JRMVBlb3FsTGdjOVBKeGxhckxUOUVjc3RUa0hnOVl0TkV5Q3pNNzdWZ1lQbl81OXZBV2p0ZE1SV01FNFpaQUtvQQ",
-        "source": "News signal — verify before acting · Source: IEEE Spectrum · Time: 2026-09-14 14:12"
+        "score": 68,
+        "date": "2026-09-16 23:57",
+        "displayDate": "2026-09-16 23:57",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc",
+        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-16 23:57"
       },
       {
         "id": "radar-088177e25553",
@@ -115,6 +115,20 @@
         "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-16 22:19"
       },
       {
+        "id": "radar-96ff43620e98",
+        "kind": "radar",
+        "title": "AI Roleplay Agents Train Advisors in Schools",
+        "summary": "Wealth Management is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 96,
+        "date": "2026-09-16 18:21",
+        "displayDate": "2026-09-16 18:21",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDNjV0pFOTRzX0p0V21ISHNHTFdza25WWGhVNV80SVdKaTB0cF9KcVYwLUFtTGFBNC1zNFl3VC1jeHhWS1lpVWU1eF9hV2R1ZVJYa2xvLWdIaV9GVUx2Rld3dDI3UzhBeWJEU0JwRUZYVk41WmUxYmhVcExwZlF0blp4OEl2eDZOWWpfcVJKZWs5X3BPWWtIcmdIY2c4ZjVwaF9jWkV2QkYzZnczbjM3aA",
+        "source": "News signal — verify before acting · Source: Wealth Management · Time: 2026-09-16 18:21"
+      },
+      {
         "id": "radar-7f9bb3a21361",
         "kind": "radar",
         "title": "New AI technique could make minimally invasive surgeries safer and more precise",
@@ -129,32 +143,18 @@
         "source": "News signal — verify before acting · Source: MIT News · Time: 2026-09-16 15:00"
       },
       {
-        "id": "radar-a70649d6cf86",
+        "id": "radar-276019586c56",
         "kind": "radar",
-        "title": "AI is remaking the workforce faster than universities can decide how—or whether—to teach it",
-        "summary": "Fortune reports: AI is remaking the workforce faster than universities can decide how—or whether—to teach it Fortune",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-14 07:14",
-        "displayDate": "2026-09-14 07:14",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzhTUTNVWVg0dzBqYmppR1lvQzhGQjV6VmFrSVptNDZTeDhya01IQ3k2Q0tzbzNkcEREZjhld0MzSnAwSjhiN2hKLWZXa2xJbWcxSGlWU2tGdEViTGFicHliRHFwaHVtWllXWjhIOWhPMUtURWxBai02eV9iai1GaVphUjJiZVdzUUxlVHNqb2ZBOEU1TTR2V2kyS0IyT2kzWjROOTlJRzFSVE5oQ1BwN01TT3l2X3lTQjFzS0NkbENhTWFZY3lsMm4tOEthUlVn",
-        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-09-14 07:14"
-      },
-      {
-        "id": "radar-7ba596ee0304",
-        "kind": "radar",
-        "title": "Best AI Image Generators of 2026: Google’s Nano Banana vs. ChatGPT Images and More",
-        "summary": "CNET is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "summary": "IEEE Spectrum reports: How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip IEEE Spectrum",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 53,
-        "date": "2026-09-14 16:17",
-        "displayDate": "2026-09-14 16:17",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZNWxfdUZFQ1lfVF93UUVIYlVucmJoMWRpQUw4Mm1mazFUM24tRVk0S0pfUkg3SDd0T0ZvYjZ1UlJkWGUyNGk5OGJhM2JLNjZENy04OGpoQXVKT1BZbmdVZ3F5c2hIQ1ZNb3VGTnZMRXlTYUREblRfcEc2LWw1QQ",
-        "source": "Trusted news / community signal · Source: CNET · Time: 2026-09-14 16:17"
+        "score": 60,
+        "date": "2026-09-14 14:12",
+        "displayDate": "2026-09-14 14:12",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qZHNKd2tXekgwRDdScjFFc0JRMVBlb3FsTGdjOVBKeGxhckxUOUVjc3RUa0hnOVl0TkV5Q3pNNzdWZ1lQbl81OXZBV2p0ZE1SV01FNFpaQUtvQQ",
+        "source": "News signal — verify before acting · Source: IEEE Spectrum · Time: 2026-09-14 14:12"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-16T09:30:51.921561+08:00",
-        "nextRun": "2026-09-17T09:30:00+08:00",
+        "lastRun": "2026-09-17T09:30:22.739400+08:00",
+        "nextRun": "2026-09-18T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-16T23:03:11.505990+08:00",
-        "nextRun": "2026-09-17T09:46:20.117076+08:00",
+        "lastRun": "2026-09-17T10:24:22.160930+08:00",
+        "nextRun": "2026-09-17T11:24:22.391867+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-17T09:23:54.449663+08:00",
-        "nextRun": "2026-09-17T10:10:00+08:00",
+        "lastRun": "2026-09-17T10:11:44.015297+08:00",
+        "nextRun": "2026-09-17T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-17T09:22:22.895682+08:00",
-        "nextRun": "2026-09-17T09:24:22.895682+08:00",
+        "lastRun": "2026-09-17T10:52:25.536235+08:00",
+        "nextRun": "2026-09-17T10:54:25.536235+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-17T09:16:40.334355+08:00",
-        "nextRun": "2026-09-17T10:30:00+08:00",
+        "lastRun": "2026-09-17T10:30:41.864130+08:00",
+        "nextRun": "2026-09-17T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-17T09:19:46.971190+08:00",
-        "nextRun": "2026-09-17T09:40:00+08:00",
+        "lastRun": "2026-09-17T09:44:35.108959+08:00",
+        "nextRun": "2026-09-17T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-17T09:23:54.450664+08:00"
+    "updatedAt": "2026-09-17T10:54:22.391867+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
