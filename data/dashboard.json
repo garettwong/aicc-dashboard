@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-18T01:07:59+08:00",
+    "generatedAt": "2026-09-18T01:38:59+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-17_09-20-58.md",
-    "radarSource": "ai_opportunity_radar_20260918_003817.html",
+    "radarSource": "ai_opportunity_radar_20260918_013119.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260918_003817.html",
+    "sourceFile": "ai_opportunity_radar_20260918_013119.html",
     "items": [
       {
-        "id": "radar-41533758bd84",
+        "id": "radar-0beb41d56611",
         "kind": "radar",
-        "title": "Exclusive: Arcjet launches runtime security to track and control AI agents in production",
-        "summary": "SiliconANGLE flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Come watch the AI Agents do the work",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-09-17 13:00",
-        "displayDate": "2026-09-17 13:00",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0dRRXJoNFdtZlRZZWU2VHZuYkUzVUo2d1phWW5fUlJhVktIbmJ3WjZmaDBaanQ0SnVKUXVHckhGc3h3LWkyaXJ1VFJHUUhuOFczSldHMFJlekthS1o0NGJsUDM0LXBSa3dHMk9pX21IXzVnd3ZzSk10eUVYQ2lNRW4zMmdsMmlIeFBGYlBQWlcwQ21La3F0ZVJhNVYwcnlLbjVJOHpfUVA5QlE2V0xNZ09hWlpIUEpHV1RpSk05dGZpdw",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-09-17 13:00"
+        "score": 43,
+        "date": "2026-09-17 17:30",
+        "displayDate": "2026-09-17 17:30",
+        "url": "https://world.swamp-club.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-17 17:30"
       },
       {
-        "id": "radar-fbb8dc06d35e",
+        "id": "radar-860d999bded6",
         "kind": "radar",
-        "title": "How important is a harness for an AI coding agent?",
-        "summary": "GIGAZINE reports: How important is a harness for an AI coding agent?",
+        "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+        "summary": "ZDNET flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-17 14:00",
-        "displayDate": "2026-09-17 14:00",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5TDJ0RWx6dk1QTHRXTlQxdlpWZmtUVVRlMEJvQ0JOSXNFRXY2VnVRZkY3cjJLYWRWWGprNVo2WkVtZF9MY2xrSXV5TEVjNUsyNjZ3VVZJMUk5ZWwxZDctZ0xIbUFCa25PYmxYZDh3N1BiTVY1eU53Ul9n",
-        "source": "News signal — verify before acting · Source: GIGAZINE · Time: 2026-09-17 14:00"
+        "date": "2026-09-17 17:00",
+        "displayDate": "2026-09-17 17:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQ2RvWG1Wb3dHVWdUN0pac2hKVmJtVzlrTkhGc3R0YnQzZngtWTdoY0tCSWsxaEtrbXVaLWZTWDRzR2RPcmR3OUduREdPTFl3clhSbXNkM1VQMTNyUk5jTWZvTDNINXpaVUhjOGs0OVdEUHBITWE2X0dB",
+        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-09-17 17:00"
       },
       {
         "id": "radar-822bc28b8173",
@@ -101,32 +101,32 @@
         "source": "Official / vendor signal · Source: Microsoft · Time: 2026-09-17 15:12"
       },
       {
-        "id": "radar-21c4bc2fad09",
+        "id": "radar-fbb8dc06d35e",
         "kind": "radar",
-        "title": "What Is OpenCode? The Free, Open-Source AI Coding Agent for Your Terminal",
-        "summary": "Intelligent Living reports: What Is OpenCode?",
+        "title": "How important is a harness for an AI coding agent?",
+        "summary": "GIGAZINE reports: How important is a harness for an AI coding agent?",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-17 04:48",
-        "displayDate": "2026-09-17 04:48",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uY2VBcFlhMTdUb053U1JidDRIcEEzSEpBOHRFaXVfV2JRTHdHRHY0R2RnS21lRkE0MEFEbmR0ZWhfZkpvR01QZ0lRaE5mbkJ4UkdQRE1xT0otQ21SbWlFWHFWZEVQc0MwYUpBMEtTQmlCTkI1",
-        "source": "News signal — verify before acting · Source: Intelligent Living · Time: 2026-09-17 04:48"
+        "date": "2026-09-17 14:00",
+        "displayDate": "2026-09-17 14:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5TDJ0RWx6dk1QTHRXTlQxdlpWZmtUVVRlMEJvQ0JOSXNFRXY2VnVRZkY3cjJLYWRWWGprNVo2WkVtZF9MY2xrSXV5TEVjNUsyNjZ3VVZJMUk5ZWwxZDctZ0xIbUFCa25PYmxYZDh3N1BiTVY1eU53Ul9n",
+        "source": "News signal — verify before acting · Source: GIGAZINE · Time: 2026-09-17 14:00"
       },
       {
-        "id": "radar-882055ffdf79",
+        "id": "radar-088177e25553",
         "kind": "radar",
-        "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
-        "summary": "ABC News - Breaking News, Latest News and Videos reports: 'Rogue' AI agent went haywire at tech company.",
+        "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
+        "summary": "designboom.com reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-09-16 06:47",
-        "displayDate": "2026-09-16 06:47",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm",
-        "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-09-16 06:47"
+        "date": "2026-09-11 20:26",
+        "displayDate": "2026-09-11 20:26",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFB5dWFkSFN2TDhrSEozVDltMkFaSTNFMEgzaEpMT2dtWW5PR25XSjA5M09HeGJWRVdtSjVCN1ZGN1pCS0tiUVFUOTB2dlVRTGc4di1UWXBEaW43aXlfM0hjWTNJZm1idS1tLTI2TDlsQ2pSNW42WXNOY184dVktWHAyYlpYa2lRZU1ta3doV1RTbVdYUHEtT2dxT3JTNlh6NzYzcmFiTTZiX1ZZYlNQSmdCMGozNFlEazlRNzI1VVN6dWg2MjJsd25sTTdkUQ",
+        "source": "News signal — verify before acting · Source: designboom.com · Time: 2026-09-11 20:26"
       },
       {
         "id": "radar-a70649d6cf86",
@@ -146,7 +146,7 @@
         "id": "radar-dae63433db43",
         "kind": "radar",
         "title": "Autodesk’s AI assistant could radically change how buildings are designed and built",
-        "summary": "Fast Company reports: Autodesk’s AI assistant could radically change how buildings are designed and built Fast Company",
+        "summary": "fastcompany.com reports: Autodesk’s AI assistant could radically change how buildings are designed and built fastcompany.com",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -154,7 +154,7 @@
         "date": "2026-09-15 16:28",
         "displayDate": "2026-09-15 16:28",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekRuTEdiRmRGbldaM2s3ZFFVRlZuRnUtQXlqc2RnaWFFRGpreXRZbzRXYklrV09vNTdWMTk1ZW00T3VYTnEzVThneEMtTkNWRDVWRVozX3FKblFON2dsV1M5MDQ4Ql9vSkFoQjdnZ051X3E5YmttS2FWeGsweTQzTHRxWjNYdER4blpsc09nRzh5TFJnd0JabXFXcTFqQW1INFVsX1F4cEduMGVzUk16azBzYlY3Z0FFNGxn",
-        "source": "News signal — verify before acting · Source: Fast Company · Time: 2026-09-15 16:28"
+        "source": "News signal — verify before acting · Source: fastcompany.com · Time: 2026-09-15 16:28"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T00:37:58.801671+08:00",
-        "nextRun": "2026-09-18T01:37:58.915583+08:00",
+        "lastRun": "2026-09-18T01:08:02.973568+08:00",
+        "nextRun": "2026-09-18T02:08:59.615321+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-17T22:12:10.873560+08:00",
-        "nextRun": "2026-09-18T01:10:00+08:00",
+        "lastRun": "2026-09-18T01:12:42.591790+08:00",
+        "nextRun": "2026-09-18T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T01:05:01.704529+08:00",
-        "nextRun": "2026-09-18T01:09:58.911583+08:00",
+        "lastRun": "2026-09-18T01:38:02.474122+08:00",
+        "nextRun": "2026-09-18T01:40:02.474122+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T00:38:17.982912+08:00",
-        "nextRun": "2026-09-18T01:30:00+08:00",
+        "lastRun": "2026-09-18T01:31:19.245703+08:00",
+        "nextRun": "2026-09-18T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-18T01:07:58.915583+08:00"
+    "updatedAt": "2026-09-18T01:38:59.616321+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
