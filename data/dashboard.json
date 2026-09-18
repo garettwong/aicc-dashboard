@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-18T09:18:27+08:00",
+    "generatedAt": "2026-09-18T10:49:29+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-18_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20260918_073045.html",
+    "radarSource": "ai_opportunity_radar_20260918_103049.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,27 +14,27 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260918_073045.html",
+    "sourceFile": "ai_opportunity_radar_20260918_103049.html",
     "items": [
       {
-        "id": "radar-9efabf1bbd69",
+        "id": "radar-a2497a57f6be",
         "kind": "radar",
-        "title": "Show HN: 500 TB internet index in ClickHouse, with congestion pricing",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "AI agents can modify themselves without humans telling them to do so",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-17 23:15",
-        "displayDate": "2026-09-17 23:15",
-        "url": "https://scry.io/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-17 23:15"
+        "date": "2026-09-18 00:53",
+        "displayDate": "2026-09-18 00:53",
+        "url": "https://theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 00:53"
       },
       {
         "id": "radar-3aad295ca231",
         "kind": "radar",
         "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
-        "summary": "theregister.com reports: AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom theregister.com",
+        "summary": "The Register reports: AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom The Register",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -42,7 +42,7 @@
         "date": "2026-09-17 22:42",
         "displayDate": "2026-09-17 22:42",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejdTRy1OOEdRNFA0ZGMyejRfcnktazVIMy1LQXhGbGVwb2RscE41MEdkOUZ5NFNGTjR3bmx1OGlqRjhVcXFTcE9FUm1EcXNqc2N6R0RHeTNPNEFPeGNvd3pkWFdPVVNtX1dFQlB3RFdZTTBLTWNtcnR4Z0V1RnlQUmZlN3N0bHZtUkdvS3ZyQ0ZyWTJ3dGRpZnJjT0FRQU9qLUhVTFlWbVJpYVIwSjJNMlJWU21VeWpnNXdIWWF2dkl5dkhzSDNXVFdR",
-        "source": "Trusted news / community signal · Source: theregister.com · Time: 2026-09-17 22:42"
+        "source": "Trusted news / community signal · Source: The Register · Time: 2026-09-17 22:42"
       },
       {
         "id": "radar-822bc28b8173",
@@ -95,10 +95,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-17 22:32",
-        "displayDate": "2026-09-17 22:32",
+        "date": "2026-09-17 22:33",
+        "displayDate": "2026-09-17 22:33",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZcVpOR1I1V29XV19HQmtlWTh5alFZTjczQUJvYkZCUjBWMDVEX29VUFpsSHAzeHBzQTRNWTZjQnJSanZKNVVIRlI1MlJ3YlRXUjdoLUt6UmZrZVRlcVlGSVVZLW8",
-        "source": "News signal — verify before acting · Source: WeRSM · Time: 2026-09-17 22:32"
+        "source": "News signal — verify before acting · Source: WeRSM · Time: 2026-09-17 22:33"
       },
       {
         "id": "radar-882055ffdf79",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Fast Company · Time: 2026-09-15 16:28"
       },
       {
-        "id": "radar-70594970da38",
+        "id": "radar-f33db396c45f",
         "kind": "radar",
-        "title": "Reimagining research papers as interactive and reliable AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Lakera – Test your AI hacking skills",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-17 23:14",
-        "displayDate": "2026-09-17 23:14",
-        "url": "https://nature.com/articles/s41586-026-11044-y",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-17 23:14"
+        "date": "2026-09-18 00:38",
+        "displayDate": "2026-09-18 00:38",
+        "url": "https://play.lakera.ai/agent-breaker",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 00:38"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-17T09:30:22.739400+08:00",
-        "nextRun": "2026-09-18T09:30:00+08:00",
+        "lastRun": "2026-09-18T09:30:30.298693+08:00",
+        "nextRun": "2026-09-19T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T08:48:27.291677+08:00",
-        "nextRun": "2026-09-18T09:48:27.550207+08:00",
+        "lastRun": "2026-09-18T10:19:29.374982+08:00",
+        "nextRun": "2026-09-18T11:19:29.550072+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T07:11:52.432547+08:00",
-        "nextRun": "2026-09-18T10:10:00+08:00",
+        "lastRun": "2026-09-18T10:11:45.652197+08:00",
+        "nextRun": "2026-09-18T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T09:17:30.861893+08:00",
-        "nextRun": "2026-09-18T09:19:30.861893+08:00",
+        "lastRun": "2026-09-18T10:47:32.516012+08:00",
+        "nextRun": "2026-09-18T10:49:32.516012+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T07:30:45.752865+08:00",
-        "nextRun": "2026-09-18T10:30:00+08:00",
+        "lastRun": "2026-09-18T10:30:49.269068+08:00",
+        "nextRun": "2026-09-18T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T06:46:39.236734+08:00",
-        "nextRun": "2026-09-18T09:40:00+08:00",
+        "lastRun": "2026-09-18T09:46:50.605447+08:00",
+        "nextRun": "2026-09-18T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-18T09:18:27.551207+08:00"
+    "updatedAt": "2026-09-18T10:49:29.550072+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
