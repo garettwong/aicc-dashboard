@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-18T10:49:29+08:00",
+    "generatedAt": "2026-09-18T13:51:02+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-18_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20260918_103049.html",
+    "radarSource": "ai_opportunity_radar_20260918_133023.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260918_103049.html",
+    "sourceFile": "ai_opportunity_radar_20260918_133023.html",
     "items": [
       {
-        "id": "radar-a2497a57f6be",
+        "id": "radar-32e36806ecfe",
         "kind": "radar",
-        "title": "AI agents can modify themselves without humans telling them to do so",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
+        "title": "Show HN: An open Add/Search evaluation framework for agent memory",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-18 00:53",
-        "displayDate": "2026-09-18 00:53",
-        "url": "https://theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 00:53"
+        "score": 57,
+        "date": "2026-09-18 02:52",
+        "displayDate": "2026-09-18 02:52",
+        "url": "https://agentmemoryleaderboard.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 02:52"
       },
       {
         "id": "radar-3aad295ca231",
@@ -101,32 +101,32 @@
         "source": "News signal — verify before acting · Source: WeRSM · Time: 2026-09-17 22:33"
       },
       {
-        "id": "radar-882055ffdf79",
+        "id": "radar-088177e25553",
         "kind": "radar",
-        "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
-        "summary": "ABC News - Breaking News, Latest News and Videos reports: 'Rogue' AI agent went haywire at tech company.",
+        "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
+        "summary": "Designboom reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-09-16 06:47",
-        "displayDate": "2026-09-16 06:47",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm",
-        "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-09-16 06:47"
+        "date": "2026-09-11 20:26",
+        "displayDate": "2026-09-11 20:26",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRFB5dWFkSFN2TDhrSEozVDltMkFaSTNFMEgzaEpMT2dtWW5PR25XSjA5M09HeGJWRVdtSjVCN1ZGN1pCS0tiUVFUOTB2dlVRTGc4di1UWXBEaW43aXlfM0hjWTNJZm1idS1tLTI2TDlsQ2pSNW42WXNOY184dVktWHAyYlpYa2lRZU1ta3doV1RTbVdYUHEtT2dxT3JTNlh6NzYzcmFiTTZiX1ZZYlNQSmdCMGozNFlEazlRNzI1VVN6dWg2MjJsd25sTTdkUQ",
+        "source": "News signal — verify before acting · Source: Designboom · Time: 2026-09-11 20:26"
       },
       {
-        "id": "radar-a70649d6cf86",
+        "id": "radar-ee9d539b3146",
         "kind": "radar",
-        "title": "AI is remaking the workforce faster than universities can decide how—or whether—to teach it",
-        "summary": "Fortune reports: AI is remaking the workforce faster than universities can decide how—or whether—to teach it Fortune",
+        "title": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
+        "summary": "Yahoo Finance reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-14 07:14",
-        "displayDate": "2026-09-14 07:14",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzhTUTNVWVg0dzBqYmppR1lvQzhGQjV6VmFrSVptNDZTeDhya01IQ3k2Q0tzbzNkcEREZjhld0MzSnAwSjhiN2hKLWZXa2xJbWcxSGlWU2tGdEViTGFicHliRHFwaHVtWllXWjhIOWhPMUtURWxBai02eV9iai1GaVphUjJiZVdzUUxlVHNqb2ZBOEU1TTR2V2kyS0IyT2kzWjROOTlJRzFSVE5oQ1BwN01TT3l2X3lTQjFzS0NkbENhTWFZY3lsMm4tOEthUlVn",
-        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-09-14 07:14"
+        "score": 96,
+        "date": "2026-09-15 18:18",
+        "displayDate": "2026-09-15 18:18",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN3UW0tekowd2o0YWVlYU9xY2wwMXIyTlJhNzFIWktTTFVsUEU3aEhiQ0tIbzFpTDg5aFZBdHNXQWNRcC1FbVF4ZjhZZjJoQ1FEYkcyZkNOeWlabTV3eGpKZEh3WDItTWFFWDZmS3hlQkg3d004SUtfUzk0YzJkN3IyWGx2aGFxUzI5NWJtQkVtejV5ODZXaA",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-15 18:18"
       },
       {
         "id": "radar-dae63433db43",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Fast Company · Time: 2026-09-15 16:28"
       },
       {
-        "id": "radar-f33db396c45f",
+        "id": "radar-2ffc1779ff0e",
         "kind": "radar",
-        "title": "Lakera – Test your AI hacking skills",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "macOS 27 is a lifesaver for killing leftover AI Agent processes",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-18 00:38",
-        "displayDate": "2026-09-18 00:38",
-        "url": "https://play.lakera.ai/agent-breaker",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 00:38"
+        "date": "2026-09-18 03:55",
+        "displayDate": "2026-09-18 03:55",
+        "url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-18 03:55"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T10:19:29.374982+08:00",
-        "nextRun": "2026-09-18T11:19:29.550072+08:00",
+        "lastRun": "2026-09-18T13:21:02.306363+08:00",
+        "nextRun": "2026-09-18T14:21:02.465647+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T10:11:45.652197+08:00",
-        "nextRun": "2026-09-18T13:10:00+08:00",
+        "lastRun": "2026-09-18T13:12:02.391237+08:00",
+        "nextRun": "2026-09-18T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T10:47:32.516012+08:00",
-        "nextRun": "2026-09-18T10:49:32.516012+08:00",
+        "lastRun": "2026-09-18T13:48:08.332741+08:00",
+        "nextRun": "2026-09-18T13:53:02.460647+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T10:30:49.269068+08:00",
-        "nextRun": "2026-09-18T13:30:00+08:00",
+        "lastRun": "2026-09-18T13:30:23.468439+08:00",
+        "nextRun": "2026-09-18T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-18T09:46:50.605447+08:00",
-        "nextRun": "2026-09-18T12:40:00+08:00",
+        "lastRun": "2026-09-18T12:45:31.726395+08:00",
+        "nextRun": "2026-09-18T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-18T10:49:29.550072+08:00"
+    "updatedAt": "2026-09-18T13:51:02.465647+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
