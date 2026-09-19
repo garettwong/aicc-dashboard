@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-19T22:35:45+08:00",
+    "generatedAt": "2026-09-20T01:36:49+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-19_09-03-05.md",
-    "radarSource": "ai_opportunity_radar_20260919_223102.html",
+    "radarSource": "ai_opportunity_radar_20260920_013105.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260919_223102.html",
+    "sourceFile": "ai_opportunity_radar_20260920_013105.html",
     "items": [
       {
         "id": "radar-a2caafb5cabb",
@@ -31,24 +31,24 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-19 14:20"
       },
       {
-        "id": "radar-5db78cf736ae",
+        "id": "radar-c0922d3fcdcc",
         "kind": "radar",
-        "title": "Anthropic Adopts OpenAI's Standards: All Agents Will Share the Unified AGENTS.md Document Henceforth",
-        "summary": "36Kr reports: Anthropic Adopts OpenAI's Standards: All Agents Will Share the Unified AGENTS.md Document Henceforth 36Kr",
+        "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
+        "summary": "CyberSecurityNews reports: Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI CyberSecurityNews",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-19 05:41",
-        "displayDate": "2026-09-19 05:41",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MRW4tZkdrWHQyMVhwdlgtUGRETHkzUmZDNjN1M1g1X0NBOTNjbjFqeFRiQWZPbXpyWWg4LXoyS3kxSUVkdXpfNXdic3YwQkwzbDRj",
-        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-09-19 05:41"
+        "date": "2026-09-19 17:11",
+        "displayDate": "2026-09-19 17:11",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wel93eHg4TXpYeVZ0M2Q1RDM0ZTNfNlF5SmVRUG9HLThVdFdmWkFSMlYwR0hpUm9Cd0VfM0RRWkNkQWNiaFoyTFVvNjVhY2QtdmdsYXBzdkl0eFV2SDNtc2ZpbC1tbUlobVHSAW9BVV95cUxQN3h2YWhGSlN6T2I1WUp4Y1B6NkVoYmwzMS0tMjU0TE9ZVVpTNi01WDVSUXJ6SHhYanpKc2dHeXdURWYzYThUeTBPVEJoRTNFNmpTcVJhbEcyR254eXJLblloVjIwRlg4TWl5cmc1MDQ",
+        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-09-19 17:11"
       },
       {
         "id": "radar-ee9d539b3146",
         "kind": "radar",
         "title": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
-        "summary": "finance.yahoo.com reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
+        "summary": "Yahoo Finance reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-15 18:18",
         "displayDate": "2026-09-15 18:18",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN3UW0tekowd2o0YWVlYU9xY2wwMXIyTlJhNzFIWktTTFVsUEU3aEhiQ0tIbzFpTDg5aFZBdHNXQWNRcC1FbVF4ZjhZZjJoQ1FEYkcyZkNOeWlabTV3eGpKZEh3WDItTWFFWDZmS3hlQkg3d004SUtfUzk0YzJkN3IyWGx2aGFxUzI5NWJtQkVtejV5ODZXaA",
-        "source": "News signal — verify before acting · Source: finance.yahoo.com · Time: 2026-09-15 18:18"
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-15 18:18"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: The Jerusalem Post · Time: 2026-09-19 07:31"
       },
       {
-        "id": "radar-93de74cd2800",
+        "id": "radar-5db78cf736ae",
         "kind": "radar",
-        "title": "Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI",
-        "summary": "Startup Fortune reports: Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI Startup Fortune",
+        "title": "Anthropic Adopts OpenAI's Standards: All Agents Will Share the Unified AGENTS.md Document Henceforth",
+        "summary": "36Kr reports: Anthropic Adopts OpenAI's Standards: All Agents Will Share the Unified AGENTS.md Document Henceforth 36Kr",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-18 23:37",
-        "displayDate": "2026-09-18 23:37",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREd0X29KN3JwbkwtYXpsVHRGV01fSWowNlJ2YzBTejFFNnNRYk1yRWw3RUN1d0hJZ3U5YjVpR0hoQ051NzBXLTJmeXhkVkt4eTNub0pyV2FLNnJHTUYwQUZJeWZ5YVEzaVBOMU5ibUVxUlFsSXFobU9jclRodkhIY1V1ZEtpM3JGdUxxYWpIVmJDOWVtRUE",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-09-18 23:37"
+        "date": "2026-09-19 05:41",
+        "displayDate": "2026-09-19 05:41",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MRW4tZkdrWHQyMVhwdlgtUGRETHkzUmZDNjN1M1g1X0NBOTNjbjFqeFRiQWZPbXpyWWg4LXoyS3kxSUVkdXpfNXdic3YwQkwzbDRj",
+        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-09-19 05:41"
       },
       {
         "id": "radar-637423a40cfe",
@@ -146,7 +146,7 @@
         "id": "radar-7b7cfc3ebd69",
         "kind": "radar",
         "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
-        "summary": "reuters.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "Reuters flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -154,7 +154,7 @@
         "date": "2026-09-16 16:43",
         "displayDate": "2026-09-16 16:43",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHB3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt",
-        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-16 16:43"
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-16 16:43"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T22:05:42.639719+08:00",
-        "nextRun": "2026-09-19T23:05:44.902668+08:00",
+        "lastRun": "2026-09-20T01:06:48.953930+08:00",
+        "nextRun": "2026-09-20T02:06:49.206414+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T22:11:52.383000+08:00",
-        "nextRun": "2026-09-20T01:10:00+08:00",
+        "lastRun": "2026-09-20T01:12:37.718135+08:00",
+        "nextRun": "2026-09-20T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T22:33:50.252687+08:00",
-        "nextRun": "2026-09-19T22:35:50.252687+08:00",
+        "lastRun": "2026-09-20T01:33:54.852040+08:00",
+        "nextRun": "2026-09-20T01:38:49.188908+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T22:31:02.386740+08:00",
-        "nextRun": "2026-09-20T01:30:00+08:00",
+        "lastRun": "2026-09-20T01:31:05.279408+08:00",
+        "nextRun": "2026-09-20T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T21:52:38.291425+08:00",
-        "nextRun": "2026-09-20T00:40:00+08:00",
+        "lastRun": "2026-09-20T00:45:45.263106+08:00",
+        "nextRun": "2026-09-20T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-19T22:35:44.903668+08:00"
+    "updatedAt": "2026-09-20T01:36:49.207414+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
