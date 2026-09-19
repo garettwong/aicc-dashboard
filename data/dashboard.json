@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-19T19:34:38+08:00",
+    "generatedAt": "2026-09-19T22:35:45+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-19_09-03-05.md",
-    "radarSource": "ai_opportunity_radar_20260919_193054.html",
+    "radarSource": "ai_opportunity_radar_20260919_223102.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260919_193054.html",
+    "sourceFile": "ai_opportunity_radar_20260919_223102.html",
     "items": [
       {
-        "id": "radar-7f78ac201a00",
+        "id": "radar-a2caafb5cabb",
         "kind": "radar",
-        "title": "Anyone Used Cloudflare AI Agent Diagnostics for SaaS Purchases?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
+        "title": "How should we evaluate whether an AI agent's memory is still current?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-19 11:21",
-        "displayDate": "2026-09-19 11:21",
-        "url": "https://blog.cloudflare.com/aeo",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-19 11:21"
+        "score": 57,
+        "date": "2026-09-19 14:20",
+        "displayDate": "2026-09-19 14:20",
+        "url": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-19 14:20"
       },
       {
         "id": "radar-5db78cf736ae",
@@ -48,7 +48,7 @@
         "id": "radar-ee9d539b3146",
         "kind": "radar",
         "title": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
-        "summary": "Yahoo Finance reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
+        "summary": "finance.yahoo.com reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-15 18:18",
         "displayDate": "2026-09-15 18:18",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN3UW0tekowd2o0YWVlYU9xY2wwMXIyTlJhNzFIWktTTFVsUEU3aEhiQ0tIbzFpTDg5aFZBdHNXQWNRcC1FbVF4ZjhZZjJoQ1FEYkcyZkNOeWlabTV3eGpKZEh3WDItTWFFWDZmS3hlQkg3d004SUtfUzk0YzJkN3IyWGx2aGFxUzI5NWJtQkVtejV5ODZXaA",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-15 18:18"
+        "source": "News signal — verify before acting · Source: finance.yahoo.com · Time: 2026-09-15 18:18"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -146,7 +146,7 @@
         "id": "radar-7b7cfc3ebd69",
         "kind": "radar",
         "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
-        "summary": "Reuters flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "reuters.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -154,7 +154,7 @@
         "date": "2026-09-16 16:43",
         "displayDate": "2026-09-16 16:43",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHB3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-16 16:43"
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-16 16:43"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T15:02:49.616791+08:00",
-        "nextRun": "2026-09-19T21:00:00+08:00",
+        "lastRun": "2026-09-19T21:02:17.225628+08:00",
+        "nextRun": "2026-09-20T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T19:04:38.015933+08:00",
-        "nextRun": "2026-09-19T20:04:38.260159+08:00",
+        "lastRun": "2026-09-19T22:05:42.639719+08:00",
+        "nextRun": "2026-09-19T23:05:44.902668+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T19:11:51.603237+08:00",
-        "nextRun": "2026-09-19T22:10:00+08:00",
+        "lastRun": "2026-09-19T22:11:52.383000+08:00",
+        "nextRun": "2026-09-20T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T19:33:44.013703+08:00",
-        "nextRun": "2026-09-19T19:35:44.013703+08:00",
+        "lastRun": "2026-09-19T22:33:50.252687+08:00",
+        "nextRun": "2026-09-19T22:35:50.252687+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T19:30:54.175484+08:00",
-        "nextRun": "2026-09-19T22:30:00+08:00",
+        "lastRun": "2026-09-19T22:31:02.386740+08:00",
+        "nextRun": "2026-09-20T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T18:45:37.517946+08:00",
-        "nextRun": "2026-09-19T21:40:00+08:00",
+        "lastRun": "2026-09-19T21:52:38.291425+08:00",
+        "nextRun": "2026-09-20T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-19T19:34:38.260159+08:00"
+    "updatedAt": "2026-09-19T22:35:44.903668+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
