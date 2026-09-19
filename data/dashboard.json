@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-19T16:33:34+08:00",
+    "generatedAt": "2026-09-19T19:34:38+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-19_09-03-05.md",
-    "radarSource": "ai_opportunity_radar_20260919_163050.html",
+    "radarSource": "ai_opportunity_radar_20260919_193054.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260919_163050.html",
+    "sourceFile": "ai_opportunity_radar_20260919_193054.html",
     "items": [
       {
-        "id": "radar-ae5a9625d253",
+        "id": "radar-7f78ac201a00",
         "kind": "radar",
-        "title": "'Know your agent': Banks face a new compliance challenge as AI agents shop and pay on their own",
-        "summary": "Fortune is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Anyone Used Cloudflare AI Agent Diagnostics for SaaS Purchases?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-19 05:00",
-        "displayDate": "2026-09-19 05:00",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cc0pvUzF3MjJlRXZhOWhzaXl2Z2wyXy1lOWhjZ0J4b0JFVWhsUG9CRGQzb1E0SWwyZ1RnOVRzQW5fbGUweFUtTjBNaWNwREVRWGFCMV82elE4SDBfZ0RPdE9jVy1OTEd3d0pRbGNaMlQ1Sm8",
-        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-09-19 05:00"
+        "date": "2026-09-19 11:21",
+        "displayDate": "2026-09-19 11:21",
+        "url": "https://blog.cloudflare.com/aeo",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-19 11:21"
       },
       {
         "id": "radar-5db78cf736ae",
@@ -48,7 +48,7 @@
         "id": "radar-ee9d539b3146",
         "kind": "radar",
         "title": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
-        "summary": "finance.yahoo.com reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
+        "summary": "Yahoo Finance reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-15 18:18",
         "displayDate": "2026-09-15 18:18",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN3UW0tekowd2o0YWVlYU9xY2wwMXIyTlJhNzFIWktTTFVsUEU3aEhiQ0tIbzFpTDg5aFZBdHNXQWNRcC1FbVF4ZjhZZjJoQ1FEYkcyZkNOeWlabTV3eGpKZEh3WDItTWFFWDZmS3hlQkg3d004SUtfUzk0YzJkN3IyWGx2aGFxUzI5NWJtQkVtejV5ODZXaA",
-        "source": "News signal — verify before acting · Source: finance.yahoo.com · Time: 2026-09-15 18:18"
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-15 18:18"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -104,7 +104,7 @@
         "id": "radar-93de74cd2800",
         "kind": "radar",
         "title": "Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI",
-        "summary": "startupfortune.com reports: Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI startupfortune.com",
+        "summary": "Startup Fortune reports: Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -112,7 +112,7 @@
         "date": "2026-09-18 23:37",
         "displayDate": "2026-09-18 23:37",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREd0X29KN3JwbkwtYXpsVHRGV01fSWowNlJ2YzBTejFFNnNRYk1yRWw3RUN1d0hJZ3U5YjVpR0hoQ051NzBXLTJmeXhkVkt4eTNub0pyV2FLNnJHTUYwQUZJeWZ5YVEzaVBOMU5ibUVxUlFsSXFobU9jclRodkhIY1V1ZEtpM3JGdUxxYWpIVmJDOWVtRUE",
-        "source": "Trusted news / community signal · Source: startupfortune.com · Time: 2026-09-18 23:37"
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-09-18 23:37"
       },
       {
         "id": "radar-637423a40cfe",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T16:03:33.934264+08:00",
-        "nextRun": "2026-09-19T17:03:34.178974+08:00",
+        "lastRun": "2026-09-19T19:04:38.015933+08:00",
+        "nextRun": "2026-09-19T20:04:38.260159+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T16:11:55.513337+08:00",
-        "nextRun": "2026-09-19T19:10:00+08:00",
+        "lastRun": "2026-09-19T19:11:51.603237+08:00",
+        "nextRun": "2026-09-19T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T16:30:36.642917+08:00",
-        "nextRun": "2026-09-19T16:35:34.173996+08:00",
+        "lastRun": "2026-09-19T19:33:44.013703+08:00",
+        "nextRun": "2026-09-19T19:35:44.013703+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T16:30:50.294518+08:00",
-        "nextRun": "2026-09-19T19:30:00+08:00",
+        "lastRun": "2026-09-19T19:30:54.175484+08:00",
+        "nextRun": "2026-09-19T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-19T15:48:51.070912+08:00",
-        "nextRun": "2026-09-19T18:40:00+08:00",
+        "lastRun": "2026-09-19T18:45:37.517946+08:00",
+        "nextRun": "2026-09-19T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-19T16:33:34.178974+08:00"
+    "updatedAt": "2026-09-19T19:34:38.260159+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
