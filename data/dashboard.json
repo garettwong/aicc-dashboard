@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-20T13:25:06+08:00",
+    "generatedAt": "2026-09-20T13:56:07+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-20_09-01-46.md",
-    "radarSource": "ai_opportunity_radar_20260920_103018.html",
+    "radarSource": "ai_opportunity_radar_20260920_133022.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260920_103018.html",
+    "sourceFile": "ai_opportunity_radar_20260920_133022.html",
     "items": [
       {
-        "id": "radar-2f8b2d13716f",
+        "id": "radar-7fabb736c0a5",
         "kind": "radar",
-        "title": "Ask HN: How do you interview devs in a post-AI world?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=30, comments=21.",
+        "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 46,
-        "date": "2026-09-19 18:10",
-        "displayDate": "2026-09-19 18:10",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-19 18:10"
+        "score": 56,
+        "date": "2026-09-20 04:17",
+        "displayDate": "2026-09-20 04:17",
+        "url": "https://github.com/BenSiv/fossil-scm",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-20 04:17"
       },
       {
-        "id": "radar-c0922d3fcdcc",
+        "id": "radar-df0126851fc8",
         "kind": "radar",
-        "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
-        "summary": "CyberSecurityNews reports: Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI CyberSecurityNews",
+        "title": "Researchers Access OpenAI Systems via Claude AI in 72 Hours",
+        "summary": "조선일보 reports: Researchers Access OpenAI Systems via Claude AI in 72 Hours 조선일보",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-20 02:29",
-        "displayDate": "2026-09-20 02:29",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wel93eHg4TXpYeVZ0M2Q1RDM0ZTNfNlF5SmVRUG9HLThVdFdmWkFSMlYwR0hpUm9Cd0VfM0RRWkNkQWNiaFoyTFVvNjVhY2QtdmdsYXBzdkl0eFV2SDNtc2ZpbC1tbUlobVHSAW9BVV95cUxQN3h2YWhGSlN6T2I1WUp4Y1B6NkVoYmwzMS0tMjU0TE9ZVVpTNi01WDVSUXJ6SHhYanpKc2dHeXdURWYzYThUeTBPVEJoRTNFNmpTcVJhbEcyR254eXJLblloVjIwRlg4TWl5cmc1MDQ",
-        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-09-20 02:29"
+        "date": "2026-09-20 05:05",
+        "displayDate": "2026-09-20 05:05",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVlZOFllUl9XUjdMaWJNX21LNEdYcFkzNWZubnFueUpsQUR4SXM5bVE3MG5GUWttVGFOSEFzSGUyc0ptdVRJcDR5dy1UQmlZS1hzYnh3TkhJYlJTSlRPOTRJMDl3Q05nZ01WVVFvLUs2WnMxQTVDWUtrZEZBTUw0RHRGckpNSVlE",
+        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-09-20 05:05"
       },
       {
         "id": "radar-ee9d539b3146",
@@ -62,7 +62,7 @@
         "id": "radar-303995c3e8f4",
         "kind": "radar",
         "title": "How Agentic AI Streamlines Engineering Workflows and Design Tasks",
-        "summary": "designnews.com reports: How Agentic AI Streamlines Engineering Workflows and Design Tasks designnews.com",
+        "summary": "Design News reports: How Agentic AI Streamlines Engineering Workflows and Design Tasks Design News",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -70,7 +70,7 @@
         "date": "2026-09-18 23:45",
         "displayDate": "2026-09-18 23:45",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTZWZl9KVmpGaXdfdzRDczZxZ3dTS3JuemNzWGVPc0VRNlJSZURmTXg4VDFzTWh1cHQwY2xUTkl4T1laZDR0QzN5TnM2WUNUa0V0NEdZSUFqNUVfSUJld19pTFJYRnFiRzJMTmp0cm9YbHJWYnhwdVpRcVYyNXR2LUdoODVQZHZOMllXQ0RNaExUdmI2OEhIbjZiYld5OFlhd0JhRjhSRU81RmdyTEwtU1F0VQ",
-        "source": "News signal — verify before acting · Source: designnews.com · Time: 2026-09-18 23:45"
+        "source": "News signal — verify before acting · Source: Design News · Time: 2026-09-18 23:45"
       },
       {
         "id": "radar-882055ffdf79",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: The Jerusalem Post · Time: 2026-09-19 19:12"
       },
       {
-        "id": "radar-93de74cd2800",
+        "id": "radar-c0922d3fcdcc",
         "kind": "radar",
-        "title": "Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI",
-        "summary": "Startup Fortune reports: Plugin4Shell Flaw Hits Claude Code, Codex, Copilot and Gemini CLI Startup Fortune",
+        "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
+        "summary": "CyberSecurityNews reports: Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI CyberSecurityNews",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-18 23:37",
-        "displayDate": "2026-09-18 23:37",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNREd0X29KN3JwbkwtYXpsVHRGV01fSWowNlJ2YzBTejFFNnNRYk1yRWw3RUN1d0hJZ3U5YjVpR0hoQ051NzBXLTJmeXhkVkt4eTNub0pyV2FLNnJHTUYwQUZJeWZ5YVEzaVBOMU5ibUVxUlFsSXFobU9jclRodkhIY1V1ZEtpM3JGdUxxYWpIVmJDOWVtRUE",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-09-18 23:37"
+        "date": "2026-09-20 02:29",
+        "displayDate": "2026-09-20 02:29",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wel93eHg4TXpYeVZ0M2Q1RDM0ZTNfNlF5SmVRUG9HLThVdFdmWkFSMlYwR0hpUm9Cd0VfM0RRWkNkQWNiaFoyTFVvNjVhY2QtdmdsYXBzdkl0eFV2SDNtc2ZpbC1tbUlobVHSAW9BVV95cUxQN3h2YWhGSlN6T2I1WUp4Y1B6NkVoYmwzMS0tMjU0TE9ZVVpTNi01WDVSUXJ6SHhYanpKc2dHeXdURWYzYThUeTBPVEJoRTNFNmpTcVJhbEcyR254eXJLblloVjIwRlg4TWl5cmc1MDQ",
+        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-09-20 02:29"
       },
       {
         "id": "radar-ec201da41574",
@@ -132,7 +132,7 @@
         "id": "radar-a70649d6cf86",
         "kind": "radar",
         "title": "AI is remaking the workforce faster than universities can decide how—or whether—to teach it",
-        "summary": "fortune.com reports: AI is remaking the workforce faster than universities can decide how—or whether—to teach it fortune.com",
+        "summary": "Fortune reports: AI is remaking the workforce faster than universities can decide how—or whether—to teach it Fortune",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -140,7 +140,7 @@
         "date": "2026-09-14 07:14",
         "displayDate": "2026-09-14 07:14",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzhTUTNVWVg0dzBqYmppR1lvQzhGQjV6VmFrSVptNDZTeDhya01IQ3k2Q0tzbzNkcEREZjhld0MzSnAwSjhiN2hKLWZXa2xJbWcxSGlWU2tGdEViTGFicHliRHFwaHVtWllXWjhIOWhPMUtURWxBai02eV9iai1GaVphUjJiZVdzUUxlVHNqb2ZBOEU1TTR2V2kyS0IyT2kzWjROOTlJRzFSVE5oQ1BwN01TT3l2X3lTQjFzS0NkbENhTWFZY3lsMm4tOEthUlVn",
-        "source": "Trusted news / community signal · Source: fortune.com · Time: 2026-09-14 07:14"
+        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-09-14 07:14"
       },
       {
         "id": "radar-0cbf129fb038",
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T12:55:05.870173+08:00",
-        "nextRun": "2026-09-20T13:55:06.073458+08:00",
+        "lastRun": "2026-09-20T13:25:09.769913+08:00",
+        "nextRun": "2026-09-20T14:26:06.764461+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T13:22:11.109918+08:00",
-        "nextRun": "2026-09-20T13:27:06.068954+08:00",
+        "lastRun": "2026-09-20T13:55:11.627787+08:00",
+        "nextRun": "2026-09-20T13:57:11.627787+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T10:30:18.635793+08:00",
-        "nextRun": "2026-09-20T13:30:00+08:00",
+        "lastRun": "2026-09-20T13:30:22.857776+08:00",
+        "nextRun": "2026-09-20T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-20T13:25:06.074459+08:00"
+    "updatedAt": "2026-09-20T13:56:06.765461+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
