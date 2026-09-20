@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-20T16:27:10+08:00",
+    "generatedAt": "2026-09-20T16:58:13+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-20_09-01-46.md",
-    "radarSource": "ai_opportunity_radar_20260920_133022.html",
+    "radarSource": "ai_opportunity_radar_20260920_163028.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260920_133022.html",
+    "sourceFile": "ai_opportunity_radar_20260920_163028.html",
     "items": [
       {
         "id": "radar-7fabb736c0a5",
         "kind": "radar",
         "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -31,32 +31,32 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-20 04:17"
       },
       {
-        "id": "radar-df0126851fc8",
+        "id": "radar-c0922d3fcdcc",
         "kind": "radar",
-        "title": "Researchers Access OpenAI Systems via Claude AI in 72 Hours",
-        "summary": "조선일보 reports: Researchers Access OpenAI Systems via Claude AI in 72 Hours 조선일보",
+        "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
+        "summary": "CyberSecurityNews reports: Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI CyberSecurityNews",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-20 05:05",
-        "displayDate": "2026-09-20 05:05",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVlZOFllUl9XUjdMaWJNX21LNEdYcFkzNWZubnFueUpsQUR4SXM5bVE3MG5GUWttVGFOSEFzSGUyc0ptdVRJcDR5dy1UQmlZS1hzYnh3TkhJYlJTSlRPOTRJMDl3Q05nZ01WVVFvLUs2WnMxQTVDWUtrZEZBTUw0RHRGckpNSVlE",
-        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-09-20 05:05"
+        "date": "2026-09-20 05:29",
+        "displayDate": "2026-09-20 05:29",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wel93eHg4TXpYeVZ0M2Q1RDM0ZTNfNlF5SmVRUG9HLThVdFdmWkFSMlYwR0hpUm9Cd0VfM0RRWkNkQWNiaFoyTFVvNjVhY2QtdmdsYXBzdkl0eFV2SDNtc2ZpbC1tbUlobVHSAW9BVV95cUxQN3h2YWhGSlN6T2I1WUp4Y1B6NkVoYmwzMS0tMjU0TE9ZVVpTNi01WDVSUXJ6SHhYanpKc2dHeXdURWYzYThUeTBPVEJoRTNFNmpTcVJhbEcyR254eXJLblloVjIwRlg4TWl5cmc1MDQ",
+        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-09-20 05:29"
       },
       {
-        "id": "radar-ee9d539b3146",
+        "id": "radar-96ff43620e98",
         "kind": "radar",
-        "title": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
-        "summary": "Yahoo Finance reports: Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
+        "title": "AI Roleplay Agents Train Advisors in Schools",
+        "summary": "Wealth Management is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 96,
-        "date": "2026-09-15 18:18",
-        "displayDate": "2026-09-15 18:18",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN3UW0tekowd2o0YWVlYU9xY2wwMXIyTlJhNzFIWktTTFVsUEU3aEhiQ0tIbzFpTDg5aFZBdHNXQWNRcC1FbVF4ZjhZZjJoQ1FEYkcyZkNOeWlabTV3eGpKZEh3WDItTWFFWDZmS3hlQkg3d004SUtfUzk0YzJkN3IyWGx2aGFxUzI5NWJtQkVtejV5ODZXaA",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-15 18:18"
+        "date": "2026-09-16 18:21",
+        "displayDate": "2026-09-16 18:21",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDNjV0pFOTRzX0p0V21ISHNHTFdza25WWGhVNV80SVdKaTB0cF9KcVYwLUFtTGFBNC1zNFl3VC1jeHhWS1lpVWU1eF9hV2R1ZVJYa2xvLWdIaV9GVUx2Rld3dDI3UzhBeWJEU0JwRUZYVk41WmUxYmhVcExwZlF0blp4OEl2eDZOWWpfcVJKZWs5X3BPWWtIcmdIY2c4ZjVwaF9jWkV2QkYzZnczbjM3aA",
+        "source": "News signal — verify before acting · Source: Wealth Management · Time: 2026-09-16 18:21"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: The Jerusalem Post · Time: 2026-09-19 19:12"
       },
       {
-        "id": "radar-c0922d3fcdcc",
+        "id": "radar-df0126851fc8",
         "kind": "radar",
-        "title": "Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI",
-        "summary": "CyberSecurityNews reports: Plugin4Shell Zero-Click RCE Hits Claude Code, Codex, Copilot and Gemini CLI CyberSecurityNews",
+        "title": "Researchers Access OpenAI Systems via Claude AI in 72 Hours",
+        "summary": "조선일보 reports: Researchers Access OpenAI Systems via Claude AI in 72 Hours 조선일보",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-20 02:29",
-        "displayDate": "2026-09-20 02:29",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wel93eHg4TXpYeVZ0M2Q1RDM0ZTNfNlF5SmVRUG9HLThVdFdmWkFSMlYwR0hpUm9Cd0VfM0RRWkNkQWNiaFoyTFVvNjVhY2QtdmdsYXBzdkl0eFV2SDNtc2ZpbC1tbUlobVHSAW9BVV95cUxQN3h2YWhGSlN6T2I1WUp4Y1B6NkVoYmwzMS0tMjU0TE9ZVVpTNi01WDVSUXJ6SHhYanpKc2dHeXdURWYzYThUeTBPVEJoRTNFNmpTcVJhbEcyR254eXJLblloVjIwRlg4TWl5cmc1MDQ",
-        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-09-20 02:29"
+        "date": "2026-09-20 05:05",
+        "displayDate": "2026-09-20 05:05",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVlZOFllUl9XUjdMaWJNX21LNEdYcFkzNWZubnFueUpsQUR4SXM5bVE3MG5GUWttVGFOSEFzSGUyc0ptdVRJcDR5dy1UQmlZS1hzYnh3TkhJYlJTSlRPOTRJMDl3Q05nZ01WVVFvLUs2WnMxQTVDWUtrZEZBTUw0RHRGckpNSVlE",
+        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-09-20 05:05"
       },
       {
         "id": "radar-ec201da41574",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T15:57:10.303285+08:00",
-        "nextRun": "2026-09-20T16:57:10.412778+08:00",
+        "lastRun": "2026-09-20T16:27:13.881708+08:00",
+        "nextRun": "2026-09-20T17:28:11.657640+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T16:25:15.701501+08:00",
-        "nextRun": "2026-09-20T16:27:15.701501+08:00",
+        "lastRun": "2026-09-20T16:49:17.049980+08:00",
+        "nextRun": "2026-09-20T17:00:11.647112+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T13:30:22.857776+08:00",
-        "nextRun": "2026-09-20T16:30:00+08:00",
+        "lastRun": "2026-09-20T16:30:28.424047+08:00",
+        "nextRun": "2026-09-20T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-20T16:27:10.414283+08:00"
+    "updatedAt": "2026-09-20T16:58:11.659640+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
