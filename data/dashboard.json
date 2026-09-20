@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-20T10:54:02+08:00",
+    "generatedAt": "2026-09-20T13:25:06+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-20_09-01-46.md",
     "radarSource": "ai_opportunity_radar_20260920_103018.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-09-20T13:10:17.787118+08:00",
+        "nextRun": "2026-09-20T16:10:00+08:00",
+        "message": "RuntimeError: HTTP 429: The usage limit has been reached"
+      },
+      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
@@ -211,20 +222,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T10:24:02.222606+08:00",
-        "nextRun": "2026-09-20T11:24:02.409970+08:00",
+        "lastRun": "2026-09-20T12:55:05.870173+08:00",
+        "nextRun": "2026-09-20T13:55:06.073458+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-09-20T10:11:51.514038+08:00",
-        "nextRun": "2026-09-20T13:10:00+08:00",
-        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T10:52:07.393882+08:00",
-        "nextRun": "2026-09-20T10:54:07.393882+08:00",
+        "lastRun": "2026-09-20T13:22:11.109918+08:00",
+        "nextRun": "2026-09-20T13:27:06.068954+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-20T09:53:01.849033+08:00",
-        "nextRun": "2026-09-20T12:40:00+08:00",
+        "lastRun": "2026-09-20T12:47:43.464433+08:00",
+        "nextRun": "2026-09-20T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-20T10:54:02.411008+08:00"
+    "updatedAt": "2026-09-20T13:25:06.074459+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
