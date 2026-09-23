@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-23T22:50:24+08:00",
+    "generatedAt": "2026-09-24T01:51:29+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-23_09-02-24.md",
-    "radarSource": "ai_opportunity_radar_20260923_223048.html",
+    "radarSource": "ai_opportunity_radar_20260924_013051.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260923_223048.html",
+    "sourceFile": "ai_opportunity_radar_20260924_013051.html",
     "items": [
       {
-        "id": "radar-9b5c40f2a2db",
+        "id": "radar-23446c26744e",
         "kind": "radar",
-        "title": "I gave my Al Agent autonomy, it ended up gaming Hacker News",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Testing AI Agents As Task Assistants",
+        "summary": "Built In reports: Testing AI Agents As Task Assistants Built In",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-23 14:12",
-        "displayDate": "2026-09-23 14:12",
-        "url": "https://kuber.studio/blog/Reflections/I-gave-my-AI-Agent-autonomy-it-ended-up-gaming-Hacker-News",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-23 14:12"
+        "score": 50,
+        "date": "2026-09-23 14:55",
+        "displayDate": "2026-09-23 14:55",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUXJUVUExdjNiYU9wYVFWempQZmxnTWM4WGZYZDdYYXJCbFhZZkc2cGRZaUo4YXMxSWlUNGw1TGlUUzBPS19YelllTjZ0R0hHRHpOUjNCR1FvMTdmdkE",
+        "source": "News signal — verify before acting · Source: Built In · Time: 2026-09-23 14:55"
       },
       {
         "id": "radar-b97e7189619d",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-23 10:49"
       },
       {
-        "id": "radar-66e82d663fa3",
+        "id": "radar-8a066d24236b",
         "kind": "radar",
-        "title": "From laptop bans to new tech courses, US law schools grapple with AI",
-        "summary": "Reuters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Advancing confidential AI with secure memory",
+        "summary": "Google DeepMind reports: Advancing confidential AI with secure memory Google DeepMind",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-21 14:56",
-        "displayDate": "2026-09-21 14:56",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-21 14:56"
+        "score": 86,
+        "date": "2026-09-23 16:03",
+        "displayDate": "2026-09-23 16:03",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEdFYzJoT3FDNm8zeG91UWJCQnBxa1pJR1dYVEpUTXpWc3MxaUwwM0UxZXNISTR2MXpGeGQzWFQ5VjBMMDMxX1Zzd2oyOGVSRW9Da3lJcTk1WlFKUTBYOTJEU2Q5Z0Z3UzM3UUtxQWFNX29mNUJoNnE1bnp5dzFlMWpudnAwdkpxTEJRT2I4OFc1VTQ",
+        "source": "Official / vendor signal · Source: Google DeepMind · Time: 2026-09-23 16:03"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -115,46 +115,46 @@
         "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-21 16:03"
       },
       {
-        "id": "radar-2e6a3852d3c4",
+        "id": "radar-66e82d663fa3",
         "kind": "radar",
-        "title": "Alphabet’s Spark Agentic AI Will Beat Meta’s Muse in the Long Run",
-        "summary": "24/7 Wall St. reports: Alphabet’s Spark Agentic AI Will Beat Meta’s Muse in the Long Run 24/7 Wall St.",
+        "title": "From laptop bans to new tech courses, US law schools grapple with AI",
+        "summary": "reuters.com is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-09-23 14:26",
-        "displayDate": "2026-09-23 14:26",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHc0MUJsOERtRktlWmtoZlg1b0t1NHBUVFJBVVUxN1llNEFxem5Sa2hqYVBhWkNyd2JjdnA5YWw2ZXRjeXd6V1ZJa1RWejlDNFoyR291VC1ZWlVtOGJHLVk1cG80dkh6QWFrVmFOb3Rmc2lxTWItS05ka1diZjNvQlF3c3dCSnh2Q2JGTHN0b082MVJpLXQtSXhSckV5X2lKOXFnRXo2aGpUMFU",
-        "source": "News signal — verify before acting · Source: 24/7 Wall St. · Time: 2026-09-23 14:26"
+        "score": 83,
+        "date": "2026-09-21 14:56",
+        "displayDate": "2026-09-21 14:56",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-21 14:56"
       },
       {
-        "id": "radar-7b7cfc3ebd69",
+        "id": "radar-d878b4425806",
         "kind": "radar",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
-        "summary": "Reuters flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Co-creating the future of fashion with Google",
+        "summary": "blog.google reports: Co-creating the future of fashion with Google blog.google",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 65,
-        "date": "2026-09-16 16:43",
-        "displayDate": "2026-09-16 16:43",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHB3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-16 16:43"
+        "score": 56,
+        "date": "2026-09-18 13:07",
+        "displayDate": "2026-09-18 13:07",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGRNc25HYi0xc0E5a29DQll6WGRIaUpqUWlRZjZ6SHc2S2h2R1dnb1ZpVEFUeFRyWGtfNm1fc2k0NTk0OTZqMnhmdkxQOVAtb2txTC04YWFiYnVqM3lnMmFHb2RiRkpkdDM3dmxPYjh5dUstbXQ4UFR3UHVEaUpPVVFtYw",
+        "source": "Official / vendor signal · Source: blog.google · Time: 2026-09-18 13:07"
       },
       {
-        "id": "radar-5682a1927fab",
+        "id": "radar-79eec3f1b18f",
         "kind": "radar",
-        "title": "Unlocking parallel test-time scaling for long-horizon agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Show HN: Ox – A local agent that uses the internet for you",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-23 13:34",
-        "displayDate": "2026-09-23 13:34",
-        "url": "https://blog.doubleword.ai/swe-bench-pro-64-deepseek-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-23 13:34"
+        "date": "2026-09-23 16:47",
+        "displayDate": "2026-09-23 16:47",
+        "url": "https://openox.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-23 16:47"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-23T22:20:23.783273+08:00",
-        "nextRun": "2026-09-23T23:20:23.942943+08:00",
+        "lastRun": "2026-09-24T01:21:29.354410+08:00",
+        "nextRun": "2026-09-24T02:21:29.508796+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-23T22:12:53.458493+08:00",
-        "nextRun": "2026-09-24T01:10:00+08:00",
+        "lastRun": "2026-09-24T01:12:19.846147+08:00",
+        "nextRun": "2026-09-24T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-23T22:48:32.444378+08:00",
-        "nextRun": "2026-09-23T22:50:32.444378+08:00",
+        "lastRun": "2026-09-24T01:48:36.249051+08:00",
+        "nextRun": "2026-09-24T01:53:29.503299+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-23T22:30:48.917981+08:00",
-        "nextRun": "2026-09-24T01:30:00+08:00",
+        "lastRun": "2026-09-24T01:30:51.695030+08:00",
+        "nextRun": "2026-09-24T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-23T21:45:34.652192+08:00",
-        "nextRun": "2026-09-24T00:40:00+08:00",
+        "lastRun": "2026-09-24T00:47:57.533068+08:00",
+        "nextRun": "2026-09-24T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-23T22:50:23.942943+08:00"
+    "updatedAt": "2026-09-24T01:51:29.509796+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
