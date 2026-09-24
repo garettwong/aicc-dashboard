@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-24T09:55:40+08:00",
+    "generatedAt": "2026-09-24T10:56:42+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-24_09-04-06.md",
-    "radarSource": "ai_opportunity_radar_20260924_073101.html",
+    "radarSource": "ai_opportunity_radar_20260924_103058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260924_073101.html",
+    "sourceFile": "ai_opportunity_radar_20260924_103058.html",
     "items": [
       {
-        "id": "radar-23446c26744e",
+        "id": "radar-a58434cebcca",
         "kind": "radar",
-        "title": "Testing AI Agents As Task Assistants",
-        "summary": "Built In reports: Testing AI Agents As Task Assistants Built In",
+        "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-09-23 14:55",
-        "displayDate": "2026-09-23 14:55",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NUXJUVUExdjNiYU9wYVFWempQZmxnTWM4WGZYZDdYYXJCbFhZZkc2cGRZaUo4YXMxSWlUNGw1TGlUUzBPS19YelllTjZ0R0hHRHpOUjNCR1FvMTdmdkE",
-        "source": "News signal — verify before acting · Source: Built In · Time: 2026-09-23 14:55"
+        "score": 44,
+        "date": "2026-09-24 01:14",
+        "displayDate": "2026-09-24 01:14",
+        "url": "https://github.com/saulpw/visidata/pull/3229",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 01:14"
       },
       {
         "id": "radar-71d2b9379a15",
@@ -48,7 +48,7 @@
         "id": "radar-616398e4fff8",
         "kind": "radar",
         "title": "Nextech3D.ai launches AI training platform KATE, expands enterprise AI strategy",
-        "summary": "Proactive financial news flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "proactiveinvestors.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-22 15:55",
         "displayDate": "2026-09-22 15:55",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWFrazN3OXZrM2ZUUklRRUdMaE0ybUFrN0U1QmVnTGVGcG9CZTBiUG55ajN6Q2pBckpBTzBBdjAzZW1QemR1UW90V2lCNmNfQXBmM2NWaDFBUnZTX0I3X2FZX3pxWkZSdHY4VnBDbG1id0RkaHl1NnpSa1FqMkpDSFdTYW9oNXN4eDNSMWlQeHRJZDdhLTlldTlMbnFlY2Jhb1RpSV9fSzdCSHk2RktzN1ExTG13U0JWb2xLcFRGc3ktU1VTcTBfN0hReXhXRkN1OUxGbWRVTQ",
-        "source": "News signal — verify before acting · Source: Proactive financial news · Time: 2026-09-22 15:55"
+        "source": "News signal — verify before acting · Source: proactiveinvestors.com · Time: 2026-09-22 15:55"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -73,32 +73,18 @@
         "source": "News signal — verify before acting · Source: Design News · Time: 2026-09-18 23:45"
       },
       {
-        "id": "radar-6ce3737ab1d9",
+        "id": "radar-702399b5e38d",
         "kind": "radar",
-        "title": "From months to minutes: AI agents build 3D tumor digital twins via natural language",
-        "summary": "EurekAlert! reports: From months to minutes: AI agents build 3D tumor digital twins via natural language EurekAlert!",
+        "title": "SmileFy Launches AI 3D Design System, Automating Smile Mock-Ups From Scan to Print",
+        "summary": "Lohud flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-09-23 17:35",
-        "displayDate": "2026-09-23 17:35",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tRTZfbXQwdmxpRlZOU0xyUUpHSm1MZDY1clEybkY5ZGFQUzlONnZIMXhtRzNoZEY1ZE5lWDJDRFRVTHdMcExuME9PQm1JQVZ0dDF3V0xJNTNVV0pq",
-        "source": "News signal — verify before acting · Source: EurekAlert! · Time: 2026-09-23 17:35"
-      },
-      {
-        "id": "radar-e71e9dde09ae",
-        "kind": "radar",
-        "title": "AI agents are online — and they're not just surfing the web for fun. They're booking flights, updating subscriptions, and negotiating cheaper insurance. As more people start using personal AI agents, businesses will have a choice: Block these bots, or let them in",
-        "summary": "LinkedIn reports: AI agents are online — and they're not just surfing the web for fun.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-09-23 21:14",
-        "displayDate": "2026-09-23 21:14",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3RSRzR6U2FKTWl1cktwbElnSGU1VUQtTFhYWUE0LXU4RXpnMG1sdlFxSmFXcEFrSHVtQmE3VEpMb1V5UVdCRkNGR1FOQmNoS0ZFbmdsQTVvWE5zVmNEOWFqQ0dsbks5bUh4Q29PMGhHWW40Ylk3LUdTVU5lNUN2SjYya1h1ay1JSmxVb1MzZGZqZGtmTVdqdTlCZVJHVWhhLVE5bGFtN1JHc3FNeWlZMHluWjctUzZ4M0xsTkhB",
-        "source": "News signal — verify before acting · Source: LinkedIn · Time: 2026-09-23 21:14"
+        "date": "2026-09-22 11:23",
+        "displayDate": "2026-09-22 11:23",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2FsTG96a2RzdjZDWnJTLXhRZnJJWUkzd3JYSXdtZjl3ZV84U1E5RG55ZUlJcmh0c1FnX0RaUEpJRlpZVmlFMEJwU242dUtZMlc0eFQ3TmJXZy1nME91UG5fZkVVSC1jdkxsbEpKaHRLTHdKUFFJQjU5bUxDa0k4Sjg0OFNPRmN2OTlJWV9NcVdDbTNnUGZ4dEx3Q0JwXzhXZ0RtZ2RoVVNnREhleEtsUU9kc2lNUTNmU05YVm5zb0tRcjVTMHBfTExHNA",
+        "source": "News signal — verify before acting · Source: Lohud · Time: 2026-09-22 11:23"
       },
       {
         "id": "radar-21a97177a91f",
@@ -115,18 +101,18 @@
         "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-09-23 19:27"
       },
       {
-        "id": "radar-702399b5e38d",
+        "id": "radar-2cced98c3579",
         "kind": "radar",
-        "title": "SmileFy Launches AI 3D Design System, Automating Smile Mock-Ups From Scan to Print",
-        "summary": "Lohud flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Hi3D Launches the World's First All-in-One AI Agent for 3D Creation, with a Creator Rewards Initiative",
+        "summary": "Yahoo Finance flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-09-22 11:23",
-        "displayDate": "2026-09-22 11:23",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2FsTG96a2RzdjZDWnJTLXhRZnJJWUkzd3JYSXdtZjl3ZV84U1E5RG55ZUlJcmh0c1FnX0RaUEpJRlpZVmlFMEJwU242dUtZMlc0eFQ3TmJXZy1nME91UG5fZkVVSC1jdkxsbEpKaHRLTHdKUFFJQjU5bUxDa0k4Sjg0OFNPRmN2OTlJWV9NcVdDbTNnUGZ4dEx3Q0JwXzhXZ0RtZ2RoVVNnREhleEtsUU9kc2lNUTNmU05YVm5zb0tRcjVTMHBfTExHNA",
-        "source": "News signal — verify before acting · Source: Lohud · Time: 2026-09-22 11:23"
+        "date": "2026-09-21 16:03",
+        "displayDate": "2026-09-21 16:03",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0s3UzU5SGJnV25lWTkxRU1LblhzMktNOGFjMzBlTHU3c0FDZzg3aXQ5Y3haMEw1V0hGOWF2Z1BlUkFOMU5EVUJfcDZnTGFwbzlsbk8yaHYwMldRUXVHTjEwNl9sWEp2czM5ZUVWWHQ5YnlneVVVV0toNmtsa1dqNTBWR21YSmFqWlhlRzVmUHBQZnBUQkMza1FB",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-21 16:03"
       },
       {
         "id": "radar-705be86f30fe",
@@ -155,6 +141,20 @@
         "displayDate": "2026-09-18 13:07",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGRNc25HYi0xc0E5a29DQll6WGRIaUpqUWlRZjZ6SHc2S2h2R1dnb1ZpVEFUeFRyWGtfNm1fc2k0NTk0OTZqMnhmdkxQOVAtb2txTC04YWFiYnVqM3lnMmFHb2RiRkpkdDM3dmxPYjh5dUstbXQ4UFR3UHVEaUpPVVFtYw",
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-09-18 13:07"
+      },
+      {
+        "id": "radar-bbda9ce60ff8",
+        "kind": "radar",
+        "title": "Feds Target AI Critics as \"Foreign Agents\"",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=21, comments=7.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 44,
+        "date": "2026-09-24 00:41",
+        "displayDate": "2026-09-24 00:41",
+        "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 00:41"
       }
     ]
   },
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T09:24:43.818227+08:00",
-        "nextRun": "2026-09-24T10:25:40.419546+08:00",
+        "lastRun": "2026-09-24T10:26:41.731448+08:00",
+        "nextRun": "2026-09-24T11:26:41.853391+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T07:12:26.266122+08:00",
-        "nextRun": "2026-09-24T10:10:00+08:00",
+        "lastRun": "2026-09-24T10:12:49.155104+08:00",
+        "nextRun": "2026-09-24T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T09:54:45.406985+08:00",
-        "nextRun": "2026-09-24T09:56:45.406985+08:00",
+        "lastRun": "2026-09-24T10:54:47.006025+08:00",
+        "nextRun": "2026-09-24T10:56:47.006025+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T07:31:01.380231+08:00",
-        "nextRun": "2026-09-24T10:30:00+08:00",
+        "lastRun": "2026-09-24T10:30:58.318854+08:00",
+        "nextRun": "2026-09-24T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-24T09:55:40.419546+08:00"
+    "updatedAt": "2026-09-24T10:56:41.853391+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
