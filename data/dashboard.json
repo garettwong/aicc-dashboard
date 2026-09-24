@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-24T12:57:45+08:00",
+    "generatedAt": "2026-09-24T13:58:47+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-24_09-04-06.md",
-    "radarSource": "ai_opportunity_radar_20260924_103058.html",
+    "radarSource": "ai_opportunity_radar_20260924_133102.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260924_103058.html",
+    "sourceFile": "ai_opportunity_radar_20260924_133102.html",
     "items": [
       {
-        "id": "radar-a58434cebcca",
+        "id": "radar-bbda9ce60ff8",
         "kind": "radar",
-        "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
-        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Feds Target AI Critics as \"Foreign Agents\"",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=179, comments=165.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 44,
-        "date": "2026-09-24 01:14",
-        "displayDate": "2026-09-24 01:14",
-        "url": "https://github.com/saulpw/visidata/pull/3229",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 01:14"
+        "score": 61,
+        "date": "2026-09-24 00:41",
+        "displayDate": "2026-09-24 00:41",
+        "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 00:41"
       },
       {
         "id": "radar-71d2b9379a15",
@@ -48,7 +48,7 @@
         "id": "radar-616398e4fff8",
         "kind": "radar",
         "title": "Nextech3D.ai launches AI training platform KATE, expands enterprise AI strategy",
-        "summary": "proactiveinvestors.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "Proactive financial news flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-22 15:55",
         "displayDate": "2026-09-22 15:55",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWFrazN3OXZrM2ZUUklRRUdMaE0ybUFrN0U1QmVnTGVGcG9CZTBiUG55ajN6Q2pBckpBTzBBdjAzZW1QemR1UW90V2lCNmNfQXBmM2NWaDFBUnZTX0I3X2FZX3pxWkZSdHY4VnBDbG1id0RkaHl1NnpSa1FqMkpDSFdTYW9oNXN4eDNSMWlQeHRJZDdhLTlldTlMbnFlY2Jhb1RpSV9fSzdCSHk2RktzN1ExTG13U0JWb2xLcFRGc3ktU1VTcTBfN0hReXhXRkN1OUxGbWRVTQ",
-        "source": "News signal — verify before acting · Source: proactiveinvestors.com · Time: 2026-09-22 15:55"
+        "source": "News signal — verify before acting · Source: Proactive financial news · Time: 2026-09-22 15:55"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -73,18 +73,18 @@
         "source": "News signal — verify before acting · Source: Design News · Time: 2026-09-18 23:45"
       },
       {
-        "id": "radar-702399b5e38d",
+        "id": "radar-b6ddc65c3584",
         "kind": "radar",
         "title": "SmileFy Launches AI 3D Design System, Automating Smile Mock-Ups From Scan to Print",
-        "summary": "Lohud flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "summary": "The Columbus Dispatch flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-09-22 11:23",
-        "displayDate": "2026-09-22 11:23",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2FsTG96a2RzdjZDWnJTLXhRZnJJWUkzd3JYSXdtZjl3ZV84U1E5RG55ZUlJcmh0c1FnX0RaUEpJRlpZVmlFMEJwU242dUtZMlc0eFQ3TmJXZy1nME91UG5fZkVVSC1jdkxsbEpKaHRLTHdKUFFJQjU5bUxDa0k4Sjg0OFNPRmN2OTlJWV9NcVdDbTNnUGZ4dEx3Q0JwXzhXZ0RtZ2RoVVNnREhleEtsUU9kc2lNUTNmU05YVm5zb0tRcjVTMHBfTExHNA",
-        "source": "News signal — verify before acting · Source: Lohud · Time: 2026-09-22 11:23"
+        "date": "2026-09-22 10:08",
+        "displayDate": "2026-09-22 10:08",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaV9sZ2E4MlY3dGJ6c2x0SGQ2Y2xTak1MTkxEcEsxUEx1cGR2T1A2NzBJVF9KUS1NeW81QkxyYUlIZEk1MjMtVGhxeURuanBjTUFfY0JEblZvUFRMMy1GVF9tbXh4Z1pDZFBxSWh2U1I0TG8wMWtUN1VVYTZ5cVlLUGp0d0I0X1VUQWthQXNvc2tMSy1MRmtUSEhRWWl2RGdiUFJVWThzZHdSanlhNUZ1alFDUDQ1cjNIa19vWUVnRU5KY2V6eDdBbm5Hd2Q0TzQ",
+        "source": "News signal — verify before acting · Source: The Columbus Dispatch · Time: 2026-09-22 10:08"
       },
       {
         "id": "radar-21a97177a91f",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-09-18 13:07"
       },
       {
-        "id": "radar-bbda9ce60ff8",
+        "id": "radar-a58434cebcca",
         "kind": "radar",
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=21, comments=7.",
+        "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+        "summary": "Hacker News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 44,
-        "date": "2026-09-24 00:41",
-        "displayDate": "2026-09-24 00:41",
-        "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 00:41"
+        "score": 45,
+        "date": "2026-09-24 01:14",
+        "displayDate": "2026-09-24 01:14",
+        "url": "https://github.com/saulpw/visidata/pull/3229",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-24 01:14"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T12:27:44.560963+08:00",
-        "nextRun": "2026-09-24T13:27:44.744601+08:00",
+        "lastRun": "2026-09-24T13:28:45.973337+08:00",
+        "nextRun": "2026-09-24T14:28:46.243617+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T10:12:49.155104+08:00",
-        "nextRun": "2026-09-24T13:10:00+08:00",
+        "lastRun": "2026-09-24T13:12:12.271954+08:00",
+        "nextRun": "2026-09-24T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T12:54:49.447756+08:00",
-        "nextRun": "2026-09-24T12:59:44.739096+08:00",
+        "lastRun": "2026-09-24T13:57:51.649690+08:00",
+        "nextRun": "2026-09-24T13:59:51.649690+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T10:30:58.318854+08:00",
-        "nextRun": "2026-09-24T13:30:00+08:00",
+        "lastRun": "2026-09-24T13:31:02.343593+08:00",
+        "nextRun": "2026-09-24T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-24T12:57:44.746103+08:00"
+    "updatedAt": "2026-09-24T13:58:46.243617+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
