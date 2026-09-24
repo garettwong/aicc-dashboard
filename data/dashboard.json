@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-24T09:24:40+08:00",
+    "generatedAt": "2026-09-24T09:55:40+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-24_09-04-06.md",
     "radarSource": "ai_opportunity_radar_20260924_073101.html",
@@ -167,9 +167,20 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-23T09:30:06.742199+08:00",
-        "nextRun": "2026-09-24T09:30:00+08:00",
+        "lastRun": "2026-09-24T09:30:42.844015+08:00",
+        "nextRun": "2026-09-25T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
+      },
+      {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-09-24T09:40:40.981243+08:00",
+        "nextRun": "2026-09-24T12:40:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
         "id": "e00ffbee1272",
@@ -211,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T08:54:39.610786+08:00",
-        "nextRun": "2026-09-24T09:54:39.685508+08:00",
+        "lastRun": "2026-09-24T09:24:43.818227+08:00",
+        "nextRun": "2026-09-24T10:25:40.419546+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-24T09:21:45.332595+08:00",
-        "nextRun": "2026-09-24T09:26:39.680468+08:00",
+        "lastRun": "2026-09-24T09:54:45.406985+08:00",
+        "nextRun": "2026-09-24T09:56:45.406985+08:00",
         "message": "unused"
       },
       {
@@ -247,17 +258,6 @@
         "lastRun": "2026-09-24T07:31:01.380231+08:00",
         "nextRun": "2026-09-24T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-09-24T06:45:36.737260+08:00",
-        "nextRun": "2026-09-24T09:40:00+08:00",
-        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-24T09:24:39.685508+08:00"
+    "updatedAt": "2026-09-24T09:55:40.419546+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
