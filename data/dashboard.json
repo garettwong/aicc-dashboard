@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-25T16:22:18+08:00",
+    "generatedAt": "2026-09-25T16:53:19+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-25_09-31-00.md",
-    "radarSource": "ai_opportunity_radar_20260925_134531.html",
+    "radarSource": "ai_opportunity_radar_20260925_163038.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260925_134531.html",
+    "sourceFile": "ai_opportunity_radar_20260925_163038.html",
     "items": [
       {
-        "id": "radar-42ac7a4543ae",
+        "id": "radar-3308c0c075f6",
         "kind": "radar",
-        "title": "Stop watching what AI agents say and start watching what they do",
-        "summary": "Help Net Security reports: Stop watching what AI agents say and start watching what they do Help Net Security",
+        "title": "AI Security Startup Kontext Secures $4M to Protect Autonomous Agents at Runtime",
+        "summary": "FF News reports: AI Security Startup Kontext Secures $4M to Protect Autonomous Agents at Runtime FF News",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-09-25 05:30",
-        "displayDate": "2026-09-25 05:30",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeU12RlhLZll5R04xUkVOaGxxNlRJRzRibmUzZ1AzVDFBdzNFYVc5ZmpPbGF3TmN0MFRjMk5xeUl3NjZtUjlxS3ZtZV9RNVVCeXMzT3hJOTEta00taWk5WUk0X2VKZFpfOV9kQnM2a05McmIxYUp6QmR2ck16cVJXVlFhYTJtcktBNHQtbjNmMWk",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-09-25 05:30"
+        "date": "2026-09-25 07:40",
+        "displayDate": "2026-09-25 07:40",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTktxMU92djhtVGRsRVhxN2lQWjVVQzZqRldmcV80T2lYcE15NnhGTC16UjVNQ0EzWE1wbjY5X0VweU1YUTZuSGVUOEJkbzgzOG9rNjdVc3I1aUk1RGVlSGFkQU9TckpHdXJQZkZZMGQ1dVppZUk1LUZVcVE3U2loRlZIcmlWUkJ5MUFtWVRsbEgwNWdjbjBNag",
+        "source": "News signal — verify before acting · Source: FF News · Time: 2026-09-25 07:40"
       },
       {
         "id": "radar-3570c11d7ae8",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: forkast.news · Time: 2026-09-24 23:57"
       },
       {
-        "id": "radar-66e82d663fa3",
+        "id": "radar-705be86f30fe",
         "kind": "radar",
-        "title": "From laptop bans to new tech courses, US law schools grapple with AI",
-        "summary": "Reuters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Advancing Private AI Compute with secure, server-side memory",
+        "summary": "Google DeepMind reports: Advancing Private AI Compute with secure, server-side memory Google DeepMind",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-21 14:56",
-        "displayDate": "2026-09-21 14:56",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-21 14:56"
+        "score": 86,
+        "date": "2026-09-23 16:03",
+        "displayDate": "2026-09-23 16:03",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEdFYzJoT3FDNm8zeG91UWJCQnBxa1pJR1dYVEpUTXpWc3MxaUwwM0UxZXNISTR2MXpGeGQzWFQ5VjBMMDMxX1Zzd2oyOGVSRW9Da3lJcTk1WlFKUTBYOTJEU2Q5Z0Z3UzM3UUtxQWFNX29mNUJoNnE1bnp5dzFlMWpudnAwdkpxTEJRT2I4OFc1VTQ",
+        "source": "Official / vendor signal · Source: Google DeepMind · Time: 2026-09-23 16:03"
       },
       {
         "id": "radar-303995c3e8f4",
@@ -87,20 +87,6 @@
         "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-09-24 17:04"
       },
       {
-        "id": "radar-e5a648f88a23",
-        "kind": "radar",
-        "title": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close",
-        "summary": "Digiday reports: YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close Digiday",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-09-25 04:01",
-        "displayDate": "2026-09-25 04:01",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2QwVGNJLXJjNlFxaTZuRERTQ3NYdnY4ZEpiSnZiYjdSR25ONDZybHVhVkd4Wnl2Z2pJeEtfQ2pvOC00UUxkTkxCa3RzTDRka05RQ0JOYmd4Y00teHVHN3JlaTgyVkt1YlNSa3BhQjNheG9jRDltVGs2WlIwWURIOFpTamw4UjRJYnlsSFdrZTRORVZvNEFaTHJ2SldtUHAyZjc0S0o1TDBfS2NWYjhmSlIycFVicVJ6N0pERmd3",
-        "source": "News signal — verify before acting · Source: Digiday · Time: 2026-09-25 04:01"
-      },
-      {
         "id": "radar-d35d74d8bd51",
         "kind": "radar",
         "title": "ACM Queue Publishes CAFE(S): A Framework for Improving AI Coding Agent Effectiveness",
@@ -129,18 +115,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-09-23 22:55"
       },
       {
-        "id": "radar-de2cbfa650aa",
+        "id": "radar-66e82d663fa3",
         "kind": "radar",
-        "title": "EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise",
-        "summary": "Ellucian is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "From laptop bans to new tech courses, US law schools grapple with AI",
+        "summary": "reuters.com is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-09-24 12:00",
-        "displayDate": "2026-09-24 12:00",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRaY1JFUTRHSDRpcXdSOXVKY2oxdGpCV2s4MEtjdmlRYjlvT0ZXNnpobHJ5U2dUbGhoNFRtQ2JodW9DRGRHTlVBQnhPYVZMMGZIMUxJc2t3VVJlYUJ4NUFKaGtjRXI3VnRjT2FiX2x3Y21HUi1UNGlzeWtiRFBmbkc0MDZ0NnUyVVBIaFg0RkZOQnhNMnhPNXF2NkI5NncyYkpndDJxOVVPR3NZdE10TzJ1RWxCZjA",
-        "source": "News signal — verify before acting · Source: Ellucian · Time: 2026-09-24 12:00"
+        "score": 83,
+        "date": "2026-09-21 14:56",
+        "displayDate": "2026-09-21 14:56",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-21 14:56"
       },
       {
         "id": "radar-53f911b6fa67",
@@ -155,6 +141,20 @@
         "displayDate": "2026-09-22 07:00",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VVVuX0UwSW5oOURlekNlOHJ1UTFQUzVWR3VfcFE1bnI1OGVScmdkbG5LUmltQ1dweVdrZ3U0OE5tbzlYenA0Y3lTZGxCbXVtX2xUb3BUekU2XzRJZEtudmZKdlkzeEVqQnc",
         "source": "News signal — verify before acting · Source: HousingWire · Time: 2026-09-22 07:00"
+      },
+      {
+        "id": "radar-2760628adaf7",
+        "kind": "radar",
+        "title": "Dataiku Agent Management reveals unmonitored AI agents",
+        "summary": "Help Net Security reports: Dataiku Agent Management reveals unmonitored AI agents Help Net Security",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 50,
+        "date": "2026-09-25 07:30",
+        "displayDate": "2026-09-25 07:30",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05RkRLaW4xWTNKR3JrZS1tNkxBdHFKT05OUWV5SHp4NGxWTHVrMTlvcU94MnVJV19Fek8xckFEakwtQnlLcVZrQWV3N2lacGpFajZOS2txMC03cFZWUW9jWExRbmpjUnJYenQ1cXNVSXo2MXdyYWow",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-09-25 07:30"
       }
     ]
   },
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T15:52:18.034509+08:00",
-        "nextRun": "2026-09-25T16:52:18.273811+08:00",
+        "lastRun": "2026-09-25T16:22:21.871711+08:00",
+        "nextRun": "2026-09-25T17:23:18.956096+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T16:21:23.076515+08:00",
-        "nextRun": "2026-09-25T16:23:23.076515+08:00",
+        "lastRun": "2026-09-25T16:51:23.525709+08:00",
+        "nextRun": "2026-09-25T16:53:23.525709+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T13:45:31.220271+08:00",
-        "nextRun": "2026-09-25T16:30:00+08:00",
+        "lastRun": "2026-09-25T16:30:38.789409+08:00",
+        "nextRun": "2026-09-25T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-25T16:22:18.274811+08:00"
+    "updatedAt": "2026-09-25T16:53:18.957097+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
