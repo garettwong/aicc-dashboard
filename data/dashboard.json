@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-26T06:58:40+08:00",
+    "generatedAt": "2026-09-26T07:29:41+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-25_09-31-00.md",
     "radarSource": "ai_opportunity_radar_20260926_043053.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-09-26T07:10:45.379538+08:00",
+        "nextRun": "2026-09-26T10:10:00+08:00",
+        "message": "RuntimeError: HTTP 401: Incorrect API key provided: sk-svcac***********************************************************************************************************************************************************fvMA. You can find your A"
+      },
+      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
@@ -222,20 +233,9 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T06:28:40.143100+08:00",
-        "nextRun": "2026-09-26T07:28:40.253315+08:00",
+        "lastRun": "2026-09-26T06:58:44.132492+08:00",
+        "nextRun": "2026-09-26T07:59:40.916223+08:00",
         "message": "No recent error."
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-09-26T04:12:57.697590+08:00",
-        "nextRun": "2026-09-26T07:10:00+08:00",
-        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T06:57:45.312213+08:00",
-        "nextRun": "2026-09-26T06:59:45.312213+08:00",
+        "lastRun": "2026-09-26T07:27:45.760832+08:00",
+        "nextRun": "2026-09-26T07:29:45.760832+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-26T06:58:40.253315+08:00"
+    "updatedAt": "2026-09-26T07:29:40.916223+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
