@@ -1,15 +1,15 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-26T08:00:41+08:00",
+    "generatedAt": "2026-09-26T09:33:43+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-09-25_09-31-00.md",
+    "dailySource": "2026-09-26_09-04-30.md",
     "radarSource": "ai_opportunity_radar_20260926_073057.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-09-25",
+    "subject": "AI Everyday works tools - 2026-09-26",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
@@ -178,8 +178,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-09-25T09:42:55.290041+08:00",
-        "nextRun": "2026-09-26T09:30:00+08:00",
+        "lastRun": "2026-09-26T09:30:45.896821+08:00",
+        "nextRun": "2026-09-27T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T21:02:10.055716+08:00",
-        "nextRun": "2026-09-26T09:00:00+08:00",
+        "lastRun": "2026-09-26T09:03:11.034220+08:00",
+        "nextRun": "2026-09-26T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T09:31:00.347681+08:00",
-        "nextRun": "2026-09-26T09:00:00+08:00",
+        "lastRun": "2026-09-26T09:04:30.109720+08:00",
+        "nextRun": "2026-09-27T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-25T09:29:35.185975+08:00",
-        "nextRun": "2026-09-26T09:15:00+08:00",
+        "lastRun": "2026-09-26T09:15:58.988731+08:00",
+        "nextRun": "2026-09-27T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T07:29:44.450854+08:00",
-        "nextRun": "2026-09-26T08:30:41.573195+08:00",
+        "lastRun": "2026-09-26T09:03:11.671399+08:00",
+        "nextRun": "2026-09-26T10:03:43.484428+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T07:57:46.449491+08:00",
-        "nextRun": "2026-09-26T08:02:41.566680+08:00",
+        "lastRun": "2026-09-26T09:30:48.396616+08:00",
+        "nextRun": "2026-09-26T09:35:43.468912+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-26T08:00:41.573195+08:00"
+    "updatedAt": "2026-09-26T09:33:43.484428+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
