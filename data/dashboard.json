@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-26T07:29:41+08:00",
+    "generatedAt": "2026-09-26T08:00:41+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-25_09-31-00.md",
-    "radarSource": "ai_opportunity_radar_20260926_043053.html",
+    "radarSource": "ai_opportunity_radar_20260926_073057.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,27 +14,27 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260926_043053.html",
+    "sourceFile": "ai_opportunity_radar_20260926_073057.html",
     "items": [
       {
-        "id": "radar-83719d5395d6",
+        "id": "radar-9bee8af4d337",
         "kind": "radar",
-        "title": "AI Agents Need Cybersecurity Memory And Most Companies Are Throwing It Away",
-        "summary": "Forbes reports: AI Agents Need Cybersecurity Memory And Most Companies Are Throwing It Away Forbes",
+        "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 64,
-        "date": "2026-09-25 11:10",
-        "displayDate": "2026-09-25 11:10",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOG53bHA1N2wtU3lLX0ZNUllSWTF5WW9kMUtMa3g0UGZqUGZiMjFuM0pzYlNoZGcwSjliVFg3UllaREN6VFJkTjdVTWdpXzJHSkRjckFIQjhWMVJZclIzeTMwVlFuc1QydWZ1Mlh0UDZhTDNENkgzb1dtX3VnVFR2YlBxWk1JQjZjbDE2MEw5XzNRVDVEMXk4SHB4YjNodlQzdFgza2ZQaUhfMHNyS3hKUVlvUll5QW9NMmNUcWZ2QndncTBYY1Q0eFZ3",
-        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-09-25 11:10"
+        "score": 59,
+        "date": "2026-09-25 20:38",
+        "displayDate": "2026-09-25 20:38",
+        "url": "https://piloxa.com/for-ai-agents",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 20:38"
       },
       {
         "id": "radar-358ad452c534",
         "kind": "radar",
         "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-        "summary": "CIO Dive reports: Microsoft retools Copilot with coding, AI agent capabilities CIO Dive",
+        "summary": "ciodive.com reports: Microsoft retools Copilot with coding, AI agent capabilities ciodive.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -42,13 +42,13 @@
         "date": "2026-09-25 20:11",
         "displayDate": "2026-09-25 20:11",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM",
-        "source": "News signal — verify before acting · Source: CIO Dive · Time: 2026-09-25 20:11"
+        "source": "News signal — verify before acting · Source: ciodive.com · Time: 2026-09-25 20:11"
       },
       {
         "id": "radar-66e82d663fa3",
         "kind": "radar",
         "title": "From laptop bans to new tech courses, US law schools grapple with AI",
-        "summary": "Reuters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "summary": "reuters.com is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-21 14:56",
         "displayDate": "2026-09-21 14:56",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-21 14:56"
+        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-21 14:56"
       },
       {
         "id": "radar-53f911b6fa67",
@@ -90,7 +90,7 @@
         "id": "radar-c4513c0e3417",
         "kind": "radar",
         "title": "AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers",
-        "summary": "SD Times reports: AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers SD Times",
+        "summary": "sdtimes.com reports: AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers sdtimes.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -98,7 +98,7 @@
         "date": "2026-09-25 18:33",
         "displayDate": "2026-09-25 18:33",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaWdkejI2OVhlSnNpTy1iNkwtUklMOGs2dGNYS01CRXd0Y0pGdl92ZjRHZTZCTU5YbzlyelFkaGgwc0RRNk5HZm50a0g3YmJMVWNrczdyVTlzaVRfUTBHWmE5Q2lGcVNzYkI1dEx5dERkRF9uZncxd2lXdU5FbEE4cjlXRjJrdW0yM0RLUVZJQ25vZHdDX1A5TlBBXzRfeEJZcGZfRzU0bmxxcko0dGRtbFNWT0xOYWhMMGJhR2V6bGNMVDdV",
-        "source": "News signal — verify before acting · Source: SD Times · Time: 2026-09-25 18:33"
+        "source": "News signal — verify before acting · Source: sdtimes.com · Time: 2026-09-25 18:33"
       },
       {
         "id": "radar-6ce3737ab1d9",
@@ -129,32 +129,32 @@
         "source": "News signal — verify before acting · Source: HR Executive · Time: 2026-09-24 13:25"
       },
       {
-        "id": "radar-a67c40a42b73",
+        "id": "radar-1793560cd67f",
         "kind": "radar",
-        "title": "What Is Synopsys (SNPS) Telling Investors With Its Latest AI Chip Design Progress?",
-        "summary": "Yahoo Finance reports: What Is Synopsys (SNPS) Telling Investors With Its Latest AI Chip Design Progress?",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 48,
-        "date": "2026-09-25 10:10",
-        "displayDate": "2026-09-25 10:10",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZORTZUZTYtcFMwd2YtQ3ZxZkVib0FHRzdMbFlpbWJHMUVwQkY1RzFvTnZJbmRpQ3M1bjlZU0RyUDMxWXJpV0I0VTFQVlVSbm5EMHZoV2tWNDFNWnlWWEtjWDJnRFAyRkl5YzZaM0xMQldUOU1sc1BfUUFXUHRGSGpXWHVESlZyRmF6T2Ewc01ROV9JQ05XN1ZQX3JFVmRaMXREbQ",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-25 10:10"
-      },
-      {
-        "id": "radar-cc76ae0695c1",
-        "kind": "radar",
-        "title": "The District – a live map where AI agents grow their own plots of land",
+        "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-09-25 20:16",
-        "displayDate": "2026-09-25 20:16",
-        "url": "https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 20:16"
+        "score": 57,
+        "date": "2026-09-25 22:17",
+        "displayDate": "2026-09-25 22:17",
+        "url": "https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 22:17"
+      },
+      {
+        "id": "radar-51ded3a988c6",
+        "kind": "radar",
+        "title": "Is z.ai shipping a different ZCode client than the source?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 53,
+        "date": "2026-09-25 21:38",
+        "displayDate": "2026-09-25 21:38",
+        "url": "https://news.ycombinator.com/item",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 21:38"
       }
     ]
   },
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T06:58:44.132492+08:00",
-        "nextRun": "2026-09-26T07:59:40.916223+08:00",
+        "lastRun": "2026-09-26T07:29:44.450854+08:00",
+        "nextRun": "2026-09-26T08:30:41.573195+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T07:27:45.760832+08:00",
-        "nextRun": "2026-09-26T07:29:45.760832+08:00",
+        "lastRun": "2026-09-26T07:57:46.449491+08:00",
+        "nextRun": "2026-09-26T08:02:41.566680+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T04:30:53.387285+08:00",
-        "nextRun": "2026-09-26T07:30:00+08:00",
+        "lastRun": "2026-09-26T07:30:57.895593+08:00",
+        "nextRun": "2026-09-26T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-26T07:29:40.916223+08:00"
+    "updatedAt": "2026-09-26T08:00:41.573195+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
