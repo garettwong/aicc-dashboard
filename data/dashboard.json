@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-26T16:37:53+08:00",
+    "generatedAt": "2026-09-26T19:38:57+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-26_09-04-30.md",
-    "radarSource": "ai_opportunity_radar_20260926_163110.html",
+    "radarSource": "ai_opportunity_radar_20260926_193112.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260926_163110.html",
+    "sourceFile": "ai_opportunity_radar_20260926_193112.html",
     "items": [
       {
         "id": "radar-7c2f1c911e65",
         "kind": "radar",
         "title": "Can AI Shopping Agents Be Trusted?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=14, comments=27.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=15, comments=27.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -31,18 +31,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-26 05:36"
       },
       {
-        "id": "radar-34df0990c72c",
+        "id": "radar-f3509dad736f",
         "kind": "radar",
-        "title": "Google lets engineers use Anthropic's Claude for coding work",
-        "summary": "Bangkok Post is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness - the-decoder.com",
+        "summary": "the-decoder.com reports: Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness the-decoder.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-26 02:39",
-        "displayDate": "2026-09-26 02:39",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFh5dmlCSGo1WWp5SkVsVkNtOVhROUJkYm5JVkEzOW9LdUZFNzFuRHowSDZsaTc2d1JqV0ZQMkRTSmdBUEpBaHdDbzE4dGE4Y2hwei1vNGd4WlpqbTZ6blJTanpBdGk0UXR3ZVZHVDlkS1IyZ0dDYWR5Qi1OSnRxSXVwQVFjQWFRWnc5SjI1VnNoWms1WnRVLVZqR21wS1VIeFZhMEh3WXE",
-        "source": "News signal — verify before acting · Source: Bangkok Post · Time: 2026-09-26 02:39"
+        "date": "2026-09-26 10:33",
+        "displayDate": "2026-09-26 10:33",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb21BNWMzNWoxMy1aUkFmdnJ3Z2wwUWR2bjdQc2t5NkUtLVJuYzVYR3MyTTdsNFp5aF9PME12MXQ4Zm1USi1TdHI1LW5yLVRRS1lKWldHT0R5UXdneVQxRnZselBaQjRKcms3UEJpOGZENjcxNFFiSUU2WGZfcmNwcURrWVo0bEFxODlyRGEwemJnSGdENjhXXzkwWWt1Ym42VnhxdmNPUmxDODRQV3JHd1NfNk5DdFp4",
+        "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-09-26 10:33"
       },
       {
         "id": "radar-66e82d663fa3",
@@ -62,7 +62,7 @@
         "id": "radar-53f911b6fa67",
         "kind": "radar",
         "title": "16 Indispensable AI Tools for Real Estate Agents",
-        "summary": "housingwire.com reports: 16 Indispensable AI Tools for Real Estate Agents housingwire.com",
+        "summary": "HousingWire reports: 16 Indispensable AI Tools for Real Estate Agents HousingWire",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
@@ -70,7 +70,7 @@
         "date": "2026-09-22 07:00",
         "displayDate": "2026-09-22 07:00",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VVVuX0UwSW5oOURlekNlOHJ1UTFQUzVWR3VfcFE1bnI1OGVScmdkbG5LUmltQ1dweVdrZ3U0OE5tbzlYenA0Y3lTZGxCbXVtX2xUb3BUekU2XzRJZEtudmZKdlkzeEVqQnc",
-        "source": "News signal — verify before acting · Source: housingwire.com · Time: 2026-09-22 07:00"
+        "source": "News signal — verify before acting · Source: HousingWire · Time: 2026-09-22 07:00"
       },
       {
         "id": "radar-8f467325c428",
@@ -87,18 +87,18 @@
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-09-23 22:55"
       },
       {
-        "id": "radar-358ad452c534",
+        "id": "radar-5c506e93f82d",
         "kind": "radar",
-        "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-        "summary": "CIO Dive reports: Microsoft retools Copilot with coding, AI agent capabilities CIO Dive",
+        "title": "Microsoft Expands Copilot With Coding Tools and Always On AI Agent",
+        "summary": "boldnewsonline.com reports: Microsoft Expands Copilot With Coding Tools and Always On AI Agent boldnewsonline.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-25 20:11",
-        "displayDate": "2026-09-25 20:11",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM",
-        "source": "News signal — verify before acting · Source: CIO Dive · Time: 2026-09-25 20:11"
+        "date": "2026-09-26 06:49",
+        "displayDate": "2026-09-26 06:49",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk4tdUNlUkwyX2lBMjdmYUFBcTV6LUlRWllnOWg4all2blVEUkctUFhGUTgxWGFhNnExU2lVeGtVU05EN0ZIRTNqN2JMUmpadEtGcHFPazhNcS1LWmtnZ3ZWR1VTN1hqUlBONGZSR0w2emZTcHNMVmc0cHdUdkFGZ1pOQk1RTW03cU5sb1Q0UUJLa2Nwd0cwaXhB",
+        "source": "News signal — verify before acting · Source: boldnewsonline.com · Time: 2026-09-26 06:49"
       },
       {
         "id": "radar-6ce3737ab1d9",
@@ -136,25 +136,25 @@
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 53,
+        "score": 50,
         "date": "2026-09-25 21:38",
         "displayDate": "2026-09-25 21:38",
         "url": "https://news.ycombinator.com/item",
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 21:38"
       },
       {
-        "id": "radar-ca36df14a048",
+        "id": "radar-b88f1c1f1c03",
         "kind": "radar",
-        "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Agentboxd – Email inboxes for AI agents that treat mail as hostile",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-26 05:42",
-        "displayDate": "2026-09-26 05:42",
-        "url": "https://botbin.io/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-26 05:42"
+        "date": "2026-09-26 11:07",
+        "displayDate": "2026-09-26 11:07",
+        "url": "https://agentboxd.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-26 11:07"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T16:07:52.587491+08:00",
-        "nextRun": "2026-09-26T17:07:52.746309+08:00",
+        "lastRun": "2026-09-26T19:08:56.578409+08:00",
+        "nextRun": "2026-09-26T20:08:56.784866+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T16:12:22.965843+08:00",
-        "nextRun": "2026-09-26T19:10:00+08:00",
+        "lastRun": "2026-09-26T19:11:55.205980+08:00",
+        "nextRun": "2026-09-26T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T16:36:57.633105+08:00",
-        "nextRun": "2026-09-26T16:38:57.633105+08:00",
+        "lastRun": "2026-09-26T19:37:02.183987+08:00",
+        "nextRun": "2026-09-26T19:39:02.183987+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T16:31:10.674663+08:00",
-        "nextRun": "2026-09-26T19:30:00+08:00",
+        "lastRun": "2026-09-26T19:31:12.840487+08:00",
+        "nextRun": "2026-09-26T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T15:45:59.747509+08:00",
-        "nextRun": "2026-09-26T18:40:00+08:00",
+        "lastRun": "2026-09-26T18:56:31.768982+08:00",
+        "nextRun": "2026-09-26T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-26T16:37:52.746309+08:00"
+    "updatedAt": "2026-09-26T19:38:56.785866+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
