@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-26T10:04:44+08:00",
+    "generatedAt": "2026-09-26T10:35:45+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-26_09-04-30.md",
-    "radarSource": "ai_opportunity_radar_20260926_073057.html",
+    "radarSource": "ai_opportunity_radar_20260926_103100.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,27 +14,27 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260926_073057.html",
+    "sourceFile": "ai_opportunity_radar_20260926_103100.html",
     "items": [
       {
-        "id": "radar-9bee8af4d337",
+        "id": "radar-1793560cd67f",
         "kind": "radar",
-        "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
+        "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-09-25 20:38",
-        "displayDate": "2026-09-25 20:38",
-        "url": "https://piloxa.com/for-ai-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 20:38"
+        "score": 57,
+        "date": "2026-09-25 22:17",
+        "displayDate": "2026-09-25 22:17",
+        "url": "https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 22:17"
       },
       {
         "id": "radar-358ad452c534",
         "kind": "radar",
         "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-        "summary": "ciodive.com reports: Microsoft retools Copilot with coding, AI agent capabilities ciodive.com",
+        "summary": "CIO Dive reports: Microsoft retools Copilot with coding, AI agent capabilities CIO Dive",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -42,13 +42,13 @@
         "date": "2026-09-25 20:11",
         "displayDate": "2026-09-25 20:11",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM",
-        "source": "News signal — verify before acting · Source: ciodive.com · Time: 2026-09-25 20:11"
+        "source": "News signal — verify before acting · Source: CIO Dive · Time: 2026-09-25 20:11"
       },
       {
         "id": "radar-66e82d663fa3",
         "kind": "radar",
         "title": "From laptop bans to new tech courses, US law schools grapple with AI",
-        "summary": "reuters.com is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "summary": "Reuters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
@@ -56,7 +56,7 @@
         "date": "2026-09-21 14:56",
         "displayDate": "2026-09-21 14:56",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR",
-        "source": "Trusted news / community signal · Source: reuters.com · Time: 2026-09-21 14:56"
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-21 14:56"
       },
       {
         "id": "radar-53f911b6fa67",
@@ -90,21 +90,21 @@
         "id": "radar-c4513c0e3417",
         "kind": "radar",
         "title": "AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers",
-        "summary": "sdtimes.com reports: AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers sdtimes.com",
+        "summary": "SD Times reports: AI Coding Tools in Mid-2026: High Adoption, Low Trust, and What It Means for Developers SD Times",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-25 18:33",
-        "displayDate": "2026-09-25 18:33",
+        "date": "2026-09-25 18:32",
+        "displayDate": "2026-09-25 18:32",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaWdkejI2OVhlSnNpTy1iNkwtUklMOGs2dGNYS01CRXd0Y0pGdl92ZjRHZTZCTU5YbzlyelFkaGgwc0RRNk5HZm50a0g3YmJMVWNrczdyVTlzaVRfUTBHWmE5Q2lGcVNzYkI1dEx5dERkRF9uZncxd2lXdU5FbEE4cjlXRjJrdW0yM0RLUVZJQ25vZHdDX1A5TlBBXzRfeEJZcGZfRzU0bmxxcko0dGRtbFNWT0xOYWhMMGJhR2V6bGNMVDdV",
-        "source": "News signal — verify before acting · Source: sdtimes.com · Time: 2026-09-25 18:33"
+        "source": "News signal — verify before acting · Source: SD Times · Time: 2026-09-25 18:32"
       },
       {
         "id": "radar-6ce3737ab1d9",
         "kind": "radar",
         "title": "From months to minutes: AI agents build 3D tumor digital twins via natural language",
-        "summary": "EurekAlert! reports: From months to minutes: AI agents build 3D tumor digital twins via natural language EurekAlert!",
+        "summary": "EurekAlert! Science News Releases flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -112,7 +112,7 @@
         "date": "2026-09-23 17:35",
         "displayDate": "2026-09-23 17:35",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tRTZfbXQwdmxpRlZOU0xyUUpHSm1MZDY1clEybkY5ZGFQUzlONnZIMXhtRzNoZEY1ZE5lWDJDRFRVTHdMcExuME9PQm1JQVZ0dDF3V0xJNTNVV0pq",
-        "source": "News signal — verify before acting · Source: EurekAlert! · Time: 2026-09-23 17:35"
+        "source": "News signal — verify before acting · Source: EurekAlert! Science News Releases · Time: 2026-09-23 17:35"
       },
       {
         "id": "radar-3924d8512eed",
@@ -129,20 +129,6 @@
         "source": "News signal — verify before acting · Source: HR Executive · Time: 2026-09-24 13:25"
       },
       {
-        "id": "radar-1793560cd67f",
-        "kind": "radar",
-        "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-09-25 22:17",
-        "displayDate": "2026-09-25 22:17",
-        "url": "https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 22:17"
-      },
-      {
         "id": "radar-51ded3a988c6",
         "kind": "radar",
         "title": "Is z.ai shipping a different ZCode client than the source?",
@@ -155,22 +141,25 @@
         "displayDate": "2026-09-25 21:38",
         "url": "https://news.ycombinator.com/item",
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-25 21:38"
+      },
+      {
+        "id": "radar-fe32b268d857",
+        "kind": "radar",
+        "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+        "summary": "Yahoo Finance reports: Alphabet (GOOGL) Faces Gemini Security Questions.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 50,
+        "date": "2026-09-26 01:27",
+        "displayDate": "2026-09-26 01:27",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3oyamRrWUN3WGkwenJ4VjlPdnAwQkpaU0NoOEdBdXJGZ0JGUGxZLU5WOXVJV1lQbjlXWXhNMkZ1Y2g2QXI1Z0tfa2dYSC13VWdRZGt3THNkaUlXZDVfcTVIeHlGYmU2Q1JJOHJOUWdiQlZ1RC1aajJXTDdtWnlxdms4b0ZzZmd6VU1RT203NW5SS2xGRUhkWVloNk9JTDh4QkE",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-09-26 01:27"
       }
     ]
   },
   "health": {
     "jobs": [
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-09-26T07:10:45.379538+08:00",
-        "nextRun": "2026-09-26T10:10:00+08:00",
-        "message": "RuntimeError: HTTP 401: Incorrect API key provided: sk-svcac***********************************************************************************************************************************************************fvMA. You can find your A"
-      },
       {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
@@ -222,9 +211,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T09:33:47.129164+08:00",
-        "nextRun": "2026-09-26T10:34:44.091424+08:00",
+        "lastRun": "2026-09-26T10:04:47.555917+08:00",
+        "nextRun": "2026-09-26T11:05:44.764642+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-09-26T10:12:04.110729+08:00",
+        "nextRun": "2026-09-26T13:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T10:03:48.886213+08:00",
-        "nextRun": "2026-09-26T10:05:48.886213+08:00",
+        "lastRun": "2026-09-26T10:33:49.410137+08:00",
+        "nextRun": "2026-09-26T10:35:49.410137+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-26T07:30:57.895593+08:00",
-        "nextRun": "2026-09-26T10:30:00+08:00",
+        "lastRun": "2026-09-26T10:31:00.638868+08:00",
+        "nextRun": "2026-09-26T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-26T10:04:44.092530+08:00"
+    "updatedAt": "2026-09-26T10:35:44.765641+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
