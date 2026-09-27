@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-27T10:51:03+08:00",
+    "generatedAt": "2026-09-27T13:52:07+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-27_10-18-17.md",
-    "radarSource": "ai_opportunity_radar_20260927_103022.html",
+    "radarSource": "ai_opportunity_radar_20260927_133024.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260927_103022.html",
+    "sourceFile": "ai_opportunity_radar_20260927_133024.html",
     "items": [
       {
         "id": "radar-ce1041a03d4e",
         "kind": "radar",
         "title": "Show HN: Detailed Guide to Agent Memory",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Coursera · Time: 2026-09-24 14:06"
       },
       {
-        "id": "radar-449b869b2c9a",
+        "id": "radar-92b1cb07d940",
         "kind": "radar",
-        "title": "AI agents now hold and spend real money, and nobody keeps their books",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=3.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-26 20:54",
-        "displayDate": "2026-09-26 20:54",
-        "url": "https://agenticfinancegraph.com/desk",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-26 20:54"
+        "date": "2026-09-27 02:56",
+        "displayDate": "2026-09-27 02:56",
+        "url": "https://peertalk.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-27 02:56"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-27T10:21:01.039347+08:00",
-        "nextRun": "2026-09-27T11:21:03.328013+08:00",
+        "lastRun": "2026-09-27T13:22:07.352733+08:00",
+        "nextRun": "2026-09-27T14:22:07.525420+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-27T10:20:57.615928+08:00",
-        "nextRun": "2026-09-27T13:10:00+08:00",
+        "lastRun": "2026-09-27T13:11:51.038652+08:00",
+        "nextRun": "2026-09-27T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-27T10:49:05.942814+08:00",
-        "nextRun": "2026-09-27T10:51:05.942814+08:00",
+        "lastRun": "2026-09-27T13:49:12.638335+08:00",
+        "nextRun": "2026-09-27T13:54:07.505395+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-27T10:30:22.804469+08:00",
-        "nextRun": "2026-09-27T13:30:00+08:00",
+        "lastRun": "2026-09-27T13:30:24.879154+08:00",
+        "nextRun": "2026-09-27T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-27T10:17:04.519083+08:00",
-        "nextRun": "2026-09-27T12:40:00+08:00",
+        "lastRun": "2026-09-27T12:44:51.139441+08:00",
+        "nextRun": "2026-09-27T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-27T10:51:03.328013+08:00"
+    "updatedAt": "2026-09-27T13:52:07.525420+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
