@@ -1,82 +1,82 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-28T22:59:38+08:00",
+    "generatedAt": "2026-09-29T11:58:23+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-09-28_09-01-32.md",
-    "radarSource": "ai_opportunity_radar_20260928_223056.html",
+    "dailySource": "2026-09-29_11-47-13.md",
+    "radarSource": "ai_opportunity_radar_20260929_114618.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-09-28",
+    "subject": "AI Everyday works tools - 2026-09-29",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260928_223056.html",
+    "sourceFile": "ai_opportunity_radar_20260929_114618.html",
     "items": [
       {
-        "id": "radar-58f533eba988",
+        "id": "radar-902364beb5a1",
         "kind": "radar",
-        "title": "AI Agents Are Creating A New Cybersecurity Attack Surface",
-        "summary": "Forbes reports: AI Agents Are Creating A New Cybersecurity Attack Surface Forbes",
+        "title": "AI agent memory can be poisoned – and later treated as the user's own past",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-09-28 13:43",
-        "displayDate": "2026-09-28 13:43",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUlrMGk1dEIxbkJZbFVhUXFhNDg0OU1kbmdLWllVSlBYUUE5TmVuNVVQYi0tMUEwNjRQOFNTRGJOaHJxcjBWUzFnZFZvcFFBZzVlMkYxR1VvRzVKbVY5U0xud203Yi1aY1JxS0RGX2tsOVpjYThIUTRiZ2ZDR0pEZzV2SDVoRExKSTFTR1U3cE1PU1hZUWt4TnEzRk8wTkpOaVhKY2VKenpydm5yUnc",
-        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-09-28 13:43"
+        "score": 57,
+        "date": "2026-09-29 01:43",
+        "displayDate": "2026-09-29 01:43",
+        "url": "https://astraobscura.net/2026/09/28/the-memory-that-wasnt-yours",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-29 01:43"
       },
       {
-        "id": "radar-6c05053a7cd0",
+        "id": "radar-aa998be75566",
         "kind": "radar",
-        "title": "3 business risks of AI-assisted coding executives can’t ignore",
-        "summary": "CIO Dive reports: 3 business risks of AI-assisted coding executives can’t ignore CIO Dive",
+        "title": "AI Coding Tip 038 - Make the AI Ask Before It Builds",
+        "summary": "hackernoon.com reports: AI Coding Tip 038 - Make the AI Ask Before It Builds hackernoon.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-28 09:03",
-        "displayDate": "2026-09-28 09:03",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1BRal94LXpfM0Y2bU1UQ0tISWV2ZVdNcl9yZkI1MlRXZ1JsWXNpRWJjZkR2ZXJ4UkRSbkVUMDY4dy15eGRqNVo4ajJUZlU5b1ExVFFxT2E3V1R0enBhOGRFYnh5T3p4OTBmdDJaSXN5bHlLdnVfMTNhamdGaVU5SnJkWjBhTVFDSVFpZktsT0RvODdQUE9SLWhmb3gySElE",
-        "source": "News signal — verify before acting · Source: CIO Dive · Time: 2026-09-28 09:03"
+        "date": "2026-09-28 22:03",
+        "displayDate": "2026-09-28 22:03",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nSjZWQmdTQjBXZ0xqMXVuS1FidVRBZ3pieXZiV3NnMVJMV1VaRGlxUi1ENlhGU2RaLWJnRkVtc0k5VDg5aWtCTlV3N200aEROREFQTjNtSmlQSVhmcWIwR2hsbXhDZW52OEFBTldCVkRHRHJ1b2dHQUZCOUFIUQ",
+        "source": "News signal — verify before acting · Source: hackernoon.com · Time: 2026-09-28 22:03"
       },
       {
-        "id": "radar-3441b7ad0aa6",
+        "id": "radar-e257a5005b0e",
         "kind": "radar",
-        "title": "The Two-Hour School Day",
-        "summary": "Metatrends is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "OpenAI pauses AI model training after agents probe government websites",
+        "summary": "thebusinessjournal.com is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 94,
-        "date": "2026-09-21 15:46",
-        "displayDate": "2026-09-21 15:46",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJeC1oYjgtZGY3SVZiR0F2UnlwRGZCSGEtd0k5Q3NJWkF6Qk5YaUpnRmhpU0ZlRXM5VmhRQVRRNzNJS0g4YkloQ0RsU2ZoY3pHOW9YbnpyOVNwcm1DNzhnX2JZdTdzUy0y",
-        "source": "Official / vendor signal · Source: Metatrends · Time: 2026-09-21 15:46"
+        "score": 100,
+        "date": "2026-09-28 21:43",
+        "displayDate": "2026-09-28 21:43",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1RFaWJvNmdPTWlvdzRUYnVVWjh2ZUdFT0ZQZEgxYm5va0d2ZGYzaFR3RFdENVExSTJzNk5MQU1BMm9NRjEtUzk2SGs2SURRWkc0QlU3QUo5dmVlZTIwNVhFRHE3V0dqanA5QUk3YmpKS0xnZk5xWm9rRWFSUlVoamluM2p1aTFmdGtoWndwRlRZU1FG",
+        "source": "News signal — verify before acting · Source: thebusinessjournal.com · Time: 2026-09-28 21:43"
       },
       {
-        "id": "radar-62da3919c6bc",
+        "id": "radar-a5ff7c110bbd",
         "kind": "radar",
-        "title": "Lovart is building ‘AI design agent’ that augments creative teams with single platform",
-        "summary": "TechCrunch reports: Lovart is building ‘AI design agent’ that augments creative teams with single platform TechCrunch",
+        "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+        "summary": "NVIDIA Newsroom flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 71,
-        "date": "2026-09-25 22:20",
-        "displayDate": "2026-09-25 22:20",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmVWVnNvRDNfQW1HZWpFQjlOWjBGbTBfUmhYbVdGRDg1Zjc2N0R3SVN4cGE1OFpiZEgtT2ZQakppX09mTUJIakIzTERIM0cxblpXOTlSa0xxXzQ4d2ZvaExCWWRneS00eEdkOHdPeVlJQW5HNUNVeHRJUXE0dmhfN3JhVEs0TDVXU1JfV1Frd1dRd1pTM1d0dkRqUFd2RVRFY2Z5WThuRlVDby1ySTBMOUNSRUxVRGl6WFRucTNPTV9KUHRDQUwwclduUXZiTVF2Rlhld01pcy1zYjA",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-09-25 22:20"
+        "score": 84,
+        "date": "2026-09-28 09:07",
+        "displayDate": "2026-09-28 09:07",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR",
+        "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-09-28 09:07"
       },
       {
         "id": "radar-c10bc4ff76e4",
         "kind": "radar",
         "title": "Hi3D Brings AI Agents to the Start of the 3D Printing Workflow",
-        "summary": "3D Printing Industry reports: Hi3D Brings AI Agents to the Start of the 3D Printing Workflow 3D Printing Industry",
+        "summary": "3dprintingindustry.com reports: Hi3D Brings AI Agents to the Start of the 3D Printing Workflow 3dprintingindustry.com",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -84,21 +84,21 @@
         "date": "2026-09-28 07:17",
         "displayDate": "2026-09-28 07:17",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUNsQWhLUERUWHNmbXBzQ3dOaHM1dU8wcEV2c0JlZFEzNWRCR0F2Umc4TDZqcUxRX3JudUJFbWg4MmF3MGlqWXZDWjQ1V3FjeHlDeXdzUXlDQ1BuRk04TFBLeHMxM0dGZWJsZ2xvR2pJQ0NINUdiVmxIa1RtMEpBZDBjUUJ4enBzbDJlYk1rc2FwS21WRW1LT2VCX29Pa3FzUC0yYkpOMS1YUQ",
-        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-09-28 07:17"
+        "source": "News signal — verify before acting · Source: 3dprintingindustry.com · Time: 2026-09-28 07:17"
       },
       {
-        "id": "radar-0b306560d798",
+        "id": "radar-ed6d27aa0be7",
         "kind": "radar",
-        "title": "Outscoring Claude Code at a Twelfth of the Cost: What to Check",
-        "summary": "CDOTrends reports: Outscoring Claude Code at a Twelfth of the Cost: What to Check CDOTrends",
+        "title": "AI coding agent deletes 48,000 files due to mishandled Windows junctions",
+        "summary": "SC Media reports: AI coding agent deletes 48,000 files due to mishandled Windows junctions SC Media",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-28 07:46",
-        "displayDate": "2026-09-28 07:46",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzcyUW9KZEU2Q3g3UVVfaUZlYVAxdzBfS3gzazRDb0RMYUdNYVVxclp6WEY1aUFra245UUZfYmc5Tll6NFBmV3dzTTJlUDR5RUU3M29aRGhsODh2ZXM0R2xGQllQc0RwSTRzSFBkNW9ydmczM3hjU0lRMzNUX0otRGwyOHZuY1FIdXhZ",
-        "source": "News signal — verify before acting · Source: CDOTrends · Time: 2026-09-28 07:46"
+        "date": "2026-09-28 21:45",
+        "displayDate": "2026-09-28 21:45",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTG1hSG1tTlgyWGZvT204bl9nemhDRnl5VTZfVzBBb25QS3VhM2J0NnYxR3B0WGNaempMdXVtOEdWUU5lSE14RzNITW56bDhvWExGbGhFRUZxOVZCTlgwb0p4RFU4dkc4eTRBX1piWnc3cDVTRU9vVi1fNWxqc3lzVTZ6WlNEeEVMbWh2NEVsWUg3SVdJNmFqcmR5RTBtVjNCTzdF",
+        "source": "News signal — verify before acting · Source: SC Media · Time: 2026-09-28 21:45"
       },
       {
         "id": "radar-8f467325c428",
@@ -115,46 +115,46 @@
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-09-23 22:55"
       },
       {
-        "id": "radar-a50854947240",
+        "id": "radar-94f691a0be66",
         "kind": "radar",
-        "title": "Nvidia’s new platform looks to stop AI agents breaking out of control: How it works",
-        "summary": "The Indian Express reports: Nvidia’s new platform looks to stop AI agents breaking out of control: How it works The Indian Express",
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "summary": "WIRED reports: The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills WIRED",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 92,
-        "date": "2026-09-28 11:28",
-        "displayDate": "2026-09-28 11:28",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS0h5YjU1OG1FSEFzMGpfZkw2Q2pjYi1rVW5MZzJHcjJVQzJySlh2NkxHQmVhbjlGUmVuZHQ2a3BJRUlXb2ZWSk5tMU1NY0NYSmlEUjE2Z1k5SlhtZ2V0dWVmdzc0ZnVpd3JISzdnV3VhbmJNWlQ4SzhPaGhXZWVBQldkT0ZNMkpkYlR4R2t2aEFYWFJlcW5oWkhlamRxVlNUbk9ZclhoLTFYUVdlbXJaTDFVdjRUUHRiVEo1Tk5mczZaY1paVjFXa2YyMGctUdIBzgFBVV95cUxQS0h5YjU1OG1FSEFzMGpfZkw2Q2pjYi1rVW5MZzJHcjJVQzJySlh2NkxHQmVhbjlGUmVuZHQ2a3BJRUlXb2ZWSk5tMU1NY0NYSmlEUjE2Z1k5SlhtZ2V0dWVmdzc0ZnVpd3JISzdnV3VhbmJNWlQ4SzhPaGhXZWVBQldkT0ZNMkpkYlR4R2t2aEFYWFJlcW5oWkhlamRxVlNUbk9ZclhoLTFYUVdlbXJaTDFVdjRUUHRiVEo1Tk5mczZaY1paVjFXa2YyMGctUQ",
-        "source": "News signal — verify before acting · Source: The Indian Express · Time: 2026-09-28 11:28"
+        "score": 83,
+        "date": "2026-09-28 09:00",
+        "displayDate": "2026-09-28 09:00",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnVlWDFyZzAtdEpVQ01HNnZuQkcwZmtyWTBIaHcwcHkwTURHMnJ2NEVEblhNclAwdmo5dHJMcHI3d2FqUVBHUlFtWVpkdi05VmFPRFNqdlZBT3FjandGNV9jeGxFOGY0emZ3NURENTV1YmlYY2VjT05VNFpJa19MZVJZZkZ6Z01GYmE5SjFQQUN5T2RyN08tMlE4NA",
+        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-09-28 09:00"
       },
       {
-        "id": "radar-53f911b6fa67",
+        "id": "radar-46a51323065e",
         "kind": "radar",
-        "title": "16 Indispensable AI Tools for Real Estate Agents",
-        "summary": "HousingWire reports: 16 Indispensable AI Tools for Real Estate Agents HousingWire",
+        "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+        "summary": "Bloomberg reports: Nvidia Debuts System Designed to Stop AI Agents From Going Awry Bloomberg",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-09-22 07:00",
-        "displayDate": "2026-09-22 07:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VVVuX0UwSW5oOURlekNlOHJ1UTFQUzVWR3VfcFE1bnI1OGVScmdkbG5LUmltQ1dweVdrZ3U0OE5tbzlYenA0Y3lTZGxCbXVtX2xUb3BUekU2XzRJZEtudmZKdlkzeEVqQnc",
-        "source": "News signal — verify before acting · Source: HousingWire · Time: 2026-09-22 07:00"
+        "score": 81,
+        "date": "2026-09-28 09:00",
+        "displayDate": "2026-09-28 09:00",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXp5U1NScVBhb29ldkZHSmNLS1pYVHBvRGhXTHNuSDh2QXpkY2hUeDBqTjBFekpaOVA4YW9vcEo0endNWjhDb2dSQ0V1NVJGNTZUMEowT0dlX2liaEE3VmV0UGtpdHRHNGhvSUlERTkyY3BaU0o3cUhCdlktdUxOcHljY21yTUY3ekJoclh2SWJQd0kwV05ua0ItdzNkTklTS25YWUU2ZkZ5RFRNUC03bEp5Wko",
+        "source": "Trusted news / community signal · Source: Bloomberg · Time: 2026-09-28 09:00"
       },
       {
-        "id": "radar-2e4899523154",
+        "id": "radar-f2c5288488d7",
         "kind": "radar",
-        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-        "summary": "Hacker News highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
+        "title": "AI Agents Are About to Flood the Workforce. No One's Ready for It",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 44,
-        "date": "2026-09-28 13:20",
-        "displayDate": "2026-09-28 13:20",
-        "url": "https://openappa.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-28 13:20"
+        "score": 43,
+        "date": "2026-09-29 02:25",
+        "displayDate": "2026-09-29 02:25",
+        "url": "https://wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-29 02:25"
       }
     ]
   },
@@ -168,7 +168,7 @@
         "schedule": "30 9 * * *",
         "lastStatus": "error",
         "lastRun": "2026-09-28T09:30:19.164452+08:00",
-        "nextRun": "2026-09-29T09:30:00+08:00",
+        "nextRun": "2026-09-30T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T21:01:49.327178+08:00",
-        "nextRun": "2026-09-29T09:00:00+08:00",
+        "lastRun": "2026-09-29T11:56:32.383719+08:00",
+        "nextRun": "2026-09-29T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T09:01:33.005348+08:00",
-        "nextRun": "2026-09-29T09:00:00+08:00",
+        "lastRun": "2026-09-29T11:47:13.252787+08:00",
+        "nextRun": "2026-09-30T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T09:15:31.817763+08:00",
-        "nextRun": "2026-09-29T09:15:00+08:00",
+        "lastRun": "2026-09-29T11:46:02.563650+08:00",
+        "nextRun": "2026-09-30T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T22:29:37.457572+08:00",
-        "nextRun": "2026-09-28T23:29:37.620436+08:00",
+        "lastRun": "2026-09-28T23:59:57.314491+08:00",
+        "nextRun": "2026-09-29T12:16:02.130680+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T22:12:22.992865+08:00",
-        "nextRun": "2026-09-29T01:10:00+08:00",
+        "lastRun": "2026-09-29T11:58:23.352969+08:00",
+        "nextRun": "2026-09-29T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T22:47:40.527044+08:00",
-        "nextRun": "2026-09-28T23:00:37.571769+08:00",
+        "lastRun": "2026-09-29T11:58:05.185303+08:00",
+        "nextRun": "2026-09-29T12:00:05.185303+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T22:30:56.806582+08:00",
-        "nextRun": "2026-09-29T01:30:00+08:00",
+        "lastRun": "2026-09-29T11:46:18.765526+08:00",
+        "nextRun": "2026-09-29T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-28T21:44:06.924233+08:00",
-        "nextRun": "2026-09-29T00:40:00+08:00",
+        "lastRun": "2026-09-29T11:54:47.738145+08:00",
+        "nextRun": "2026-09-29T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-28T22:59:37.621956+08:00"
+    "updatedAt": "2026-09-29T11:58:23.354967+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
