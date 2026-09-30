@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-09-30T13:47:55+08:00",
+    "generatedAt": "2026-09-30T16:50:59+08:00",
     "sourceCount": 4,
     "dailySource": "2026-09-30_09-01-17.md",
-    "radarSource": "ai_opportunity_radar_20260930_133112.html",
+    "radarSource": "ai_opportunity_radar_20260930_163116.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,63 +14,63 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20260930_133112.html",
+    "sourceFile": "ai_opportunity_radar_20260930_163116.html",
     "items": [
       {
-        "id": "radar-bb53e8bc4251",
+        "id": "radar-7bee8d8d8163",
         "kind": "radar",
-        "title": "Show HN: Runtape – counterfactual debugging and regression tests for AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "How to Manage a Team of AI Agents at Month-End",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-30 05:15",
-        "displayDate": "2026-09-30 05:15",
-        "url": "https://github.com/RehanMohammed985/runtape",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-30 05:15"
+        "date": "2026-09-30 08:05",
+        "displayDate": "2026-09-30 08:05",
+        "url": "https://adaptiveinc.com/blog/01a0d880/how-to-manage-a-team-of-ai-agents-at-month-end",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-30 08:05"
       },
       {
-        "id": "radar-849b9f690811",
+        "id": "radar-0759caf4ce6f",
         "kind": "radar",
-        "title": "Introducing GPT-6 Sol and Luna",
-        "summary": "OpenAI is a current AI signal: Introducing GPT-6 Sol and Luna. Treat it as a lead to verify, not as final advice.",
+        "title": "Your AI Agent Finished Coding. Is Your Delivery System Ready?",
+        "summary": "HackerNoon reports: Your AI Agent Finished Coding.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-09-30 03:27",
-        "displayDate": "2026-09-30 03:27",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c",
-        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-09-30 03:27"
+        "date": "2026-09-30 08:18",
+        "displayDate": "2026-09-30 08:18",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGlaaTZXNU9IX1c4SlpXNmtxRGlrRjNhTkVwWTIxdUVRZzZvM3Q4X21EdzNzU0xwc1Y3THpoeXRpZWN0Q2ZUeUR0YVdpMTB5aGJwWURxTEV4T25VWEhwNjM2VjlQQ2JKX3czQWp2THFHVHBlVFpGWkE3TXl4dkpDVUhmcjlUN2ZWUHc",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-09-30 08:18"
       },
       {
-        "id": "radar-94f691a0be66",
+        "id": "radar-7d4b6eeba85f",
         "kind": "radar",
-        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "summary": "WIRED reports: The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills WIRED",
+        "title": "OpenAI takes on Meta with dots agent in autonomous AI push",
+        "summary": "Reuters reports: OpenAI takes on Meta with dots agent in autonomous AI push Reuters",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-28 09:00",
-        "displayDate": "2026-09-28 09:00",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnVlWDFyZzAtdEpVQ01HNnZuQkcwZmtyWTBIaHcwcHkwTURHMnJ2NEVEblhNclAwdmo5dHJMcHI3d2FqUVBHUlFtWVpkdi05VmFPRFNqdlZBT3FjandGNV9jeGxFOGY0emZ3NURENTV1YmlYY2VjT05VNFpJa19MZVJZZkZ6Z01GYmE5SjFQQUN5T2RyN08tMlE4NA",
-        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-09-28 09:00"
+        "score": 87,
+        "date": "2026-09-29 17:17",
+        "displayDate": "2026-09-29 17:17",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c",
+        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-09-29 17:17"
       },
       {
-        "id": "radar-a5ff7c110bbd",
+        "id": "radar-7ccdb9c656dc",
         "kind": "radar",
-        "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
-        "summary": "NVIDIA Newsroom flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect | NVIDIA Technical Blog",
+        "summary": "NVIDIA Developer reports: AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect | NVIDIA Technical Blog NVIDIA Developer",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 84,
-        "date": "2026-09-28 22:54",
-        "displayDate": "2026-09-28 22:54",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR",
-        "source": "Official / vendor signal · Source: NVIDIA Newsroom · Time: 2026-09-28 22:54"
+        "score": 66,
+        "date": "2026-09-29 19:24",
+        "displayDate": "2026-09-29 19:24",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm4tLU9iZDlDSmE0T2JxczJiZm1sQmJLaHlvZVdzcU5YLXpmdnlIX3B5VkNLNEhlMFd6OE9xeG5fNHJWd2RnTmVsdWZlUnB0dVpkYWtzM2RjOWJySFp4ajI2UUV1ZjFNV0R6YlZiZGtiU3RxN1F5elc0NjJ4TG1jYnhqakU0VkVhMHBtc0g1ZWlPSmNMYUdWemF6TUZqVDdRVWozTDhHb2FONk5DdVp0SnRqMVE",
+        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-09-29 19:24"
       },
       {
         "id": "radar-294f5a0aee51",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-09-28 07:17"
       },
       {
-        "id": "radar-21075498e71f",
+        "id": "radar-94f691a0be66",
         "kind": "radar",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
-        "summary": "The Guardian flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "summary": "WIRED reports: The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills WIRED",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-09-30 01:53",
-        "displayDate": "2026-09-30 01:53",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn",
-        "source": "News signal — verify before acting · Source: The Guardian · Time: 2026-09-30 01:53"
+        "score": 83,
+        "date": "2026-09-28 09:00",
+        "displayDate": "2026-09-28 09:00",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnVlWDFyZzAtdEpVQ01HNnZuQkcwZmtyWTBIaHcwcHkwTURHMnJ2NEVEblhNclAwdmo5dHJMcHI3d2FqUVBHUlFtWVpkdi05VmFPRFNqdlZBT3FjandGNV9jeGxFOGY0emZ3NURENTV1YmlYY2VjT05VNFpJa19MZVJZZkZ6Z01GYmE5SjFQQUN5T2RyN08tMlE4NA",
+        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-09-28 09:00"
       },
       {
         "id": "radar-b04d2c0a3c6d",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-09-29 12:40"
       },
       {
-        "id": "radar-22a4f95cafb0",
+        "id": "radar-1941242d228e",
         "kind": "radar",
-        "title": "Agents Work Better When They Can Pass Each Other Notes",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "Show HN: Instapath – your personal agent needs something, another agent has it",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-09-30 04:12",
-        "displayDate": "2026-09-30 04:12",
-        "url": "https://deeplearning.ai/the-batch/agents-work-better-when-they-can-pass-each-other-notes",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-30 04:12"
+        "date": "2026-09-30 05:41",
+        "displayDate": "2026-09-30 05:41",
+        "url": "https://instapath.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-09-30 05:41"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T09:03:05.531720+08:00",
-        "nextRun": "2026-09-30T15:00:00+08:00",
+        "lastRun": "2026-09-30T15:02:52.415432+08:00",
+        "nextRun": "2026-09-30T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T13:17:54.940858+08:00",
-        "nextRun": "2026-09-30T14:17:55.079504+08:00",
+        "lastRun": "2026-09-30T16:20:59.372075+08:00",
+        "nextRun": "2026-09-30T17:20:59.629048+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T13:12:10.022786+08:00",
-        "nextRun": "2026-09-30T16:10:00+08:00",
+        "lastRun": "2026-09-30T16:12:08.822154+08:00",
+        "nextRun": "2026-09-30T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T13:46:59.716322+08:00",
-        "nextRun": "2026-09-30T13:48:59.716322+08:00",
+        "lastRun": "2026-09-30T16:50:04.343134+08:00",
+        "nextRun": "2026-09-30T16:52:04.343134+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T13:31:12.724461+08:00",
-        "nextRun": "2026-09-30T16:30:00+08:00",
+        "lastRun": "2026-09-30T16:31:16.134626+08:00",
+        "nextRun": "2026-09-30T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-09-30T12:47:20.681291+08:00",
-        "nextRun": "2026-09-30T15:40:00+08:00",
+        "lastRun": "2026-09-30T15:50:56.836682+08:00",
+        "nextRun": "2026-09-30T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-09-30T13:47:55.080505+08:00"
+    "updatedAt": "2026-09-30T16:50:59.630048+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
