@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-03T16:39:39+08:00",
+    "generatedAt": "2026-10-03T19:45:43+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-03_09-02-20.md",
-    "radarSource": "ai_opportunity_radar_20261003_163059.html",
+    "radarSource": "ai_opportunity_radar_20261003_193104.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261003_163059.html",
+    "sourceFile": "ai_opportunity_radar_20261003_193104.html",
     "items": [
       {
-        "id": "radar-8dc6cc9984f2",
+        "id": "radar-0ff9a71457a0",
         "kind": "radar",
-        "title": "Show HN: Google Maps Scraper MCP",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=9, comments=5.",
+        "title": "An AI agent emailed researchers for help. It told us why",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=40, comments=50.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-10-03 01:46",
-        "displayDate": "2026-10-03 01:46",
-        "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-03 01:46"
+        "score": 50,
+        "date": "2026-10-03 10:07",
+        "displayDate": "2026-10-03 10:07",
+        "url": "https://science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-03 10:07"
       },
       {
         "id": "radar-04bcfc46ed06",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-10-03 07:17"
       },
       {
-        "id": "radar-4034bf601a5f",
+        "id": "radar-be523baab5b9",
         "kind": "radar",
-        "title": "The Formula for Agentic AI Value",
-        "summary": "Boston Consulting Group reports: The Formula for Agentic AI Value Boston Consulting Group",
+        "title": "Anthropic to invest $100 million to train AI engineer talent",
+        "summary": "cnbc.com reports: Anthropic to invest $100 million to train AI engineer talent cnbc.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-09-30 09:06",
-        "displayDate": "2026-09-30 09:06",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aa1p1RmlrTUFLbVJfWnhVV2VCYUhWRThjS1dlNnZMVERIZGVOUjZvZDRIV09LUUFnXzQ5SFR1UWZfOHhrUVBIRjJuT2RuMFpaMDdBOHNsVXR6aVhOeXJhQzZTanh2cHR2V29DX21NbVVZZkhuWlRGR3Vn",
-        "source": "News signal — verify before acting · Source: Boston Consulting Group · Time: 2026-09-30 09:06"
+        "score": 90,
+        "date": "2026-10-02 21:03",
+        "displayDate": "2026-10-02 21:03",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn",
+        "source": "News signal — verify before acting · Source: cnbc.com · Time: 2026-10-02 21:03"
       },
       {
         "id": "radar-a52699702f29",
@@ -87,18 +87,18 @@
         "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-09-30 15:03"
       },
       {
-        "id": "radar-32f25b0345c3",
+        "id": "radar-1e3ed6fc4a08",
         "kind": "radar",
-        "title": "Your AI Agents Can Write Code. Can They Understand Your Business?",
-        "summary": "forbes.com reports: Your AI Agents Can Write Code.",
+        "title": "AI Agents Push Cybersecurity Into a New Risk Era",
+        "summary": "Mexico Business News reports: AI Agents Push Cybersecurity Into a New Risk Era Mexico Business News",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 38,
-        "date": "2026-10-03 00:56",
-        "displayDate": "2026-10-03 00:56",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2lVLXJUSzc5NVJ4c09UdmpPcDVGb1cyeEM5cjRkdXA1UTlmQWZEd1h0N0tlcUw5VVBxVlI4VHhfSVF3SnVfNzJzUDE1cEZPOEUyRXRubEw5MUFkY0pVUjN4dlgxbVBsS3RIcXQtbmVPSTBMOFpWVzZ1UnhYOTI3bklVVC1lbEI3R20wa0xLQUNLZWgzd0RuMTQ2ejlnZVdjczdTcWp4V3Y2VUFkdmlHbDVGTkF4UXp2Wmt0ZzhCZnM",
-        "source": "News signal — verify before acting · Source: forbes.com · Time: 2026-10-03 00:56"
+        "score": 50,
+        "date": "2026-10-02 22:33",
+        "displayDate": "2026-10-02 22:33",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGp2MVRyajlfeXlldjZjbkZ3b0pQWUJkMzFXa3VxbS0xY19FVmpkUHZHeGdxQ1AyejFiak5SMkpLNmg0ckk5QVZjZm1oWEx6WVlnLUlZT3lHeHoteC1IQ2pyMjZZU2JQMGEyRWl0Q3d4U0xyZkZaSzAxSHcxMTlhT1p6Wnp4LW1KT3hGQmNqQW5LQQ",
+        "source": "News signal — verify before acting · Source: Mexico Business News · Time: 2026-10-02 22:33"
       },
       {
         "id": "radar-15e3721c36a2",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: AEC Magazine · Time: 2026-09-29 11:13"
       },
       {
-        "id": "radar-be523baab5b9",
+        "id": "radar-94f691a0be66",
         "kind": "radar",
-        "title": "Anthropic to invest $100 million to train AI engineer talent",
-        "summary": "CNBC reports: Anthropic to invest $100 million to train AI engineer talent CNBC",
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "summary": "WIRED reports: The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills WIRED",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-10-02 21:03",
-        "displayDate": "2026-10-02 21:03",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn",
-        "source": "News signal — verify before acting · Source: CNBC · Time: 2026-10-02 21:03"
+        "score": 83,
+        "date": "2026-09-28 09:00",
+        "displayDate": "2026-09-28 09:00",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnVlWDFyZzAtdEpVQ01HNnZuQkcwZmtyWTBIaHcwcHkwTURHMnJ2NEVEblhNclAwdmo5dHJMcHI3d2FqUVBHUlFtWVpkdi05VmFPRFNqdlZBT3FjandGNV9jeGxFOGY0emZ3NURENTV1YmlYY2VjT05VNFpJa19MZVJZZkZ6Z01GYmE5SjFQQUN5T2RyN08tMlE4NA",
+        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-09-28 09:00"
       },
       {
         "id": "radar-61feb638192d",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T16:09:38.959840+08:00",
-        "nextRun": "2026-10-03T17:09:39.114876+08:00",
+        "lastRun": "2026-10-03T19:15:43.089794+08:00",
+        "nextRun": "2026-10-03T20:15:43.348671+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T16:12:36.847673+08:00",
-        "nextRun": "2026-10-03T19:10:00+08:00",
+        "lastRun": "2026-10-03T19:12:25.442945+08:00",
+        "nextRun": "2026-10-03T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T16:38:42.088188+08:00",
-        "nextRun": "2026-10-03T16:40:42.088188+08:00",
+        "lastRun": "2026-10-03T19:44:46.117821+08:00",
+        "nextRun": "2026-10-03T19:46:46.117821+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T16:30:59.418842+08:00",
-        "nextRun": "2026-10-03T19:30:00+08:00",
+        "lastRun": "2026-10-03T19:31:04.484555+08:00",
+        "nextRun": "2026-10-03T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T15:44:46.836397+08:00",
-        "nextRun": "2026-10-03T18:40:00+08:00",
+        "lastRun": "2026-10-03T18:44:44.607967+08:00",
+        "nextRun": "2026-10-03T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-03T16:39:39.115876+08:00"
+    "updatedAt": "2026-10-03T19:45:43.348671+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
