@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-04T16:57:54+08:00",
+    "generatedAt": "2026-10-04T20:00:55+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-04_10-16-39.md",
-    "radarSource": "ai_opportunity_radar_20261004_163114.html",
+    "radarSource": "ai_opportunity_radar_20261004_193108.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261004_163114.html",
+    "sourceFile": "ai_opportunity_radar_20261004_193108.html",
     "items": [
       {
-        "id": "radar-2f61551480a1",
+        "id": "radar-0b253f88c544",
         "kind": "radar",
-        "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+        "title": "Aura – a self-hosted AI agent with temporal graph memory, written in Go",
         "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 57,
-        "date": "2026-10-04 03:57",
-        "displayDate": "2026-10-04 03:57",
-        "url": "https://arxiv.org/abs/2608.08253",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-04 03:57"
+        "date": "2026-10-04 08:42",
+        "displayDate": "2026-10-04 08:42",
+        "url": "https://github.com/chetto1983/Aura",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-04 08:42"
       },
       {
         "id": "radar-14bc241c781d",
@@ -104,7 +104,7 @@
         "id": "radar-294f5a0aee51",
         "kind": "radar",
         "title": "Rayon raises €10m for 3D and agentic AI",
-        "summary": "AEC Magazine shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "summary": "aecmag.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -112,7 +112,7 @@
         "date": "2026-09-29 11:13",
         "displayDate": "2026-09-29 11:13",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40cGVneUhpRnVjcFYycHBseklyNzcyRTlqa1JlTE41QjgxQjIwTi1pLXFXQ0xNdHFJQ1RGeHhDY0hydzFicEpQMVFkREhiOFg0ZEZ0OTFKNC1rTlg4OFR6bE9wTTBGdkZhR3pNc2dWYjY",
-        "source": "News signal — verify before acting · Source: AEC Magazine · Time: 2026-09-29 11:13"
+        "source": "News signal — verify before acting · Source: aecmag.com · Time: 2026-09-29 11:13"
       },
       {
         "id": "radar-94f691a0be66",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-09-30 12:20"
       },
       {
-        "id": "radar-d2bce2266dc4",
+        "id": "radar-2f61551480a1",
         "kind": "radar",
-        "title": "Let AI agents use your site with 3 HTML attributes",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Show HN: SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-04 06:07",
-        "displayDate": "2026-10-04 06:07",
-        "url": "https://markodenic.tech/let-ai-agents-use-your-site-with-3-html-attributes",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-04 06:07"
+        "score": 57,
+        "date": "2026-10-04 03:57",
+        "displayDate": "2026-10-04 03:57",
+        "url": "https://arxiv.org/abs/2608.08253",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-04 03:57"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T16:27:53.707186+08:00",
-        "nextRun": "2026-10-04T17:27:53.932545+08:00",
+        "lastRun": "2026-10-04T19:30:30.462000+08:00",
+        "nextRun": "2026-10-04T20:30:54.721379+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T16:13:11.271118+08:00",
-        "nextRun": "2026-10-04T19:10:00+08:00",
+        "lastRun": "2026-10-04T19:11:52.836920+08:00",
+        "nextRun": "2026-10-04T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T16:56:57.124368+08:00",
-        "nextRun": "2026-10-04T16:58:57.124368+08:00",
+        "lastRun": "2026-10-04T19:57:57.222081+08:00",
+        "nextRun": "2026-10-04T20:02:54.712874+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T16:31:14.952812+08:00",
-        "nextRun": "2026-10-04T19:30:00+08:00",
+        "lastRun": "2026-10-04T19:31:08.299681+08:00",
+        "nextRun": "2026-10-04T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T15:48:47.541822+08:00",
-        "nextRun": "2026-10-04T18:40:00+08:00",
+        "lastRun": "2026-10-04T18:47:12.567399+08:00",
+        "nextRun": "2026-10-04T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-04T16:57:53.932545+08:00"
+    "updatedAt": "2026-10-04T20:00:54.722379+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
