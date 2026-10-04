@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-04T10:25:11+08:00",
+    "generatedAt": "2026-10-04T10:55:46+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-04_10-16-39.md",
-    "radarSource": "ai_opportunity_radar_20261004_101502.html",
+    "radarSource": "ai_opportunity_radar_20261004_103106.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261004_101502.html",
+    "sourceFile": "ai_opportunity_radar_20261004_103106.html",
     "items": [
       {
         "id": "radar-65e21109f400",
@@ -167,7 +167,7 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-10-03T09:30:31.514834+08:00",
+        "lastRun": "2026-10-04T10:25:18.052902+08:00",
         "nextRun": "2026-10-05T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-03T22:46:54.324695+08:00",
-        "nextRun": "2026-10-04T10:44:44.823086+08:00",
+        "lastRun": "2026-10-04T10:25:15.337075+08:00",
+        "nextRun": "2026-10-04T11:25:45.780249+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T10:23:47.742561+08:00",
-        "nextRun": "2026-10-04T10:25:47.742561+08:00",
+        "lastRun": "2026-10-04T10:53:48.602761+08:00",
+        "nextRun": "2026-10-04T10:55:48.602761+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-04T10:15:02.677527+08:00",
-        "nextRun": "2026-10-04T10:30:00+08:00",
+        "lastRun": "2026-10-04T10:31:06.202888+08:00",
+        "nextRun": "2026-10-04T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-04T10:25:11.148054+08:00"
+    "updatedAt": "2026-10-04T10:55:45.781249+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
