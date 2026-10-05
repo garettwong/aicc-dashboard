@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-05T16:50:27+08:00",
+    "generatedAt": "2026-10-05T19:51:32+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-05_09-02-24.md",
-    "radarSource": "ai_opportunity_radar_20261005_163055.html",
+    "radarSource": "ai_opportunity_radar_20261005_193052.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261005_163055.html",
+    "sourceFile": "ai_opportunity_radar_20261005_193052.html",
     "items": [
       {
-        "id": "radar-e883d57695ac",
+        "id": "radar-fe55b3fd183a",
         "kind": "radar",
-        "title": "Apple tightens macOS disk access as AI agents become more powerful",
-        "summary": "Help Net Security reports: Apple tightens macOS disk access as AI agents become more powerful Help Net Security",
+        "title": "AI Agents Are Disrupting Open Source Security Disclosure",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-10-05 08:11",
-        "displayDate": "2026-10-05 08:11",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONVM5dDJhSlRzRzFWWXoxSzhfOXBTQ1NjV0VrTXNNYjFNV2dtaDdsdWtPcmctQVN4Rm1hWGRqUXdIYjRfUW52SFJ3X3JYbDNRQjBVd2IxSFVuLS0zYmRveklWWl9ZT3o1Z1pGU3FLbC1UaWt2a01NU3dsZHE4YzA",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-10-05 08:11"
+        "score": 55,
+        "date": "2026-10-05 09:31",
+        "displayDate": "2026-10-05 09:31",
+        "url": "https://infoq.com/news/2026/10/open-source-ai-security",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-05 09:31"
       },
       {
         "id": "radar-cdbdf6996694",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-10-03 23:09"
       },
       {
-        "id": "radar-870960268105",
+        "id": "radar-cd65ad987532",
         "kind": "radar",
-        "title": "The changes in the work brought about by generative artificial intelligence (AI) technology are only..",
-        "summary": "매일경제 reports: The changes in the work brought about by generative artificial intelligence (AI) technology are only..",
+        "title": "DeepSeek's coding agent, 'DeepSeek Harness,' is now available as a desktop version.",
+        "summary": "GIGAZINE reports: DeepSeek's coding agent, 'DeepSeek Harness,' is now available as a desktop version.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-05 05:59",
-        "displayDate": "2026-10-05 05:59",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CM3RZXzFZVDhQQjIzTmxMdFhTekVDRjA3M0hhTEhEZjBXMFBKd21iLUxxQlRhdWJLaktlZlpwQ2psVklSVHRwNS13NA",
-        "source": "News signal — verify before acting · Source: 매일경제 · Time: 2026-10-05 05:59"
+        "date": "2026-10-05 02:58",
+        "displayDate": "2026-10-05 02:58",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lampHQXVvTzFqc2N3RXgyckhFNW9wWS1Bb1J3LWtkMExZSVdPS3gyMTRVMXZaeWNvY3kwY1JJLXRkNUlRTjdiSjlNWERnVXJUbC1tUGxyTlJ0WTNhOVJnT2ZzaXFFZF84ZEpv",
+        "source": "News signal — verify before acting · Source: GIGAZINE · Time: 2026-10-05 02:58"
       },
       {
         "id": "radar-fae7e12fe004",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: the-decoder.com · Time: 2026-10-03 08:48"
       },
       {
-        "id": "radar-94f691a0be66",
+        "id": "radar-d016927eed12",
         "kind": "radar",
-        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "summary": "WIRED reports: The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills WIRED",
+        "title": "Nvidia program on pause year into deal with Oregon to get AI education in schools, colleges",
+        "summary": "heraldandnews.com is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-09-28 09:00",
-        "displayDate": "2026-09-28 09:00",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnVlWDFyZzAtdEpVQ01HNnZuQkcwZmtyWTBIaHcwcHkwTURHMnJ2NEVEblhNclAwdmo5dHJMcHI3d2FqUVBHUlFtWVpkdi05VmFPRFNqdlZBT3FjandGNV9jeGxFOGY0emZ3NURENTV1YmlYY2VjT05VNFpJa19MZVJZZkZ6Z01GYmE5SjFQQUN5T2RyN08tMlE4NA",
-        "source": "Trusted news / community signal · Source: WIRED · Time: 2026-09-28 09:00"
+        "score": 88,
+        "date": "2026-10-01 19:17",
+        "displayDate": "2026-10-01 19:17",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcHYwbXlNbmMxc214Z2VTN1BHSG1fSGtzWjNYa21qQUtTbnZiUHFCWG5ZV0x2QjJEM0tsTUkzYVN3bElxTTQyb01yUlhGaVRkRmJTNDdpMW1ZUnJnWGFFR08zRkVZT29DOXRmc19NNmNidVd0YnlpMVhvMG50U00tWFR5S2ZuWGF0YnptMEx1NVhDcmhYZjV2SDJBRWxFdXFsa3R5Zk14VXhUazAtcnQxejNaMXVwMkVTWm1SNVZjWUJtNFUyc3FZRmxqbmljUWVkZnU2NlVoZjJxSHRxSTdsWUJmZDlqZm0tajg4VnFmZ1RIdzFqcTFhdGN3",
+        "source": "News signal — verify before acting · Source: heraldandnews.com · Time: 2026-10-01 19:17"
       },
       {
         "id": "radar-78484dac1ad9",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Tom's Hardware · Time: 2026-09-30 12:20"
       },
       {
-        "id": "radar-9f2c4d0db84c",
+        "id": "radar-6dab8e982981",
         "kind": "radar",
-        "title": "AI agents reshape identity security",
-        "summary": "SiliconANGLE reports: AI agents reshape identity security SiliconANGLE",
+        "title": "Beyond Access Control: AI Agents Need Limits on What They Can Access and Consume",
+        "summary": "Cybersecurity Insiders reports: Beyond Access Control: AI Agents Need Limits on What They Can Access and Consume Cybersecurity Insiders",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-10-04 16:27",
-        "displayDate": "2026-10-04 16:27",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVB3N0plemVMbjgzM2ZIT3otdGNhckF5Ukt4Y0o0cE8wa28xZ1hNYm9oWnozTFBhR3V4dENUUS00c3ltdlNyM1I3SHZ6aVBVZHR4SU1ZZVllWndiWUVXdkxGN3ljMXh2WlNKNjE2Y1VaX3U3RVNIQVhDM0NWd0xhSW5QTHhBZHVRMUE",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-10-04 16:27"
+        "date": "2026-10-05 10:22",
+        "displayDate": "2026-10-05 10:22",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa2xXSmtDN2QySXpmcnhEaE9FZHdDV2RUdzhyRDBzbklJMmxpdTZIUmRPRzJXMy1MU0F5bFFiZFk5QXlyUHE3RWt0TXhGaTMyXzNHYU5TeUhXblM3NUdRQzlwalFGYTkyRDhLblpYcFUzU0JfVXZ4bjI4dzlwWkdOWjVqOXkyVVdKWGlETHBqYm9ZYVRKZl8zUzQ3UHRpWTZxbkswVEF5OE1zVWR1cXN6VkdPUnd5T0NGM09Z",
+        "source": "News signal — verify before acting · Source: Cybersecurity Insiders · Time: 2026-10-05 10:22"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-05T16:20:27.151732+08:00",
-        "nextRun": "2026-10-05T17:20:27.329899+08:00",
+        "lastRun": "2026-10-05T19:21:32.237926+08:00",
+        "nextRun": "2026-10-05T20:21:32.377770+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-05T16:13:18.017734+08:00",
-        "nextRun": "2026-10-05T19:10:00+08:00",
+        "lastRun": "2026-10-05T19:13:04.462206+08:00",
+        "nextRun": "2026-10-05T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-05T16:49:32.375087+08:00",
-        "nextRun": "2026-10-05T16:51:32.375087+08:00",
+        "lastRun": "2026-10-05T19:49:37.624447+08:00",
+        "nextRun": "2026-10-05T19:51:37.624447+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-05T16:30:55.160803+08:00",
-        "nextRun": "2026-10-05T19:30:00+08:00",
+        "lastRun": "2026-10-05T19:30:52.870583+08:00",
+        "nextRun": "2026-10-05T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-05T15:46:17.952889+08:00",
-        "nextRun": "2026-10-05T18:40:00+08:00",
+        "lastRun": "2026-10-05T18:50:01.162254+08:00",
+        "nextRun": "2026-10-05T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-05T16:50:27.329899+08:00"
+    "updatedAt": "2026-10-05T19:51:32.377770+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
