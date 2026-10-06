@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-06T22:56:39+08:00",
+    "generatedAt": "2026-10-07T01:57:44+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-06_11-12-18.md",
-    "radarSource": "ai_opportunity_radar_20261006_223057.html",
+    "radarSource": "ai_opportunity_radar_20261007_013204.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261006_223057.html",
+    "sourceFile": "ai_opportunity_radar_20261007_013204.html",
     "items": [
       {
-        "id": "radar-51fa492225a8",
+        "id": "radar-d97547024698",
         "kind": "radar",
-        "title": "Show HN: Tinyhat, per-specialist memory for multi-agent Muse (open source)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Long-horizon agents at half the cost",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-10-06 14:11",
-        "displayDate": "2026-10-06 14:11",
-        "url": "https://github.com/tinyhat-ai/muse-office",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-06 14:11"
+        "score": 43,
+        "date": "2026-10-06 17:30",
+        "displayDate": "2026-10-06 17:30",
+        "url": "https://unreallabs.ai/blog/long-horizon-agents-at-half-the-cost",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-06 17:30"
       },
       {
-        "id": "radar-2b8c4f6e432e",
+        "id": "radar-a286b4594d0d",
         "kind": "radar",
-        "title": "90% of developers surveyed now use AI coding agents at work, JetBrains says",
-        "summary": "Gulf News reports: 90% of developers surveyed now use AI coding agents at work, JetBrains says Gulf News",
+        "title": "Claude Code vs Codex: Benchmarks, Pricing [2026] - https://tech-insider.org/",
+        "summary": "https://tech-insider.org/ reports: Claude Code vs Codex: Benchmarks, Pricing [2026] https://tech-insider.org/",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-06 13:27",
-        "displayDate": "2026-10-06 13:27",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDZNcERoSlBWdGdiVzVSenNOTXN6Q1RUZlZRb3BVemVSWnhBWFAtVUpGeWNmMTRkVE1CajdHMzlFRERxdGprUGtnSUIyVnJoTFhBT2lMdnZFYWVfWVhGYmU4ZlFqYmZ1VzQ4VExNcE1YQVMyQ19RQ0s5Y0tHazdFV0tLRDRxalZNQWdFM1BObVhTbHdadWhsLWIxZGh4eDd3V1JFNlRKZEloMFc4d19HcEpweTMzcXlv0gHIAUFVX3lxTE00Z1kxS1RZYUxuaUZicHdoOElUb1JyWUNwemdaZVFCNWRQRFJIR2tsdHRhQ2VkUVE5N250SVh2UVN3X21wSmd2RkJNdXVUdHB1M1NVcGtzcFdOY09kc3llSFJER05NYkd6VXp6bkMyQjJ5dlNPTjRIdUhsWXRKS2p1YzZ0MjhrSVpSS0NGZ0lFZzE1UVhYb1hncXlWSHNiNHN3M2tqdkwtMHZlNUY0dUV2elVvVnBta3d4aU9LdDRPRFlreV9qNjFO",
-        "source": "News signal — verify before acting · Source: Gulf News · Time: 2026-10-06 13:27"
+        "date": "2026-10-06 14:58",
+        "displayDate": "2026-10-06 14:58",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVGhYbFc1Y1E0SFN2bXBpdlpiTnE5MTJ0czNzcWFnVUtKWGRlSVN1M0JSSmE5dHpmeG5QRVlJUjJhUFNPV1FxR0J5MnFybWszb2h5ZWR1ZTZSSENpUm1HZDlaUllZYTJmbmtkRUZrTXhxQWRfYnZN",
+        "source": "News signal — verify before acting · Source: https://tech-insider.org/ · Time: 2026-10-06 14:58"
       },
       {
         "id": "radar-4034bf601a5f",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: Boston Consulting Group · Time: 2026-09-30 09:06"
       },
       {
-        "id": "radar-a52699702f29",
+        "id": "radar-21adae3a44a5",
         "kind": "radar",
-        "title": "Transforming Design Workflow: Bitreel’s AI Agents Revolutionize Creative Spaces with AWS Partnership",
-        "summary": "freeyork reports: Transforming Design Workflow: Bitreel’s AI Agents Revolutionize Creative Spaces with AWS Partnership freeyork",
+        "title": "Stack Overflow 2026 Survey: VS Code Leads, Visual Studio Takes Third",
+        "summary": "Visual Studio Magazine reports: Stack Overflow 2026 Survey: VS Code Leads, Visual Studio Takes Third Visual Studio Magazine",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 79,
-        "date": "2026-10-02 10:19",
-        "displayDate": "2026-10-02 10:19",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLU5KLWtfUVhJc3E4dl9mWDhVSnotWFluTENrNXM4SUJnNzBMeTMxVlFoRThqU0o3MWVwcndWRmhURFJUY1NVcUZjS1VGWEl0YjFER3NUX09ZUm1MZWtxQnRtR0U4c1Ywd2NLeXFsdzc1d0RZdFhxUHRkU3NWR1ZmQkhSQU5PTU9KcHJZ",
-        "source": "News signal — verify before acting · Source: freeyork · Time: 2026-10-02 10:19"
+        "score": 100,
+        "date": "2026-10-06 15:47",
+        "displayDate": "2026-10-06 15:47",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1ZiRWt6RFJYN1hDR2dRRVBadlFZRG5kM0RSR05BUDhqUi1xSjBrUUlzaWNjNDhkYnV5VUxCWS1CdE9mck51dE1VS3BuTzJQOU9CVTRJMjNLV3lWZXVxTGZ6YW9mWE03cWdOa3JBcTVoU2FaUm1ndGJSYXlVT2ZOOG1Uck1GRS16UzVmQXhjWEVCOUZYU1B6aWRkT2REWnhNZThGcE1MMWxzcDNkVEdTLUZ1bVZmbUhjaFlpMVJEbzVsQQ",
+        "source": "News signal — verify before acting · Source: Visual Studio Magazine · Time: 2026-10-06 15:47"
       },
       {
         "id": "radar-853598cf83a6",
@@ -87,32 +87,18 @@
         "source": "News signal — verify before acting · Source: AEC Magazine · Time: 2026-10-02 11:04"
       },
       {
-        "id": "radar-9d62822440c0",
+        "id": "radar-2b8c4f6e432e",
         "kind": "radar",
-        "title": "Early users are deleting personal AI agents, citing privacy scares and blunders",
-        "summary": "Business Insider is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 48,
-        "date": "2026-10-06 09:33",
-        "displayDate": "2026-10-06 09:33",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0FWM1Z0Y2NjMXBGdjhVVVl1YXNQRkhzWUhqSE5IVG9iMnNzMnRtd2FvSzFKUnRkWkpXUjVRaDJGb2pfREIwTVRKTVZ1QXQ5eTR4TURtbWgyc05TUnhGX2ljLXQtQWFxcGFIVzVkaWhRNTVXVUNCbUxtclZIeWJoOHBCQ3NVS0JzM0RDNXpfbk0wMmpqcVRTaVE1WWRqOU1kbGNN",
-        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-10-06 09:33"
-      },
-      {
-        "id": "radar-377980d92b31",
-        "kind": "radar",
-        "title": "Eric Schmidt says coding is changing forever as AI takes over the heavy lifting",
-        "summary": "Moneycontrol.com reports: Eric Schmidt says coding is changing forever as AI takes over the heavy lifting Moneycontrol.com",
+        "title": "90% of developers surveyed now use AI coding agents at work, JetBrains says",
+        "summary": "Gulf News reports: 90% of developers surveyed now use AI coding agents at work, JetBrains says Gulf News",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-06 13:04",
-        "displayDate": "2026-10-06 13:04",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSDM0T0tKMG1LMTI2T1pKY0h3SHRvTDRidy1aVlhqa2N5MVlBWnZHV2RtVGFhNUtMaUpuLUxudWdlVi13VXRvMWloRGcxdFhQUGRTck1kRDQ2SnZzVThpTFF2WmtBY0tKdHlUd2I5QjdBZDlmSGxUNlJ4WGJBU0xsVkkwdEN4dloycTZmak9Zay03SC10U3dBRklRbEFpUWRnZ0x6TTluUDVJcllFUG4xMV9oNllqYm43SWcxM1JJLUZ1QUxkSnNkZzJJWEthN0nSAdQBQVVfeXFMTXhUdFVLb1NhMEZkNDd3WldtWC1HYkFnYW01WGhPUHJNR0FJbHI2d1V0YW1yQnR2M3dXUUZPZVpjT1dhU3RWckhXcnpBelFlcTgtSVp6cGlWRlV5TklUdk1abUFRSENXWHNtQU9CcUllbmZSU002a2ZJOHZUN29sRWRBSGNEcjhKdjUwYWowTXlSVjdEdEpGbDRWMnRreHRxYmNLWkdxYmd3dXBOYjFEbTI3bHNlR01lUVc1Z3NtYXczemdya2tVUlg5U3lCcE5waEI3Y0s",
-        "source": "News signal — verify before acting · Source: Moneycontrol.com · Time: 2026-10-06 13:04"
+        "date": "2026-10-06 13:27",
+        "displayDate": "2026-10-06 13:27",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDZNcERoSlBWdGdiVzVSenNOTXN6Q1RUZlZRb3BVemVSWnhBWFAtVUpGeWNmMTRkVE1CajdHMzlFRERxdGprUGtnSUIyVnJoTFhBT2lMdnZFYWVfWVhGYmU4ZlFqYmZ1VzQ4VExNcE1YQVMyQ19RQ0s5Y0tHazdFV0tLRDRxalZNQWdFM1BObVhTbHdadWhsLWIxZGh4eDd3V1JFNlRKZEloMFc4d19HcEpweTMzcXlv0gHIAUFVX3lxTE00Z1kxS1RZYUxuaUZicHdoOElUb1JyWUNwemdaZVFCNWRQRFJIR2tsdHRhQ2VkUVE5N250SVh2UVN3X21wSmd2RkJNdXVUdHB1M1NVcGtzcFdOY09kc3llSFJER05NYkd6VXp6bkMyQjJ5dlNPTjRIdUhsWXRKS2p1YzZ0MjhrSVpSS0NGZ0lFZzE1UVhYb1hncXlWSHNiNHN3M2tqdkwtMHZlNUY0dUV2elVvVnBta3d4aU9LdDRPRFlreV9qNjFO",
+        "source": "News signal — verify before acting · Source: Gulf News · Time: 2026-10-06 13:27"
       },
       {
         "id": "radar-df2e6f781d5a",
@@ -143,18 +129,32 @@
         "source": "News signal — verify before acting · Source: CNBC · Time: 2026-10-02 21:03"
       },
       {
-        "id": "radar-62da3919c6bc",
+        "id": "radar-a52699702f29",
         "kind": "radar",
-        "title": "Lovart is building ‘AI design agent’ that augments creative teams with single platform",
-        "summary": "TechCrunch reports: Lovart is building ‘AI design agent’ that augments creative teams with single platform TechCrunch",
+        "title": "Transforming Design Workflow: Bitreel’s AI Agents Revolutionize Creative Spaces with AWS Partnership",
+        "summary": "freeyork reports: Transforming Design Workflow: Bitreel’s AI Agents Revolutionize Creative Spaces with AWS Partnership freeyork",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 71,
-        "date": "2026-10-03 14:00",
-        "displayDate": "2026-10-03 14:00",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmVWVnNvRDNfQW1HZWpFQjlOWjBGbTBfUmhYbVdGRDg1Zjc2N0R3SVN4cGE1OFpiZEgtT2ZQakppX09mTUJIakIzTERIM0cxblpXOTlSa0xxXzQ4d2ZvaExCWWRneS00eEdkOHdPeVlJQW5HNUNVeHRJUXE0dmhfN3JhVEs0TDVXU1JfV1Frd1dRd1pTM1d0dkRqUFd2RVRFY2Z5WThuRlVDby1ySTBMOUNSRUxVRGl6WFRucTNPTV9KUHRDQUwwclduUXZiTVF2Rlhld01pcy1zYjA",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-10-03 14:00"
+        "score": 79,
+        "date": "2026-10-02 10:19",
+        "displayDate": "2026-10-02 10:19",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLU5KLWtfUVhJc3E4dl9mWDhVSnotWFluTENrNXM4SUJnNzBMeTMxVlFoRThqU0o3MWVwcndWRmhURFJUY1NVcUZjS1VGWEl0YjFER3NUX09ZUm1MZWtxQnRtR0U4c1Ywd2NLeXFsdzc1d0RZdFhxUHRkU3NWR1ZmQkhSQU5PTU9KcHJZ",
+        "source": "News signal — verify before acting · Source: freeyork · Time: 2026-10-02 10:19"
+      },
+      {
+        "id": "radar-285a8d72097d",
+        "kind": "radar",
+        "title": "What we learned from building the sandboxes our agents run in",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=9, comments=1.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-10-06 16:50",
+        "displayDate": "2026-10-06 16:50",
+        "url": "https://qawolf.com/blog/every-ai-agent-its-own-computer",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-06 16:50"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-06T22:26:38.958502+08:00",
-        "nextRun": "2026-10-06T23:26:39.095031+08:00",
+        "lastRun": "2026-10-07T01:27:43.561214+08:00",
+        "nextRun": "2026-10-07T02:27:43.726906+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-06T22:12:40.034245+08:00",
-        "nextRun": "2026-10-07T01:10:00+08:00",
+        "lastRun": "2026-10-07T01:13:49.599430+08:00",
+        "nextRun": "2026-10-07T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-06T22:54:45.440858+08:00",
-        "nextRun": "2026-10-06T22:56:45.440858+08:00",
+        "lastRun": "2026-10-07T01:54:50.645865+08:00",
+        "nextRun": "2026-10-07T01:59:43.722622+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-06T22:30:57.845663+08:00",
-        "nextRun": "2026-10-07T01:30:00+08:00",
+        "lastRun": "2026-10-07T01:32:04.107801+08:00",
+        "nextRun": "2026-10-07T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-06T21:54:14.609333+08:00",
-        "nextRun": "2026-10-07T00:40:00+08:00",
+        "lastRun": "2026-10-07T00:51:08.897816+08:00",
+        "nextRun": "2026-10-07T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-06T22:56:39.098031+08:00"
+    "updatedAt": "2026-10-07T01:57:43.726906+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
