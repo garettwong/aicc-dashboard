@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-08T09:55:24+08:00",
+    "generatedAt": "2026-10-08T10:56:26+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-08_09-16-03.md",
-    "radarSource": "ai_opportunity_radar_20261008_091443.html",
+    "radarSource": "ai_opportunity_radar_20261008_103046.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261008_091443.html",
+    "sourceFile": "ai_opportunity_radar_20261008_103046.html",
     "items": [
       {
-        "id": "radar-c2cea420d953",
+        "id": "radar-0c680004062e",
         "kind": "radar",
-        "title": "When and why prototyping is still needed when working with AI agents",
+        "title": "Runtime – Your AI Agents Have a Home",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-10-07 23:27",
-        "displayDate": "2026-10-07 23:27",
-        "url": "https://emmflow.com/blog/when-and-why-prototyping-is-still-needed-when-working-with-ai-agents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-07 23:27"
+        "date": "2026-10-08 02:04",
+        "displayDate": "2026-10-08 02:04",
+        "url": "https://withruntime.com/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-08 02:04"
       },
       {
-        "id": "radar-af177e35f21a",
+        "id": "radar-6f983f69bd7a",
         "kind": "radar",
-        "title": "CrowdStrike Links South Korean Financial Hacks to Guangdong Resident",
-        "summary": "조선일보 reports: CrowdStrike Links South Korean Financial Hacks to Guangdong Resident 조선일보",
+        "title": "New framework assesses LLM coding agent reliability without ground truth",
+        "summary": "TechGig reports: New framework assesses LLM coding agent reliability without ground truth TechGig",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-07 23:51",
-        "displayDate": "2026-10-07 23:51",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3V1QldXdEtTR0U5VU8wMXd4OVdSd2FTRldBblBhd1NOUklJUGRJMkVKdVN0bWNrUTEtbzNpNEVCaHRxTmJwUjBCWjRyZDNHdFA5RFFyalQ3V1J6d0lNWHo2SmdCbndrcHc1QklnRW5BZ3k4Skk0NU5JLVJBWjU0T1JVcEZuM04xamN6T3ln",
-        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-10-07 23:51"
+        "date": "2026-10-08 00:43",
+        "displayDate": "2026-10-08 00:43",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVpYT01yNkxOdXhLMFlDdGRwRDRUUUU2OWtYM1FmWEV3ZWNSMnhOV1ROVTExTTROYU5UMF92ZlViWTRsTDJBUnlfeDBTaTZKV3g5c3h4ODlWZ3hWamExdmt3aEF1Zk9jVmJ0RHJPVENQZTF4Ti1rNGQtWndYaXBsaHY5TkRWeUU3MWp0WGNscmZNemJkRjV4S2dZanVYZzl5YThzV1V1U0tDemltUnJZWlUyeDXSAbQBQVVfeXFMTTFaWE9NcjZMTnV4SzBZQ3RkcEQ0VFFFNjlrWDNRZlhFd2VjUjJ4TldUTlUxMU00TmFOVDBfdmZVYlk0bEwyQVJ5X3gwU2k2Sld4OXN4eDg5Vmd4VmphMXZrd2hBdWZPY1ZidERyT1RDUGUxeE4tazRkLVp3WGlwbGh2OU5EVnlFNzFqdFhjbHJmTXpiZEY1eEtnWWp1WGc5eWE4c1dVdVNLQ3ppbVJyWVpVMng1",
+        "source": "News signal — verify before acting · Source: TechGig · Time: 2026-10-08 00:43"
       },
       {
         "id": "radar-be523baab5b9",
@@ -101,18 +101,18 @@
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-10-07 20:48"
       },
       {
-        "id": "radar-108b9c34ba5d",
+        "id": "radar-338be5f1d1e4",
         "kind": "radar",
         "title": "OutSystems opens Agent Experience to third-party AI agents",
-        "summary": "IT Brief Australia reports: OutSystems opens Agent Experience to third-party AI agents IT Brief Australia",
+        "summary": "IT Brief New Zealand reports: OutSystems opens Agent Experience to third-party AI agents IT Brief New Zealand",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
         "date": "2026-10-07 22:43",
         "displayDate": "2026-10-07 22:43",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg",
-        "source": "News signal — verify before acting · Source: IT Brief Australia · Time: 2026-10-07 22:43"
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVk1sR1g5bDZDdWZJWFlkTl9GUFpFU3ZnLWhmUEdnVDQxMnVxY0xWcGFpcnRBOEFqZ2VpNXNUYkNsQ1VPMnV6RGQyVmVNRnFFc2RnRnNZMFFwYXA4V093YURTODdjQ1VPLVZMbkZoT1JNbGZZT3VmYl84RUcyWEVMREN5OVhGYWdhS1V5SHplOA",
+        "source": "News signal — verify before acting · Source: IT Brief New Zealand · Time: 2026-10-07 22:43"
       },
       {
         "id": "radar-df53c7b40504",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:24:48.788364+08:00",
-        "nextRun": "2026-10-08T10:25:24.473607+08:00",
+        "lastRun": "2026-10-08T10:26:25.720131+08:00",
+        "nextRun": "2026-10-08T11:26:25.999289+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:24:44.860321+08:00",
-        "nextRun": "2026-10-08T10:10:00+08:00",
+        "lastRun": "2026-10-08T10:12:37.737828+08:00",
+        "nextRun": "2026-10-08T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:53:34.355480+08:00",
-        "nextRun": "2026-10-08T09:55:34.355480+08:00",
+        "lastRun": "2026-10-08T10:53:29.258668+08:00",
+        "nextRun": "2026-10-08T10:58:25.990248+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:14:43.407356+08:00",
-        "nextRun": "2026-10-08T10:30:00+08:00",
+        "lastRun": "2026-10-08T10:30:46.113127+08:00",
+        "nextRun": "2026-10-08T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-08T09:55:24.474110+08:00"
+    "updatedAt": "2026-10-08T10:56:26.000446+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
