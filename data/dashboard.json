@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-08T09:24:45+08:00",
+    "generatedAt": "2026-10-08T09:55:24+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-08_09-16-03.md",
     "radarSource": "ai_opportunity_radar_20261008_091443.html",
@@ -161,25 +161,14 @@
   "health": {
     "jobs": [
       {
-        "id": "7c5cdfdce2e0",
-        "name": "AICC Dashboard Data Sync",
-        "enabled": true,
-        "state": "error",
-        "schedule": "every 30m",
-        "lastStatus": "error",
-        "lastRun": "2026-10-07T21:39:26.765326+08:00",
-        "nextRun": "2026-10-08T09:44:23.316548+08:00",
-        "message": "Script exited with code 1 stderr: Traceback (most recent call last): File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V2\\scripts\\publish_if_changed.py\", line 45, in <module> raise SystemExit(main()) ^^^^^^ File \"D:\\AI_COMMAND_CENTER_PERSONAL\\AICC_V"
-      },
-      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-10-07T09:30:58.849998+08:00",
-        "nextRun": "2026-10-08T09:30:00+08:00",
+        "lastRun": "2026-10-08T09:30:26.682830+08:00",
+        "nextRun": "2026-10-09T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -216,6 +205,17 @@
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
+        "id": "7c5cdfdce2e0",
+        "name": "AICC Dashboard Data Sync",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "every 30m",
+        "lastStatus": "ok",
+        "lastRun": "2026-10-08T09:24:48.788364+08:00",
+        "nextRun": "2026-10-08T10:25:24.473607+08:00",
+        "message": "No recent error."
+      },
+      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:23:26.527822+08:00",
-        "nextRun": "2026-10-08T09:25:26.527822+08:00",
+        "lastRun": "2026-10-08T09:53:34.355480+08:00",
+        "nextRun": "2026-10-08T09:55:34.355480+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:20:27.288643+08:00",
-        "nextRun": "2026-10-08T09:40:00+08:00",
+        "lastRun": "2026-10-08T09:43:50.224288+08:00",
+        "nextRun": "2026-10-08T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-08T09:24:44.861321+08:00"
+    "updatedAt": "2026-10-08T09:55:24.474110+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
