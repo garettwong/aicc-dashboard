@@ -1,15 +1,15 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-09T07:37:01+08:00",
+    "generatedAt": "2026-10-09T09:08:03+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-10-08_09-16-03.md",
+    "dailySource": "2026-10-09_09-03-11.md",
     "radarSource": "ai_opportunity_radar_20261009_073024.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-10-08",
+    "subject": "AI Everyday works tools - 2026-10-09",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T21:02:45.681631+08:00",
-        "nextRun": "2026-10-09T09:00:00+08:00",
+        "lastRun": "2026-10-09T09:05:46.381871+08:00",
+        "nextRun": "2026-10-09T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-08T09:16:03.048318+08:00",
-        "nextRun": "2026-10-09T09:00:00+08:00",
+        "lastRun": "2026-10-09T09:03:11.150641+08:00",
+        "nextRun": "2026-10-10T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-09T07:07:00.664622+08:00",
-        "nextRun": "2026-10-09T08:07:00.920944+08:00",
+        "lastRun": "2026-10-09T08:38:03.075673+08:00",
+        "nextRun": "2026-10-09T09:38:03.354623+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-09T07:36:04.306755+08:00",
-        "nextRun": "2026-10-09T07:38:04.306755+08:00",
+        "lastRun": "2026-10-09T09:06:07.499280+08:00",
+        "nextRun": "2026-10-09T09:08:07.499280+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-09T07:37:00.921943+08:00"
+    "updatedAt": "2026-10-09T09:08:03.355623+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
