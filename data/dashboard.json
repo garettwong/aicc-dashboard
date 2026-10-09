@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-09T19:57:21+08:00",
+    "generatedAt": "2026-10-09T21:28:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-09_09-03-11.md",
     "radarSource": "ai_opportunity_radar_20261009_193044.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "e00ffbee1272",
-        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "0 9-21/6 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-10-09T15:00:35.038639+08:00",
-        "nextRun": "2026-10-09T21:00:00+08:00",
-        "message": "RuntimeError: Our servers are currently overloaded. Please try again later."
-      },
-      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
@@ -181,6 +170,17 @@
         "lastRun": "2026-10-09T09:30:07.002571+08:00",
         "nextRun": "2026-10-10T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
+      },
+      {
+        "id": "e00ffbee1272",
+        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "0 9-21/6 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-10-09T21:02:57.238581+08:00",
+        "nextRun": "2026-10-10T09:00:00+08:00",
+        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
         "id": "ac7e45cc6fc4",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-09T19:27:21.122330+08:00",
-        "nextRun": "2026-10-09T20:27:21.422498+08:00",
+        "lastRun": "2026-10-09T20:58:27.350479+08:00",
+        "nextRun": "2026-10-09T21:58:27.593299+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-09T19:54:26.309567+08:00",
-        "nextRun": "2026-10-09T19:59:21.409493+08:00",
+        "lastRun": "2026-10-09T21:26:31.163791+08:00",
+        "nextRun": "2026-10-09T21:28:31.163791+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-09T19:57:21.423496+08:00"
+    "updatedAt": "2026-10-09T21:28:27.593299+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
