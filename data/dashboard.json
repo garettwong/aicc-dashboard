@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-10T10:34:49+08:00",
+    "generatedAt": "2026-10-10T13:35:55+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-10_09-01-51.md",
-    "radarSource": "ai_opportunity_radar_20261010_103108.html",
+    "radarSource": "ai_opportunity_radar_20261010_133112.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261010_103108.html",
+    "sourceFile": "ai_opportunity_radar_20261010_133112.html",
     "items": [
       {
         "id": "radar-15063f43011a",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-10-08 18:01"
       },
       {
-        "id": "radar-9377cce6bfec",
+        "id": "radar-b498b643a4f1",
         "kind": "radar",
-        "title": "Agent swarms in business is AI larping",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Who Owns the Customer in the Age of AI Agents?",
+        "summary": "Harvard Business Review reports: Who Owns the Customer in the Age of AI Agents?",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-10-09 19:34",
-        "displayDate": "2026-10-09 19:34",
-        "url": "https://agentic-larp.ing/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-09 19:34"
+        "score": 38,
+        "date": "2026-10-09 12:36",
+        "displayDate": "2026-10-09 12:36",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrNTNqTUg4SUpkYXVvV2RYTDg2VkdVU1A3cnBUcmk0SldJdks4Snp3RmlmQ0doZmhFVkU2Mk1WcGxSS05tMGxtUDFndE1GWXpMcHhjSWxKenZ2Y0tyaVhybm45WFVCWE10MHFoQzFZNHZsdmh5OE9MXw",
+        "source": "News signal — verify before acting · Source: Harvard Business Review · Time: 2026-10-09 12:36"
       },
       {
         "id": "radar-a4cf7999e063",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-10T10:04:49.181184+08:00",
-        "nextRun": "2026-10-10T11:04:49.557130+08:00",
+        "lastRun": "2026-10-10T13:05:54.422395+08:00",
+        "nextRun": "2026-10-10T14:05:54.795467+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-10T10:12:50.314772+08:00",
-        "nextRun": "2026-10-10T13:10:00+08:00",
+        "lastRun": "2026-10-10T13:12:46.483520+08:00",
+        "nextRun": "2026-10-10T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-10T10:32:56.179170+08:00",
-        "nextRun": "2026-10-10T10:34:56.179170+08:00",
+        "lastRun": "2026-10-10T13:33:00.660838+08:00",
+        "nextRun": "2026-10-10T13:37:54.785962+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-10T10:31:08.582297+08:00",
-        "nextRun": "2026-10-10T13:30:00+08:00",
+        "lastRun": "2026-10-10T13:31:12.645415+08:00",
+        "nextRun": "2026-10-10T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-10T09:50:41.368760+08:00",
-        "nextRun": "2026-10-10T12:40:00+08:00",
+        "lastRun": "2026-10-10T12:49:50.279325+08:00",
+        "nextRun": "2026-10-10T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-10T10:34:49.558130+08:00"
+    "updatedAt": "2026-10-10T13:35:54.796468+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
