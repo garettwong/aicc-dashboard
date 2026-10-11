@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-11T10:57:35+08:00",
+    "generatedAt": "2026-10-11T13:58:40+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-11_09-02-38.md",
-    "radarSource": "ai_opportunity_radar_20261011_103058.html",
+    "radarSource": "ai_opportunity_radar_20261011_133102.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261011_103058.html",
+    "sourceFile": "ai_opportunity_radar_20261011_133102.html",
     "items": [
       {
-        "id": "radar-91c371afe068",
+        "id": "radar-9c730a1740d2",
         "kind": "radar",
-        "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-        "summary": "The Hacker News reports: The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't The Hacker News",
+        "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=6, comments=3.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-10-10 11:00",
-        "displayDate": "2026-10-10 11:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pam5kRzV0WWs0c3l2VXNkNUJLX0dNaENkc05ScXUzNlZ1cXFjOGFXeGpKWlAwSzBRV1NQLUsxV3gwcVJzZFV1VkwzU2c0WWJDdDNQRGw4dUlzLXM4dEJUUVhOTGR5bEFMeDREZ2QxMF9lM0t6RFgwYmJ5WGw",
-        "source": "Trusted news / community signal · Source: The Hacker News · Time: 2026-10-10 11:00"
+        "score": 59,
+        "date": "2026-10-11 03:42",
+        "displayDate": "2026-10-11 03:42",
+        "url": "https://github.com/vscarpenter/gsd-task-manager",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-11 03:42"
       },
       {
         "id": "radar-8e40eb0db547",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-10-07 01:36"
       },
       {
-        "id": "radar-c0a3fdbd30e3",
+        "id": "radar-91c371afe068",
         "kind": "radar",
-        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=8, comments=1.",
+        "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+        "summary": "The Hacker News reports: The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't The Hacker News",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-11 02:02",
-        "displayDate": "2026-10-11 02:02",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-11 02:02"
+        "score": 55,
+        "date": "2026-10-10 11:00",
+        "displayDate": "2026-10-10 11:00",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pam5kRzV0WWs0c3l2VXNkNUJLX0dNaENkc05ScXUzNlZ1cXFjOGFXeGpKWlAwSzBRV1NQLUsxV3gwcVJzZFV1VkwzU2c0WWJDdDNQRGw4dUlzLXM4dEJUUVhOTGR5bEFMeDREZ2QxMF9lM0t6RFgwYmJ5WGw",
+        "source": "Trusted news / community signal · Source: The Hacker News · Time: 2026-10-10 11:00"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T10:27:34.341507+08:00",
-        "nextRun": "2026-10-11T11:27:34.705191+08:00",
+        "lastRun": "2026-10-11T13:28:39.515293+08:00",
+        "nextRun": "2026-10-11T14:28:39.795886+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T10:14:29.997476+08:00",
-        "nextRun": "2026-10-11T13:10:00+08:00",
+        "lastRun": "2026-10-11T13:13:42.084942+08:00",
+        "nextRun": "2026-10-11T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T10:54:42.697682+08:00",
-        "nextRun": "2026-10-11T10:59:34.695185+08:00",
+        "lastRun": "2026-10-11T13:57:52.949815+08:00",
+        "nextRun": "2026-10-11T13:59:52.949815+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T10:30:58.805718+08:00",
-        "nextRun": "2026-10-11T13:30:00+08:00",
+        "lastRun": "2026-10-11T13:31:02.081363+08:00",
+        "nextRun": "2026-10-11T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T09:45:45.592699+08:00",
-        "nextRun": "2026-10-11T12:40:00+08:00",
+        "lastRun": "2026-10-11T12:47:23.576903+08:00",
+        "nextRun": "2026-10-11T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-11T10:57:34.706194+08:00"
+    "updatedAt": "2026-10-11T13:58:39.796886+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
