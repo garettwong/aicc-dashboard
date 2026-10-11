@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-12T07:02:20+08:00",
+    "generatedAt": "2026-10-12T07:33:23+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-11_09-02-38.md",
-    "radarSource": "ai_opportunity_radar_20261012_065338.html",
+    "radarSource": "ai_opportunity_radar_20261012_073042.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261012_065338.html",
+    "sourceFile": "ai_opportunity_radar_20261012_073042.html",
     "items": [
       {
-        "id": "radar-9beedb5f24ce",
+        "id": "radar-34bbfaf5567d",
         "kind": "radar",
-        "title": "Botmail: A mailbox for every AI agent",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-10-11 21:47",
-        "displayDate": "2026-10-11 21:47",
-        "url": "https://botmail.pro/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-11 21:47"
+        "date": "2026-10-11 22:56",
+        "displayDate": "2026-10-11 22:56",
+        "url": "https://seodata.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-11 22:56"
       },
       {
         "id": "radar-25e50a0fd0ce",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: SC Media · Time: 2026-10-11 18:08"
       },
       {
-        "id": "radar-aba7ed9abb59",
+        "id": "radar-1cd544c7b038",
         "kind": "radar",
-        "title": "Atlassian's Andrei Bocan: The Real Bottleneck in AI Coding Is Not Code, It's the 50 Pull Requests Nobody Wants to Review",
-        "summary": "BigGo Finance reports: Atlassian's Andrei Bocan: The Real Bottleneck in AI Coding Is Not Code, It's the 50 Pull Requests Nobody Wants to Review BigGo Finance",
+        "title": "Qodo's Nnenna Ndukwe: The Real Risk in AI Coding Is Not Bad Code, It's Code That Looks Right",
+        "summary": "BigGo Finance reports: Qodo's Nnenna Ndukwe: The Real Risk in AI Coding Is Not Bad Code, It's Code That Looks Right BigGo Finance",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-11 16:08",
-        "displayDate": "2026-10-11 16:08",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44eGw3dFp1ZW85b2ExVEpBU0VLeUVEQjlEcEtScko4R3EtNWZILUxWaDJCNFQzbWdLZmpXdTNSQ2hUM2M2RkExWnA4OGxzcVFLX192S0xFT3dPVEk",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-10-11 16:08"
+        "date": "2026-10-11 18:08",
+        "displayDate": "2026-10-11 18:08",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVUEzbG9HZ1FOUlBaWkdGY1VEVG9kc0hreGlNem5wd0JXVGw0NWh5Znh3OUVPUXFPc1BfNTlkMV9kZHZFTWtJb25nQTVaVmxXenVCemhyYzRDam8",
+        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-10-11 18:08"
       },
       {
         "id": "radar-4ce665c6e8da",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-11T21:53:26.429212+08:00",
-        "nextRun": "2026-10-12T07:23:22.210489+08:00",
+        "lastRun": "2026-10-12T07:02:23.805624+08:00",
+        "nextRun": "2026-10-12T08:03:23.076215+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T07:02:20.156599+08:00",
-        "nextRun": "2026-10-12T07:10:00+08:00",
+        "lastRun": "2026-10-12T07:11:13.770879+08:00",
+        "nextRun": "2026-10-12T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T06:59:24.929884+08:00",
-        "nextRun": "2026-10-12T07:01:24.929884+08:00",
+        "lastRun": "2026-10-12T07:32:25.521174+08:00",
+        "nextRun": "2026-10-12T07:34:25.521174+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T06:53:38.083604+08:00",
-        "nextRun": "2026-10-12T07:30:00+08:00",
+        "lastRun": "2026-10-12T07:30:42.733044+08:00",
+        "nextRun": "2026-10-12T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-12T07:02:20.157599+08:00"
+    "updatedAt": "2026-10-12T07:33:23.076215+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
