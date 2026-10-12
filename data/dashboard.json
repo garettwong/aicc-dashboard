@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-12T21:08:44+08:00",
+    "generatedAt": "2026-10-12T22:39:46+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-12_09-04-54.md",
-    "radarSource": "ai_opportunity_radar_20261012_193058.html",
+    "radarSource": "ai_opportunity_radar_20261012_223105.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261012_193058.html",
+    "sourceFile": "ai_opportunity_radar_20261012_223105.html",
     "items": [
       {
-        "id": "radar-fe09c3e0e8d6",
+        "id": "radar-6e3db4ac552e",
         "kind": "radar",
-        "title": "Self-hosting an AI agent environment with OpenCode and shared memory",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Build a Basic AI Agent from Scratch: Memory",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 57,
-        "date": "2026-10-12 07:45",
-        "displayDate": "2026-10-12 07:45",
-        "url": "https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-12 07:45"
+        "date": "2026-10-12 13:21",
+        "displayDate": "2026-10-12 13:21",
+        "url": "https://ruxu.dev/articles/ai/build-an-ai-agent-memory",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-12 13:21"
       },
       {
-        "id": "radar-f5ede8559758",
+        "id": "radar-5cec5da4e3eb",
         "kind": "radar",
-        "title": "Linus Torvalds says Claude Code helped write a Linux kernel patch",
-        "summary": "Pasquale Pillitteri reports: Linus Torvalds says Claude Code helped write a Linux kernel patch Pasquale Pillitteri",
+        "title": "Rubrik Expands Project Hourglass to Test AI-Generated Code for Cybersecurity Risks",
+        "summary": "Konsulteer is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-12 10:24",
-        "displayDate": "2026-10-12 10:24",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTE15RGxtREwyXzMySEU3Umx0US1RamV3d2xaWWFVVmFtUlpwV3RYN2RmR3V3VDNrZ2J6cEdIbzhMLVc5Um9kNEhTZ0RvOENGcXhzOHBidlFSQ3pvU01iTm5SampPemtDVWtKN0lXLXdxcXhEeTgtLTBVSENlVkxBT2llUVJGT293ZWJn",
-        "source": "News signal — verify before acting · Source: Pasquale Pillitteri · Time: 2026-10-12 10:24"
+        "date": "2026-10-12 11:30",
+        "displayDate": "2026-10-12 11:30",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQldIMmJNYndwdGdLejVXMlBWUkQwbnBHTGxPbTFINnpqcFVUNVh3VUNYVkY4R3RMX0g2Y3NKSGplS2hOVzhQNkgzWTJlT3UyUlRTVktBQkdWdm1tSFdGWWRKSlk0YWIydUpNNkpPMXo3blJMX0IwNFBnZmY4VHRkX3diWmFWMXNHR0VBWGltZmdyelZ4dHpsS0VQTjM2aUFPSXJDMFVYX3J5ODZ2VGgwaElDZGVORlM5",
+        "source": "News signal — verify before acting · Source: Konsulteer · Time: 2026-10-12 11:30"
       },
       {
-        "id": "radar-22f3de1a7f65",
+        "id": "radar-9e2e57733855",
         "kind": "radar",
-        "title": "Why the United States Should Be the World’s Partner on AI Workforce Training",
-        "summary": "The National Interest is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "OpenAI Dot Vs. Meta Muse: How Do These AI Agents Compare?",
+        "summary": "Engadget reports: OpenAI Dot Vs.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-10-12 11:00",
-        "displayDate": "2026-10-12 11:00",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUJyX25JSDVJb09mbnJMU0hGVGtMU3ZET0VqazQxYWNscDJOTmNfbldPRURIUGtBcGRRV1ZfRGlNVGh0MnR1LV9FWl9fYzNSamJvQzYwb3ZSTVk0djRhZ0VOVlQtNVRiY1EzOTR3WFV2QWpKbUZRd095UnQ3Z2VnX3RhQ1NMa2t0OWZ1RHJybVRsaGFaSU9tV0dOVnllS3ZraUZjSFN2aGhkc1RobWxEOHkzRjhSTmlud2c",
-        "source": "News signal — verify before acting · Source: The National Interest · Time: 2026-10-12 11:00"
+        "score": 82,
+        "date": "2026-10-12 01:00",
+        "displayDate": "2026-10-12 01:00",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFZjTm45QWdRTVNwLVpjS04xZkdLMlJtNExPSld4VGk5eXlhNVhfOVFEVWJRUlNEazd5RGFTV2FWZkFLWGl0SWoycTdqYnJPM2kxN2JNdEQtY0lNMFNVMHZYRXN5YURHaGRyeHpGTVYyQWpyTWE5dEpNQ1R2MC1BWWp2NGE",
+        "source": "News signal — verify before acting · Source: Engadget · Time: 2026-10-12 01:00"
       },
       {
         "id": "radar-ed924568d0b5",
@@ -87,32 +87,32 @@
         "source": "News signal — verify before acting · Source: Creative Bloq · Time: 2026-10-08 17:03"
       },
       {
-        "id": "radar-5cd54a7a3957",
+        "id": "radar-06e7816e0a60",
         "kind": "radar",
-        "title": "There Are Still Jobs for Junior Bankers: Managing the Bots",
-        "summary": "Bloomberg.com is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
+        "summary": "WSJ reports: AI Agents Are a Threat to Travel Businesses.",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-10-12 10:31",
-        "displayDate": "2026-10-12 10:31",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmJTMkp2OU1oR0h5UmRGbjRNRUw0V2pJNkRPaTUyY1hFVWFpR3lqTUphZE1ObTJpVWxSaXlmY1RCaXY1WG1DSHNMMUZMQThqVm9VVzdTNmR5NzBUTkVPMjlaOXhXMzQ0N181OFBFZkdndG9Cb0RpcnRqWlNkcy1QMEtfeFJaLTRzRmVNRXlDWm5UZ2lQTTdlWTlfc0ZtdU9nYlJydXM3bHl6Qnc1Q2JYcQ",
-        "source": "Trusted news / community signal · Source: Bloomberg.com · Time: 2026-10-12 10:31"
+        "score": 38,
+        "date": "2026-10-12 09:30",
+        "displayDate": "2026-10-12 09:30",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGVmSjBtRDIxMlBscDhMU2RPSXVFRnNTZG5qQmhyanFlQXZUQmdnV1RaNFlhNG9PMk1TY3Fxc3JTVGpHbENZVGdmU05LR0hrZnBDSmU0eDVqSWgyT3VnNWUzRlFXMzZHYXZwUkM1Ykp1VTRJcmlId0wzcHFvZmlCMlhsUVM1aGdHZlR1cFItYTNPcFVPSmNPRldxYzVFN09zQ1JydXlvNnVlS3JHMTJPdnBGU0NBQVFqYTVBRklGQmNndw",
+        "source": "News signal — verify before acting · Source: WSJ · Time: 2026-10-12 09:30"
       },
       {
-        "id": "radar-ecd4f3434e75",
+        "id": "radar-f5ede8559758",
         "kind": "radar",
-        "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
-        "summary": "Startup Fortune reports: Linus Torvalds used Claude Code to rewrite how Linux reads cached files Startup Fortune",
+        "title": "Linus Torvalds says Claude Code helped write a Linux kernel patch",
+        "summary": "Pasquale Pillitteri reports: Linus Torvalds says Claude Code helped write a Linux kernel patch Pasquale Pillitteri",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-12 09:21",
-        "displayDate": "2026-10-12 09:21",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVhHbEkwSGlYRElhWWMzZE5oajg5VTZoU2l5TzVHelFudzB5UGhDUUc0V1BrU1d1eFJmVl8wSEtDdzNsd2ctWVo2bXJCN1lnSHJzYTc0bXh3R3A3SFZVNVZvUk1xbC15d3o5UW1BczFra21ibndsRHhuNDItaVRKaFQ5UWQzTTQtN194V0oxdk0tRUhxYnJZbDVkd1lzSDE2",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-12 09:21"
+        "date": "2026-10-12 10:24",
+        "displayDate": "2026-10-12 10:24",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTE15RGxtREwyXzMySEU3Umx0US1RamV3d2xaWWFVVmFtUlpwV3RYN2RmR3V3VDNrZ2J6cEdIbzhMLVc5Um9kNEhTZ0RvOENGcXhzOHBidlFSQ3pvU01iTm5SampPemtDVWtKN0lXLXdxcXhEeTgtLTBVSENlVkxBT2llUVJGT293ZWJn",
+        "source": "News signal — verify before acting · Source: Pasquale Pillitteri · Time: 2026-10-12 10:24"
       },
       {
         "id": "radar-935b2d56f809",
@@ -129,32 +129,32 @@
         "source": "News signal — verify before acting · Source: Pulse 2.0 · Time: 2026-10-12 00:56"
       },
       {
-        "id": "radar-c1e35d69cf14",
+        "id": "radar-22f3de1a7f65",
         "kind": "radar",
-        "title": "AI Literacy and the New Admissions Disadvantage (opinion)",
-        "summary": "Inside Higher Ed reports: AI Literacy and the New Admissions Disadvantage (opinion) Inside Higher Ed",
+        "title": "Why the United States Should Be the World’s Partner on AI Workforce Training",
+        "summary": "The National Interest is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-10-12 07:02",
-        "displayDate": "2026-10-12 07:02",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYmdVZUpkaHBmbk8zdHlMcWV0UUYtWHc5Mk40ZllPSW5WTzhoWTE4bUJOTk9VQjVvdHUwc1BvTGI5aHAwMElsdGFNWGFpLWE4R0hxcWpfSlhuSGp2QkdWTXBnbkR1WllvNGJFMVFDUC1FSV9sVG5XR0ZZdjVOVHR6VWZTLVhYeHN1TWd1V0I4UHlVZ2ozamJPNDZDV0c1dVpIUEdVSmtBeTBUZ1E",
-        "source": "News signal — verify before acting · Source: Inside Higher Ed · Time: 2026-10-12 07:02"
+        "date": "2026-10-12 11:00",
+        "displayDate": "2026-10-12 11:00",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUJyX25JSDVJb09mbnJMU0hGVGtMU3ZET0VqazQxYWNscDJOTmNfbldPRURIUGtBcGRRV1ZfRGlNVGh0MnR1LV9FWl9fYzNSamJvQzYwb3ZSTVk0djRhZ0VOVlQtNVRiY1EzOTR3WFV2QWpKbUZRd095UnQ3Z2VnX3RhQ1NMa2t0OWZ1RHJybVRsaGFaSU9tV0dOVnllS3ZraUZjSFN2aGhkc1RobWxEOHkzRjhSTmlud2c",
+        "source": "News signal — verify before acting · Source: The National Interest · Time: 2026-10-12 11:00"
       },
       {
-        "id": "radar-66b0559a6d3b",
+        "id": "radar-ae5d3702c344",
         "kind": "radar",
-        "title": "Figma’s AI agent for product design is now generally available.",
-        "summary": "The Verge reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR",
+        "summary": "Business Wire reports: Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR Business Wire",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 71,
-        "date": "2026-10-06 14:00",
-        "displayDate": "2026-10-06 14:00",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDhBdlQ0ZkN3ektrd0JLQU5MOHNyX1JWSjN0MjByM2R4dzJPZzFCWWotVEYzVW1ibG83MktMYjVUUFVuZHp4UkpVZUlUTjlOYmVBUkVMZ0VOdzFMaWpRbEhYRjJLaG02MkIxVFhNRE1zWDI3end6S2U4b01jSE1JVVhhYzBEQ0wyQTdXVmZpM0NzcGM2d2tTb3R0d1ZxWWhx",
-        "source": "Trusted news / community signal · Source: The Verge · Time: 2026-10-06 14:00"
+        "score": 76,
+        "date": "2026-10-12 12:00",
+        "displayDate": "2026-10-12 12:00",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVmTFJMclNwZVoyM19aZDBuNXRUNmdKYndqNV9idnBVSXJ6OHktVHh1VFI3eXhJdFZXOE9XVzNGSk41MDVWUjFsTkUyM2MzSl9XYVNsR0Y2NGNWWUlxeE9UekZpLUhBcG8zRF9TeDk0bVpCUWZiOE10Tm56dm14eExkMDVkQTFwZnYweUR3SThVdXV5dFQyd1laLTJ6UGVaVVNnVHd6RDF1N3RadmFmc0FMNDBlN3lnWU85OXBMY2RMV3lUT3JQYW5jUll4empoTGFtQVZOSi1OMjhOb05CcENSdDBJVVlmV1E",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-10-12 12:00"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T20:38:44.210508+08:00",
-        "nextRun": "2026-10-12T21:38:44.386320+08:00",
+        "lastRun": "2026-10-12T22:09:46.334942+08:00",
+        "nextRun": "2026-10-12T23:09:46.487666+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T19:12:46.785150+08:00",
-        "nextRun": "2026-10-12T22:10:00+08:00",
+        "lastRun": "2026-10-12T22:13:15.380360+08:00",
+        "nextRun": "2026-10-13T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T21:07:46.892899+08:00",
-        "nextRun": "2026-10-12T21:09:46.892899+08:00",
+        "lastRun": "2026-10-12T22:37:49.110084+08:00",
+        "nextRun": "2026-10-12T22:39:49.110084+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T19:30:58.836711+08:00",
-        "nextRun": "2026-10-12T22:30:00+08:00",
+        "lastRun": "2026-10-12T22:31:05.550413+08:00",
+        "nextRun": "2026-10-13T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-12T18:44:45.346472+08:00",
-        "nextRun": "2026-10-12T21:40:00+08:00",
+        "lastRun": "2026-10-12T21:48:22.322947+08:00",
+        "nextRun": "2026-10-13T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-12T21:08:44.387321+08:00"
+    "updatedAt": "2026-10-12T22:39:46.488668+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
