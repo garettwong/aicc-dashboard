@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-13T22:34:40+08:00",
+    "generatedAt": "2026-10-14T01:35:44+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-13_09-04-05.md",
-    "radarSource": "ai_opportunity_radar_20261013_223056.html",
+    "radarSource": "ai_opportunity_radar_20261014_013105.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261013_223056.html",
+    "sourceFile": "ai_opportunity_radar_20261014_013105.html",
     "items": [
       {
-        "id": "radar-c5bdfb487bd4",
+        "id": "radar-a997685bce2c",
         "kind": "radar",
-        "title": "Show HN: Recall – long-term memory for AI agents that notices when facts change",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Agent's Memory Needs a Retention Policy",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 57,
-        "date": "2026-10-13 14:22",
-        "displayDate": "2026-10-13 14:22",
-        "url": "https://github.com/recallmem/recall",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-13 14:22"
+        "date": "2026-10-13 16:17",
+        "displayDate": "2026-10-13 16:17",
+        "url": "https://memanto.ai/blog/your-agents-memory-needs-a-retention-policy",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-13 16:17"
       },
       {
-        "id": "radar-010aaa9fdeb8",
+        "id": "radar-3c2925737a8e",
         "kind": "radar",
-        "title": "Fake Web3 Accelerator Uses Malicious npm Packages to Target Crypto Founders",
-        "summary": "CyberSecurityNews reports: Fake Web3 Accelerator Uses Malicious npm Packages to Target Crypto Founders CyberSecurityNews",
+        "title": "Anthropic’s daily code merges jump 10x since May as Claude takes over the keyboard",
+        "summary": "Crypto Briefing reports: Anthropic’s daily code merges jump 10x since May as Claude takes over the keyboard Crypto Briefing",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-13 12:11",
-        "displayDate": "2026-10-13 12:11",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuLXEzcVBXQ05WTzBySEVoWG1kWHB6OVNGbmRzcFBuYWY0Q3hMUzlGaVdLSm9LY3Y0eWNicU92RmVGaEtydVladVpEY1JUdUhMTk9fdFFjbkNkdl9mU1FRNEdn0gFnQVVfeXFMTURWS01KMFoxVWhUNEFpNElCNnRzTzhncU5xb1NiazMxQ0x5RVBEVklDNG9YYTd1dEJtZGppaldacHpCd3g5aDZMNDJKWDJpQWtSQWtPbXNHSl9waUVwR1hYUTkyYl9GUQ",
-        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-10-13 12:11"
+        "date": "2026-10-13 16:54",
+        "displayDate": "2026-10-13 16:54",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fXzNCZVpKUWZMSldRVlFQdlBwSmI5N3dmWksyTjdtbzVzRWtGbkFBSGIwTGFDTWdHRFBpeEw1Vm5pUFE2aUpiWmQtOUt1SkltU2VLU0VYbEF1NDJfVlRqMjdjR0dlTzgtVDd6bm1xQlU",
+        "source": "News signal — verify before acting · Source: Crypto Briefing · Time: 2026-10-13 16:54"
       },
       {
         "id": "radar-3cb880a9dccd",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Creative Bloq · Time: 2026-10-08 17:03"
       },
       {
-        "id": "radar-41735e2b89c5",
+        "id": "radar-dfd12a8d0239",
         "kind": "radar",
-        "title": "AI coding agents Claude Code, Codex CLI, Gemini CLI compared for terminal use",
-        "summary": "TechGig reports: AI coding agents Claude Code, Codex CLI, Gemini CLI compared for terminal use TechGig",
+        "title": "Alarming Report: How Houthis Used Anthropic’s Claude AI To Work On Weapon Development",
+        "summary": "Livemint reports: Alarming Report: How Houthis Used Anthropic’s Claude AI To Work On Weapon Development Livemint",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-13 05:10",
-        "displayDate": "2026-10-13 05:10",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVER3cmsweG9SeEw5bGVfUF96V1lFdWpZY3ZpdVBVdDU1N2NPVUxZNHpwV21pN0pXM3NhaWJoMENiay1QcXJXV3FqMFJnamxDT3dJU3JVaW94NkNyNkpseFRDdkNMaHh0S0pteGNHb054Zm1VaktNSmtBQXQwTEdYR2t2Nzc0ekd2VW9nVUVyanFPcHpKOUhMZFZiYnNQLTZ3Z3ZKeGg0ZDFhSmt0TU5KV0MtY9IBuAFBVV95cUxNcXBQdVBpUGV5V1E3Yk5UclI3UnhlVktyeFlIY3I5cTVrVEExY2preHNlaFNBYWxlU0VZbVdMaXdBRjdwQzFPeVNzbHhkanFidHlVeDZHLTdUUGJRMkZMbjNKd2lYYlRWaDJHUUs5WmlNckNmdkZlTVNSZU51cW1teDlMcXYtOWJESTBZeVVyWkptOVNxYVFmZmgxU2xLLXhnRWtYUlJDNTF2dDhsN08tYW5VMGpqTkcz",
-        "source": "News signal — verify before acting · Source: TechGig · Time: 2026-10-13 05:10"
+        "date": "2026-10-13 16:31",
+        "displayDate": "2026-10-13 16:31",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXhrZTkzVWV3NU9MdGN6cWo2NldXMENsVGxva0swSlZ2Q0xCWGxRcndTbUp3TDhZSG1ZWGJsY1IzZXJkQjZfYUppdlNqVWhJLThMUE9lVnNpeXM5TzI0dWxXdFo4UXR0MWJmLWFCamFyQi1IZTFmTnpBeE5jUnVIY1F5a1YwaDFObFN4QWlUUk1qTTNLLVZjUGM3NXRGZk5NWEFydmdreHlSYUlGbE1nVVMtVHl5bkZGbm5Dd1hjYW01TUhhN050VU5ZOHFpQmVtMWc",
+        "source": "News signal — verify before acting · Source: Livemint · Time: 2026-10-13 16:31"
       },
       {
         "id": "radar-4acdaff8e1ed",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: U.S. Chamber of Commerce · Time: 2026-10-09 13:09"
       },
       {
-        "id": "radar-d038e3f19399",
+        "id": "radar-4d202c5da807",
         "kind": "radar",
-        "title": "Show HN: MemorySync – Memory for AI Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=15, comments=0.",
+        "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-10-13 12:35",
-        "displayDate": "2026-10-13 12:35",
-        "url": "https://memorysync.io/try",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-13 12:35"
+        "score": 43,
+        "date": "2026-10-13 17:00",
+        "displayDate": "2026-10-13 17:00",
+        "url": "https://liquid.ai/blog/lfm2-5-24b-a2b",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-13 17:00"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-13T22:04:39.444397+08:00",
-        "nextRun": "2026-10-13T23:04:39.690742+08:00",
+        "lastRun": "2026-10-14T01:05:43.657670+08:00",
+        "nextRun": "2026-10-14T02:05:43.841716+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-13T22:12:54.475908+08:00",
-        "nextRun": "2026-10-14T01:10:00+08:00",
+        "lastRun": "2026-10-14T01:12:55.834207+08:00",
+        "nextRun": "2026-10-14T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-13T22:32:42.712280+08:00",
-        "nextRun": "2026-10-13T22:34:42.712280+08:00",
+        "lastRun": "2026-10-14T01:32:47.018321+08:00",
+        "nextRun": "2026-10-14T01:37:43.833805+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-13T22:30:56.170252+08:00",
-        "nextRun": "2026-10-14T01:30:00+08:00",
+        "lastRun": "2026-10-14T01:31:05.142543+08:00",
+        "nextRun": "2026-10-14T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-13T21:44:30.339180+08:00",
-        "nextRun": "2026-10-14T00:40:00+08:00",
+        "lastRun": "2026-10-14T00:55:09.492530+08:00",
+        "nextRun": "2026-10-14T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-13T22:34:39.691743+08:00"
+    "updatedAt": "2026-10-14T01:35:43.842714+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
