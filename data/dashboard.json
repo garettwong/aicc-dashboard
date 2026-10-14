@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-14T19:58:47+08:00",
+    "generatedAt": "2026-10-14T21:29:49+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-14_09-03-30.md",
     "radarSource": "ai_opportunity_radar_20261014_193103.html",
@@ -161,6 +161,17 @@
   "health": {
     "jobs": [
       {
+        "id": "e00ffbee1272",
+        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "0 9-21/6 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-10-14T21:01:09.654518+08:00",
+        "nextRun": "2026-10-15T09:00:00+08:00",
+        "message": "RuntimeError: Our servers are currently overloaded. Please try again later."
+      },
+      {
         "id": "cac8032fb676",
         "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
         "enabled": true,
@@ -194,17 +205,6 @@
         "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
-        "id": "e00ffbee1272",
-        "name": "AI Command Brief — only useful Telegram push — every 6 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "0 9-21/6 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-10-14T15:01:39.286303+08:00",
-        "nextRun": "2026-10-14T21:00:00+08:00",
-        "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
-      },
-      {
         "id": "ac7e45cc6fc4",
         "name": "ai-everyday-work-tools",
         "enabled": true,
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-14T19:27:59.684855+08:00",
-        "nextRun": "2026-10-14T20:28:46.787718+08:00",
+        "lastRun": "2026-10-14T20:59:48.752299+08:00",
+        "nextRun": "2026-10-14T21:59:48.876336+08:00",
         "message": "No recent error."
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-14T19:57:50.155255+08:00",
-        "nextRun": "2026-10-14T19:59:50.155255+08:00",
+        "lastRun": "2026-10-14T21:27:51.626947+08:00",
+        "nextRun": "2026-10-14T21:29:51.626947+08:00",
         "message": "unused"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-14T19:58:46.789220+08:00"
+    "updatedAt": "2026-10-14T21:29:48.877337+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
