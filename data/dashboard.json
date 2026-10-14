@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-14T22:00:49+08:00",
+    "generatedAt": "2026-10-14T22:31:50+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-14_09-03-30.md",
-    "radarSource": "ai_opportunity_radar_20261014_193103.html",
+    "radarSource": "ai_opportunity_radar_20261014_223108.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261014_193103.html",
+    "sourceFile": "ai_opportunity_radar_20261014_223108.html",
     "items": [
       {
-        "id": "radar-60625d5a4e82",
+        "id": "radar-661554661938",
         "kind": "radar",
-        "title": "Most companies count AI agents as insiders, and CISOs worry about their own liability",
-        "summary": "Help Net Security reports: Most companies count AI agents as insiders, and CISOs worry about their own liability Help Net Security",
+        "title": "The Silicon Compiler Comes Back as an AI Agent Factory",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-10-14 04:30",
-        "displayDate": "2026-10-14 04:30",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QaE9KMjIxUGt5RTJEUVNJX0R5OEVjZ2llbE9tN3VNSnBXV0JDRmEzRXVZeHV0YlRKZGNQaGJvRWZiZWR0SUFMNTlsUWZqUVh0UnFuYkY0cjNITE9kQmtlRDNqbGJLZ1U4YXFwcUExbTI1RTdrcnEwZ0NB",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-10-14 04:30"
+        "score": 43,
+        "date": "2026-10-14 14:07",
+        "displayDate": "2026-10-14 14:07",
+        "url": "https://brianroemmele.substack.com/p/the-silicon-compiler-comes-back-as",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-14 14:07"
       },
       {
-        "id": "radar-fbc473bd3e51",
+        "id": "radar-2f295e8907c0",
         "kind": "radar",
-        "title": "Anthropic's Claude agents pushed code merges to 30,000 a day in September",
-        "summary": "Startup Fortune reports: Anthropic's Claude agents pushed code merges to 30,000 a day in September Startup Fortune",
+        "title": "AI agents breach production systems, spread malware in major exploits",
+        "summary": "SC Media reports: AI agents breach production systems, spread malware in major exploits SC Media",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-14 09:35",
-        "displayDate": "2026-10-14 09:35",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjFhOEhuMmtzcUxnaHZTelBqT3VIQU5YQ3pRYWJ5RFNJbGpUSWYteXFZNFppcHByYmJ0dml5V2Y4QkllaWtEUlNiMlp1QVpVc0ZscGx5cVJ1N3FRYkFzdFV3ZDZLQTBGNmlwQnJoYnQzOWNPTzdzdXZCNHktemdLZ3g2ZzZXOGJZcm5EMS1LQVh4VXlUd3BNWDVweGp0bDBL",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-14 09:35"
+        "date": "2026-10-14 12:00",
+        "displayDate": "2026-10-14 12:00",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXBYOW9jVU9YS3FIWlJMUWhwWHZnaWhMdUJCc0xoRnByUTFQdDdVQTRjNUQ5TUp6V3VtNXgtYV9relNKZ2FuRVV2b1lCV1k1ZDNvbUZDUm83OVlkYVZJZV9BeVVzS2hQVmxwa0RJZ1dNTERUVnZ0REFRakpTV2hTcGFyQ0F1cTlwRFhCQ20xQU5qS3BfMG04emRSVDRBdnBaa3RN",
+        "source": "News signal — verify before acting · Source: SC Media · Time: 2026-10-14 12:00"
       },
       {
-        "id": "radar-830619040a0d",
+        "id": "radar-d9bfea1b11d8",
         "kind": "radar",
-        "title": "UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence",
-        "summary": "UC Santa Barbara reports: UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence UC Santa Barbara",
+        "title": "Strong ROI for AI Nearly 3X More Common When Companies Measure Growth Versus Efficiency Alone, Wharton-GBK Study Finds",
+        "summary": "Business Wire reports: Strong ROI for AI Nearly 3X More Common When Companies Measure Growth Versus Efficiency Alone, Wharton-GBK Study Finds Business Wire",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-10-12 17:52",
-        "displayDate": "2026-10-12 17:52",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNy15b0hlSFVOMGZWbzJqLTBlWkl4UXhodHE4Y1hJMU96TWJocXZ2SVdpTWdkVGVad281ODNBMlpyRGNVeHppNTBGVWFKQnBLN0VaUDR2Xzc5QnFkMlhxZXdZRUNZbTNZQlNQbHB0eDRNWWpRVmN3Sjc4OHNlT2JJT2VUNUhwWGlCRzBFOXg0b0otRDlrODJ2d3FFTmpoVFRjTkE",
-        "source": "News signal — verify before acting · Source: UC Santa Barbara · Time: 2026-10-12 17:52"
+        "date": "2026-10-13 15:56",
+        "displayDate": "2026-10-13 15:56",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbnJxRFp5bWtSZlAxN1JHUWlwU1FJbzZ4N0tsR2c2VHZkOWwzYjRrSmE3Q2JuSU5VTm1xYWtzclVGNWJCVC1XR3dMSVBYVy0zYnVZYWc2UnJ4cmJkNjZ2M1lta3NVRG5YZlV4SThNS29xdFRYckh3bXg3VkgwZzNwMExSR3hVclVFSGRxZkZucUR6ZWJzT1U0LTFWXzE4ZHBaV0VINHlWTy12SHJURDhNaHZSRmFOc3VFWFQyT1NHZnEwUVJoU1ZPRHlpMUN6blJpazJWOUhvSFk5TThCU0tmY29FclVrSkludkJMdGpYSXNFTHFNckxJLWNJVlFpOS0wRVBNVA",
+        "source": "News signal — verify before acting · Source: Business Wire · Time: 2026-10-13 15:56"
       },
       {
         "id": "radar-929ba4f397e1",
@@ -87,60 +87,60 @@
         "source": "News signal — verify before acting · Source: Creative Bloq · Time: 2026-10-08 17:03"
       },
       {
-        "id": "radar-ec7ad455f7d6",
+        "id": "radar-9e5ae8a5182f",
         "kind": "radar",
-        "title": "Pluto Security nabs $42M to help enterprises secure their AI agents",
-        "summary": "SiliconANGLE reports: Pluto Security nabs $42M to help enterprises secure their AI agents SiliconANGLE",
+        "title": "Nothing threw: 84 AI agent failures in a live business, 10 caught automatically",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 50,
-        "date": "2026-10-14 00:46",
-        "displayDate": "2026-10-14 00:46",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUpHY01LNXlfb1VwQ2NLZWN1Z09fREMtdGRQOEVobVM5bGJpdmhVMUlWRWljVjF0eFdTdkdtYk1vOVczYzBKNTAzdFo5eXhtZWNZZ205WkpUSHFNQUJTbHJST193MXBPaDJWd0pTem1rdDE1Z0JKbUdPbFN3N0hrM2hJRVdwOWVPSW54OGNjLV9OM3ZWd1JiVFNFallKRUNOc05mYmVn",
-        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-10-14 00:46"
+        "score": 43,
+        "date": "2026-10-14 13:30",
+        "displayDate": "2026-10-14 13:30",
+        "url": "https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-14 13:30"
       },
       {
-        "id": "radar-6aa46b0cc956",
+        "id": "radar-e2f0632d88e5",
         "kind": "radar",
-        "title": "Factory AI Hits $5B Valuation, Triples in 5 Months [2026] - https://tech-insider.org/",
-        "summary": "https://tech-insider.org/ reports: Factory AI Hits $5B Valuation, Triples in 5 Months [2026] https://tech-insider.org/",
+        "title": "Pi 1.0 Debuts: Open Coding Agent Cuts Tokens 40% [2026] - https://tech-insider.org/",
+        "summary": "https://tech-insider.org/ reports: Pi 1.0 Debuts: Open Coding Agent Cuts Tokens 40% [2026] https://tech-insider.org/",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-14 09:01",
-        "displayDate": "2026-10-14 09:01",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1USm9vaVhfX3ducHdfSHVMX0JBVlhZb1pnbUE5bEk2MkVJUDR2NUZvT2FQVHo1cUZSZGIyRHpKaWIwZFIzTlhsN01ITUhTa24wek1Zc2tScGd2SVppSmh2X0xYbXN2aWptYmxmX3ZvSEw5XzFqakdQTVhPakFyZXM",
-        "source": "News signal — verify before acting · Source: https://tech-insider.org/ · Time: 2026-10-14 09:01"
+        "date": "2026-10-14 11:42",
+        "displayDate": "2026-10-14 11:42",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kMWFKems1bmpxeDlFaUVCMFlaTEdWM1BMeFBEbFF5eURmbnJiZ3hlbDQ1M25GeTFMMHBWUll4NFV0ZHpUa3lyS2VZSkRMYVMyZkM5MVdkM0FaZjB6VUloQmNoVDI5OUFTSFZGc19n",
+        "source": "News signal — verify before acting · Source: https://tech-insider.org/ · Time: 2026-10-14 11:42"
       },
       {
-        "id": "radar-5b89b0ba7ed8",
+        "id": "radar-2a52b6f6a775",
         "kind": "radar",
-        "title": "[Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE",
-        "summary": "SK hynix reports: [Inside the Research] In the AI era, NAND moves beyond storage to computing… 3D FeNAND co-optimization at IEEE SK hynix",
+        "title": "Lidar maker Hesai launches 3D spatial camera with ambitions to train robots",
+        "summary": "South China Morning Post flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-10-14 05:30",
-        "displayDate": "2026-10-14 05:30",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QUlRESHhwN3FrOVVqcThibEQyYU00dWk2bWJmbUIzVUx6ckRYdFhjNUd5OWdXaGdKQlBqZ2JfbjM5bGpkbWRZcU11UVhJeXZSWkVZX3ZVTzJhdU5p",
-        "source": "News signal — verify before acting · Source: SK hynix · Time: 2026-10-14 05:30"
+        "date": "2026-10-14 11:47",
+        "displayDate": "2026-10-14 11:47",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDhJejBXd2xNRVJseGdyUjFuVC1SVGR4bHRFMldZRWNEYl83RjNFRGk5ZDFBU2JTZUZ6bEVGSWlSVzJOc2JnX3NvODNGbjFVS1dvNVZuMWJ1QThLYzh2R204RE42WjQwY2hBU1VjWWxocjdDQlhfdjI4UUtDbW9Nbk9McXdnUVNGSWxTNG1HLXVVT0VlVFhoWWVYM1lxNVI3N3ZrbUpiZUlNampzbllaMnlvdS12Z1Y4b0hMV1JlUWlZQlNHa1c40gHHAUFVX3lxTE9qTEF3UEhtSmxQc1FaRWhSV0NxQXk2YzRCS2kwVnpSMkc3WElJLWJDSkFYVl9qMzRsMXB4SWlySGJfekdCdmdGOHA2bTdsQzB5ZmZ3QXctOGtIaV9lU0RLcHZXak1UZkVCUkRFdGtJMVYtV1l4TTVZX0w2Qm83Nkp0SmpLTzJMUjRjZ1hhd2NsOUNmSEluRHcxWUpObTQ1X2JnV1d3dmM4N196eUpIaWxrdmlTb3pXQ0RPQlFDMTF5NHlVM2QzODA",
+        "source": "News signal — verify before acting · Source: South China Morning Post · Time: 2026-10-14 11:47"
       },
       {
-        "id": "radar-22f3de1a7f65",
+        "id": "radar-830619040a0d",
         "kind": "radar",
-        "title": "Why the United States Should Be the World’s Partner on AI Workforce Training",
-        "summary": "The National Interest is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence",
+        "summary": "UC Santa Barbara reports: UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence UC Santa Barbara",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 78,
-        "date": "2026-10-12 11:00",
-        "displayDate": "2026-10-12 11:00",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUJyX25JSDVJb09mbnJMU0hGVGtMU3ZET0VqazQxYWNscDJOTmNfbldPRURIUGtBcGRRV1ZfRGlNVGh0MnR1LV9FWl9fYzNSamJvQzYwb3ZSTVk0djRhZ0VOVlQtNVRiY1EzOTR3WFV2QWpKbUZRd095UnQ3Z2VnX3RhQ1NMa2t0OWZ1RHJybVRsaGFaSU9tV0dOVnllS3ZraUZjSFN2aGhkc1RobWxEOHkzRjhSTmlud2c",
-        "source": "News signal — verify before acting · Source: The National Interest · Time: 2026-10-12 11:00"
+        "date": "2026-10-12 17:52",
+        "displayDate": "2026-10-12 17:52",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNy15b0hlSFVOMGZWbzJqLTBlWkl4UXhodHE4Y1hJMU96TWJocXZ2SVdpTWdkVGVad281ODNBMlpyRGNVeHppNTBGVWFKQnBLN0VaUDR2Xzc5QnFkMlhxZXdZRUNZbTNZQlNQbHB0eDRNWWpRVmN3Sjc4OHNlT2JJT2VUNUhwWGlCRzBFOXg0b0otRDlrODJ2d3FFTmpoVFRjTkE",
+        "source": "News signal — verify before acting · Source: UC Santa Barbara · Time: 2026-10-12 17:52"
       },
       {
         "id": "radar-438ecb938082",
@@ -170,17 +170,6 @@
         "lastRun": "2026-10-14T21:01:09.654518+08:00",
         "nextRun": "2026-10-15T09:00:00+08:00",
         "message": "RuntimeError: Our servers are currently overloaded. Please try again later."
-      },
-      {
-        "id": "cac8032fb676",
-        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
-        "enabled": true,
-        "state": "error",
-        "schedule": "10 1-23/3 * * *",
-        "lastStatus": "error",
-        "lastRun": "2026-10-14T19:27:55.426238+08:00",
-        "nextRun": "2026-10-14T22:10:00+08:00",
-        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
       },
       {
         "id": "a0a3b6174708",
@@ -222,9 +211,20 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-14T21:29:52.832308+08:00",
-        "nextRun": "2026-10-14T22:30:49.612577+08:00",
+        "lastRun": "2026-10-14T22:00:53.265536+08:00",
+        "nextRun": "2026-10-14T23:01:50.369092+08:00",
         "message": "No recent error."
+      },
+      {
+        "id": "cac8032fb676",
+        "name": "Idea Inbox Harvester — absorb Garett ideas — Every 3 Hours",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "10 1-23/3 * * *",
+        "lastStatus": "ok",
+        "lastRun": "2026-10-14T22:15:51.276750+08:00",
+        "nextRun": "2026-10-15T01:10:00+08:00",
+        "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
         "id": "94b67a9712b2",
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-14T21:57:52.682462+08:00",
-        "nextRun": "2026-10-14T22:02:49.607652+08:00",
+        "lastRun": "2026-10-14T22:30:53.631743+08:00",
+        "nextRun": "2026-10-14T22:32:53.631743+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-14T19:31:03.447392+08:00",
-        "nextRun": "2026-10-14T22:30:00+08:00",
+        "lastRun": "2026-10-14T22:31:08.485963+08:00",
+        "nextRun": "2026-10-15T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-14T22:00:49.613577+08:00"
+    "updatedAt": "2026-10-14T22:31:50.369092+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
