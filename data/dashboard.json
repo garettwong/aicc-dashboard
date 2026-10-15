@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-16T01:47:35+08:00",
+    "generatedAt": "2026-10-16T04:48:39+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-15_09-01-03.md",
-    "radarSource": "ai_opportunity_radar_20261016_013053.html",
+    "radarSource": "ai_opportunity_radar_20261016_043056.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261016_013053.html",
+    "sourceFile": "ai_opportunity_radar_20261016_043056.html",
     "items": [
       {
-        "id": "radar-9522aa912ee0",
+        "id": "radar-df8c255e1d5f",
         "kind": "radar",
-        "title": "Show HN: AI Tools",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "ServiceNow gives AI agents a passport, and limits on what they can do",
+        "summary": "Help Net Security reports: ServiceNow gives AI agents a passport, and limits on what they can do Help Net Security",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-15 17:27",
-        "displayDate": "2026-10-15 17:27",
-        "url": "https://github.com/QAInsights/awesome-ai-tools",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-15 17:27"
+        "score": 50,
+        "date": "2026-10-15 13:51",
+        "displayDate": "2026-10-15 13:51",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pRHU4VERsY3lEdXc3YVhONy1BeG5SNmQ0NVBPZndwWkwyUHBhVjB4Q0xxTF94Z1NkVG9sZHpwR3ppNGV3cF8xWkUwaFBvQ1FPZkh4N2dKalB5c3JUa3pheXprQjFQdWpGbDAzM0x5d2EzT3lR",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-10-15 13:51"
       },
       {
         "id": "radar-348379d01a80",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-10-15 14:55"
       },
       {
-        "id": "radar-4ab698aff0b7",
+        "id": "radar-d0c38a3cf85a",
         "kind": "radar",
-        "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
-        "summary": "CNBC reports: AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off CNBC",
+        "title": "Labelbox Raises over $100M to Expand Reinforcement Learning and Enterprise AI Agents",
+        "summary": "HPCwire shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-10-15 14:10",
-        "displayDate": "2026-10-15 14:10",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGJvUHpEanQzY2pYeGNxamNzdUxwQWluVS1vQWtyS3NELWRTU0hQRVRZb0pjQnoxTW5VOVU4Z3JrZjNILV8xYXNMbW55RmViZHd1dERoT0VWVDlaZzZETWNzZkJYc1VmOWpOTE5YREZmQlkyVFJCMlNNTVhZdEIyOXVyanh5WFJJLWpwclEtcFhiWkJCNklDMlBRbkcwSWhYU2fSAacBQVVfeXFMTzZSeHZNOHRQcl8tS1hwZTdFYWw4UWx3bFVYLXBFWmNFaVRqejB3cGtOWlhTakprOHI4VzBPd3B6R3JFR1JFLVJxMEVER1dmbVByN0JFaVVjcmo5bWMxTjRzZkJieW9aaEY2SkJRU3FRWFhhbndiOWpMMUFEYXBHRTB2MDdIbUhRajBYMWNQcnN1MmpBSkdWUERfLW1hR2ZUbE1lbHE3VkU",
-        "source": "News signal — verify before acting · Source: CNBC · Time: 2026-10-15 14:10"
+        "score": 96,
+        "date": "2026-10-15 20:14",
+        "displayDate": "2026-10-15 20:14",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFA5NmpaWGJjUTJjaHJkc0pSZl9nVGxmUk5ZbEJpWU44TW04em1pbDNJY2hYaWpneFhaZ0xIdUZMWkJZTld2ODdUNEVfQm9oOE5UQjhOb0hCU2VzMkF5cmtBSTczclA3ZmRBNkI4cnpFT09JN0I2QjMxVHkyc1YxRXNpMm8xUTNCaG91UVFQVW13YzRwVV8yekZXSkRZaERaWG92VkNqYUlyZEV3YWdBb3I3YU9YWlM5dnR5RkhtUEJvaThx",
+        "source": "News signal — verify before acting · Source: HPCwire · Time: 2026-10-15 20:14"
       },
       {
         "id": "radar-07e694ebafb7",
@@ -87,20 +87,6 @@
         "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-10 04:15"
       },
       {
-        "id": "radar-b5f557867c17",
-        "kind": "radar",
-        "title": "AMD Helion for Agentic AI and Enterprise",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-10-15 16:37",
-        "displayDate": "2026-10-15 16:37",
-        "url": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-15 16:37"
-      },
-      {
         "id": "radar-86a21f7eaca7",
         "kind": "radar",
         "title": "These Free Alternatives To Microsoft Office Show How AI Is Backfiring On Tech Companies",
@@ -115,32 +101,32 @@
         "source": "News signal — verify before acting · Source: BGR · Time: 2026-10-15 14:47"
       },
       {
-        "id": "radar-6c9d17f8e221",
+        "id": "radar-aa15d66234e7",
         "kind": "radar",
-        "title": "Building the Data Infrastructure for Physical AI: Hesai Launches Kosmo 3D World Data Engine",
-        "summary": "PR Newswire flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Tripo AI exhibits H3.1 and Segmentation v2 3D-native foundation models for printing",
+        "summary": "VoxelMatters reports: Tripo AI exhibits H3.1 and Segmentation v2 3D-native foundation models for printing VoxelMatters",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 92,
-        "date": "2026-10-14 18:04",
-        "displayDate": "2026-10-14 18:04",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdm9ZRTNGMmdYMkU4dE5xWmM1TVkxVmtTeFlYQ1NhRnJWSFhaWHctNnItdEVnNmdsMVBCMGI1bnNyUW9zZUQ5azVGOV9FeTNEXzdwX2x1SmtqenFkSW5GSGpPQUxJdHJ3RHVSRC1veVo2aTlHNEI4Y2xZOVN6VXZkQ29xRU5sSmRWLTI1aHVVR0tqNzZGRGdWM2VwdGcwcGhlVHRyd1lORmhfc242Y2pWWVN1SGpNVEVCVTFTUXhLcktNSWNnbVdrcmdsYk01bnQ4bmZuYTJNS1MtMUNLaFBv",
-        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-10-14 18:04"
+        "date": "2026-10-15 16:33",
+        "displayDate": "2026-10-15 16:33",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNjY09jVzdaOGxXdjJ4NHlJZ0VpOXVfaWxKTEFaV0dUOWI3SGVkS3hTU2xNeXlRUVo3YjV0U3VWanlkZVJhRVVUcXRhUGJuQThUUG16aGlDdE1waDlnUVZNQnltanJWZmcxUmoydXRpcXpLS25JOC1ScUgxSGg0b3gzX3NBT18xTDVZbEFrdXNienNvcGExLUU0TnlKT3NmSklxMTF3Wk0yRU92d19XZkxfNNIBuAFBVV95cUxOemUycGloVV9oTC13MzhQRTQ5X1JZeEVlZWt2Y2xObzNRWmloVWQwZ1NmYlhQcXN4UGdtcHFpQklueFIzTVkxMlp0bnJubWdXcU0yTXBVTlExM21MTENUbV9ZTXBPVmwwNC1BdHpscEtiU2VHdzlMSzRLczVwSFd6U1FvSjRlbFVvYjRGTk0tNEs4VVpld3dNSV9tLVQ5dkV2OE8temMwNkZXM09aYjN6LUVjdzctdVk1",
+        "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-10-15 16:33"
       },
       {
-        "id": "radar-4e36eca2f923",
+        "id": "radar-4ab698aff0b7",
         "kind": "radar",
-        "title": "Google DeepMind Chair Warns Rogue AI Agent Hacks Are Early Warning Shots",
-        "summary": "TIKR.com reports: Google DeepMind Chair Warns Rogue AI Agent Hacks Are Early Warning Shots TIKR.com",
+        "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+        "summary": "CNBC reports: AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off CNBC",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-15 13:02",
-        "displayDate": "2026-10-15 13:02",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVdseXRtcjR5M2xGRU1FZlZCeE1OUzJYdTFCNDlQTkZ5TndsN25wTmtONWFmRmtSSkJ4S2tXWV9xQ0RKTmYyR3RESGRQVWhUSGRic21tWXVsUk1RVjB0YUx4TEg1U0VzNjZhRU5TXzlibDlVMFY1TVh1X21nLXgtWUctSkZMVTdS",
-        "source": "News signal — verify before acting · Source: TIKR.com · Time: 2026-10-15 13:02"
+        "score": 90,
+        "date": "2026-10-15 14:10",
+        "displayDate": "2026-10-15 14:10",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGJvUHpEanQzY2pYeGNxamNzdUxwQWluVS1vQWtyS3NELWRTU0hQRVRZb0pjQnoxTW5VOVU4Z3JrZjNILV8xYXNMbW55RmViZHd1dERoT0VWVDlaZzZETWNzZkJYc1VmOWpOTE5YREZmQlkyVFJCMlNNTVhZdEIyOXVyanh5WFJJLWpwclEtcFhiWkJCNklDMlBRbkcwSWhYU2fSAacBQVVfeXFMTzZSeHZNOHRQcl8tS1hwZTdFYWw4UWx3bFVYLXBFWmNFaVRqejB3cGtOWlhTakprOHI4VzBPd3B6R3JFR1JFLVJxMEVER1dmbVByN0JFaVVjcmo5bWMxTjRzZkJieW9aaEY2SkJRU3FRWFhhbndiOWpMMUFEYXBHRTB2MDdIbUhRajBYMWNQcnN1MmpBSkdWUERfLW1hR2ZUbE1lbHE3VkU",
+        "source": "News signal — verify before acting · Source: CNBC · Time: 2026-10-15 14:10"
       },
       {
         "id": "radar-9e42cacc694e",
@@ -155,6 +141,20 @@
         "displayDate": "2026-10-15 04:37",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNenIxekpfd3ZYRVpkdkd0NjFjZ25Pc0YzQXVvMVN2cmNvMExRSjlwVDc5aXdCbzZ1R3phX3Nqd2pDdkZJb1RaX2RMQU5lQXozUzlHMm5UU1JaMlVuZkF6b2IxNl8xUUR5RE1GX0hfUE9lQ19mNUVIU0g4cmJyTllyZzd0azNJMXNfNWRqV2ZURWJlb2xOUnc",
         "source": "News signal — verify before acting · Source: The Tech Buzz · Time: 2026-10-15 04:37"
+      },
+      {
+        "id": "radar-31ef6041ace1",
+        "kind": "radar",
+        "title": "Taskriz – AI agents send people tiny native UIs, written in Smalltalk",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-10-15 20:26",
+        "displayDate": "2026-10-15 20:26",
+        "url": "https://taskriz.com/developers",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-15 20:26"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T01:17:34.558980+08:00",
-        "nextRun": "2026-10-16T02:17:34.699210+08:00",
+        "lastRun": "2026-10-16T04:18:39.136839+08:00",
+        "nextRun": "2026-10-16T05:18:39.267904+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T01:14:08.718587+08:00",
-        "nextRun": "2026-10-16T04:10:00+08:00",
+        "lastRun": "2026-10-16T04:13:08.118235+08:00",
+        "nextRun": "2026-10-16T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T01:45:40.266821+08:00",
-        "nextRun": "2026-10-16T01:47:40.266821+08:00",
+        "lastRun": "2026-10-16T04:45:42.485673+08:00",
+        "nextRun": "2026-10-16T04:50:39.260902+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T01:30:53.418116+08:00",
-        "nextRun": "2026-10-16T04:30:00+08:00",
+        "lastRun": "2026-10-16T04:30:56.186278+08:00",
+        "nextRun": "2026-10-16T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T00:45:26.151747+08:00",
-        "nextRun": "2026-10-16T03:40:00+08:00",
+        "lastRun": "2026-10-16T03:46:33.539915+08:00",
+        "nextRun": "2026-10-16T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-16T01:47:34.699210+08:00"
+    "updatedAt": "2026-10-16T04:48:39.267904+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
