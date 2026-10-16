@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-16T19:55:00+08:00",
+    "generatedAt": "2026-10-16T22:56:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-16_09-01-46.md",
-    "radarSource": "ai_opportunity_radar_20261016_193024.html",
+    "radarSource": "ai_opportunity_radar_20261016_223031.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261016_193024.html",
+    "sourceFile": "ai_opportunity_radar_20261016_223031.html",
     "items": [
       {
-        "id": "radar-22390b136ccd",
+        "id": "radar-996d32069ccd",
         "kind": "radar",
-        "title": "AlbertCode, an AI software engineering agent for building applications",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=2.",
+        "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-16 10:16",
-        "displayDate": "2026-10-16 10:16",
-        "url": "https://albertcode.dev/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 10:16"
+        "score": 55,
+        "date": "2026-10-16 13:15",
+        "displayDate": "2026-10-16 13:15",
+        "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 13:15"
       },
       {
-        "id": "radar-ed96289b17c7",
+        "id": "radar-96642c04acd0",
         "kind": "radar",
-        "title": "😺 ChatGPT Ads Can Target You by Email and Prompts",
-        "summary": "The Neuron reports: 😺 ChatGPT Ads Can Target You by Email and Prompts The Neuron",
+        "title": "New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials",
+        "summary": "CyberSecurityNews reports: New Aoki Malware Targets ChatGPT, Claude, Codex and Gemini to Steal Credentials CyberSecurityNews",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-16 09:32",
-        "displayDate": "2026-10-16 09:32",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96M2JKd0kwSDNUZXB3VmxjT3h2V3RkQnc5QkJZWEhNc19Ibkp5MkR0a2E2TEpyNzlVcHNfQktKRkRtS3JXNmV6RXlqMy1DQVl6cmhhRWhUWVlheDFDN2p0QTZYX3BCZw",
-        "source": "News signal — verify before acting · Source: The Neuron · Time: 2026-10-16 09:32"
+        "date": "2026-10-16 12:28",
+        "displayDate": "2026-10-16 12:28",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZWF0cnBBdnhWX0pUVDVxdnZnLXFsUk1SVTRDUjYzVERsSmhnNHlDVmlBVkhiYmNVVWgzZy0xWkVDUF93akZpOF9GVy1GbHBJT2FNQzZVOGtoc1nSAWBBVV95cUxPenVheTc2b3A0eHp1X3dLcXU3ZjRqTndCUGRDSldBUXdySlprdmZ4SjR6T0xTRl9wLUpkcHltNkFZNHlQU1QyeS1mRWZhSWRCb1NSdE4wSU1OdDBBWjFRTzQ",
+        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-10-16 12:28"
       },
       {
         "id": "radar-d0c38a3cf85a",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: HPCwire · Time: 2026-10-15 20:14"
       },
       {
-        "id": "radar-438ecb938082",
+        "id": "radar-6116e1baa37c",
         "kind": "radar",
-        "title": "Meta Exec on How Its New AI Agent, Muse for Small Business, Is Designed to Save Time and Drive Growth",
-        "summary": "U.S. Chamber of Commerce reports: Meta Exec on How Its New AI Agent, Muse for Small Business, Is Designed to Save Time and Drive Growth U.S.",
+        "title": "Figma Introduces Specs and Expanded AI Agent Tools to Standardise Design Workflows",
+        "summary": "Konsulteer reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 74,
-        "date": "2026-10-09 13:09",
-        "displayDate": "2026-10-09 13:09",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWN0VHdGZklyczJQM3ZpWVBQRHllYzJSXzhaZjVuXy1qRF95WWo1N2ZrNW1zdmpMZHIxRGFTY0pIOWpYazhoYnlzYS1kQS1HZUF1RGhsWGdFcU4wZzlnR2oySVRib0o0OWI2aGRETDk1UFZwcF9uR0syRWVuSGNObnZRWjQ",
-        "source": "News signal — verify before acting · Source: U.S. Chamber of Commerce · Time: 2026-10-09 13:09"
+        "score": 79,
+        "date": "2026-10-15 21:20",
+        "displayDate": "2026-10-15 21:20",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzNHMEg2RWFOaTZmSEIwZ2FHZ2tNZm9tUVd4aGZYYVd5QWlYYnRDVFN4ZGR3Mkk2ZkFpVFZqc1k5dWhJMlo4SEVVWEsxaHNmaGlRSHZqR0l5TjVZb0JVb05fNlU3ZGtiU2gzM29GVWlNMHpoLXhvRDE5NnNxcWs4ckVELUdVUGJGM2NHb0MydU16NE43QV8zZi0tdkpxQ0c2bWJoMjRZalNNNGpxd3pFZ0RCdjFiWmVC",
+        "source": "News signal — verify before acting · Source: Konsulteer · Time: 2026-10-15 21:20"
       },
       {
         "id": "radar-aa9ababf0288",
@@ -87,32 +87,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-10-13 16:16"
       },
       {
-        "id": "radar-d43f24a1ff59",
+        "id": "radar-f2a14ddd02bc",
         "kind": "radar",
-        "title": "OpenClaw Enterprise – The Open Agent Platform",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
-        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
-        "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-10-16 06:19",
-        "displayDate": "2026-10-16 06:19",
-        "url": "https://openclaw.ai/blog/openclaw-enterprise",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 06:19"
-      },
-      {
-        "id": "radar-6334f8d74012",
-        "kind": "radar",
-        "title": "GitHub Copilot vs Cursor: AI Coding Tools Race 2026",
-        "summary": "shattered.io reports: GitHub Copilot vs Cursor: AI Coding Tools Race 2026 shattered.io",
+        "title": "Aoki reportedly targets AI coding assistant credentials",
+        "summary": "NeoTeo reports: Aoki reportedly targets AI coding assistant credentials NeoTeo",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-16 08:34",
-        "displayDate": "2026-10-16 08:34",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDQ2c01UWmVWUUQtZFFkallYY29tQkN2T0Z5YzhVbDlJcEJQTEdfbU1WamdoZTdGWUJfdnVLRklqMmU5RlBRbi1GSEFfd2tNazNyb3N6S1hldkkta2NIZGpLNHlNeGdkbmVFUUJPYS1mWk9ORVE",
-        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-10-16 08:34"
+        "date": "2026-10-16 11:08",
+        "displayDate": "2026-10-16 11:08",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1NkT1ZUNGRKNTBfUWdqcy0wUmRfRmhERnJXTTVyY0VFOVB6VWhNUWJyaGRSV2R6ZDV1SWxYWWtER0sxTWJ0Y01rVTlZMWNHX1NGVXU2LTlYd0FScW84allnYUVKaW5SNmVsWUtaMURUSXdKWnN6Y2d0SE1oQjVweEI4S1RPczAy",
+        "source": "News signal — verify before acting · Source: NeoTeo · Time: 2026-10-16 11:08"
       },
       {
         "id": "radar-c984491dca35",
@@ -155,6 +141,20 @@
         "displayDate": "2026-10-15 04:30",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb3ZuaWwzQlZKUEF6eEdZeEticm9PMG1WdWZGVEI4eWRoaEt4aFhHRGloLVJSdzlzeTJzSlY0SlBnR0czbnN2c05yUFBUVF9QaUR1MEtMNlhacmVYbGIzQm5maEVHY21zOGo0cGp2bGszbUlnSnZ1UzI5bXN4clNEaUFBcVU0NXRIZW5KVTBJTVdJVGxnMTkzcE5FeTV0Y3BFNGtUdmtTdV8",
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-10-15 04:30"
+      },
+      {
+        "id": "radar-347268812f37",
+        "kind": "radar",
+        "title": "AI Support Agent That Carries Context Between Email and WhatsApp (Python)",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 43,
+        "date": "2026-10-16 14:09",
+        "displayDate": "2026-10-16 14:09",
+        "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/email-whatsapp-support-python",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 14:09"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T15:03:08.331459+08:00",
-        "nextRun": "2026-10-16T21:00:00+08:00",
+        "lastRun": "2026-10-16T21:01:54.979535+08:00",
+        "nextRun": "2026-10-17T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T19:25:00.548133+08:00",
-        "nextRun": "2026-10-16T20:25:00.641021+08:00",
+        "lastRun": "2026-10-16T22:26:08.437086+08:00",
+        "nextRun": "2026-10-16T23:26:08.579912+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T19:11:54.953735+08:00",
-        "nextRun": "2026-10-16T22:10:00+08:00",
+        "lastRun": "2026-10-16T22:11:03.081820+08:00",
+        "nextRun": "2026-10-17T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T19:52:05.492658+08:00",
-        "nextRun": "2026-10-16T19:57:00.635167+08:00",
+        "lastRun": "2026-10-16T22:55:13.344796+08:00",
+        "nextRun": "2026-10-16T22:57:13.344796+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T19:30:24.549987+08:00",
-        "nextRun": "2026-10-16T22:30:00+08:00",
+        "lastRun": "2026-10-16T22:30:31.307640+08:00",
+        "nextRun": "2026-10-17T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T18:47:06.241621+08:00",
-        "nextRun": "2026-10-16T21:40:00+08:00",
+        "lastRun": "2026-10-16T21:55:11.899680+08:00",
+        "nextRun": "2026-10-17T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-16T19:55:00.641021+08:00"
+    "updatedAt": "2026-10-16T22:56:08.579912+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
