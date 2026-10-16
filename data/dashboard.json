@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-16T10:51:48+08:00",
+    "generatedAt": "2026-10-16T13:52:52+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-16_09-01-46.md",
-    "radarSource": "ai_opportunity_radar_20261016_103106.html",
+    "radarSource": "ai_opportunity_radar_20261016_133114.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261016_103106.html",
+    "sourceFile": "ai_opportunity_radar_20261016_133114.html",
     "items": [
       {
-        "id": "radar-1222fec1993f",
+        "id": "radar-acd553c08e9c",
         "kind": "radar",
-        "title": "Space (AI agent containment sandbox) software open source",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=1.",
+        "title": "MuscleMemory: Open-source procedural memory for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-16 02:10",
-        "displayDate": "2026-10-16 02:10",
-        "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 02:10"
+        "score": 57,
+        "date": "2026-10-16 03:06",
+        "displayDate": "2026-10-16 03:06",
+        "url": "https://github.com/TheWariend/MuscleMemory",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 03:06"
       },
       {
-        "id": "radar-e0a4a5996f1b",
+        "id": "radar-3600c650fc79",
         "kind": "radar",
-        "title": "META Launches Muse Code AI Coding Agent To Challenge OpenAI And Anthropic",
-        "summary": "Stocktwits flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Linus Torvalds (Linux Father) Switches to AI for Kernel Coding: After Mocking AI as \"90% Marketing\", He Developed 8 Performance-Boosting Patches with Claude Code to Achieve 3X Surge",
+        "summary": "36Kr reports: Linus Torvalds (Linux Father) Switches to AI for Kernel Coding: After Mocking AI as \"90% Marketing\", He Developed 8 Performance-Boosting Patches with Claude Code to Achieve 3X Surge 36Kr",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-15 23:08",
-        "displayDate": "2026-10-15 23:08",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdWYlhXalpfRWswMmQxSFQwdVpWemVPaDVvejFiSGJDcnAwN0haWG1QcXBfTmI4c1ZWOGlNSDJCV2dqeWx2Z0JiUzlvNjRSc3RuLWppX2JfRFFRd3FxMGVncWR5ZmQxSnZmNkI2VklsOVNxeF9NdkxQbzlXQTJfWDNWb3FzeVhnMzd5Mks0a05UNGxrZl92Mko1a01nd01kbXRmUzNR",
-        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-10-15 23:08"
+        "date": "2026-10-16 04:32",
+        "displayDate": "2026-10-16 04:32",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RWjlfMEREM3lSbDBkMXo1bTVZckw4UGRTc3ZxbHhOYWxIMVJEWDcyQmhuVWktVkg1LVRFaFl5SG9JTDlyNDZaTEluVHZyZVBuUlpv",
+        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-10-16 04:32"
       },
       {
         "id": "radar-d0c38a3cf85a",
@@ -87,18 +87,18 @@
         "source": "Official / vendor signal · Source: blog.google · Time: 2026-10-13 16:16"
       },
       {
-        "id": "radar-c4b64b8ca654",
+        "id": "radar-e0a4a5996f1b",
         "kind": "radar",
-        "title": "Ramp Hits $60B Valuation on Its AI Coding Bet [2026] - https://tech-insider.org/",
-        "summary": "https://tech-insider.org/ reports: Ramp Hits $60B Valuation on Its AI Coding Bet [2026] https://tech-insider.org/",
+        "title": "META Launches Muse Code AI Coding Agent To Challenge OpenAI And Anthropic",
+        "summary": "Stocktwits flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-15 22:13",
-        "displayDate": "2026-10-15 22:13",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DaTY4cnYyeXY4ckdNUWNnYmlFNFVycU9nWTVIVDh6WlIzM0ZwV3prZTc3eWtCNG5Yb0pXQUhab2w2YlV3WWlMeDRwT3NvWTF6aXRtZU5Sa3pfTFlvU0lTdkE0V1Rwcl9VWHlxbGFwMWFBYmlBNUU2ZG9B",
-        "source": "News signal — verify before acting · Source: https://tech-insider.org/ · Time: 2026-10-15 22:13"
+        "date": "2026-10-15 23:08",
+        "displayDate": "2026-10-15 23:08",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdWYlhXalpfRWswMmQxSFQwdVpWemVPaDVvejFiSGJDcnAwN0haWG1QcXBfTmI4c1ZWOGlNSDJCV2dqeWx2Z0JiUzlvNjRSc3RuLWppX2JfRFFRd3FxMGVncWR5ZmQxSnZmNkI2VklsOVNxeF9NdkxQbzlXQTJfWDNWb3FzeVhnMzd5Mks0a05UNGxrZl92Mko1a01nd01kbXRmUzNR",
+        "source": "News signal — verify before acting · Source: Stocktwits · Time: 2026-10-15 23:08"
       },
       {
         "id": "radar-c984491dca35",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: The Tech Buzz · Time: 2026-10-15 04:37"
       },
       {
-        "id": "radar-9a97701e1fac",
+        "id": "radar-e8091beddf54",
         "kind": "radar",
-        "title": "Shared Spaces for Your Agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-10-15 21:59",
-        "displayDate": "2026-10-15 21:59",
-        "url": "https://cua.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-15 21:59"
+        "date": "2026-10-16 03:42",
+        "displayDate": "2026-10-16 03:42",
+        "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 03:42"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T10:21:47.862404+08:00",
-        "nextRun": "2026-10-16T11:21:48.005072+08:00",
+        "lastRun": "2026-10-16T13:22:52.170230+08:00",
+        "nextRun": "2026-10-16T14:22:52.272775+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T10:13:09.114696+08:00",
-        "nextRun": "2026-10-16T13:10:00+08:00",
+        "lastRun": "2026-10-16T13:11:45.539327+08:00",
+        "nextRun": "2026-10-16T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T10:48:52.626163+08:00",
-        "nextRun": "2026-10-16T10:53:47.999060+08:00",
+        "lastRun": "2026-10-16T13:51:57.405219+08:00",
+        "nextRun": "2026-10-16T13:53:57.405219+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T10:31:06.351316+08:00",
-        "nextRun": "2026-10-16T13:30:00+08:00",
+        "lastRun": "2026-10-16T13:31:14.628373+08:00",
+        "nextRun": "2026-10-16T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T09:46:14.276723+08:00",
-        "nextRun": "2026-10-16T12:40:00+08:00",
+        "lastRun": "2026-10-16T12:50:40.347494+08:00",
+        "nextRun": "2026-10-16T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-16T10:51:48.006076+08:00"
+    "updatedAt": "2026-10-16T13:52:52.272775+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
