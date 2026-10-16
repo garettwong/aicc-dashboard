@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-16T16:53:56+08:00",
+    "generatedAt": "2026-10-16T19:55:00+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-16_09-01-46.md",
-    "radarSource": "ai_opportunity_radar_20261016_163113.html",
+    "radarSource": "ai_opportunity_radar_20261016_193024.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261016_163113.html",
+    "sourceFile": "ai_opportunity_radar_20261016_193024.html",
     "items": [
       {
-        "id": "radar-e3e54d9a2a4b",
+        "id": "radar-22390b136ccd",
         "kind": "radar",
-        "title": "Hopper HQ: An office building where Claude agents gets a desk",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "AlbertCode, an AI software engineering agent for building applications",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=2.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-10-16 07:59",
-        "displayDate": "2026-10-16 07:59",
-        "url": "https://github.com/FairMind-Gen-AI-Studio/hopper-hq",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 07:59"
+        "date": "2026-10-16 10:16",
+        "displayDate": "2026-10-16 10:16",
+        "url": "https://albertcode.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 10:16"
       },
       {
-        "id": "radar-3600c650fc79",
+        "id": "radar-ed96289b17c7",
         "kind": "radar",
-        "title": "Linus Torvalds (Linux Father) Switches to AI for Kernel Coding: After Mocking AI as \"90% Marketing\", He Developed 8 Performance-Boosting Patches with Claude Code to Achieve 3X Surge",
-        "summary": "36Kr reports: Linus Torvalds (Linux Father) Switches to AI for Kernel Coding: After Mocking AI as \"90% Marketing\", He Developed 8 Performance-Boosting Patches with Claude Code to Achieve 3X Surge 36Kr",
+        "title": "😺 ChatGPT Ads Can Target You by Email and Prompts",
+        "summary": "The Neuron reports: 😺 ChatGPT Ads Can Target You by Email and Prompts The Neuron",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-16 04:32",
-        "displayDate": "2026-10-16 04:32",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RWjlfMEREM3lSbDBkMXo1bTVZckw4UGRTc3ZxbHhOYWxIMVJEWDcyQmhuVWktVkg1LVRFaFl5SG9JTDlyNDZaTEluVHZyZVBuUlpv",
-        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-10-16 04:32"
+        "date": "2026-10-16 09:32",
+        "displayDate": "2026-10-16 09:32",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96M2JKd0kwSDNUZXB3VmxjT3h2V3RkQnc5QkJZWEhNc19Ibkp5MkR0a2E2TEpyNzlVcHNfQktKRkRtS3JXNmV6RXlqMy1DQVl6cmhhRWhUWVlheDFDN2p0QTZYX3BCZw",
+        "source": "News signal — verify before acting · Source: The Neuron · Time: 2026-10-16 09:32"
       },
       {
         "id": "radar-d0c38a3cf85a",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: HPCwire · Time: 2026-10-15 20:14"
       },
       {
-        "id": "radar-6116e1baa37c",
+        "id": "radar-438ecb938082",
         "kind": "radar",
-        "title": "Figma Introduces Specs and Expanded AI Agent Tools to Standardise Design Workflows",
-        "summary": "Konsulteer reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Meta Exec on How Its New AI Agent, Muse for Small Business, Is Designed to Save Time and Drive Growth",
+        "summary": "U.S. Chamber of Commerce reports: Meta Exec on How Its New AI Agent, Muse for Small Business, Is Designed to Save Time and Drive Growth U.S.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 79,
-        "date": "2026-10-15 21:20",
-        "displayDate": "2026-10-15 21:20",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzNHMEg2RWFOaTZmSEIwZ2FHZ2tNZm9tUVd4aGZYYVd5QWlYYnRDVFN4ZGR3Mkk2ZkFpVFZqc1k5dWhJMlo4SEVVWEsxaHNmaGlRSHZqR0l5TjVZb0JVb05fNlU3ZGtiU2gzM29GVWlNMHpoLXhvRDE5NnNxcWs4ckVELUdVUGJGM2NHb0MydU16NE43QV8zZi0tdkpxQ0c2bWJoMjRZalNNNGpxd3pFZ0RCdjFiWmVC",
-        "source": "News signal — verify before acting · Source: Konsulteer · Time: 2026-10-15 21:20"
+        "score": 74,
+        "date": "2026-10-09 13:09",
+        "displayDate": "2026-10-09 13:09",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWN0VHdGZklyczJQM3ZpWVBQRHllYzJSXzhaZjVuXy1qRF95WWo1N2ZrNW1zdmpMZHIxRGFTY0pIOWpYazhoYnlzYS1kQS1HZUF1RGhsWGdFcU4wZzlnR2oySVRib0o0OWI2aGRETDk1UFZwcF9uR0syRWVuSGNObnZRWjQ",
+        "source": "News signal — verify before acting · Source: U.S. Chamber of Commerce · Time: 2026-10-09 13:09"
       },
       {
         "id": "radar-aa9ababf0288",
@@ -101,18 +101,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-16 06:19"
       },
       {
-        "id": "radar-d34bab4048ec",
+        "id": "radar-6334f8d74012",
         "kind": "radar",
-        "title": "Claude Code Helps Build a Linux Film Scanner Driver and Improve a Laptop Camera",
-        "summary": "XenoSpectrum reports: Claude Code Helps Build a Linux Film Scanner Driver and Improve a Laptop Camera XenoSpectrum",
+        "title": "GitHub Copilot vs Cursor: AI Coding Tools Race 2026",
+        "summary": "shattered.io reports: GitHub Copilot vs Cursor: AI Coding Tools Race 2026 shattered.io",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-16 03:06",
-        "displayDate": "2026-10-16 03:06",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tUkFPbXBxa0YwTmRnaktSNmdDLWVBOWhWNWcwM0FQLWliQVdUU1RsWGRYT2VLMUk0NG5JYU5GM2owUllxNS15N0hUeGNrMW1WUVlTcDh1cGpJSUg5UVE4YnJPZWhVTk1FTkpITHBhZWQ1cVhk",
-        "source": "News signal — verify before acting · Source: XenoSpectrum · Time: 2026-10-16 03:06"
+        "date": "2026-10-16 08:34",
+        "displayDate": "2026-10-16 08:34",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1dDQ2c01UWmVWUUQtZFFkallYY29tQkN2T0Z5YzhVbDlJcEJQTEdfbU1WamdoZTdGWUJfdnVLRklqMmU5RlBRbi1GSEFfd2tNazNyb3N6S1hldkkta2NIZGpLNHlNeGdkbmVFUUJPYS1mWk9ORVE",
+        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-10-16 08:34"
       },
       {
         "id": "radar-c984491dca35",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T16:23:56.320080+08:00",
-        "nextRun": "2026-10-16T17:23:56.396338+08:00",
+        "lastRun": "2026-10-16T19:25:00.548133+08:00",
+        "nextRun": "2026-10-16T20:25:00.641021+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T16:13:24.951704+08:00",
-        "nextRun": "2026-10-16T19:10:00+08:00",
+        "lastRun": "2026-10-16T19:11:54.953735+08:00",
+        "nextRun": "2026-10-16T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T16:52:01.392265+08:00",
-        "nextRun": "2026-10-16T16:54:01.392265+08:00",
+        "lastRun": "2026-10-16T19:52:05.492658+08:00",
+        "nextRun": "2026-10-16T19:57:00.635167+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T16:31:13.693951+08:00",
-        "nextRun": "2026-10-16T19:30:00+08:00",
+        "lastRun": "2026-10-16T19:30:24.549987+08:00",
+        "nextRun": "2026-10-16T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-16T15:50:36.665100+08:00",
-        "nextRun": "2026-10-16T18:40:00+08:00",
+        "lastRun": "2026-10-16T18:47:06.241621+08:00",
+        "nextRun": "2026-10-16T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-16T16:53:56.396338+08:00"
+    "updatedAt": "2026-10-16T19:55:00.641021+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
