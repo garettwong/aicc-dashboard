@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-17T16:35:39+08:00",
+    "generatedAt": "2026-10-17T19:36:43+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-17_09-01-18.md",
-    "radarSource": "ai_opportunity_radar_20261017_163056.html",
+    "radarSource": "ai_opportunity_radar_20261017_193100.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261017_163056.html",
+    "sourceFile": "ai_opportunity_radar_20261017_193100.html",
     "items": [
       {
         "id": "radar-68abbe75533d",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: The Tech Buzz · Time: 2026-10-15 04:37"
       },
       {
-        "id": "radar-14a7414b8a95",
+        "id": "radar-6dd423fbd848",
         "kind": "radar",
-        "title": "Researchers Stranded an AI Agent on a Virtual Island",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "India's Cybersecurity Agency Flags Unauthorized Access by Autonomous AI Agents",
+        "summary": "تسنیم reports: India's Cybersecurity Agency Flags Unauthorized Access by Autonomous AI Agents تسنیم",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-17 07:45",
-        "displayDate": "2026-10-17 07:45",
-        "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-17 07:45"
+        "score": 50,
+        "date": "2026-10-17 11:18",
+        "displayDate": "2026-10-17 11:18",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb05yRU85eEpGdGhmZGkzSzhOOC0wU2tVVGxNdTZoQjZlRHZ0RHNwRUhwczVGdW5pXzhnSTAxU2lSMnJjdXBGTnA0V1daRW52bHA4azlXaUs0Wi1EemRocXV0YTRrcC1VbUgtSkUtWTFOUF81cmFDc1B0ejRiNGdkX0RqU3ZkNC1CVTNLM0FUME14TXpFamhwUklyRGd3RTVPZExiT2pzNXljcVZKblUtazZRcHVsLXFjT2xOS1JNQzRPYks5elFBcXhfY9IB0AFBVV95cUxQWUs3ZmtULVY1Ums4ZTRzdVBCSnJ4cnNGRDJMLTYzaGh3aGJTa1IxZWx5MXhJcW1UUUplR1BRN3VtVERmOHdiTVpJaDZ3Q2JFSnEwZjZWakRabnd5T1dHSGtHNVIwWklqUGstQWhXZlROSmhGQlpnYzhhdG5fQXAxcm9kZnRaTXMzLXlYRmpaUU5RcUpkY2JNVGIyWktNRXlPZWRRcmJFcUJNV0JEclFsNlRObFEyMGZtdEo1R2JYOHBLUkw3M3FpZk5LQlAzVF9w",
+        "source": "News signal — verify before acting · Source: تسنیم · Time: 2026-10-17 11:18"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-17T16:05:38.492960+08:00",
-        "nextRun": "2026-10-17T17:05:38.932284+08:00",
+        "lastRun": "2026-10-17T19:06:43.303469+08:00",
+        "nextRun": "2026-10-17T20:06:43.570662+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-17T16:12:30.269224+08:00",
-        "nextRun": "2026-10-17T19:10:00+08:00",
+        "lastRun": "2026-10-17T19:12:10.092131+08:00",
+        "nextRun": "2026-10-17T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-17T16:34:44.850722+08:00",
-        "nextRun": "2026-10-17T16:36:44.850722+08:00",
+        "lastRun": "2026-10-17T19:34:48.849746+08:00",
+        "nextRun": "2026-10-17T19:36:48.849746+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-17T16:30:56.309842+08:00",
-        "nextRun": "2026-10-17T19:30:00+08:00",
+        "lastRun": "2026-10-17T19:31:00.228912+08:00",
+        "nextRun": "2026-10-17T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-17T15:47:44.648743+08:00",
-        "nextRun": "2026-10-17T18:40:00+08:00",
+        "lastRun": "2026-10-17T18:44:41.140757+08:00",
+        "nextRun": "2026-10-17T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-17T16:35:38.933290+08:00"
+    "updatedAt": "2026-10-17T19:36:43.571661+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
