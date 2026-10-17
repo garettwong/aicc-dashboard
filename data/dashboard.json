@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-18T04:48:00+08:00",
+    "generatedAt": "2026-10-18T07:52:04+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-17_09-01-18.md",
-    "radarSource": "ai_opportunity_radar_20261018_043116.html",
+    "radarSource": "ai_opportunity_radar_20261018_073029.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261018_043116.html",
+    "sourceFile": "ai_opportunity_radar_20261018_073029.html",
     "items": [
       {
-        "id": "radar-a7d519b693de",
+        "id": "radar-286ee098899e",
         "kind": "radar",
-        "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Past.dev: Long-term memory for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-10-17 18:58",
-        "displayDate": "2026-10-17 18:58",
-        "url": "https://nono.sh/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-17 18:58"
+        "score": 57,
+        "date": "2026-10-17 20:36",
+        "displayDate": "2026-10-17 20:36",
+        "url": "https://past.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-17 20:36"
       },
       {
         "id": "radar-96e77e009715",
@@ -101,10 +101,10 @@
         "source": "News signal — verify before acting · Source: Kitsap Sun · Time: 2026-10-17 18:06"
       },
       {
-        "id": "radar-6383da966135",
+        "id": "radar-8769e052e6d9",
         "kind": "radar",
-        "title": "VS Code 1.142 Update: Agent Canvases, Python Fixes [2026] - https://tech-insider.org/",
-        "summary": "https://tech-insider.org/ reports: VS Code 1.142 Update: Agent Canvases, Python Fixes [2026] https://tech-insider.org/",
+        "title": "VS Code 1.142 Ships Agent Canvases, Go Hits 0.56 [2026] - https://tech-insider.org/",
+        "summary": "https://tech-insider.org/ reports: VS Code 1.142 Ships Agent Canvases, Go Hits 0.56 [2026] https://tech-insider.org/",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T04:17:59.974126+08:00",
-        "nextRun": "2026-10-18T05:18:00.126920+08:00",
+        "lastRun": "2026-10-18T07:22:04.122327+08:00",
+        "nextRun": "2026-10-18T08:22:04.226898+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T04:12:27.384236+08:00",
-        "nextRun": "2026-10-18T07:10:00+08:00",
+        "lastRun": "2026-10-18T07:10:52.833888+08:00",
+        "nextRun": "2026-10-18T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T04:47:05.579146+08:00",
-        "nextRun": "2026-10-18T04:49:05.579146+08:00",
+        "lastRun": "2026-10-18T07:50:09.778383+08:00",
+        "nextRun": "2026-10-18T07:52:09.778383+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T04:31:16.544069+08:00",
-        "nextRun": "2026-10-18T07:30:00+08:00",
+        "lastRun": "2026-10-18T07:30:29.622516+08:00",
+        "nextRun": "2026-10-18T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T03:47:29.884243+08:00",
-        "nextRun": "2026-10-18T06:40:00+08:00",
+        "lastRun": "2026-10-18T06:51:52.792748+08:00",
+        "nextRun": "2026-10-18T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-18T04:48:00.126920+08:00"
+    "updatedAt": "2026-10-18T07:52:04.226898+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
