@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-19T12:21:02+08:00",
+    "generatedAt": "2026-10-19T13:56:38+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-19_12-13-36.md",
-    "radarSource": "ai_opportunity_radar_20261019_121152.html",
+    "radarSource": "ai_opportunity_radar_20261019_133055.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261019_121152.html",
+    "sourceFile": "ai_opportunity_radar_20261019_133055.html",
     "items": [
       {
         "id": "radar-e22a58194d54",
@@ -31,18 +31,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-18 22:27"
       },
       {
-        "id": "radar-83ee8703d7c5",
+        "id": "radar-fc3b098abb1f",
         "kind": "radar",
-        "title": "AI Reverse Engineering Shakes Software Industry",
-        "summary": "조선일보 reports: AI Reverse Engineering Shakes Software Industry 조선일보",
+        "title": "Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control System With Only 7 People in 5 Months",
+        "summary": "36Kr reports: Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control System With Only 7 People in 5 Months 36Kr",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-19 02:24",
-        "displayDate": "2026-10-19 02:24",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFphOWlDWVdCWl9LUnlaWGdoX2JuUUNaODVxaVR6YmdHMHZldVd3WFpJendhSWxCcW9zWkZwV250bk1LRy1nR2JFXy1XWUpkdUphZlpaQnZRMGFmc2RDRnU0aGRDdV9fNWpCYzVCemREcU84dkVKV1ZXUjhlTWtQS25XVm5PTlpr",
-        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-10-19 02:24"
+        "date": "2026-10-19 05:12",
+        "displayDate": "2026-10-19 05:12",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jRmRmdldGbXMyMl9JY0M0SUFHemw3LWdWcGp5cGJiRFdlSFh4Tm5VeFBGeXlPMDZrdkRJSDZzZ0RfRHVqcC1DTTRmdi1PVkJ2NDFF",
+        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-10-19 05:12"
       },
       {
         "id": "radar-690329a7bacf",
@@ -167,7 +167,7 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-10-18T09:30:08.850167+08:00",
+        "lastRun": "2026-10-19T12:21:07.583641+08:00",
         "nextRun": "2026-10-20T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-18T22:32:38.797932+08:00",
-        "nextRun": "2026-10-19T12:41:36.083750+08:00",
+        "lastRun": "2026-10-19T13:26:38.355550+08:00",
+        "nextRun": "2026-10-19T14:26:38.502244+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-19T12:21:01.619045+08:00",
-        "nextRun": "2026-10-19T13:10:00+08:00",
+        "lastRun": "2026-10-19T13:12:18.619293+08:00",
+        "nextRun": "2026-10-19T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-19T12:20:41.325001+08:00",
-        "nextRun": "2026-10-19T12:22:41.325001+08:00",
+        "lastRun": "2026-10-19T13:53:42.856294+08:00",
+        "nextRun": "2026-10-19T13:58:38.484231+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-19T12:11:52.560144+08:00",
-        "nextRun": "2026-10-19T13:30:00+08:00",
+        "lastRun": "2026-10-19T13:30:55.531309+08:00",
+        "nextRun": "2026-10-19T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-19T12:18:08.416872+08:00",
-        "nextRun": "2026-10-19T12:40:00+08:00",
+        "lastRun": "2026-10-19T12:56:12.681362+08:00",
+        "nextRun": "2026-10-19T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-19T12:21:01.620045+08:00"
+    "updatedAt": "2026-10-19T13:56:38.502244+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
