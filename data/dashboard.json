@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-20T10:36:15+08:00",
+    "generatedAt": "2026-10-20T13:38:49+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-20_09-02-10.md",
-    "radarSource": "ai_opportunity_radar_20261020_103039.html",
+    "radarSource": "ai_opportunity_radar_20261020_133109.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261020_103039.html",
+    "sourceFile": "ai_opportunity_radar_20261020_133109.html",
     "items": [
       {
         "id": "radar-8b9a27ab91ad",
@@ -31,18 +31,18 @@
         "source": "Official / vendor signal · Source: Microsoft · Time: 2026-10-19 13:00"
       },
       {
-        "id": "radar-7132088a6ae9",
+        "id": "radar-3eaabfaedba8",
         "kind": "radar",
-        "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter",
-        "summary": "Mashable reports: Smart TV owners have found a new use for AI: Removing home-screen clutter Mashable",
+        "title": "Chrome DevTools 154 Adds AI Agent Controls [2026]",
+        "summary": "shattered.io flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-19 23:03",
-        "displayDate": "2026-10-19 23:03",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkY3h1QW4wNFBFdXZLdXE3XzJ6TUduX2I0QXl5TXRPQ1pFUXQ0bFRmSldpM0pHZkxWRDdyLWw0R1NHSkNwY2FUUXJMbVd1eHdubTdZSDZ6SkZPRjNrcVhvNEdSRW0zTi1NRXg4dUR3",
-        "source": "News signal — verify before acting · Source: Mashable · Time: 2026-10-19 23:03"
+        "date": "2026-10-20 02:41",
+        "displayDate": "2026-10-20 02:41",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ",
+        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-10-20 02:41"
       },
       {
         "id": "radar-bfc0b57d279b",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-10-19 01:08"
       },
       {
-        "id": "radar-a66ad6fae363",
+        "id": "radar-7132088a6ae9",
         "kind": "radar",
-        "title": "SpaceX's Jediah Katz Says Smarter Models Killed Coding Scaffolding, Not the Agent Harness",
-        "summary": "BigGo Finance reports: SpaceX's Jediah Katz Says Smarter Models Killed Coding Scaffolding, Not the Agent Harness BigGo Finance",
+        "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter",
+        "summary": "Mashable reports: Smart TV owners have found a new use for AI: Removing home-screen clutter Mashable",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-19 21:08",
-        "displayDate": "2026-10-19 21:08",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xalZjcnQ1VmNPaS1qcHQ4MnlzQTVmQkRkSGZjWG10X2VOTU1QSGVRNl9XOFlTY1RVZnpuQXB3Um1lY0FCQ1FBcW1BQlpUa24zZUdtcUtHRnNmQTg",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-10-19 21:08"
+        "date": "2026-10-19 23:03",
+        "displayDate": "2026-10-19 23:03",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkY3h1QW4wNFBFdXZLdXE3XzJ6TUduX2I0QXl5TXRPQ1pFUXQ0bFRmSldpM0pHZkxWRDdyLWw0R1NHSkNwY2FUUXJMbVd1eHdubTdZSDZ6SkZPRjNrcVhvNEdSRW0zTi1NRXg4dUR3",
+        "source": "News signal — verify before acting · Source: Mashable · Time: 2026-10-19 23:03"
       },
       {
         "id": "radar-aa9ababf0288",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-20T10:06:14.570236+08:00",
-        "nextRun": "2026-10-20T11:06:14.756744+08:00",
+        "lastRun": "2026-10-20T13:08:48.754614+08:00",
+        "nextRun": "2026-10-20T14:08:48.960932+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-20T10:11:23.419252+08:00",
-        "nextRun": "2026-10-20T13:10:00+08:00",
+        "lastRun": "2026-10-20T13:12:51.804965+08:00",
+        "nextRun": "2026-10-20T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-20T10:33:18.477295+08:00",
-        "nextRun": "2026-10-20T10:38:14.748749+08:00",
+        "lastRun": "2026-10-20T13:35:52.315291+08:00",
+        "nextRun": "2026-10-20T13:40:48.949744+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-20T10:30:39.217659+08:00",
-        "nextRun": "2026-10-20T13:30:00+08:00",
+        "lastRun": "2026-10-20T13:31:09.394987+08:00",
+        "nextRun": "2026-10-20T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-20T09:46:01.290810+08:00",
-        "nextRun": "2026-10-20T12:40:00+08:00",
+        "lastRun": "2026-10-20T12:46:15.644179+08:00",
+        "nextRun": "2026-10-20T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-20T10:36:14.756744+08:00"
+    "updatedAt": "2026-10-20T13:38:48.961931+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
