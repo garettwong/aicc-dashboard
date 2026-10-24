@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-24T16:32:55+08:00",
+    "generatedAt": "2026-10-24T19:33:59+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-24_09-02-45.md",
-    "radarSource": "ai_opportunity_radar_20261024_163113.html",
+    "radarSource": "ai_opportunity_radar_20261024_193117.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261024_163113.html",
+    "sourceFile": "ai_opportunity_radar_20261024_193117.html",
     "items": [
       {
         "id": "radar-cdcc22283e54",
@@ -31,88 +31,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 05:41"
       },
       {
-        "id": "radar-9b080876fb15",
+        "id": "radar-c0288cc95997",
         "kind": "radar",
-        "title": "‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism",
-        "summary": "Tomorrow's Publisher reports: ‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism Tomorrow's Publisher",
+        "title": "Anthropic admits its Mythos 5 agent tried to trick coders into malicious code",
+        "summary": "Startup Fortune reports: Anthropic admits its Mythos 5 agent tried to trick coders into malicious code Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-24 04:01",
-        "displayDate": "2026-10-24 04:01",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXhMTzYtbF9rcmdvc0Vaa25jY2hyenFINGpQei1nbHZONzctSnJacUlJRU1QV1JCN0pFeGh2R3p3MFVxbGJ0MU1NOXg1SW52djlEVVV1WDYtRFExMUFKSXY0c18yV3ZFTGdNOXRmSVo2Ym9iZmwybWJUM1l4YkZvLUdaSWxNX21RelRNdzR1UnBpV1JvNzNuTzdTS0gySjJ3cDVjNzhMc01JckJ3ZmFLWGhaa0NBTUJxdGdCUFNXSW1YQy1QMGdkaVpLZ2p2RXZo",
-        "source": "News signal — verify before acting · Source: Tomorrow's Publisher · Time: 2026-10-24 04:01"
-      },
-      {
-        "id": "radar-350b3ca25888",
-        "kind": "radar",
-        "title": "How Anthropic’s Claude Duet Differs From Meta Muse in the AI Agent Race",
-        "summary": "Barron's reports: How Anthropic’s Claude Duet Differs From Meta Muse in the AI Agent Race Barron's",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-22 17:25",
-        "displayDate": "2026-10-22 17:25",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHp3Y2NHeEJpRWJZb3NBV3ljWjNDVDMtNE55Vjc2VS00SWJNUmY0dkw0UkwzUjU0RVZDQUprRnZINURJVFVfNTB6SV9FOUIzWFJhY1ltdEdfVS12QU5NZFNXbkpBQktEYUQ3a2lZUXpqLXNiY3R1MzZFWTQxNlJ6UzlXLVdQdWUzR0I4",
-        "source": "News signal — verify before acting · Source: Barron's · Time: 2026-10-22 17:25"
-      },
-      {
-        "id": "radar-43835e6f7f58",
-        "kind": "radar",
-        "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-        "summary": "NVIDIA Developer reports: Developing an AI Factory Digital Twin with an Agent-Assisted Workflow NVIDIA Developer",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 97,
-        "date": "2026-10-21 09:44",
-        "displayDate": "2026-10-21 09:44",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOENhcDF2TER4WG14MXBkMmlJYm1JR0xpUUlYajJudUhqV0VxN2d0a3FaeTNHNXR6X2pKOVZwVHNLd0VRdUE4QzVJNHZ2aVRZenVPN0dMcXJZb1ZKWERFdVVoQWY1ZlpKdVlUTDhOcURCNDhoU2tuYjJZb0E3eUFfVTVDcjFKd2dZM3JJQzdkak9GbXlJZkFoYXhBNUxGdE55RXVGVEZXQQ",
-        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-10-21 09:44"
-      },
-      {
-        "id": "radar-1568067f4708",
-        "kind": "radar",
-        "title": "Siemens expands agentic AI for 3D IC design workflows",
-        "summary": "Engineering.com reports: Siemens expands agentic AI for 3D IC design workflows Engineering.com",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-10-22 14:23",
-        "displayDate": "2026-10-22 14:23",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2k1WVR3aU0xY0dWdHhxWUVUdXZrUll3Ny1NR0swMFFENGdTZVM3VlFVNFY3blY0dlkzY21TeUNVU3Ayc0RLMXFyUm40aDhYX0l6Ym9lby1OS3lCX3c1S004NGRZRU41RmRBNURFb09zVkRKM2RFY05wSWs1dzliYjlvczFpeGFiVUE",
-        "source": "News signal — verify before acting · Source: Engineering.com · Time: 2026-10-22 14:23"
-      },
-      {
-        "id": "radar-93b07a1761f9",
-        "kind": "radar",
-        "title": "Claude Code vs. a 100-line harness: Same score",
-        "summary": "VentureBeat reports: Claude Code vs.",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-10-23 21:53",
-        "displayDate": "2026-10-23 21:53",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnVfZkh1Q1o1Mm8td3NFM1RQcEI0cmlfNWFxUlZHTkRkS0UteFhnME4xOXY1YlFMRnRJRHBkVmZfTnFSQlRVNE9MelhBY0FQUWRIWllaNVo5YW1YblhwY1FlRV9DNThPUEc3X3RmWFgtVGw2dHQ5RVBQdnBpLTVsXzE0bEh5TGc0OWU3cGQzaGMxbi1SY3FCVHVDdXl0eC0weG1fdHd4MHRwZ3hSc2xDYXRvU2hHT3pPU2F2ZEJDSEsxWmc",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-10-23 21:53"
-      },
-      {
-        "id": "radar-cf43a400251a",
-        "kind": "radar",
-        "title": "I Went From AI Prompt to 3D-Printed Armor in 18 Hours",
-        "summary": "CNET reports: I Went From AI Prompt to 3D-Printed Armor in 18 Hours CNET",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 97,
-        "date": "2026-10-22 12:31",
-        "displayDate": "2026-10-22 12:31",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeklMMXgyQ2w5aTAwa1p5Nk5KUnU2dzBlZXc2bW1zaFZzbHF2eUlRZnFyYXhYbGNnOXVBN011UEhQMko4R3V4NTFBZjVmR3NOQXp3elVrNXhjRVpPSWQzVzF5dXRtckVKb3hTMlhPb1RNOFlSY1o3V2t1a3NadUxZRE5IN2lhQmxaS3VPYW04V3dDN1Vu",
-        "source": "Trusted news / community signal · Source: CNET · Time: 2026-10-22 12:31"
+        "date": "2026-10-24 08:28",
+        "displayDate": "2026-10-24 08:28",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanZESTBCU19vX3Q4YkVpc3ctZDBPRnV4VmozWXE0cVVvejd2RUpFOTVhWXNEb2lrZzhybE1YVWJyYno3NFJ3VzJNRnl2cmtseU5sQWEyb3RrdlJtalNKcDhvNElzZVN6YkRxT2VQQVBFd21xS2dvZ0JtVXBTSWxoNFNsZE5TY2ZtbVlIVjdxRGhSOEtqN1NLYXNWNHlDY0FTMzh5cXhVZzc",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-24 08:28"
       },
       {
         "id": "radar-e7b97e531780",
@@ -129,6 +59,76 @@
         "source": "News signal — verify before acting · Source: Quartz · Time: 2026-10-22 12:16"
       },
       {
+        "id": "radar-43835e6f7f58",
+        "kind": "radar",
+        "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+        "summary": "NVIDIA Developer reports: Developing an AI Factory Digital Twin with an Agent-Assisted Workflow NVIDIA Developer",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 97,
+        "date": "2026-10-21 09:44",
+        "displayDate": "2026-10-21 09:44",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOENhcDF2TER4WG14MXBkMmlJYm1JR0xpUUlYajJudUhqV0VxN2d0a3FaeTNHNXR6X2pKOVZwVHNLd0VRdUE4QzVJNHZ2aVRZenVPN0dMcXJZb1ZKWERFdVVoQWY1ZlpKdVlUTDhOcURCNDhoU2tuYjJZb0E3eUFfVTVDcjFKd2dZM3JJQzdkak9GbXlJZkFoYXhBNUxGdE55RXVGVEZXQQ",
+        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-10-21 09:44"
+      },
+      {
+        "id": "radar-319ed2ae84b9",
+        "kind": "radar",
+        "title": "Tripo AI releases EdenLive real-time generative renderer",
+        "summary": "VoxelMatters flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-10-23 13:34",
+        "displayDate": "2026-10-23 13:34",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDhEYVRzZldJMzZ4TEFLb1UyMGxJeElJUmZ2NmFycGdKU1dOMW9UMGZjNUpmQk5sczg0WkROQTVvTmdCSUdDdEhNUXd4UmhuVmxFRmNHV3VzMzVJbnJqT21zcU1RdFdPMXQzR19XU0RlMThmNDgzNkMwU2dHQXdaTTZzVnBRVzRSSWk5bnNlZ9IBlAFBVV95cUxNcVJ0S0hFNXVVbG1XQlVDUzdNVDdDMVBRcDEyUHpfTjYxYzdCLXRZbGc0MG52S25ySjNIWnFDT1p2TVJidjdqaFg4cnpSb01rTE1QNXFjR0JiWUYyVmNMRDQ0aHM0MkhONG5kNnFiZElzUWgyX2ZsU3djYmR2RmZiTm5Qb011bWkxVkVjZFd0TVJteE1U",
+        "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-10-23 13:34"
+      },
+      {
+        "id": "radar-9b080876fb15",
+        "kind": "radar",
+        "title": "‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism",
+        "summary": "Tomorrow's Publisher reports: ‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism Tomorrow's Publisher",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-10-24 04:01",
+        "displayDate": "2026-10-24 04:01",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXhMTzYtbF9rcmdvc0Vaa25jY2hyenFINGpQei1nbHZONzctSnJacUlJRU1QV1JCN0pFeGh2R3p3MFVxbGJ0MU1NOXg1SW52djlEVVV1WDYtRFExMUFKSXY0c18yV3ZFTGdNOXRmSVo2Ym9iZmwybWJUM1l4YkZvLUdaSWxNX21RelRNdzR1UnBpV1JvNzNuTzdTS0gySjJ3cDVjNzhMc01JckJ3ZmFLWGhaa0NBTUJxdGdCUFNXSW1YQy1QMGdkaVpLZ2p2RXZo",
+        "source": "News signal — verify before acting · Source: Tomorrow's Publisher · Time: 2026-10-24 04:01"
+      },
+      {
+        "id": "radar-1568067f4708",
+        "kind": "radar",
+        "title": "Siemens expands agentic AI for 3D IC design workflows",
+        "summary": "Engineering.com reports: Siemens expands agentic AI for 3D IC design workflows Engineering.com",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-10-22 14:23",
+        "displayDate": "2026-10-22 14:23",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2k1WVR3aU0xY0dWdHhxWUVUdXZrUll3Ny1NR0swMFFENGdTZVM3VlFVNFY3blY0dlkzY21TeUNVU3Ayc0RLMXFyUm40aDhYX0l6Ym9lby1OS3lCX3c1S004NGRZRU41RmRBNURFb09zVkRKM2RFY05wSWs1dzliYjlvczFpeGFiVUE",
+        "source": "News signal — verify before acting · Source: Engineering.com · Time: 2026-10-22 14:23"
+      },
+      {
+        "id": "radar-ec14316e929e",
+        "kind": "radar",
+        "title": "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market",
+        "summary": "24/7 Wall St. flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 82,
+        "date": "2026-10-22 11:55",
+        "displayDate": "2026-10-22 11:55",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYW00ZVR4MnlKa2tZY2RnTC1QbXpoTFdzVlN3SUZWTmlOLTV1UVVVMlJqTkt0TFRZVGRxYzUwSGw2N2V4X2xHamxaaTJvWk9qN01iZC1QU0FsdHBUZG5oYXlETHpXY01Fd0NCaVdfTEx2bEFCcktyMHdsdlk0b19QWGpBbnl6UjhRTzJDUmNFNkFGN0oyWXR3TGQwZ2plVUd1NnVpeEdpMDBLcmxiSmZ6X1VZUjhTS3JidzJ1bjNuWUt5UmRacGtKTURR",
+        "source": "News signal — verify before acting · Source: 24/7 Wall St. · Time: 2026-10-22 11:55"
+      },
+      {
         "id": "radar-9ee113eaa7bf",
         "kind": "radar",
         "title": "Figma Launches Specs To Help AI Agents Follow Design Rules",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: ALM Corp · Time: 2026-10-21 15:27"
       },
       {
-        "id": "radar-afc38976c61e",
+        "id": "radar-a1251486fb1f",
         "kind": "radar",
-        "title": "Soma – memory and proofs for AI agents, measured not asserted",
+        "title": "ZK-irp-firewall – Rust/Python ZK security framework for AI agents",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 57,
-        "date": "2026-10-23 23:31",
-        "displayDate": "2026-10-23 23:31",
-        "url": "https://github.com/mrpkk/soma-protocol",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-23 23:31"
+        "score": 55,
+        "date": "2026-10-24 07:43",
+        "displayDate": "2026-10-24 07:43",
+        "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 07:43"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T16:02:54.357280+08:00",
-        "nextRun": "2026-10-24T17:02:54.819230+08:00",
+        "lastRun": "2026-10-24T19:03:59.013840+08:00",
+        "nextRun": "2026-10-24T20:03:59.118889+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T16:14:14.751388+08:00",
-        "nextRun": "2026-10-24T19:10:00+08:00",
+        "lastRun": "2026-10-24T19:13:36.730732+08:00",
+        "nextRun": "2026-10-24T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T16:30:58.840717+08:00",
-        "nextRun": "2026-10-24T16:32:58.840717+08:00",
+        "lastRun": "2026-10-24T19:31:03.475920+08:00",
+        "nextRun": "2026-10-24T19:35:59.111381+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T16:31:13.198186+08:00",
-        "nextRun": "2026-10-24T19:30:00+08:00",
+        "lastRun": "2026-10-24T19:31:17.083624+08:00",
+        "nextRun": "2026-10-24T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T15:45:54.782538+08:00",
-        "nextRun": "2026-10-24T18:40:00+08:00",
+        "lastRun": "2026-10-24T18:44:24.285449+08:00",
+        "nextRun": "2026-10-24T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-24T16:32:54.820230+08:00"
+    "updatedAt": "2026-10-24T19:33:59.120391+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
