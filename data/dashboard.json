@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-24T19:33:59+08:00",
+    "generatedAt": "2026-10-24T22:35:07+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-24_09-02-45.md",
-    "radarSource": "ai_opportunity_radar_20261024_193117.html",
+    "radarSource": "ai_opportunity_radar_20261024_223029.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261024_193117.html",
+    "sourceFile": "ai_opportunity_radar_20261024_223029.html",
     "items": [
       {
-        "id": "radar-cdcc22283e54",
+        "id": "radar-a1251486fb1f",
         "kind": "radar",
-        "title": "Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
+        "title": "ZK-irp-firewall – Rust/Python ZK security framework for AI agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-10-24 05:41",
-        "displayDate": "2026-10-24 05:41",
-        "url": "https://latch.tools/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 05:41"
+        "score": 55,
+        "date": "2026-10-24 07:43",
+        "displayDate": "2026-10-24 07:43",
+        "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 07:43"
       },
       {
-        "id": "radar-c0288cc95997",
+        "id": "radar-45a80b96e751",
         "kind": "radar",
-        "title": "Anthropic admits its Mythos 5 agent tried to trick coders into malicious code",
-        "summary": "Startup Fortune reports: Anthropic admits its Mythos 5 agent tried to trick coders into malicious code Startup Fortune",
+        "title": "How to Price an AI Coding Agent Subscription Without Losing Seat Revenue",
+        "summary": "Startup Fortune reports: How to Price an AI Coding Agent Subscription Without Losing Seat Revenue Startup Fortune",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-24 08:28",
-        "displayDate": "2026-10-24 08:28",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanZESTBCU19vX3Q4YkVpc3ctZDBPRnV4VmozWXE0cVVvejd2RUpFOTVhWXNEb2lrZzhybE1YVWJyYno3NFJ3VzJNRnl2cmtseU5sQWEyb3RrdlJtalNKcDhvNElzZVN6YkRxT2VQQVBFd21xS2dvZ0JtVXBTSWxoNFNsZE5TY2ZtbVlIVjdxRGhSOEtqN1NLYXNWNHlDY0FTMzh5cXhVZzc",
-        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-24 08:28"
+        "date": "2026-10-24 12:38",
+        "displayDate": "2026-10-24 12:38",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmo4aVFYTzYzY3hDQW93LWhvN1RoMXVBRHFMNkFWVzdQM2E4YVF0cU1IclUxM1NFNjlEZWQxbWUtTmFlYTFkWW5yWS1fYWZVbUtYVEY2cEkwS3QxTHBsemY3NnJRMWFrY1JPX2hsaG9QLWlIOElJYW5WNzFBd0JRN2xUYzlaSGdwbWdOSDBVRUtkbzR1enhvdWJWS0t1UndoNEE",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-24 12:38"
       },
       {
-        "id": "radar-e7b97e531780",
+        "id": "radar-ca7c96e3a355",
         "kind": "radar",
-        "title": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots",
-        "summary": "Quartz reports: Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots Quartz",
+        "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+        "summary": "Bloomberg reports: UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic Bloomberg",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-22 12:16",
-        "displayDate": "2026-10-22 12:16",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weXI0QVdqNEdJSmR3Z2RvUl9feHFyMzdkSV90S2hhNlFadVd1TjZiUmpURVJtei00QnJQajBCaFJ1LXN2YktJN3o1S3hhNC1SV3RJNlA3RVhCeHNHZFFuMW5rc2x2WjY5VDZLaVZ0dkFqMmx0alJIcUliZEE1LVU",
-        "source": "News signal — verify before acting · Source: Quartz · Time: 2026-10-22 12:16"
+        "score": 81,
+        "date": "2026-10-23 23:01",
+        "displayDate": "2026-10-23 23:01",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3",
+        "source": "Trusted news / community signal · Source: Bloomberg · Time: 2026-10-23 23:01"
       },
       {
         "id": "radar-43835e6f7f58",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-10-23 13:34"
       },
       {
-        "id": "radar-9b080876fb15",
+        "id": "radar-616bdf8fc6d9",
         "kind": "radar",
-        "title": "‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism",
-        "summary": "Tomorrow's Publisher reports: ‘AI slop’, ‘AI agent’ and ‘vibe coding’ make the leap into mainstream journalism Tomorrow's Publisher",
+        "title": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
+        "summary": "CyberSecurityNews reports: Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers CyberSecurityNews",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-24 04:01",
-        "displayDate": "2026-10-24 04:01",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXhMTzYtbF9rcmdvc0Vaa25jY2hyenFINGpQei1nbHZONzctSnJacUlJRU1QV1JCN0pFeGh2R3p3MFVxbGJ0MU1NOXg1SW52djlEVVV1WDYtRFExMUFKSXY0c18yV3ZFTGdNOXRmSVo2Ym9iZmwybWJUM1l4YkZvLUdaSWxNX21RelRNdzR1UnBpV1JvNzNuTzdTS0gySjJ3cDVjNzhMc01JckJ3ZmFLWGhaa0NBTUJxdGdCUFNXSW1YQy1QMGdkaVpLZ2p2RXZo",
-        "source": "News signal — verify before acting · Source: Tomorrow's Publisher · Time: 2026-10-24 04:01"
+        "date": "2026-10-24 07:26",
+        "displayDate": "2026-10-24 07:26",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sVkxLV3kzQks4c1pKd01waTFQUkJLOE9ZZ2txNVUwMmM3cTZtX2NMNy1yeDRLZmgyX082ZnFaU1lCZy1ZVlhqNFg5VFJLUEJzS2l6YmVTU29pMFA4VmIxV1JIREFycHZubVZnT1Roc0tXNXFnY3pZ0gF8QVVfeXFMT1Z3Q25tQXdPbUJnUDNuM2M2b25KOUEzQnl5ZnkzSWQxU2FoUEpxakdJZkFrZERRMWgtOGtTMjQ0TjZxdTNkU2dBdFREbkE2QmhwNzFmUFV1bnJISHd3Q1VOdElVejBkOW9DNExORVo4RjFXYlUyZVg3b253Vg",
+        "source": "News signal — verify before acting · Source: CyberSecurityNews · Time: 2026-10-24 07:26"
       },
       {
         "id": "radar-1568067f4708",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: Engineering.com · Time: 2026-10-22 14:23"
       },
       {
-        "id": "radar-ec14316e929e",
+        "id": "radar-ed22f710f15d",
         "kind": "radar",
-        "title": "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market",
-        "summary": "24/7 Wall St. flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet",
+        "summary": "Fortune reports: Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet Fortune",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-22 11:55",
-        "displayDate": "2026-10-22 11:55",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYW00ZVR4MnlKa2tZY2RnTC1QbXpoTFdzVlN3SUZWTmlOLTV1UVVVMlJqTkt0TFRZVGRxYzUwSGw2N2V4X2xHamxaaTJvWk9qN01iZC1QU0FsdHBUZG5oYXlETHpXY01Fd0NCaVdfTEx2bEFCcktyMHdsdlk0b19QWGpBbnl6UjhRTzJDUmNFNkFGN0oyWXR3TGQwZ2plVUd1NnVpeEdpMDBLcmxiSmZ6X1VZUjhTS3JidzJ1bjNuWUt5UmRacGtKTURR",
-        "source": "News signal — verify before acting · Source: 24/7 Wall St. · Time: 2026-10-22 11:55"
+        "score": 81,
+        "date": "2026-10-23 16:51",
+        "displayDate": "2026-10-23 16:51",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0Y0UXFkbWVlcjN3VHZKcEFPQzNkNWdvbGM2TWxHdGd4bXREaFJpQUU5cndXZHZLa2FkeDFEb282VTRkRGVQdnJTbzBlX21uNGl1MmlsOGJXbVRzVkQtME9SeUtaenN0MEhlV2ZnejlmWlhKc3cxTXFUeE9HS1dIUWRlaFI0V0F6VjRCeFlOU2o1MTFiLWVYSnFHbG95YUdMdUJZ",
+        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-10-23 16:51"
       },
       {
         "id": "radar-9ee113eaa7bf",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: ALM Corp · Time: 2026-10-21 15:27"
       },
       {
-        "id": "radar-a1251486fb1f",
+        "id": "radar-fc9d527bc4be",
         "kind": "radar",
-        "title": "ZK-irp-firewall – Rust/Python ZK security framework for AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "US-Israeli browser startup valued at $6.4B",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=12, comments=14.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-10-24 07:43",
-        "displayDate": "2026-10-24 07:43",
-        "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 07:43"
+        "score": 44,
+        "date": "2026-10-24 09:38",
+        "displayDate": "2026-10-24 09:38",
+        "url": "https://timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-24 09:38"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T15:01:59.585532+08:00",
-        "nextRun": "2026-10-24T21:00:00+08:00",
+        "lastRun": "2026-10-24T21:01:49.747244+08:00",
+        "nextRun": "2026-10-25T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T19:03:59.013840+08:00",
-        "nextRun": "2026-10-24T20:03:59.118889+08:00",
+        "lastRun": "2026-10-24T22:05:07.298405+08:00",
+        "nextRun": "2026-10-24T23:05:07.580508+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T19:13:36.730732+08:00",
-        "nextRun": "2026-10-24T22:10:00+08:00",
+        "lastRun": "2026-10-24T22:11:12.859747+08:00",
+        "nextRun": "2026-10-25T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T19:31:03.475920+08:00",
-        "nextRun": "2026-10-24T19:35:59.111381+08:00",
+        "lastRun": "2026-10-24T22:34:12.021620+08:00",
+        "nextRun": "2026-10-24T22:36:12.021620+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T19:31:17.083624+08:00",
-        "nextRun": "2026-10-24T22:30:00+08:00",
+        "lastRun": "2026-10-24T22:30:30.034994+08:00",
+        "nextRun": "2026-10-25T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-24T18:44:24.285449+08:00",
-        "nextRun": "2026-10-24T21:40:00+08:00",
+        "lastRun": "2026-10-24T21:43:31.393898+08:00",
+        "nextRun": "2026-10-25T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-24T19:33:59.120391+08:00"
+    "updatedAt": "2026-10-24T22:35:07.581509+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
