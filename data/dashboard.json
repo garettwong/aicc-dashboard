@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-27T16:48:46+08:00",
+    "generatedAt": "2026-10-27T19:49:52+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-27_10-34-51.md",
-    "radarSource": "ai_opportunity_radar_20261027_163102.html",
+    "radarSource": "ai_opportunity_radar_20261027_193106.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261027_163102.html",
+    "sourceFile": "ai_opportunity_radar_20261027_193106.html",
     "items": [
       {
-        "id": "radar-5c1f4a26d7b9",
+        "id": "radar-1f7debb73d24",
         "kind": "radar",
-        "title": "Show HN: Limma – MCP for total recall and precision in data retrieval for agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "MCP-warden local credential broker so AI agents never see your secrets",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 59,
-        "date": "2026-10-27 02:50",
-        "displayDate": "2026-10-27 02:50",
-        "url": "https://limma.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-27 02:50"
+        "date": "2026-10-27 10:28",
+        "displayDate": "2026-10-27 10:28",
+        "url": "https://github.com/ermoluk/mcp-warden",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-27 10:28"
       },
       {
         "id": "radar-7132088a6ae9",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: Mashable · Time: 2026-10-27 05:45"
       },
       {
-        "id": "radar-bcc70cd9b84d",
+        "id": "radar-08bfbce8377b",
         "kind": "radar",
-        "title": "Sia launches AgentLaunch to put AI agent building in the hands of business teams - Consultancy-me.com",
-        "summary": "Consultancy-me.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+        "summary": "Google Cloud reports: TorchTPU is now open source: Run native PyTorch on TPUs Google Cloud",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-10-22 11:57",
-        "displayDate": "2026-10-22 11:57",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEVoNEEyMDhMa1VheExqZDMyMFBYUUdfem5xNDZtWmhjbmlDMGI0cWJIeWlNaGR6NVduV1JvSEk3QWtrUXVFbWFTWURSWGFySVFCZ0Y3VWZ2RWlHRHhZZ0lQbUJXX0xfaEpwcVBwTVZuQjZUWlB1OFFzUlJXeE5oWHhNSElsRnRKWU5vLVVjdk5WUFVnTF94Sm01ekk2dk9qaGtFMlRxb1FRem51eHozNlZYdWZjN1hKMmtrQ0pMNNIBxAFBVV95cUxPU3h0eEc3S0tSTDV4N3NKZTNQOWVQWHQxQVM4SHZEa09DY1pRYndSTWVMaHRkb3h2UG9ZT0hOdnB1cEJlanBlVmI5YTctR3JCcUFlWENfTXJwZjFRR1YzVm1uTG0zSWVRY2N0cGtGaDJ5UEdXNzZTT3FGRmpjTmRpY3UtVHpCZVdoTUF6SDJLT0FkaXo1bno3akpEcnVLTXhWazB6X1ltVXZiSW50YkhfVXRWRkx5dGI5bU5hN19fdWtYdUVT",
-        "source": "News signal — verify before acting · Source: Consultancy-me.com · Time: 2026-10-22 11:57"
+        "score": 86,
+        "date": "2026-10-20 11:58",
+        "displayDate": "2026-10-20 11:58",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamRXcjBrRXo2V1plWFFvajhjcUFEa0N4aVZPN3dvVGlPTzZwbF9oUlFWNC1vY1EzdTc1M3pVb3QwZERTekNoU3ZEekd0WlU5czBFUF9qc01aOGhkanpTZGFxeVdKTDM5Tks1Q19uZUtYQ1RUQzFCRjYyTGMtbmg4RkQwUzUzYmpaMllDRERqU21aVkg2cU8wYkI4eGZWWEpOYzdkZmtxTEw5enI5LVE",
+        "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-10-20 11:58"
       },
       {
         "id": "radar-43835e6f7f58",
@@ -73,32 +73,32 @@
         "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-10-21 09:44"
       },
       {
-        "id": "radar-882055ffdf79",
+        "id": "radar-d3e5cc1596fc",
         "kind": "radar",
-        "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
-        "summary": "ABC News - Breaking News, Latest News and Videos reports: 'Rogue' AI agent went haywire at tech company.",
+        "title": "The End of Siloed AI 3D Tools? How Hi3D & Meshy Aim To Infiltrate Your Entire Print Workflow",
+        "summary": "All3DP reports: The End of Siloed AI 3D Tools?",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-26 16:37",
-        "displayDate": "2026-10-26 16:37",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm",
-        "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-10-26 16:37"
+        "date": "2026-10-27 09:11",
+        "displayDate": "2026-10-27 09:11",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0wwcTFQWDhiMHNUTXl4RUxFZWNtRk5mRldMcW45VnJXVDRmTFhlakFiTmZ1czMyNDF2MHpNc2NvZkxDS2pRYWpHOUhXb1dLWjZRenVOTlZrcDlJS0gxbWJZUDBDcUQtVE1QOWE3RW1FdmVabFBOdUNycWU3aWtTa0NtamFxVTNfVEV5VHRnN3lEWEUzZ0JZWFNfVVJ6dVdwcjVYWjBqUTBrMXJDbXR0Mw",
+        "source": "News signal — verify before acting · Source: All3DP · Time: 2026-10-27 09:11"
       },
       {
-        "id": "radar-bc3396b7477c",
+        "id": "radar-b6c9089c3861",
         "kind": "radar",
-        "title": "Looking for a tech job is a helpless data-entry nightmare",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=7, comments=3.",
+        "title": "SAP advances its autonomous enterprise push with smarter, governed Joule agents",
+        "summary": "SiliconANGLE reports: SAP advances its autonomous enterprise push with smarter, governed Joule agents SiliconANGLE",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
-        "score": 43,
-        "date": "2026-10-27 05:01",
-        "displayDate": "2026-10-27 05:01",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-27 05:01"
+        "score": 38,
+        "date": "2026-10-27 08:00",
+        "displayDate": "2026-10-27 08:00",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHkxN2pzaURlX0ZIYS1UdXFCR3l1SURXTF9Ea1hpSEdrV19MYi0wcE14T3RoMUlKcHJmd3hEOF9SRS1TMndGX1N4NFlfTTc1WXVmbTFJR0VsVUU2ZHdYLWdmazBfMkV5bmdKME1wcFRRekgxa25ZSkFsUlBpb1ZVVWhsMVF1N1daWk5mTFQzYlVmSW9SVGVESE5kUHpFdGVZTXpWSkpQQl9GdnJtUUdsaWJfNHB0UQ",
+        "source": "News signal — verify before acting · Source: SiliconANGLE · Time: 2026-10-27 08:00"
       },
       {
         "id": "radar-f5e00f6c6a2d",
@@ -115,18 +115,18 @@
         "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-10-27 04:27"
       },
       {
-        "id": "radar-ed112bfabd1d",
+        "id": "radar-882055ffdf79",
         "kind": "radar",
-        "title": "Researchers Use AI to Discover 100 Million Ways to 3D-Print Aerospace Metal Alloys for Less",
-        "summary": "Mobility Engineering Technology reports: Researchers Use AI to Discover 100 Million Ways to 3D-Print Aerospace Metal Alloys for Less Mobility Engineering Technology",
+        "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
+        "summary": "ABC News - Breaking News, Latest News and Videos reports: 'Rogue' AI agent went haywire at tech company.",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-23 19:21",
-        "displayDate": "2026-10-23 19:21",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTFF6Tzg3Y19pRzloanNFRjlrSHZTMmU5bXgweWRMUGVlRmc3UDh6U2w3TzlDQTJxMnRoYUd5Qm5CcXhpRTJzZ0JCUlhwSV9EdkotY2dGeGIyNjI1NFFzekg3SGlwY01IemRDQUppTktlSTdmMFl2dU1FRnFDS2xJTHJGUkZPMzNQTmF4dC05bUNvYjYzN1lmVmZFSTVnUWFDcmJmbmFxLUtnWDVwaksycXk0S2tVVHZQcVY1QzNTNGlUVEE1Y1NPdFBwODNJUW1lREhpTEltdWJPNW9zRHlRbGNsbHduamVRS0pqY0ZfanNKaTdaeXc",
-        "source": "News signal — verify before acting · Source: Mobility Engineering Technology · Time: 2026-10-23 19:21"
+        "date": "2026-10-26 16:37",
+        "displayDate": "2026-10-26 16:37",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm",
+        "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-10-26 16:37"
       },
       {
         "id": "radar-68683bd7e99d",
@@ -143,18 +143,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-27 00:16"
       },
       {
-        "id": "radar-ad64c2d73221",
+        "id": "radar-1c438a3303e8",
         "kind": "radar",
-        "title": "Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage",
-        "summary": "Yahoo Finance reports: Anthropic's new AI agent takes aim at Meta and OpenAI with one key advantage Yahoo Finance",
+        "title": "Millions in EdTech Funding Promises to Help You Learn 2x Faster. Here's What It Can't Teach You",
+        "summary": "Inc.com shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-26 15:54",
-        "displayDate": "2026-10-26 15:54",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDBNZnVJSVpzTUF0b2pPbXJsNUJEdDFfWW9sR3lKODZWX2dsdEFBNGhlekhxVmlvQUUwb085SzhxQTdZRU1vWjlZaGN4aHZSSTRVLTlvRjJkZnVNZlVYUFl0NEhtREdKeEp0YlFJWkdlS1JLSlNUTnhRY3RjQlhOUjRiVjN5dXBPU3hobkhfQm9aajNlRFZSN3pvb0R0YVAtRExnMk41TEhEaUI1NXZaRDl4eWZERndUSnlndzg4VQ",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-26 15:54"
+        "score": 78,
+        "date": "2026-10-26 19:12",
+        "displayDate": "2026-10-26 19:12",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFV5cElHd2ZqMzZLczFOSHZianQyOHNTTWFNc1F4NFVEeDc0YWVTVVUtVVByM0hLTTJvY3poc0tyRmVfbG5aWkhPeUZVeGJuMDJEOGRQMkgzXzJDT25ReGYzbW9udkNQUDNpeFd5UU1VRTl3N1F4cTdyUGlVRk1UQXl2WVNYU0FTa2l3",
+        "source": "News signal — verify before acting · Source: Inc.com · Time: 2026-10-26 19:12"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T16:18:45.866358+08:00",
-        "nextRun": "2026-10-27T17:18:46.045901+08:00",
+        "lastRun": "2026-10-27T19:19:50.064735+08:00",
+        "nextRun": "2026-10-27T20:19:52.034192+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T16:11:34.190823+08:00",
-        "nextRun": "2026-10-27T19:10:00+08:00",
+        "lastRun": "2026-10-27T19:12:23.434470+08:00",
+        "nextRun": "2026-10-27T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T16:45:49.645347+08:00",
-        "nextRun": "2026-10-27T16:50:46.040899+08:00",
+        "lastRun": "2026-10-27T19:48:55.603230+08:00",
+        "nextRun": "2026-10-27T19:50:55.603230+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T16:31:02.256080+08:00",
-        "nextRun": "2026-10-27T19:30:00+08:00",
+        "lastRun": "2026-10-27T19:31:06.177543+08:00",
+        "nextRun": "2026-10-27T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T15:47:57.936797+08:00",
-        "nextRun": "2026-10-27T18:40:00+08:00",
+        "lastRun": "2026-10-27T18:44:56.319846+08:00",
+        "nextRun": "2026-10-27T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-27T16:48:46.045901+08:00"
+    "updatedAt": "2026-10-27T19:49:52.034192+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
