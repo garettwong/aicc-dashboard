@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-28T09:02:58+08:00",
+    "generatedAt": "2026-10-28T10:33:12+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-28_09-01-19.md",
-    "radarSource": "ai_opportunity_radar_20261028_073026.html",
+    "radarSource": "ai_opportunity_radar_20261028_103030.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261028_073026.html",
+    "sourceFile": "ai_opportunity_radar_20261028_103030.html",
     "items": [
       {
         "id": "radar-1bca47973b3c",
@@ -31,46 +31,46 @@
         "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-10-27 12:36"
       },
       {
-        "id": "radar-8808081c36ff",
+        "id": "radar-838ef4ebd021",
         "kind": "radar",
-        "title": "Benchmarking Coding Agents at Scale",
-        "summary": "Snowflake reports: Benchmarking Coding Agents at Scale Snowflake",
+        "title": "Claude Code v2.1.311 Drops rm Block in Skip Mode [2026]",
+        "summary": "shattered.io reports: Claude Code v2.1.311 Drops rm Block in Skip Mode [2026] shattered.io",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-27 22:54",
-        "displayDate": "2026-10-27 22:54",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaDVqVV9kR3lWNThVWUlSMkd0b19qSVZrZGM1NDR3VGRjblI2SXRWSFl3cXBYNFlQblRVMTY5cTRhM0xyMEh1RVlIZXdTTHJRVlRhdkhOcVB3NnIzdEk1QkR2OURUTXdLcmFCSmQzYk8xaE5wZEs0Q1kxOGZZUQ",
-        "source": "News signal — verify before acting · Source: Snowflake · Time: 2026-10-27 22:54"
+        "date": "2026-10-28 01:15",
+        "displayDate": "2026-10-28 01:15",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVRBRThLTmJneFJSbGdaNFotUWRFTkpCOFJHRmk2ZEtTbEloZnd6ZW1PaDVaRVNYdS1Vbk1ORjFjU05JYThVYWRTaFZBd01FQUZTMHVRVk4tZE1WN0F2c1Z0LU5vMjl6VTFfbjctRUhwTjVsWk9vVXR1OTVlbk16c1lJSmJ1ZXl6QldoTWNR",
+        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-10-28 01:15"
       },
       {
-        "id": "radar-4e66ada163e4",
+        "id": "radar-15c9099867d4",
         "kind": "radar",
-        "title": "Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog",
-        "summary": "Google Cloud reports: Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog Google Cloud",
+        "title": "What It Really Takes to Build a One-Person Company With AI",
+        "summary": "Bloomberg.com reports: What It Really Takes to Build a One-Person Company With AI Bloomberg.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-10-21 11:35",
-        "displayDate": "2026-10-21 11:35",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkpDLW1NRFdVY3NqUGNtWTFheHdFV0FPMlBvWDljLVR5MV85NWZXZ2VzSW1FMm5KRWE5OXQ5V2N3dDlva3lTTTUxUEVISHAwOXdJUzUxR3h6WWdRR0NYRnV0ODB1LU9OMFVKM1k4NmNoSXdRbWVha0NmTEpZMWtrdmdDZXNxOXZkN01COEtMWF9RajNKNEs3alZOd1JuM0NmMFMyTksyWG9IM2Uw",
-        "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-10-21 11:35"
+        "score": 83,
+        "date": "2026-10-23 01:00",
+        "displayDate": "2026-10-23 01:00",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1WjdDSENkdnJaWXZRcE43R2dfWUp3LWRqZmRfbmxRX1R2SExsZWNHem81YXpyYWU2TkpyS1dycG1zTE9YWThoLVMxTDZwdXFOOF8zanZhNGNJ",
+        "source": "Trusted news / community signal · Source: Bloomberg.com · Time: 2026-10-23 01:00"
       },
       {
-        "id": "radar-334271eeeadd",
+        "id": "radar-43835e6f7f58",
         "kind": "radar",
-        "title": "The TechBeat: Claude Code Finally Made Me an Engineer After 10 Years in Figma (10/27/2026)",
-        "summary": "HackerNoon reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+        "summary": "NVIDIA Developer reports: Developing an AI Factory Digital Twin with an Agent-Assisted Workflow NVIDIA Developer",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 100,
-        "date": "2026-10-27 14:18",
-        "displayDate": "2026-10-27 14:18",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fQmxTaUpvNGVyMl95YUtnOFNldmJtTFZmTE9ieldOR3lrUmZMN0NCb1hTQjIwbFNSeTBTeGxzdnd2di04czZLckRvM184TjRRZWRiRg",
-        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-10-27 14:18"
+        "score": 97,
+        "date": "2026-10-21 09:44",
+        "displayDate": "2026-10-21 09:44",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOENhcDF2TER4WG14MXBkMmlJYm1JR0xpUUlYajJudUhqV0VxN2d0a3FaeTNHNXR6X2pKOVZwVHNLd0VRdUE4QzVJNHZ2aVRZenVPN0dMcXJZb1ZKWERFdVVoQWY1ZlpKdVlUTDhOcURCNDhoU2tuYjJZb0E3eUFfVTVDcjFKd2dZM3JJQzdkak9GbXlJZkFoYXhBNUxGdE55RXVGVEZXQQ",
+        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-10-21 09:44"
       },
       {
         "id": "radar-882055ffdf79",
@@ -101,18 +101,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-27 22:49"
       },
       {
-        "id": "radar-6b9a4b9a4df9",
+        "id": "radar-8808081c36ff",
         "kind": "radar",
-        "title": "Report: Claude Code Exceeds GitHub Copilot for Merging Pull Requests",
-        "summary": "DevOps.com reports: Report: Claude Code Exceeds GitHub Copilot for Merging Pull Requests DevOps.com",
+        "title": "Benchmarking Coding Agents at Scale",
+        "summary": "Snowflake reports: Benchmarking Coding Agents at Scale Snowflake",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-27 14:52",
-        "displayDate": "2026-10-27 14:52",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUpwdi0tRTJpRVp1bTJzSXNJVmM1NFlxbnJkNndXaWJndlhTUDF6U3FXd3dwZTJ5UEtLRFVNOHhreWNId2FtZjBJcmkxUHJJbW1aVHBoWlZlZ2V0M2kwTDNldlhkVEloVUlpZjYxR3gzSzhuVkc2Vk9FVGhjWWVGQnI5VGJSbzloaG5lUVE3NA",
-        "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-10-27 14:52"
+        "date": "2026-10-27 22:54",
+        "displayDate": "2026-10-27 22:54",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaDVqVV9kR3lWNThVWUlSMkd0b19qSVZrZGM1NDR3VGRjblI2SXRWSFl3cXBYNFlQblRVMTY5cTRhM0xyMEh1RVlIZXdTTHJRVlRhdkhOcVB3NnIzdEk1QkR2OURUTXdLcmFCSmQzYk8xaE5wZEs0Q1kxOGZZUQ",
+        "source": "News signal — verify before acting · Source: Snowflake · Time: 2026-10-27 22:54"
       },
       {
         "id": "radar-d3e5cc1596fc",
@@ -129,32 +129,32 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-10-27 09:11"
       },
       {
-        "id": "radar-43835e6f7f58",
+        "id": "radar-ea914e1e73f6",
         "kind": "radar",
-        "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-        "summary": "NVIDIA Developer reports: Developing an AI Factory Digital Twin with an Agent-Assisted Workflow NVIDIA Developer",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 97,
-        "date": "2026-10-21 09:44",
-        "displayDate": "2026-10-21 09:44",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOENhcDF2TER4WG14MXBkMmlJYm1JR0xpUUlYajJudUhqV0VxN2d0a3FaeTNHNXR6X2pKOVZwVHNLd0VRdUE4QzVJNHZ2aVRZenVPN0dMcXJZb1ZKWERFdVVoQWY1ZlpKdVlUTDhOcURCNDhoU2tuYjJZb0E3eUFfVTVDcjFKd2dZM3JJQzdkak9GbXlJZkFoYXhBNUxGdE55RXVGVEZXQQ",
-        "source": "Official / vendor signal · Source: NVIDIA Developer · Time: 2026-10-21 09:44"
-      },
-      {
-        "id": "radar-9c3badba016e",
-        "kind": "radar",
-        "title": "What Agentic AI Means for Travel and How Google, Expedia and Booking.com Are Using It",
-        "summary": "Charlotte Observer reports: What Agentic AI Means for Travel and How Google, Expedia and Booking.com Are Using It Charlotte Observer",
+        "title": "Agentic AI Travel Tools From Google, Meta and Expedia Signal a Shift Worth Watching",
+        "summary": "Kansas City Star reports: Agentic AI Travel Tools From Google, Meta and Expedia Signal a Shift Worth Watching Kansas City Star",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 82,
-        "date": "2026-10-27 21:29",
-        "displayDate": "2026-10-27 21:29",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVWlLdDlwTHFCUWFJclZ0YlpOaFdxcXFUMzFxQ09QZXpOMVE4Z2NrLXpaSmtJT1BKdlVkcXMxUjFfYmpqTDlOaHVCWUh0R05QV3l2UnlwTlZLM1MwVkJVNU1rbHc4ejh1NVZtVlFTY9IBb0FVX3lxTE93N2lXYzhIR2JzTHBMd1cxU0hKcTFVczJXUDFZMlYxZWVNOUJsVUhvUER0SVVUMzZrSW9Jb0VuZlB0REgwWU5mb1NidFhvd1lSSmhWUlg5MHc5b1RLRnUzc0RwVk1ZZGxNcWhqZXdFbw",
-        "source": "News signal — verify before acting · Source: Charlotte Observer · Time: 2026-10-27 21:29"
+        "date": "2026-10-28 00:00",
+        "displayDate": "2026-10-28 00:00",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sQ1JDR1pwVVJTajhjSmdETUhQTmczNlBrWU1FYVpURElqR25jMUk1aXI3RlpDUWMzdVF6N29SaWhqVGdsUlJVdkRYTXVrbFJla2tORzJmUUxGWW5RUnZ0VWxORTliZ9IBZkFVX3lxTE9iVlZGRmM1dE80WVFVakZjWDFTZDROU1RNeE5fem9BY3picTVRcFRXY1MzX3lpbjc4SFdmQVFIVUNVeTZxX2dYRGhUblJ5YTZrbDJEUUw4NjdKQWlHd1poRDc2NmZqdw",
+        "source": "News signal — verify before acting · Source: Kansas City Star · Time: 2026-10-28 00:00"
+      },
+      {
+        "id": "radar-90a694eeac99",
+        "kind": "radar",
+        "title": "AI agents for embedded design ...",
+        "summary": "eeNews Europe reports: AI agents for embedded design ...",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 66,
+        "date": "2026-10-27 10:35",
+        "displayDate": "2026-10-27 10:35",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZY2czcmZDa3dzSTJBdkFmMVIydXpuVklMZ05JX0pvWmMxR1hCWklGT1ZTTEIwLVZnVkhENXF2WVBEbjZuRmgtVTFvQkdXR0dEZks5SGtEcFlILTZEZHVReTRieXVjT3FPUkg4Ykd2TQ",
+        "source": "News signal — verify before acting · Source: eeNews Europe · Time: 2026-10-27 10:35"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-10-27T10:47:29.630243+08:00",
-        "nextRun": "2026-10-28T09:30:00+08:00",
+        "lastRun": "2026-10-28T09:30:13.086141+08:00",
+        "nextRun": "2026-10-29T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-27T10:33:37.608836+08:00",
-        "nextRun": "2026-10-28T09:15:00+08:00",
+        "lastRun": "2026-10-28T09:15:26.319917+08:00",
+        "nextRun": "2026-10-29T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-28T08:30:10.251455+08:00",
-        "nextRun": "2026-10-28T09:31:10.100420+08:00",
+        "lastRun": "2026-10-28T10:03:12.063835+08:00",
+        "nextRun": "2026-10-28T11:03:12.195134+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-28T07:12:37.341589+08:00",
-        "nextRun": "2026-10-28T10:10:00+08:00",
+        "lastRun": "2026-10-28T10:11:52.446930+08:00",
+        "nextRun": "2026-10-28T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-28T09:01:13.332044+08:00",
-        "nextRun": "2026-10-28T09:03:13.332044+08:00",
+        "lastRun": "2026-10-28T10:31:15.500660+08:00",
+        "nextRun": "2026-10-28T10:33:15.500660+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-28T07:30:26.560385+08:00",
-        "nextRun": "2026-10-28T10:30:00+08:00",
+        "lastRun": "2026-10-28T10:30:30.447520+08:00",
+        "nextRun": "2026-10-28T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-28T06:52:35.772758+08:00",
-        "nextRun": "2026-10-28T09:40:00+08:00",
+        "lastRun": "2026-10-28T09:51:39.970528+08:00",
+        "nextRun": "2026-10-28T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-28T09:02:57.846969+08:00"
+    "updatedAt": "2026-10-28T10:33:12.196134+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
