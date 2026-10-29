@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-29T10:49:11+08:00",
+    "generatedAt": "2026-10-29T13:50:15+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-29_09-01-32.md",
-    "radarSource": "ai_opportunity_radar_20261029_103032.html",
+    "radarSource": "ai_opportunity_radar_20261029_133038.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261029_103032.html",
+    "sourceFile": "ai_opportunity_radar_20261029_133038.html",
     "items": [
       {
-        "id": "radar-8de0ed6f12b8",
+        "id": "radar-f7f7cc029181",
         "kind": "radar",
-        "title": "Introducing Agent Activity: See What Your AI Agents Are Actually Doing",
-        "summary": "OX Security reports: Introducing Agent Activity: See What Your AI Agents Are Actually Doing OX Security",
+        "title": "O11: OpenRouter for Agent Tools",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-10-28 22:23",
-        "displayDate": "2026-10-28 22:23",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORE1hM05uNXVHbE1ZWTZNZkRUNmJkZk9oSTZJVW5TaUlJeHExQUl3eXpvSmJzeHJab1NFTVpST1M0LXlBTzU5b3R0b2N1dnlKeEVIeGtmRTRqamNNLVJNb2hiSXJlOW8xekU4WjJhLWlPSFUtUXZscWRnTjBicGowaldPOWQ4R0t1ZVprN1JQd3MyaExoZ2FyOF9wc0xKYmtk",
-        "source": "News signal — verify before acting · Source: OX Security · Time: 2026-10-28 22:23"
+        "score": 43,
+        "date": "2026-10-29 04:36",
+        "displayDate": "2026-10-29 04:36",
+        "url": "https://o11.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-29 04:36"
       },
       {
         "id": "radar-8a3eb7123061",
@@ -45,18 +45,18 @@
         "source": "Trusted news / community signal · Source: The Register · Time: 2026-10-28 20:22"
       },
       {
-        "id": "radar-4dff4a007d9f",
+        "id": "radar-af521288a119",
         "kind": "radar",
-        "title": "Nvidia bets on personal agents in new Meta partnership",
-        "summary": "TechTarget reports: Nvidia bets on personal agents in new Meta partnership TechTarget",
+        "title": "Oracle Launches AI Services Practice Powered by OpenAI Technology to Put Enterprise AI to Work",
+        "summary": "Oracle flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 92,
-        "date": "2026-10-28 21:22",
-        "displayDate": "2026-10-28 21:22",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHRJOGpEYnktWlAwc00yZkxqLUdZT3pXY29tUFYyUmtDWnJjNjhGTkZZeUUtWTQyNVppM3JNLUxMT3ZiUFplbkRmV1FmY1VMTmFFZ1NnUFpHb2drUnFsU1Y2VDI5aHV4SnFPdk53U196Ri1vVkQ0U2wzMlBxMWhLdHNZWHIxbkpIM2kyREZJVUZHVVotYk9GOTRR",
-        "source": "News signal — verify before acting · Source: TechTarget · Time: 2026-10-28 21:22"
+        "score": 90,
+        "date": "2026-10-27 19:16",
+        "displayDate": "2026-10-27 19:16",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVzBaaThiSlBXYkd5c25PTzRFNE9WRGwyWENDUkxoMWoxVEpsR29ULVYwU21rcU82VEtjV3Rqb29DU1ZtSk5jV21WN0s0N2lndGVfVWJKZGozWWVERllHaFNpMDJqU0p1cU83b0htZEI1bHZhUEcwUURiWGdGazdUQXBjZE9Wd3hrTF9EZ2lnejVYR3JTTnNIRFNTZGE0bEpseV9sYnRLZEtDQkxEWXNlbmp1ejFYZkNpVlNsbGdydVkxMzRJRHFpaFZmNk5ra0V1YXFRR3JYVFFTdXNqcUtYOHJUVDZyOTZiWnpuM25BUl9wNUk",
+        "source": "News signal — verify before acting · Source: Oracle · Time: 2026-10-27 19:16"
       },
       {
         "id": "radar-90a694eeac99",
@@ -85,6 +85,20 @@
         "displayDate": "2026-10-27 09:11",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0wwcTFQWDhiMHNUTXl4RUxFZWNtRk5mRldMcW45VnJXVDRmTFhlakFiTmZ1czMyNDF2MHpNc2NvZkxDS2pRYWpHOUhXb1dLWjZRenVOTlZrcDlJS0gxbWJZUDBDcUQtVE1QOWE3RW1FdmVabFBOdUNycWU3aWtTa0NtamFxVTNfVEV5VHRnN3lEWEUzZ0JZWFNfVVJ6dVdwcjVYWjBqUTBrMXJDbXR0Mw",
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-10-27 09:11"
+      },
+      {
+        "id": "radar-f264542ca663",
+        "kind": "radar",
+        "title": "Google has a plan to keep ads alive even when AI agents do the shopping",
+        "summary": "Business Insider reports: Google has a plan to keep ads alive even when AI agents do the shopping Business Insider",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-10-29 04:49",
+        "displayDate": "2026-10-29 04:49",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVQzYlI1V1RhN2UwS1hadVViWEJuTWd3TzBET0lLRHo3LTlHdWJ3TkxaZ1NBTDFmdkVDcFlpM1NRcjB0LUhDeHIydnF6MnlPVjdmZnNBZ3VkbHRqZFNIQjVZUHJsVTBvNjhfNlcxOS02bjZTdWhWX0VSU3pPTm5hQ2lzUktvSUt2bWgySzBBNHBVYU44UkF6V3NWbUhWQ0hmcVE",
+        "source": "News signal — verify before acting · Source: Business Insider · Time: 2026-10-29 04:49"
       },
       {
         "id": "radar-6e37bcd832cd",
@@ -129,32 +143,18 @@
         "source": "News signal — verify before acting · Source: The Courier-Journal · Time: 2026-10-28 23:32"
       },
       {
-        "id": "radar-315814e651e4",
+        "id": "radar-f8cfbc3922c7",
         "kind": "radar",
-        "title": "Canva Chases AI Domination With a New AI Image Model for Designers",
-        "summary": "CNET reports: Canva Chases AI Domination With a New AI Image Model for Designers CNET",
+        "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 53,
-        "date": "2026-10-26 14:33",
-        "displayDate": "2026-10-26 14:33",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORm9MbHFfd28tTHBBOVY1NXYtTGVkN2pyNjFvZlJmZjM4NjFoUVNmUWE2T1BnZVJaSS1DZ1Q5Z0E1UmRyUzU5RnFYZ3g2QzJfM1lWOElmNVJLN3VKbk94ZWZrQVJJeFpoUDVBZFEwT1ZlOHp4OUNmSVNPcGlwNU13eWpybVVBNnNiTUZ2T0dGeF8",
-        "source": "Trusted news / community signal · Source: CNET · Time: 2026-10-26 14:33"
-      },
-      {
-        "id": "radar-9005c0595ac4",
-        "kind": "radar",
-        "title": "HLock: Harness Portability for Agent Configs",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-29 02:01",
-        "displayDate": "2026-10-29 02:01",
-        "url": "https://docs.hlock.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-29 02:01"
+        "score": 55,
+        "date": "2026-10-29 05:21",
+        "displayDate": "2026-10-29 05:21",
+        "url": "https://fabivo.app/en",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-29 05:21"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T10:18:10.801938+08:00",
-        "nextRun": "2026-10-29T11:19:10.836001+08:00",
+        "lastRun": "2026-10-29T13:20:14.829962+08:00",
+        "nextRun": "2026-10-29T14:20:15.000936+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T10:12:29.015424+08:00",
-        "nextRun": "2026-10-29T13:10:00+08:00",
+        "lastRun": "2026-10-29T13:13:53.398434+08:00",
+        "nextRun": "2026-10-29T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T10:48:14.817201+08:00",
-        "nextRun": "2026-10-29T10:50:14.817201+08:00",
+        "lastRun": "2026-10-29T13:48:18.964236+08:00",
+        "nextRun": "2026-10-29T13:50:18.964236+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T10:30:32.379185+08:00",
-        "nextRun": "2026-10-29T13:30:00+08:00",
+        "lastRun": "2026-10-29T13:30:38.762511+08:00",
+        "nextRun": "2026-10-29T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T09:44:29.461616+08:00",
-        "nextRun": "2026-10-29T12:40:00+08:00",
+        "lastRun": "2026-10-29T12:46:25.641337+08:00",
+        "nextRun": "2026-10-29T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-29T10:49:10.837000+08:00"
+    "updatedAt": "2026-10-29T13:50:15.001941+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
