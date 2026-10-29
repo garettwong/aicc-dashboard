@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-29T22:53:32+08:00",
+    "generatedAt": "2026-10-30T01:54:36+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-29_09-01-32.md",
-    "radarSource": "ai_opportunity_radar_20261029_223047.html",
+    "radarSource": "ai_opportunity_radar_20261030_013058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261029_223047.html",
+    "sourceFile": "ai_opportunity_radar_20261030_013058.html",
     "items": [
       {
-        "id": "radar-04d44090334c",
+        "id": "radar-b9db222280d3",
         "kind": "radar",
-        "title": "AI agents shape experts' judgment calls",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "BeyondTrust research reveals growing security risks from autonomous AI agents",
+        "summary": "Intelligent CISO is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-10-29 13:19",
-        "displayDate": "2026-10-29 13:19",
-        "url": "https://anthropic.com/research/agents-judgment-calls",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-10-29 13:19"
+        "score": 50,
+        "date": "2026-10-29 08:43",
+        "displayDate": "2026-10-29 08:43",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGRGOTUtdFhQdGFET2hfMzZ6dFNpX2VDSXpyMW45aEpJQmhMOG9PWHJiTU5aTGxCTHdMMy1QbEtxcUV1RWVJRDhjQ2JOaU8zYkdKaERYQmFvczNfQmYzNHdLNDRaam1PbWNsVDFhaUQ2QjdJSFZGd2tFZTM5TmRUbkVuRlgwNktzcGZTTXpDYzZPMHdNcDhBc09SM2J1akx0UUVlSVlEM19SY2ZBTFg1NHhIOFItQkdQUHQyZGxn",
+        "source": "News signal — verify before acting · Source: Intelligent CISO · Time: 2026-10-29 08:43"
       },
       {
-        "id": "radar-23c19e51a4b2",
+        "id": "radar-b46617e6935f",
         "kind": "radar",
-        "title": "Coder’s Nicky Pike on Governing AI Coding Agents: KubeCon NA 2026 Preview",
-        "summary": "VMblog reports: Coder’s Nicky Pike on Governing AI Coding Agents: KubeCon NA 2026 Preview VMblog",
+        "title": "Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
+        "summary": "ZDNET reports: Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra ZDNET",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-29 13:03",
-        "displayDate": "2026-10-29 13:03",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaF9mY2lSbmYwcUlBaFI5bjBYYXZDRXdnbUgtRFM5aDZac0NlbzY4RXlndndpaWhwUHZYMmhTQXJDWDQ2Z0V6eFRjVFp0b2Q1T1pham5lRlJoSHhXYkhRMXdxQTlMc2wzcFFxenVrOXBOWTNpR3VMMTRGaDZCUnFvZDE0M2JtTGt1NFFzVTJIR2lEM2tHd3B6b2t3",
-        "source": "News signal — verify before acting · Source: VMblog · Time: 2026-10-29 13:03"
+        "date": "2026-10-29 17:01",
+        "displayDate": "2026-10-29 17:01",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM",
+        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-10-29 17:01"
       },
       {
-        "id": "radar-df96a385cdf8",
+        "id": "radar-a2bec0298da8",
         "kind": "radar",
-        "title": "The future of the firm",
-        "summary": "OpenAI is a current AI signal: The future of the firm. Treat it as a lead to verify, not as final advice.",
+        "title": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT)",
+        "summary": "Benzinga reports: Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 98,
-        "date": "2026-10-28 17:12",
-        "displayDate": "2026-10-28 17:12",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw",
-        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-10-28 17:12"
+        "score": 82,
+        "date": "2026-10-29 07:13",
+        "displayDate": "2026-10-29 07:13",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw",
+        "source": "News signal — verify before acting · Source: Benzinga · Time: 2026-10-29 07:13"
       },
       {
         "id": "radar-90a694eeac99",
@@ -87,60 +87,60 @@
         "source": "News signal — verify before acting · Source: https://www.indiagazette.com/ · Time: 2026-10-29 05:03"
       },
       {
-        "id": "radar-7e5e2da141bc",
+        "id": "radar-e1e36bccfcf7",
         "kind": "radar",
-        "title": "AI Agents in Business Operations: A Guide for Non-Technical Founders",
-        "summary": "Technology Org reports: AI Agents in Business Operations: A Guide for Non-Technical Founders Technology Org",
+        "title": "AI agents gaining autonomy faster than businesses can secure them",
+        "summary": "TechTarget reports: AI agents gaining autonomy faster than businesses can secure them TechTarget",
         "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 38,
-        "date": "2026-10-29 10:56",
-        "displayDate": "2026-10-29 10:56",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemNlSXNxdW5HUWFXTjhXbkN3QTlralhScExtRUdaSXprR2JXSzYyaHM2cWh3TUlIUTJlQTZxZTNtTkhRdzI2a0YzeEVoRTJXS3B0bjY5aENFdUNES0ZqNkpQUGdVZDQtbFNxWXlqZ2VLZkhRVldhclJULXNkNmtGLTh3cmhzdnNON0VpQlJaN3c3TWZ5OXBLYThZT2p0LVExOVRORVRLZXpfUQ",
-        "source": "News signal — verify before acting · Source: Technology Org · Time: 2026-10-29 10:56"
+        "date": "2026-10-29 16:20",
+        "displayDate": "2026-10-29 16:20",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU5WdWp5dWxRek9OY1RyTklNZW5xcDRDMkkwWHA5ZS1aaV9Na04xWXJhSzROUHJoWHR5SU5jOGNOeW5WS2s4ZWt4SElpZjd4ZTBBZlo1ZFdQYWwtN3p1N1UwbDBfZ1RLWDV0SGh3cG1rSVVsME5TN3N5Y2FSZ1NHRDdQaFdrU3J6N1pyeFh5RUVVTXRvNExwNnphYzhlY3ZaaUFVcVd4U20",
+        "source": "News signal — verify before acting · Source: TechTarget · Time: 2026-10-29 16:20"
       },
       {
-        "id": "radar-1e3638bd7af9",
+        "id": "radar-87e69e5b2324",
         "kind": "radar",
-        "title": "Codex vs Claude Code vs Antigravity: $500 to $0 [2026] - https://tech-insider.org/",
-        "summary": "https://tech-insider.org/ reports: Codex vs Claude Code vs Antigravity: $500 to $0 [2026] https://tech-insider.org/",
+        "title": "GitHub Octoverse 2026: Five Takeaways for Security Teams",
+        "summary": "GitGuardian Blog reports: GitHub Octoverse 2026: Five Takeaways for Security Teams GitGuardian Blog",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-29 12:34",
-        "displayDate": "2026-10-29 12:34",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xVjR4eUZ4YS1XRUNGVThYNnVXX1ZmY251dERqcWJRaDlMRTVuZHRnX3FwbHk0b09LRXJPNmVJM1NBTUdXMUpEWGY1M2dsOGtveGtXdUhrdlRwaUJiZlZ5WXNkbVBwajM2cHM2R05qUDdORWJ1",
-        "source": "News signal — verify before acting · Source: https://tech-insider.org/ · Time: 2026-10-29 12:34"
+        "date": "2026-10-29 15:01",
+        "displayDate": "2026-10-29 15:01",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRW12Y01FRV9xU254RjctWWh3Y3R6NVlaYUNGRUFYQ1AySm9sMW52bUM5ZGNXbVc4b0hEVUJnbENxQ2k3Uk9OWGl5c0E4QnNsTmNaQ2ZxZ2lxQlg2STlhXw",
+        "source": "News signal — verify before acting · Source: GitGuardian Blog · Time: 2026-10-29 15:01"
       },
       {
-        "id": "radar-f56d0a696b53",
+        "id": "radar-e40a284b16f9",
         "kind": "radar",
-        "title": "Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin",
-        "summary": "3D Printing Industry reports: Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin 3D Printing Industry",
+        "title": "AI-Designed 3D-Printed Hydrogels Move Toward Repairing Skin and Bone",
+        "summary": "Bioengineer.org reports: AI-Designed 3D-Printed Hydrogels Move Toward Repairing Skin and Bone Bioengineer.org",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-27 11:47",
-        "displayDate": "2026-10-27 11:47",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1VTUU1ua1lFcHVQNXRmSGdNcU5FcEh3aUZuVVd0emxVTHVBbFRqLW1qUXJlUWJ3VkpwYmlWUkdZRFktaVdxZ3p0UzAwT2ppbElMWnJDRDFSamF6akdFSURjWFFYTFFUWVQ1clJrcElzZ2dqMEhtanE1ckM5TDh1RG1zOUdSZWJ0Mmc0UEdka3JRVXJWZmxhTXZjVy1vanRsaFJBNlNZc3NDbVl5cEluM0ViWnFVbklNXzVZWENCalRyVTdpZDhxaDByZw",
-        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-10-27 11:47"
+        "date": "2026-10-27 14:59",
+        "displayDate": "2026-10-27 14:59",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1BlNTFjcmRsMG95X05tMXJHRmd1cjBCSnE5T2YyeU5IeHJlZWg4UW5UWGNiR3JxWjFnUkNoUE02SkVubklQX2RIVTJWRURJZjJOZXNiaW1YbVhpdEJhVmVXVmVYUDliZVM0Qzg3blk5a05EYlUwQmhYeE9oMDJyUnhhNkdzOW1ET1ZWalVNY3gza0REd0kzRQ",
+        "source": "News signal — verify before acting · Source: Bioengineer.org · Time: 2026-10-27 14:59"
       },
       {
-        "id": "radar-a2bec0298da8",
+        "id": "radar-3c4d5e8f08e7",
         "kind": "radar",
-        "title": "Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT)",
-        "summary": "Benzinga reports: Microsoft’s AI Agent Gatekeeper Draws OpenAI, Anthropic and Meta - Microsoft (NASDAQ:MSFT) Benzinga",
+        "title": "CWRU law student’s AI innovation leads to summit invitation",
+        "summary": "Case Western Reserve University is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-10-29 07:13",
-        "displayDate": "2026-10-29 07:13",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0t1WGo1ZEJfVnRkMUUzbzJUdVdJRG5BYVVRdDRBa2xNbFpIand2MGt1Qng1VHBLbGlfMEVxLXhlN2F5dG5FVWpfdFRvVFh2NE0wLThDQVFtV3ZyODJ6Ui00end4TWVTdmdJcFNKYUJWbGlEZ2dVMGdPanotM2lwUU1XamsteTdLbFFObFlrZHRqaTA1a1lVSVM1Vy1SZ3o0eHZOYUxLQVp2RTNZU3hrbGJCYw",
-        "source": "News signal — verify before acting · Source: Benzinga · Time: 2026-10-29 07:13"
+        "score": 78,
+        "date": "2026-10-29 15:12",
+        "displayDate": "2026-10-29 15:12",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUhfTkFubWpMT2hic0k3VlJnZEZDNURRZGlib3JCeGVybkVMNzFuY1JCeklJcnVBSk10ektmY0ZKaHdtMEZsSGtoUThtM3QxZ1pPN3ZneXlFMnQ5dDl1R1NKcTR3RHZsQWNmQW1CSUVNeGRVTzJtaFZZX3NNOTJaaDJEMA",
+        "source": "News signal — verify before acting · Source: Case Western Reserve University · Time: 2026-10-29 15:12"
       },
       {
         "id": "radar-315814e651e4",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T22:23:30.792799+08:00",
-        "nextRun": "2026-10-29T23:23:31.688725+08:00",
+        "lastRun": "2026-10-30T01:24:35.683336+08:00",
+        "nextRun": "2026-10-30T02:24:35.869431+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T22:11:44.947471+08:00",
-        "nextRun": "2026-10-30T01:10:00+08:00",
+        "lastRun": "2026-10-30T01:11:24.175551+08:00",
+        "nextRun": "2026-10-30T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T22:50:34.746473+08:00",
-        "nextRun": "2026-10-29T22:55:31.681588+08:00",
+        "lastRun": "2026-10-30T01:53:39.401670+08:00",
+        "nextRun": "2026-10-30T01:55:39.401670+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T22:30:47.873311+08:00",
-        "nextRun": "2026-10-30T01:30:00+08:00",
+        "lastRun": "2026-10-30T01:30:58.825074+08:00",
+        "nextRun": "2026-10-30T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-29T21:49:45.369726+08:00",
-        "nextRun": "2026-10-30T00:40:00+08:00",
+        "lastRun": "2026-10-30T00:50:11.752858+08:00",
+        "nextRun": "2026-10-30T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-29T22:53:31.688725+08:00"
+    "updatedAt": "2026-10-30T01:54:35.869431+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
