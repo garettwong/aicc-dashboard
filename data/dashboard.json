@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-10-31T07:17:17+08:00",
+    "generatedAt": "2026-10-31T07:48:07+08:00",
     "sourceCount": 4,
     "dailySource": "2026-10-30_09-02-50.md",
-    "radarSource": "ai_opportunity_radar_20261031_070322.html",
+    "radarSource": "ai_opportunity_radar_20261031_073027.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261031_070322.html",
+    "sourceFile": "ai_opportunity_radar_20261031_073027.html",
     "items": [
       {
         "id": "radar-17abb6b972e3",
@@ -39,10 +39,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-10-30 21:31",
-        "displayDate": "2026-10-30 21:31",
+        "date": "2026-10-30 23:01",
+        "displayDate": "2026-10-30 23:01",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM",
-        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-10-30 21:31"
+        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-10-30 23:01"
       },
       {
         "id": "radar-27af1c8b6fa8",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: BankInfoSecurity · Time: 2026-10-30 19:11"
       },
       {
-        "id": "radar-ca341e23a93d",
+        "id": "radar-e40a284b16f9",
         "kind": "radar",
-        "title": "AI 3D Generator Workflow for 3D Printing and Game Assets",
-        "summary": "https://www.indiagazette.com/ reports: AI 3D Generator Workflow for 3D Printing and Game Assets https://www.indiagazette.com/",
+        "title": "AI-Designed 3D-Printed Hydrogels Move Toward Repairing Skin and Bone",
+        "summary": "Bioengineer.org reports: AI-Designed 3D-Printed Hydrogels Move Toward Repairing Skin and Bone Bioengineer.org",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-29 05:03",
-        "displayDate": "2026-10-29 05:03",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTBuQ0VobTk2ak1teEVsZ3ZCeTEzRFdsWERYLWlRM1FBTHBYR2RpQmtqZW44S2R3Rk01QnJJZkZxY3d4QkdQNU9zMjdmUWpzV0QzenBCZjFCRzNuTlFRRXdOdFBUa2xJZ0QtVmtuN3hyMEh5YVg4Z09hX1FJRjBodUxoa2RybkFDcVU5dkxIR2lZVGh4TzhyWnI3Qk1qaXA4Ync",
-        "source": "News signal — verify before acting · Source: https://www.indiagazette.com/ · Time: 2026-10-29 05:03"
+        "date": "2026-10-27 14:59",
+        "displayDate": "2026-10-27 14:59",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1BlNTFjcmRsMG95X05tMXJHRmd1cjBCSnE5T2YyeU5IeHJlZWg4UW5UWGNiR3JxWjFnUkNoUE02SkVubklQX2RIVTJWRURJZjJOZXNiaW1YbVhpdEJhVmVXVmVYUDliZVM0Qzg3blk5a05EYlUwQmhYeE9oMDJyUnhhNkdzOW1ET1ZWalVNY3gza0REd0kzRQ",
+        "source": "News signal — verify before acting · Source: Bioengineer.org · Time: 2026-10-27 14:59"
       },
       {
         "id": "radar-662d9dbe089f",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-30T23:38:11.266213+08:00",
-        "nextRun": "2026-10-31T07:33:05.315126+08:00",
+        "lastRun": "2026-10-31T07:17:20.465416+08:00",
+        "nextRun": "2026-10-31T08:18:06.872276+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-10-31T07:15:08.429883+08:00",
-        "nextRun": "2026-10-31T07:17:08.429883+08:00",
+        "lastRun": "2026-10-31T07:45:09.406520+08:00",
+        "nextRun": "2026-10-31T07:50:06.867278+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-10-31T07:03:22.813274+08:00",
-        "nextRun": "2026-10-31T07:30:00+08:00",
+        "lastRun": "2026-10-31T07:30:27.769281+08:00",
+        "nextRun": "2026-10-31T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-10-31T07:17:16.570521+08:00"
+    "updatedAt": "2026-10-31T07:48:06.872276+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
