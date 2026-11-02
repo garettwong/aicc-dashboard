@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-02T16:53:22+08:00",
+    "generatedAt": "2026-11-02T19:54:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-02_09-01-44.md",
-    "radarSource": "ai_opportunity_radar_20261102_163040.html",
+    "radarSource": "ai_opportunity_radar_20261102_193048.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261102_163040.html",
+    "sourceFile": "ai_opportunity_radar_20261102_193048.html",
     "items": [
       {
-        "id": "radar-191e42848334",
+        "id": "radar-0465f3040cce",
         "kind": "radar",
-        "title": "Chinese-Speaking Hacker Successfully Charged AI Agents to Break into Around 100 Websites",
-        "summary": "Security Boulevard reports: Chinese-Speaking Hacker Successfully Charged AI Agents to Break into Around 100 Websites Security Boulevard",
+        "title": "Ransomware gang talked AI agents into doing much of its dirty work",
+        "summary": "Help Net Security reports: Ransomware gang talked AI agents into doing much of its dirty work Help Net Security",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-11-02 08:04",
-        "displayDate": "2026-11-02 08:04",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSmN6eUFrQ3JlWEdWeG5RY09xOXdsVjYycFNEaTcwb2psRWs1WmUyN0FSVG52Z0hXaFMycGJ0XzVMcWFjX0dUUUlpek9abTFlTmxscFhPQkp4S1hQSlZUclF2ZlVXdUZucEY5em9WWEotMy1EQzdOcndmeGpNVUYyM0hzZVhNWVNkX04tWGdUUm40bzJGSnoyZDNJN1VEbHIyeE5sOExhdWt2LTFPLU9NbWFaSFc4TG9pT1V5MU95QlpRT2tFLWc",
-        "source": "News signal — verify before acting · Source: Security Boulevard · Time: 2026-11-02 08:04"
+        "date": "2026-11-02 05:00",
+        "displayDate": "2026-11-02 05:00",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWRWTDZtLTJkaVpqaTVTUTNlWDRZbW5rQTFrWVM3TlBFMC1Ec1FZX2dTQ2hmMmROdy0yR0IwOE9iZE01dGNCQ3VaVVRBazRtUE1wTVNCLTg1RlUtQldOSXV1aXAycGFvaVllNVJsYmp2M19nSFBadVF0MA",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-11-02 05:00"
       },
       {
-        "id": "radar-bc1d3f75d7c0",
+        "id": "radar-159a4204a132",
         "kind": "radar",
-        "title": "Claude Code will build you a game, but no longer a copy of someone else’s",
-        "summary": "Martin Cid Magazine reports: Claude Code will build you a game, but no longer a copy of someone else’s Martin Cid Magazine",
+        "title": "DeepSeek Super-Agent is an open-source alternative to Claude Code",
+        "summary": "Techzine Global reports: DeepSeek Super-Agent is an open-source alternative to Claude Code Techzine Global",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-02 07:08",
-        "displayDate": "2026-11-02 07:08",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1l2QVZ0WWRBQVpQS2ZkQ3dITV9uM2ZrMkY0b2VQR0YzZFNadThMZ3BfTHVnRmM4Mk9STjZBelhMT1NqV0xQamRxOUtUZy01SjJiVVdhWHQyU3NyNHp5QlFnNFkxVkdoZzVEd29kSERFbElHZ2wxcUt6RHhfNmFuY2U5ajcxeGpBRUt4RW5Ob1A",
-        "source": "News signal — verify before acting · Source: Martin Cid Magazine · Time: 2026-11-02 07:08"
+        "date": "2026-11-02 10:30",
+        "displayDate": "2026-11-02 10:30",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1ViVG1OQndReEtsYzFXWVliWW9yTVdab29KdUM3bDJlb0tzbmZtVkpXMFZXMFRabFM0MXlFLU5FMEFkaDV3N0dWdXNSbGMwMlBQOWRGSGQwQXRaNzZxU2ZueUZCbmI1YWxtVldtT2VZZkE1NXdkaWcybnl5SmVNajZ1VXVnZWlhSXpTZnA0OEdCcndHRExzMGdCOWJHMjV6SUdBQkN5VnJ3M2VWOTNnWEo0NTdOZw",
+        "source": "News signal — verify before acting · Source: Techzine Global · Time: 2026-11-02 10:30"
       },
       {
         "id": "radar-27af1c8b6fa8",
@@ -73,32 +73,46 @@
         "source": "Trusted news / community signal · Source: The Information · Time: 2026-11-02 05:55"
       },
       {
-        "id": "radar-a71d8386b619",
+        "id": "radar-e2d9bcc6ab94",
         "kind": "radar",
-        "title": "Anthropic orders AI tool Claude to stop remaking video games",
-        "summary": "Game Developer reports: Anthropic orders AI tool Claude to stop remaking video games Game Developer",
+        "title": "The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters",
+        "summary": "Yahoo Finance reports: The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters Yahoo Finance",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-11-02 08:27",
-        "displayDate": "2026-11-02 08:27",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw",
-        "source": "News signal — verify before acting · Source: Game Developer · Time: 2026-11-02 08:27"
+        "date": "2026-10-29 12:03",
+        "displayDate": "2026-10-29 12:03",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWkzdjV6YW9OdTdsdGczNWpqX0ROYlloVDhLWFZCLXZRMkNSbVRETkplQ1BnMzVLWG0xNndPSkc5OUlET0ItVWxKZ05ycm45cm0tTG5oSXgycEt5NkZXOUF6Q2RRSjlTZ2plQ2IzWnlMTThRTUpPckNEUU1PSGxxZm9kQmFKQm1lNWExc1pmM1FnMFdiTXVoZVZWNU4",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-29 12:03"
       },
       {
-        "id": "radar-1a50ed727b7c",
+        "id": "radar-1180218225ef",
         "kind": "radar",
-        "title": "Anthropic Adds a Claude Code Rule on Opus 5.5 That Blocks Recreations of Existing Games",
-        "summary": "gHacks flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "The middle layer will make or break enterprise AI agents",
+        "summary": "CIO reports: The middle layer will make or break enterprise AI agents CIO",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-11-02 09:04",
+        "displayDate": "2026-11-02 09:04",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV19uT0FyRzVfSHd0TWxxV3lIaFZuU1JsOHhKdmVXMlE2eUoyLXRHNGQtbjdaN2FTV19jeV80Wm9xSk1FUTB2TXBsUEMxcTNveVRNeW5HNHM2T1ZWSGRDVnpjdzFySzhyZjVleFBOVFY5TFJkUTlCWXA4OHZhNmtTbzA0Y01SQXVscE45ZWNlRzRtTHRVNUtWZDBhNzVNZw",
+        "source": "News signal — verify before acting · Source: CIO · Time: 2026-11-02 09:04"
+      },
+      {
+        "id": "radar-41ec41844114",
+        "kind": "radar",
+        "title": "Tsinghua-Microsoft Paper: Coding Agent Used 88% Fewer Tokens",
+        "summary": "FourWeekMBA reports: Tsinghua-Microsoft Paper: Coding Agent Used 88% Fewer Tokens FourWeekMBA",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-02 04:05",
-        "displayDate": "2026-11-02 04:05",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkNxMDNfalU3VTgxanZGTVFFZVI0OTZ3VEhsWnNpWHBTUXREWXJZcU1xaWRDM1hhNzlRUkh4NVpGMVlrZXcxTUJ3XzlIMnpqQ0hrcU43a1h0ZjFMVVZhUVdxeWRTVFF5OFU5VmtZUE5fYnV1RnVpM0MyNlNJb3ktc2tpSWM2WmtGZ2xuM0ZPYWRrVlhuVk9JWVhLeWNzQ2w2RU82bmY0dzR1UUlYRUZxeC1LdE05Wld6eEdjakVpRQ",
-        "source": "News signal — verify before acting · Source: gHacks · Time: 2026-11-02 04:05"
+        "date": "2026-11-02 09:32",
+        "displayDate": "2026-11-02 09:32",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlZJb3lVY0xJTnJHUFY5Z1k2eEc0cG50QTR6R3A2cmVybUZlOTl5RDZ6VlN2Mmh5b3V1VzJqMnZsVUFualZZNE5NeXQySGFpYVh0eHZfaGhob3h5T3VyQ19TY3AwM1JkTXdNUzdKOHJUdVY3ckxXN2x5bzZjME9pQ1JRd1pLaGwzZ2pOeTE5QQ",
+        "source": "News signal — verify before acting · Source: FourWeekMBA · Time: 2026-11-02 09:32"
       },
       {
         "id": "radar-531fe6437a3c",
@@ -115,18 +129,18 @@
         "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-11-02 01:42"
       },
       {
-        "id": "radar-e2d9bcc6ab94",
+        "id": "radar-ca341e23a93d",
         "kind": "radar",
-        "title": "The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters",
-        "summary": "Yahoo Finance reports: The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters Yahoo Finance",
+        "title": "AI 3D Generator Workflow for 3D Printing and Game Assets",
+        "summary": "https://www.indiagazette.com/ reports: AI 3D Generator Workflow for 3D Printing and Game Assets https://www.indiagazette.com/",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-29 12:03",
-        "displayDate": "2026-10-29 12:03",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWkzdjV6YW9OdTdsdGczNWpqX0ROYlloVDhLWFZCLXZRMkNSbVRETkplQ1BnMzVLWG0xNndPSkc5OUlET0ItVWxKZ05ycm45cm0tTG5oSXgycEt5NkZXOUF6Q2RRSjlTZ2plQ2IzWnlMTThRTUpPckNEUU1PSGxxZm9kQmFKQm1lNWExc1pmM1FnMFdiTXVoZVZWNU4",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-29 12:03"
+        "date": "2026-10-29 05:03",
+        "displayDate": "2026-10-29 05:03",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTBuQ0VobTk2ak1teEVsZ3ZCeTEzRFdsWERYLWlRM1FBTHBYR2RpQmtqZW44S2R3Rk01QnJJZkZxY3d4QkdQNU9zMjdmUWpzV0QzenBCZjFCRzNuTlFRRXdOdFBUa2xJZ0QtVmtuN3hyMEh5YVg4Z09hX1FJRjBodUxoa2RybkFDcVU5dkxIR2lZVGh4TzhyWnI3Qk1qaXA4Ync",
+        "source": "News signal — verify before acting · Source: https://www.indiagazette.com/ · Time: 2026-10-29 05:03"
       },
       {
         "id": "radar-af521288a119",
@@ -141,20 +155,6 @@
         "displayDate": "2026-10-27 19:16",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVzBaaThiSlBXYkd5c25PTzRFNE9WRGwyWENDUkxoMWoxVEpsR29ULVYwU21rcU82VEtjV3Rqb29DU1ZtSk5jV21WN0s0N2lndGVfVWJKZGozWWVERllHaFNpMDJqU0p1cU83b0htZEI1bHZhUEcwUURiWGdGazdUQXBjZE9Wd3hrTF9EZ2lnejVYR3JTTnNIRFNTZGE0bEpseV9sYnRLZEtDQkxEWXNlbmp1ejFYZkNpVlNsbGdydVkxMzRJRHFpaFZmNk5ra0V1YXFRR3JYVFFTdXNqcUtYOHJUVDZyOTZiWnpuM25BUl9wNUk",
         "source": "News signal — verify before acting · Source: Oracle · Time: 2026-10-27 19:16"
-      },
-      {
-        "id": "radar-0465f3040cce",
-        "kind": "radar",
-        "title": "Ransomware gang talked AI agents into doing much of its dirty work",
-        "summary": "Help Net Security reports: Ransomware gang talked AI agents into doing much of its dirty work Help Net Security",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-02 05:00",
-        "displayDate": "2026-11-02 05:00",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52NWRWTDZtLTJkaVpqaTVTUTNlWDRZbW5rQTFrWVM3TlBFMC1Ec1FZX2dTQ2hmMmROdy0yR0IwOE9iZE01dGNCQ3VaVVRBazRtUE1wTVNCLTg1RlUtQldOSXV1aXAycGFvaVllNVJsYmp2M19nSFBadVF0MA",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-11-02 05:00"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-02T16:23:21.859881+08:00",
-        "nextRun": "2026-11-02T17:23:22.070283+08:00",
+        "lastRun": "2026-11-02T19:24:26.744829+08:00",
+        "nextRun": "2026-11-02T20:24:26.984922+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-02T16:11:45.958230+08:00",
-        "nextRun": "2026-11-02T19:10:00+08:00",
+        "lastRun": "2026-11-02T19:12:09.251168+08:00",
+        "nextRun": "2026-11-02T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-02T16:52:25.129242+08:00",
-        "nextRun": "2026-11-02T16:54:25.129242+08:00",
+        "lastRun": "2026-11-02T19:52:29.920130+08:00",
+        "nextRun": "2026-11-02T19:54:29.920130+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-02T16:30:40.160247+08:00",
-        "nextRun": "2026-11-02T19:30:00+08:00",
+        "lastRun": "2026-11-02T19:30:48.243529+08:00",
+        "nextRun": "2026-11-02T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-02T15:45:35.282527+08:00",
-        "nextRun": "2026-11-02T18:40:00+08:00",
+        "lastRun": "2026-11-02T18:44:39.953286+08:00",
+        "nextRun": "2026-11-02T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-02T16:53:22.071286+08:00"
+    "updatedAt": "2026-11-02T19:54:26.984922+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
