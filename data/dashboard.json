@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-03T13:56:27+08:00",
+    "generatedAt": "2026-11-03T16:57:31+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-03_09-17-12.md",
-    "radarSource": "ai_opportunity_radar_20261103_133049.html",
+    "radarSource": "ai_opportunity_radar_20261103_163050.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261103_133049.html",
+    "sourceFile": "ai_opportunity_radar_20261103_163050.html",
     "items": [
       {
-        "id": "radar-ad30af28e870",
+        "id": "radar-80c94f73b60a",
         "kind": "radar",
-        "title": "AI assistants read a Shopify store 10x more often than people click through",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "For Defenders, AI Agents are Unmanaged Endpoints at Scale",
+        "summary": "Cybersecurity Insiders reports: For Defenders, AI Agents are Unmanaged Endpoints at Scale Cybersecurity Insiders",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-11-02 19:32",
-        "displayDate": "2026-11-02 19:32",
-        "url": "https://canonry.ai/blog/ai-agents-shopify-store-30-days",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-02 19:32"
+        "score": 50,
+        "date": "2026-11-03 06:15",
+        "displayDate": "2026-11-03 06:15",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnNyaHV4cjJLZ2RiVXphU3pRR3JEdU4xN2FBYTBwTXNDV0VlZ01MTkg4c0F0QjdMcmM0S2hEZ2pDU0VpMTdMcllBUVVxblFGVzkzS3kwbjd5dHFUZ1ItTTJQWjNMcVZMNEp5dkdTMkdyd2owNXppM0Zxc0tKZVY4TWZFTnBVVW1KNk5qM2VwTGhjenNxY3p0U3pEbEI",
+        "source": "News signal — verify before acting · Source: Cybersecurity Insiders · Time: 2026-11-03 06:15"
       },
       {
-        "id": "radar-c9b1b7804fd1",
+        "id": "radar-a79f0a37aa2c",
         "kind": "radar",
-        "title": "Accenture Contractor Ran Banned Claude AI Agent on Pentagon Network for Months",
-        "summary": "SOFX is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "How I Gave Claude Code Long-Term Memory With Markdown and Python Hooks",
+        "summary": "HackerNoon reports: How I Gave Claude Code Long-Term Memory With Markdown and Python Hooks HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-03 04:51",
-        "displayDate": "2026-11-03 04:51",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGR4OVlHSDBGS0dTWDlWd0VFVkdPR0dIbXVGQ2ZsZVZSeHZtQlhsOFpMTk1uUTRKYWRoeTZpV1RGV0plTTZMbnRvcW1kejRaN3NteFV2VThpcWVjVl9ZblhOWjROQzItbVlqMnd1Vi1QSElQTkIxUmgtZGtNOTBYVkdsVEg3ay1ENmVPeThQdjZDY3J2ZHh1ME14ZGpQb05vVGc",
-        "source": "News signal — verify before acting · Source: SOFX · Time: 2026-11-03 04:51"
+        "date": "2026-11-03 05:47",
+        "displayDate": "2026-11-03 05:47",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0h0elNBRF9sRHBTa0F2dmI2Wm5BYXEzcjE1Y2RVVGFiM09qM2pGSlU1SmN6Xzk4bnlrQVVoWGhoUHl6b1lYcnp6UjhnSHcwaDB3aVZqSXdjZk5DQ0NoMjl0d0JVV3JpTnh6M1FTaVFCbnpPSmRfcmdwVWhMZENtTl9TOEdOWW1DT2w4MnZpYUQ0SVA0Ui1QRw",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-11-03 05:47"
       },
       {
         "id": "radar-27af1c8b6fa8",
@@ -73,18 +73,18 @@
         "source": "News signal — verify before acting · Source: Ad Age · Time: 2026-11-02 10:00"
       },
       {
-        "id": "radar-6e1a09bc0161",
+        "id": "radar-e2d9bcc6ab94",
         "kind": "radar",
-        "title": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable",
-        "summary": "PR Newswire reports: Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable PR Newswire",
+        "title": "The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters",
+        "summary": "Yahoo Finance reports: The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters Yahoo Finance",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-11-02 17:08",
-        "displayDate": "2026-11-02 17:08",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWtaSVNiSnhtdi0zQzNvSUxpemZGQW5YNkdZc2dzbWdQVUplOHZWZ2x4YVpyMTFZcWk0Z3NFZk9EYlhYU01ILVBCVTI0M1gtX1NSRDVrUzF6ckRDRTkyUnFpV2lYUTN0aUJkOW1YQWN3QzhCUU9ONGQ3eF9nT05SZnRZNGhQcUJpNU9OZE02RVNQM3BpM0pQTjB5UGpzbGRuQTJ6Nnk0NnlwN2JjQ1RsVWRSa2ZoVjBnajhQdkJDdi1BTFNKWVN5bHRR",
-        "source": "News signal — verify before acting · Source: PR Newswire · Time: 2026-11-02 17:08"
+        "date": "2026-10-29 12:03",
+        "displayDate": "2026-10-29 12:03",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWkzdjV6YW9OdTdsdGczNWpqX0ROYlloVDhLWFZCLXZRMkNSbVRETkplQ1BnMzVLWG0xNndPSkc5OUlET0ItVWxKZ05ycm45cm0tTG5oSXgycEt5NkZXOUF6Q2RRSjlTZ2plQ2IzWnlMTThRTUpPckNEUU1PSGxxZm9kQmFKQm1lNWExc1pmM1FnMFdiTXVoZVZWNU4",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-29 12:03"
       },
       {
         "id": "radar-e73b98f3280d",
@@ -101,32 +101,32 @@
         "source": "News signal — verify before acting · Source: ICTworks · Time: 2026-11-03 05:15"
       },
       {
-        "id": "radar-9c076ac6d3a6",
+        "id": "radar-c7e2e6e887cc",
         "kind": "radar",
-        "title": "Black Duck Introduces Signal Agentic Fix to Automate Vulnerability Remediation With AI and Human Oversight",
-        "summary": "Cybersecurity Insiders reports: Black Duck Introduces Signal Agentic Fix to Automate Vulnerability Remediation With AI and Human Oversight Cybersecurity Insiders",
+        "title": "AI coding agents are installing MCP servers that will never be patched",
+        "summary": "Help Net Security reports: AI coding agents are installing MCP servers that will never be patched Help Net Security",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-03 03:58",
-        "displayDate": "2026-11-03 03:58",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPenRLQXo3TmMwbWY2ckRSdkVma3o5MXEwQ2M2V2p4VS02U1RJbWNwV3NYaFBXNDNieGpkeGVjTmRsd1BuU24taGRtUF90N2djaFU4SS1fbElyVmREU3c1Rnk3SkJfY2JiNHE0VGhkWS1XeVN6WHNBZWFJZUQtN21EWVd2UTE0NVRzQVdiM0lrV2tSb0hYQnh6dTFVcXc1dUEzX3RzSWRDNnRtcTNBaktIT3NiMUVfWWl0ZmZ1SjczU25zX01udVM1dEJDZ0pqWHd5VjlFVXpDMDUwVVlMb2lv",
-        "source": "News signal — verify before acting · Source: Cybersecurity Insiders · Time: 2026-11-03 03:58"
+        "date": "2026-11-03 05:45",
+        "displayDate": "2026-11-03 05:45",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2FQd08xVGNFN3pSdHVpc1dEbUkyUUk5MEF4emhFdTExWTItbWp1a2ROSWUtNGoySVh6T0V0X0g4OEprOGEzVUZBNDFRRkNINENIWW5SdFlYSmNuaHdDWFR4cVFyeVdBOURhZG5mVXZGRHQtdUsxNVhOZVVDOFRmZ19B",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-11-03 05:45"
       },
       {
-        "id": "radar-e2d9bcc6ab94",
+        "id": "radar-ca341e23a93d",
         "kind": "radar",
-        "title": "The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters",
-        "summary": "Yahoo Finance reports: The Future of AI 3D Character Workflows: Reallusion CC 5.2 Turns Meshes into Living Characters Yahoo Finance",
+        "title": "AI 3D Generator Workflow for 3D Printing and Game Assets",
+        "summary": "https://www.indiagazette.com/ reports: AI 3D Generator Workflow for 3D Printing and Game Assets https://www.indiagazette.com/",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-10-29 12:03",
-        "displayDate": "2026-10-29 12:03",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWkzdjV6YW9OdTdsdGczNWpqX0ROYlloVDhLWFZCLXZRMkNSbVRETkplQ1BnMzVLWG0xNndPSkc5OUlET0ItVWxKZ05ycm45cm0tTG5oSXgycEt5NkZXOUF6Q2RRSjlTZ2plQ2IzWnlMTThRTUpPckNEUU1PSGxxZm9kQmFKQm1lNWExc1pmM1FnMFdiTXVoZVZWNU4",
-        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-10-29 12:03"
+        "date": "2026-10-29 05:03",
+        "displayDate": "2026-10-29 05:03",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTBuQ0VobTk2ak1teEVsZ3ZCeTEzRFdsWERYLWlRM1FBTHBYR2RpQmtqZW44S2R3Rk01QnJJZkZxY3d4QkdQNU9zMjdmUWpzV0QzenBCZjFCRzNuTlFRRXdOdFBUa2xJZ0QtVmtuN3hyMEh5YVg4Z09hX1FJRjBodUxoa2RybkFDcVU5dkxIR2lZVGh4TzhyWnI3Qk1qaXA4Ync",
+        "source": "News signal — verify before acting · Source: https://www.indiagazette.com/ · Time: 2026-10-29 05:03"
       },
       {
         "id": "radar-af521288a119",
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T09:20:12.129941+08:00",
-        "nextRun": "2026-11-03T15:00:00+08:00",
+        "lastRun": "2026-11-03T15:03:43.649273+08:00",
+        "nextRun": "2026-11-03T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T13:26:26.668202+08:00",
-        "nextRun": "2026-11-03T14:26:26.768496+08:00",
+        "lastRun": "2026-11-03T16:27:31.273363+08:00",
+        "nextRun": "2026-11-03T17:27:31.486191+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T13:13:04.529430+08:00",
-        "nextRun": "2026-11-03T16:10:00+08:00",
+        "lastRun": "2026-11-03T16:13:10.066449+08:00",
+        "nextRun": "2026-11-03T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T13:53:30.217150+08:00",
-        "nextRun": "2026-11-03T13:58:26.763492+08:00",
+        "lastRun": "2026-11-03T16:56:35.015996+08:00",
+        "nextRun": "2026-11-03T16:58:35.015996+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T13:30:49.334684+08:00",
-        "nextRun": "2026-11-03T16:30:00+08:00",
+        "lastRun": "2026-11-03T16:30:50.387440+08:00",
+        "nextRun": "2026-11-03T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-03T12:45:36.981169+08:00",
-        "nextRun": "2026-11-03T15:40:00+08:00",
+        "lastRun": "2026-11-03T15:46:08.657318+08:00",
+        "nextRun": "2026-11-03T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-03T13:56:26.768496+08:00"
+    "updatedAt": "2026-11-03T16:57:31.487192+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
