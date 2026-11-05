@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-06T04:35:58+08:00",
+    "generatedAt": "2026-11-06T07:37:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-05_09-01-40.md",
-    "radarSource": "ai_opportunity_radar_20261106_043114.html",
+    "radarSource": "ai_opportunity_radar_20261106_073025.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261106_043114.html",
+    "sourceFile": "ai_opportunity_radar_20261106_073025.html",
     "items": [
       {
-        "id": "radar-e6cf01cbec31",
+        "id": "radar-c38013d9cf21",
         "kind": "radar",
-        "title": "Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF",
-        "summary": "Google Open Source Blog reports: Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF Google Open Source Blog",
+        "title": "Exclusive | AI Security Startup Sentra Raises $150 Million to Police Autonomous Agents",
+        "summary": "WSJ shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 46,
-        "date": "2026-11-05 17:04",
-        "displayDate": "2026-11-05 17:04",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnB0dTM2YTRtbHRzNkFNcV9zQUliYzJmXy0wLTRHQnBPU0JEVkJSRU41VUNqUTl2WU1YWmlUU2xkZ0pCb2hjRHZMRzZLN09GMU12TDVqN21SdkNNODlRWndDcWNsMGdncGxERkFUOHhrb2pzdjNHY1k4QTF1U1ItNDVsa3NMUUZUV1BQT251NA",
-        "source": "Official / vendor signal · Source: Google Open Source Blog · Time: 2026-11-05 17:04"
+        "score": 50,
+        "date": "2026-11-05 14:37",
+        "displayDate": "2026-11-05 14:37",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXoxT3FYWjJHMDlHckQ0b0d4Z2ZYUnpRUjhzcFFLalFuYXdaV0hwLWJYOWh3U0FTTVJkNXFOcWpNSkRfc1lkT0preHVMN2JkdEJVUDJoaVhVV1lGdUNjdkNqY2xGeHBob1dCXzl2azhKX2U4UmtxejVuZTl1aUhGaHRYTTh1bGFaWVRPWTNZckdiTXhfSUVSb3hxWXhoaVBGdjRGT1hjTEprZUZPbmUxUmFZMlFHX3IzQmIyVg",
+        "source": "News signal — verify before acting · Source: WSJ · Time: 2026-11-05 14:37"
       },
       {
         "id": "radar-77276cdb3304",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Vocal · Time: 2026-11-05 16:43"
       },
       {
-        "id": "radar-5d4f317bca74",
+        "id": "radar-9f2b747ca118",
         "kind": "radar",
-        "title": "Bright Data’s web scrapers heal themselves with AI coding agents",
-        "summary": "TechRadar reports: Bright Data’s web scrapers heal themselves with AI coding agents TechRadar",
+        "title": "Meta Acquires Conductor to Support Multi-Agent AI Coding",
+        "summary": "DevOps.com reports: Meta Acquires Conductor to Support Multi-Agent AI Coding DevOps.com",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-05 15:36",
-        "displayDate": "2026-11-05 15:36",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEJYdmNGSm9OeDBzdHk1ZVFKandwcFpWczBPYjhJMWVKRGNMSVFibkVtM1FsWGFSeDBpc0VaS05RZE0tOUVHUXAwemdVemRDV3JoNUlWc0RtZmg2dGh0X2ZZRGF2cURRcnJubjBuenRsZ09yUlpTT210R3U1aTZ6OWhfWXZkdWEyN1V5QXJBZTI",
-        "source": "News signal — verify before acting · Source: TechRadar · Time: 2026-11-05 15:36"
+        "date": "2026-11-05 18:55",
+        "displayDate": "2026-11-05 18:55",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclVLTUIxVFZjc2oyUzJyenNzWkJjUFlib2QwZmxlV3E3bVdGdUFLUUhjalkyenRTV3JOQVU4a1FjQTZocktyX051ekEtVExOREFDYkRNMkpPSTI3LS00N014MnRuLTMzWFdKX01XczlBREVEdDZZc3NWOHJ2WUE1TA",
+        "source": "News signal — verify before acting · Source: DevOps.com · Time: 2026-11-05 18:55"
       },
       {
         "id": "radar-6d31a81f668a",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-03 21:53"
       },
       {
-        "id": "radar-7418c8be0f7e",
+        "id": "radar-e6cf01cbec31",
         "kind": "radar",
-        "title": "A Playground for Agents to Replay, Explore, and Learn from Experience",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=1.",
+        "title": "Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF",
+        "summary": "Google Open Source Blog reports: Sandboxing Untrusted AI Agents at Scale: Google Donates Agent Substrate and gVisor to the CNCF Google Open Source Blog",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-05 18:43",
-        "displayDate": "2026-11-05 18:43",
-        "url": "https://neosigma.ai/blog/agent-environments",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-05 18:43"
+        "score": 46,
+        "date": "2026-11-05 17:04",
+        "displayDate": "2026-11-05 17:04",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnB0dTM2YTRtbHRzNkFNcV9zQUliYzJmXy0wLTRHQnBPU0JEVkJSRU41VUNqUTl2WU1YWmlUU2xkZ0pCb2hjRHZMRzZLN09GMU12TDVqN21SdkNNODlRWndDcWNsMGdncGxERkFUOHhrb2pzdjNHY1k4QTF1U1ItNDVsa3NMUUZUV1BQT251NA",
+        "source": "Official / vendor signal · Source: Google Open Source Blog · Time: 2026-11-05 17:04"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-06T04:05:57.987943+08:00",
-        "nextRun": "2026-11-06T05:05:58.245985+08:00",
+        "lastRun": "2026-11-06T07:07:02.792453+08:00",
+        "nextRun": "2026-11-06T08:07:03.076465+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-06T04:12:50.100885+08:00",
-        "nextRun": "2026-11-06T07:10:00+08:00",
+        "lastRun": "2026-11-06T07:11:09.478147+08:00",
+        "nextRun": "2026-11-06T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-06T04:34:00.961689+08:00",
-        "nextRun": "2026-11-06T04:36:00.961689+08:00",
+        "lastRun": "2026-11-06T07:34:05.766690+08:00",
+        "nextRun": "2026-11-06T07:39:03.041465+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-06T04:31:14.151887+08:00",
-        "nextRun": "2026-11-06T07:30:00+08:00",
+        "lastRun": "2026-11-06T07:30:25.399636+08:00",
+        "nextRun": "2026-11-06T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-06T03:45:41.696321+08:00",
-        "nextRun": "2026-11-06T06:40:00+08:00",
+        "lastRun": "2026-11-06T06:42:41.731054+08:00",
+        "nextRun": "2026-11-06T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-06T04:35:58.245985+08:00"
+    "updatedAt": "2026-11-06T07:37:03.077968+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
