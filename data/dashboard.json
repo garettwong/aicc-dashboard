@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-09T01:53:03+08:00",
+    "generatedAt": "2026-11-09T04:54:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-08_09-02-31.md",
-    "radarSource": "ai_opportunity_radar_20261109_013021.html",
+    "radarSource": "ai_opportunity_radar_20261109_043027.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261109_013021.html",
+    "sourceFile": "ai_opportunity_radar_20261109_043027.html",
     "items": [
       {
         "id": "radar-e72f7f460720",
@@ -59,18 +59,18 @@
         "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-11-03 08:00"
       },
       {
-        "id": "radar-2e7ca5e9a3b9",
+        "id": "radar-697cd620876b",
         "kind": "radar",
-        "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Alibaba's Co-Design Bench: the best coding agent fully completes only 26.4% of real user requests",
+        "summary": "MLQ.ai reports: Alibaba's Co-Design Bench: the best coding agent fully completes only 26.4% of real user requests MLQ.ai",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 68,
-        "date": "2026-11-07 10:01",
-        "displayDate": "2026-11-07 10:01",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-07 10:01"
+        "score": 100,
+        "date": "2026-11-08 10:21",
+        "displayDate": "2026-11-08 10:21",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnhpUm5SbEoySzFKd08tQ3N3RGU0THFoa3NydEVYaGdlVmFQZVZhcVdyZVV2OFRaZGYyeEdXRmF1bXBhbzJOUDVqVFprc2FPaXlyTGhTb1VWX1cyaVZwS0tWT2liUEJvV0x1Ql9qU01BZDdfemVZNFJrckJzYkM2aTlVcHFGcVJsT3N1cHZvT1llSzR0dlN4b1VOWVNaXzVPX0pDbUJQLWJHQ250azR4X1dpTlM",
+        "source": "News signal — verify before acting · Source: MLQ.ai · Time: 2026-11-08 10:21"
       },
       {
         "id": "radar-882055ffdf79",
@@ -129,32 +129,32 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-05 12:02"
       },
       {
-        "id": "radar-ce93c5e0c390",
+        "id": "radar-531fe6437a3c",
         "kind": "radar",
-        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "summary": "TechCrunch shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Figma Opens Its Canvas to AI Coding Agents, Answering Canva's Pivot",
+        "summary": "Startup Fortune reinforces that AI design still needs human taste: hierarchy, typography, brand fit, visual rhythm, and final client communication remain the professional layer.",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 86,
+        "date": "2026-11-02 01:42",
+        "displayDate": "2026-11-02 01:42",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDRvWW9qYjU5SXZ5WWo4bjgxX0swdnl4YmlRLUxhZ2NNZkpKZXlXYmxXellyeTlOZkN3WlF1RzVVM0N3MjFOWmdUTWxGSF9vTWU0ZEQtdlprZHZaSkpMbGdBdERXVzFYMnItdi1fYy0yYlpYX3FBUE5JVWQ4VEJzaFdGczFSQ3E5ZnJlczlLNHVjVFg3dlV4eA",
+        "source": "Trusted news / community signal · Source: Startup Fortune · Time: 2026-11-02 01:42"
+      },
+      {
+        "id": "radar-14e5b2327080",
+        "kind": "radar",
+        "title": "The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants",
+        "summary": "Thomson Reuters tax reports: The new skill nobody's teaching accountants: How to review AI's work AI review best practices for accountants Thomson Reuters tax",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 83,
-        "date": "2026-11-02 23:13",
-        "displayDate": "2026-11-02 23:13",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXBXcWVNSnF4bHF6YndHbU1BVnlvVDZzVTNLZFZyTHZGSVZkRGNKVWxHaUc2UjUzODlmNVV6cHpwSUl6bGJKOFowd0dDZmZMUjdRWFBWb2hGcnZIR0tycGFkSTZrT0M0ZnNJN2RyVmc5ckNfc2c5eldTd3hFbGs2ZmFjOUpxSnBYaDVHSnlueHkzc2NNRW1ZdkFLMlloQ2ZTaGgxSWY4NU9NV1RPenl3UWhZem9QREZG",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-11-02 23:13"
-      },
-      {
-        "id": "radar-e50bff188e80",
-        "kind": "radar",
-        "title": "Accelerating engineering for the physical world",
-        "summary": "OpenAI reports: Accelerating engineering for the physical world OpenAI",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 68,
-        "date": "2026-11-03 21:53",
-        "displayDate": "2026-11-03 21:53",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw",
-        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-03 21:53"
+        "date": "2026-11-04 19:03",
+        "displayDate": "2026-11-04 19:03",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEFva3YwNUxOTTN2Tm53WEQxRGdvcUpaWnRVUlF1QUtOeGhpZktBRjhSWXBVZmNBZzY0MEFDbkhfTFpCc0dCWEVQYzA5MVVDUGllc2VzeHFCNE1IMzhFa1JHNXdjQWRveU5vTXBtOGl3a2o2Q29OZ3YyRVFnRUlZRGlUdw",
+        "source": "Trusted news / community signal · Source: Thomson Reuters tax · Time: 2026-11-04 19:03"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-09T01:23:03.055828+08:00",
-        "nextRun": "2026-11-09T02:23:03.272176+08:00",
+        "lastRun": "2026-11-09T04:24:08.312444+08:00",
+        "nextRun": "2026-11-09T05:24:08.565882+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-09T01:11:41.171233+08:00",
-        "nextRun": "2026-11-09T04:10:00+08:00",
+        "lastRun": "2026-11-09T04:11:05.566633+08:00",
+        "nextRun": "2026-11-09T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-09T01:51:07.233860+08:00",
-        "nextRun": "2026-11-09T01:53:07.233860+08:00",
+        "lastRun": "2026-11-09T04:51:12.206507+08:00",
+        "nextRun": "2026-11-09T04:56:08.555883+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-09T01:30:21.670596+08:00",
-        "nextRun": "2026-11-09T04:30:00+08:00",
+        "lastRun": "2026-11-09T04:30:27.318366+08:00",
+        "nextRun": "2026-11-09T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-09T00:46:41.381077+08:00",
-        "nextRun": "2026-11-09T03:40:00+08:00",
+        "lastRun": "2026-11-09T03:44:48.539754+08:00",
+        "nextRun": "2026-11-09T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-09T01:53:03.273176+08:00"
+    "updatedAt": "2026-11-09T04:54:08.565882+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
