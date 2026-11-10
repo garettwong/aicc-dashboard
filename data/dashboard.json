@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-10T10:39:30+08:00",
+    "generatedAt": "2026-11-10T13:44:35+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-10_09-02-28.md",
-    "radarSource": "ai_opportunity_radar_20261110_103055.html",
+    "radarSource": "ai_opportunity_radar_20261110_133056.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261110_103055.html",
+    "sourceFile": "ai_opportunity_radar_20261110_133056.html",
     "items": [
       {
-        "id": "radar-d1984529cc6a",
+        "id": "radar-c38013d9cf21",
         "kind": "radar",
-        "title": "Measuring how AI agents handle everyday wet-lab science",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Exclusive | AI Security Startup Sentra Raises $150 Million to Police Autonomous Agents",
+        "summary": "WSJ shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-10 01:50",
-        "displayDate": "2026-11-10 01:50",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-10 01:50"
+        "score": 50,
+        "date": "2026-11-10 03:06",
+        "displayDate": "2026-11-10 03:06",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXoxT3FYWjJHMDlHckQ0b0d4Z2ZYUnpRUjhzcFFLalFuYXdaV0hwLWJYOWh3U0FTTVJkNXFOcWpNSkRfc1lkT0preHVMN2JkdEJVUDJoaVhVV1lGdUNjdkNqY2xGeHBob1dCXzl2azhKX2U4UmtxejVuZTl1aUhGaHRYTTh1bGFaWVRPWTNZckdiTXhfSUVSb3hxWXhoaVBGdjRGT1hjTEprZUZPbmUxUmFZMlFHX3IzQmIyVg",
+        "source": "News signal — verify before acting · Source: WSJ · Time: 2026-11-10 03:06"
       },
       {
-        "id": "radar-05c228ca4c24",
+        "id": "radar-5ba6676a0f20",
         "kind": "radar",
-        "title": "Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys?",
-        "summary": "VentureBeat reports: Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys?",
+        "title": "Anthropic Faces Series of Enterprise Data and Developer Credential Leaks",
+        "summary": "THE ELEC, Korea Electronics Industry Media reports: Anthropic Faces Series of Enterprise Data and Developer Credential Leaks THE ELEC, Korea Electronics Industry Media",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-10 02:21",
-        "displayDate": "2026-11-10 02:21",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUpkU0cwTTR0N2hiY1h6QTh4NzBaWWgzb1JyaXRmT2I0clVCMERQS1I3NWhJOVhyd3lUNWVXckJzOVhLcm9CYkVzSTI1dVNBNExfaTRWR3RSNjE4eUpHT1RJNm5nZXViaEZfcFJWQlFhWjQtZDZ1MFdYZFRlOTJPMHRVclNQZE1XdjkxeV9obVZ4Y3F4Wi1iNC1rWUszYXNBYjF3bG9EWDJaVU44Vy1LYXhiQVhBYTAzOXdUbDg2Tmd6QVFZSUE",
-        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-11-10 02:21"
+        "date": "2026-11-10 05:07",
+        "displayDate": "2026-11-10 05:07",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qbG1mTWI3UkdkUWtSTFNFanJEUzVYZzJBTXo1b2lvai12cVM1RUZfcUFuN3VGNi1yWUtNYXcySEpKMXNiUjJHNktaVnZVUVJtczE1M0J6elZ3Q1lPSXlCVHRobzMxVUk",
+        "source": "News signal — verify before acting · Source: THE ELEC, Korea Electronics Industry Media · Time: 2026-11-10 05:07"
       },
       {
         "id": "radar-d7f8e53a57cd",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-05 12:02"
       },
       {
-        "id": "radar-2a8198aee164",
+        "id": "radar-b2d16300cd36",
         "kind": "radar",
-        "title": "JPMorganChase Broadens Claude Code Use Beyond Engineering Teams",
-        "summary": "Unite.AI reports: JPMorganChase Broadens Claude Code Use Beyond Engineering Teams Unite.AI",
+        "title": "Cursor and Google Give Coding Agents a Voice, Claude Code Stays Silent",
+        "summary": "OpenTools reports: Cursor and Google Give Coding Agents a Voice, Claude Code Stays Silent OpenTools",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-09 22:45",
-        "displayDate": "2026-11-09 22:45",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDVZWVBqVS1qLWZ1NEx6RjJZZ2ZXQmlLcnJteFlUY0JRRFZRYlpSeEFVdkpuRk9DYUF6WnRjeFlicVFRQWViQ3lSbVZwNnZldG1Lc3otQnVJVFY5a01FRmxFY2FCTTlTdW1rQTFZQmdrcWc1Z21jbFdQUzNGa25QSkxuNzNTdFRHUXhBU2p3",
-        "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-11-09 22:45"
+        "date": "2026-11-10 04:10",
+        "displayDate": "2026-11-10 04:10",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGZNdHZJWG5KZC01ZVNjZ2JweVE3WUdiWW9fZUxEbmE2UTB1QXRoVHJGQ3lELUxoYzJGODJaOUJGQ0hRWTU5bG8wWVQtRzNLSmJlZHl4aTZkX3lWSmJwS2tiOVk3a2pnUDJqbjVXdGUydWJwUmZJbHBmdk80VzI5cmdPZndKRFBXaGdN",
+        "source": "News signal — verify before acting · Source: OpenTools · Time: 2026-11-10 04:10"
       },
       {
         "id": "radar-c048324d7c31",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-03 21:53"
       },
       {
-        "id": "radar-643f6e0bd7ad",
+        "id": "radar-762e79f47975",
         "kind": "radar",
-        "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
+        "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-10 01:31",
-        "displayDate": "2026-11-10 01:31",
-        "url": "https://toptal.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-10 01:31"
+        "date": "2026-11-10 04:29",
+        "displayDate": "2026-11-10 04:29",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-10 04:29"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-10T10:09:30.064681+08:00",
-        "nextRun": "2026-11-10T11:09:30.146912+08:00",
+        "lastRun": "2026-11-10T13:14:34.911738+08:00",
+        "nextRun": "2026-11-10T14:14:35.076550+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-10T10:12:31.484513+08:00",
-        "nextRun": "2026-11-10T13:10:00+08:00",
+        "lastRun": "2026-11-10T13:11:47.910976+08:00",
+        "nextRun": "2026-11-10T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-10T10:38:35.024043+08:00",
-        "nextRun": "2026-11-10T10:40:35.024043+08:00",
+        "lastRun": "2026-11-10T13:41:38.771216+08:00",
+        "nextRun": "2026-11-10T13:46:35.067046+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-10T10:30:55.426580+08:00",
-        "nextRun": "2026-11-10T13:30:00+08:00",
+        "lastRun": "2026-11-10T13:30:56.712559+08:00",
+        "nextRun": "2026-11-10T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-10T09:46:19.693042+08:00",
-        "nextRun": "2026-11-10T12:40:00+08:00",
+        "lastRun": "2026-11-10T12:43:44.717563+08:00",
+        "nextRun": "2026-11-10T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-10T10:39:30.147911+08:00"
+    "updatedAt": "2026-11-10T13:44:35.077550+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
