@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-11T05:26:53+08:00",
+    "generatedAt": "2026-11-11T06:57:55+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-10_09-02-28.md",
     "radarSource": "ai_opportunity_radar_20261111_043037.html",
@@ -172,6 +172,17 @@
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
+        "id": "198f213f6827",
+        "name": "X AI Tools & Business Collector — local only — every 3 hours",
+        "enabled": true,
+        "state": "error",
+        "schedule": "40 */3 * * *",
+        "lastStatus": "error",
+        "lastRun": "2026-11-11T06:41:01.567249+08:00",
+        "nextRun": "2026-11-11T09:40:00+08:00",
+        "message": "RuntimeError: HTTP 403 — HTML error page (title not found)"
+      },
+      {
         "id": "e00ffbee1272",
         "name": "AI Command Brief — only useful Telegram push — every 6 hours",
         "enabled": true,
@@ -211,8 +222,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-11T04:28:10.245932+08:00",
-        "nextRun": "2026-11-11T05:56:53.146368+08:00",
+        "lastRun": "2026-11-11T06:27:55.310112+08:00",
+        "nextRun": "2026-11-11T07:27:55.519090+08:00",
         "message": "No recent error."
       },
       {
@@ -233,8 +244,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-11T04:42:13.826769+08:00",
-        "nextRun": "2026-11-11T05:28:53.138367+08:00",
+        "lastRun": "2026-11-11T06:56:58.057345+08:00",
+        "nextRun": "2026-11-11T06:58:58.057345+08:00",
         "message": "unused"
       },
       {
@@ -247,17 +258,6 @@
         "lastRun": "2026-11-11T04:30:37.762150+08:00",
         "nextRun": "2026-11-11T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
-      },
-      {
-        "id": "198f213f6827",
-        "name": "X AI Tools & Business Collector — local only — every 3 hours",
-        "enabled": true,
-        "state": "ok",
-        "schedule": "40 */3 * * *",
-        "lastStatus": "ok",
-        "lastRun": "2026-11-11T03:44:58.450397+08:00",
-        "nextRun": "2026-11-11T06:40:00+08:00",
-        "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
         "id": "4ff5b057b118",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-11T05:26:53.148495+08:00"
+    "updatedAt": "2026-11-11T06:57:55.520089+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
