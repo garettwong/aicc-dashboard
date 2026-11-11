@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-12T04:49:54+08:00",
+    "generatedAt": "2026-11-12T07:51:59+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-11_09-02-10.md",
-    "radarSource": "ai_opportunity_radar_20261112_043110.html",
+    "radarSource": "ai_opportunity_radar_20261112_073114.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261112_043110.html",
+    "sourceFile": "ai_opportunity_radar_20261112_073114.html",
     "items": [
       {
-        "id": "radar-626d69331894",
+        "id": "radar-6d2c9c89af7b",
         "kind": "radar",
-        "title": "An open specification for agentic AI security evaluation and testing, from Cisco",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF",
+        "summary": "Google Open Source Blog reports: Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF Google Open Source Blog",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-11-11 20:11",
-        "displayDate": "2026-11-11 20:11",
-        "url": "https://github.com/CiscoDevNet/foundry-security-spec",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-11 20:11"
+        "score": 62,
+        "date": "2026-11-11 19:31",
+        "displayDate": "2026-11-11 19:31",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw",
+        "source": "Official / vendor signal · Source: Google Open Source Blog · Time: 2026-11-11 19:31"
       },
       {
-        "id": "radar-ae11b4c3ae4d",
+        "id": "radar-a0143cc366d3",
         "kind": "radar",
-        "title": "addyosmani/agent-skills Adds 788 GitHub Stars in 24 Hours as AI Coding Agents Get Senior-Engineer Guardrails",
-        "summary": "BigGo Finance highlights the risk side of agent work: autonomous tools need permission limits, rollback plans, logs, and human approval before touching production systems.",
+        "title": "Google releases Modern Web Guidance 1.0: here's how to use it",
+        "summary": "coywolf.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-11 17:55",
-        "displayDate": "2026-11-11 17:55",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BbUNWZTdzaDN6X1M1Z2R1UWFMY0pyQTAtcGpxcU53em5TcEF4LWRuNms4SjE2WXBjX3ZuNVJFanNrZFNlZVpzN2NaQXpwN3ViYjZKb1RhelFmRGdXaUM2a3ZINHBON3ZJREU0Ukp3VERoOU1Lb1E",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-11 17:55"
+        "date": "2026-11-11 19:16",
+        "displayDate": "2026-11-11 19:16",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTm1QMzlwamQxaW1nOUhITEF3WXVteDFZNkY2eEN6NTdwbW5WMHZDb3lQSERXd1JTS3BQd1o1ZnlBRk9RcUdBeTZycWFKTThUZ0UzX1lGZmFqMXVpMFI1NGcwcnIyeXpHNmhBd2RndnpIQVR3X29fZHV2VG5BdEVWREtwMUdtLURxSGducmMxNmo3ZmwyTnk2b3V0NzVaX1F6UV9ESGZjU0FSclJ6WTVzMVk5UQ",
+        "source": "News signal — verify before acting · Source: coywolf.com · Time: 2026-11-11 19:16"
       },
       {
         "id": "radar-042a41cb636d",
@@ -87,18 +87,32 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-05 12:02"
       },
       {
-        "id": "radar-95815d1b4dce",
+        "id": "radar-0c231130830f",
         "kind": "radar",
-        "title": "OpenCode vs Claude Code: $10 Go vs $20 Pro [2026]",
-        "summary": "shattered.io reports: OpenCode vs Claude Code: $10 Go vs $20 Pro [2026] shattered.io",
+        "title": "Can AI Agents Help Los Angeles Evacuate Faster During Wildfires?",
+        "summary": "USC Viterbi School of Engineering is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-11-11 22:15",
+        "displayDate": "2026-11-11 22:15",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX21Ubml2cnpTMDNzWkdfWXZlVXFPb1Ixd1NFb1pMdjJ6WF90LTNlVldFTEpKSUQ5aTByaGdNbEhTcXNpVkRWS0dUY2FkNGJ3TlpTeE5KMjJxZ0d5VkFtR3NHSjRhNlpVZl9mQ0lHTk1qRkhOakE2WGcxalFNdWl5MmFlUzdzOFVyd1l0MjFwTzVIT2dXSzFrVGNMY3AxNlZMN0hDRURjem8xcTg",
+        "source": "News signal — verify before acting · Source: USC Viterbi School of Engineering · Time: 2026-11-11 22:15"
+      },
+      {
+        "id": "radar-f70508d772ef",
+        "kind": "radar",
+        "title": "AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents",
+        "summary": "GeekWire reports: AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents GeekWire",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-11 15:24",
-        "displayDate": "2026-11-11 15:24",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFdG42U3hhcWw1ZS1yMG1felZHWDlETjhZMjJsNzl6aU9MWS1ST3E1WXBOOERpSHpUeEljbDRDSzNzbjlUX05tWTJpeFhOdVBJMDVKcDltbHRyb1ItWnp3QkRDN29BUEpqQ3hnS0luWHV6TGZl",
-        "source": "News signal — verify before acting · Source: shattered.io · Time: 2026-11-11 15:24"
+        "date": "2026-11-11 18:51",
+        "displayDate": "2026-11-11 18:51",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObk95bFN4Zjg5OVdqUGNDenV6WlYteUZGc2l0V241elh4WDViNkZ3NzhMX1hfWlJqTm13RTlKLTZkRVhqRHF6ZWgwQWFoLVpsRVdxZ3JmbmRaemxIdG4zN0hwWkNTQnk2ZG9mVmVVR1VjV1l2Rm9MN0JfVE9VUmJSSUFHQWFELWIybGN3OC1VSEw3TExVQ29CZ1Q5QUtRMjVaY3AwOFdXeWZyeXZVN3haUEQ1cnpiOVVhTFUw",
+        "source": "News signal — verify before acting · Source: GeekWire · Time: 2026-11-11 18:51"
       },
       {
         "id": "radar-8b244d35666f",
@@ -141,20 +155,6 @@
         "displayDate": "2026-11-10 21:04",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmZMaDltVGdPaFVfMXRvWFQyQmp6VWR5R3JMdnlFNFFmWXEwOWZlSlA4dVo5SmZtV1FRQm4xTlIwTFItbjh6ZW42SDhTVURjN2VqZFEzc1huZmF6ZmgxaTc3a2Q3cVp3MlFrUkFFbzczZF9kSHNWQklfNkJuNFBKOHVJcmtMRi1Ma2c",
         "source": "News signal — verify before acting · Source: Metropolis Magazine · Time: 2026-11-10 21:04"
-      },
-      {
-        "id": "radar-5a92130455fa",
-        "kind": "radar",
-        "title": "United Airlines moves to block AI agents from its platform over security concerns",
-        "summary": "CNBC reports: United Airlines moves to block AI agents from its platform over security concerns CNBC",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-11 20:02",
-        "displayDate": "2026-11-11 20:02",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TQ",
-        "source": "News signal — verify before acting · Source: CNBC · Time: 2026-11-11 20:02"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T04:19:54.479282+08:00",
-        "nextRun": "2026-11-12T05:19:54.607043+08:00",
+        "lastRun": "2026-11-12T07:20:59.430304+08:00",
+        "nextRun": "2026-11-12T08:21:59.449504+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T04:12:34.848846+08:00",
-        "nextRun": "2026-11-12T07:10:00+08:00",
+        "lastRun": "2026-11-12T07:12:37.010832+08:00",
+        "nextRun": "2026-11-12T10:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T04:48:57.713336+08:00",
-        "nextRun": "2026-11-12T04:50:57.713336+08:00",
+        "lastRun": "2026-11-12T07:49:02.249570+08:00",
+        "nextRun": "2026-11-12T07:53:59.438995+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T04:31:10.128031+08:00",
-        "nextRun": "2026-11-12T07:30:00+08:00",
+        "lastRun": "2026-11-12T07:31:14.977950+08:00",
+        "nextRun": "2026-11-12T10:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T03:48:55.801608+08:00",
-        "nextRun": "2026-11-12T06:40:00+08:00",
+        "lastRun": "2026-11-12T06:46:18.584887+08:00",
+        "nextRun": "2026-11-12T09:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-12T04:49:54.608043+08:00"
+    "updatedAt": "2026-11-12T07:51:59.450505+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
