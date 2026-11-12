@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-13T01:31:32+08:00",
+    "generatedAt": "2026-11-13T04:32:36+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-12_09-01-34.md",
-    "radarSource": "ai_opportunity_radar_20261113_013050.html",
+    "radarSource": "ai_opportunity_radar_20261113_043107.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261113_013050.html",
+    "sourceFile": "ai_opportunity_radar_20261113_043107.html",
     "items": [
       {
-        "id": "radar-1b159e79aff0",
+        "id": "radar-4beed06e33f9",
         "kind": "radar",
-        "title": "Agent-access-review – an access review for AI agents' MCP configs",
+        "title": "CanyonOS: Find, observe, and scale agents slowing down your workflow",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-11-12 15:32",
-        "displayDate": "2026-11-12 15:32",
-        "url": "https://github.com/Mihirajmera/agent-access-review",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-12 15:32"
+        "score": 56,
+        "date": "2026-11-12 18:50",
+        "displayDate": "2026-11-12 18:50",
+        "url": "https://canyonos.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-12 18:50"
       },
       {
-        "id": "radar-7aef5632899b",
+        "id": "radar-00e2dd03c855",
         "kind": "radar",
-        "title": "Coding Agent Security for AppSec Leaders: Start With What Agents Can Reach",
-        "summary": "GitGuardian Blog reports: Coding Agent Security for AppSec Leaders: Start With What Agents Can Reach GitGuardian Blog",
+        "title": "Expo Gives Claude, Codex Cloud Simulators at $6 an Hour",
+        "summary": "FourWeekMBA reports: Expo Gives Claude, Codex Cloud Simulators at $6 an Hour FourWeekMBA",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-12 16:01",
-        "displayDate": "2026-11-12 16:01",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80WjhYd0pXeVc3aTZOb3ZQZklBaXJ5VEs5OVhwUXBhR29zS3kybmwzSklUNmpLbzNIVVdxZzdQVDdHb1JETmdKTGlpd2IzMXZZbTAtZGtfRzlySld0SWtHWHpiblhuUjljSFE",
-        "source": "News signal — verify before acting · Source: GitGuardian Blog · Time: 2026-11-12 16:01"
+        "date": "2026-11-12 20:16",
+        "displayDate": "2026-11-12 20:16",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaTdYVmJ5TlVmWEZWaWVMc0dnUjN0c0stUUJkYnR2WVZleDRLamQwMGJmM1NLU05MMmY4QUxyZS1ZSVJyY0xxakdZS0w5OTdfWjhhNFBzcE4yZjhMRDQxZXd3WXgwRnA4NHA5Wkt3MG12VzNBUWlna1VxajJ6M0dqVXJlcDhXZHpT",
+        "source": "News signal — verify before acting · Source: FourWeekMBA · Time: 2026-11-12 20:16"
       },
       {
-        "id": "radar-4ba4542115f1",
+        "id": "radar-053e0ac1d8ed",
         "kind": "radar",
-        "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents",
-        "summary": "EdTech Innovation Hub reports: IBM and Microsoft unveil Imagine Enterprise for workplace AI agents EdTech Innovation Hub",
+        "title": "Insight Enterprises launches global AI Agent Store across 14 countries",
+        "summary": "StreetInsider flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 96,
-        "date": "2026-11-12 00:26",
-        "displayDate": "2026-11-12 00:26",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv",
-        "source": "News signal — verify before acting · Source: EdTech Innovation Hub · Time: 2026-11-12 00:26"
+        "date": "2026-11-12 14:02",
+        "displayDate": "2026-11-12 14:02",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUW9wTlEtUllPOW1nYk81bVN1OWFVbGpnMW1fVHpBOVFBanY1b01SeDB2OUZ0dGxGN0p6MDV6R0VoVUprQ202LXpuQXpCcjRnNmFST1FiOGF4Qmp6TFg2VkJER28tRndFbnZmeTdPSElaWmlWSUIyeTRXeW9CdWJ0VUcxaHZvRlU0OWJjdWNtdXB6UjdWN0RudWMtTUdKVl9QNUhKbnllZjRmM2c5aURNU0FEYmlZZEM4blJ3N3VvMzZmY1lKV3JjRA",
+        "source": "News signal — verify before acting · Source: StreetInsider · Time: 2026-11-12 14:02"
       },
       {
         "id": "radar-9d8932e2d42e",
@@ -101,18 +101,18 @@
         "source": "News signal — verify before acting · Source: Intelligent CISO · Time: 2026-11-12 13:12"
       },
       {
-        "id": "radar-3db97e8822fd",
+        "id": "radar-1fd4ab573b5d",
         "kind": "radar",
-        "title": "AI Coding Agents Failed to Generate Valid Test Cases: 100% Overestimation of AI-Generated Code Pass Rate",
-        "summary": "36Kr reports: AI Coding Agents Failed to Generate Valid Test Cases: 100% Overestimation of AI-Generated Code Pass Rate 36Kr",
+        "title": "Expo Opens Paid-Plan Access to Cloud Simulators for AI Coding Agents",
+        "summary": "Unite.AI reports: Expo Opens Paid-Plan Access to Cloud Simulators for AI Coding Agents Unite.AI",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-12 09:00",
-        "displayDate": "2026-11-12 09:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmWlJHQ3RvUXpWaGoyZlVQZ0I3MWYxN3puUWtXMzRSMTVmQ3FqdHZsOGRidlBlMzlfam5tYVU2WjcwS05neVo2djRxY0R6Zm5vZjl3",
-        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-11-12 09:00"
+        "date": "2026-11-12 17:34",
+        "displayDate": "2026-11-12 17:34",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVBaaG5pcTB2YUQ5aDhRdkxkYlVncWpxNjc4ZXVnLUNYRC1Sdzh4YllBcHhJcDlxQ0kxODY0WDIwdkFLM25JbEZENktVQ0UtNmNpUl9qOEVmT2Fzdm83dGZIbmJZZUNUUGoyOWlNN3FqZkMyZUVoLVFJaEtMeVoxc1B2UWU2M3VNb0JwY2VJVHUzZ1lR",
+        "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-11-12 17:34"
       },
       {
         "id": "radar-812ef47e6649",
@@ -129,18 +129,18 @@
         "source": "News signal — verify before acting · Source: STLtoday.com · Time: 2026-11-12 14:44"
       },
       {
-        "id": "radar-b361a7a46295",
+        "id": "radar-aba0f6493144",
         "kind": "radar",
-        "title": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom",
-        "summary": "Reuters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "AI is coming for consulting’s billable hours — and its graduate pipeline",
+        "summary": "CNBC reports: AI is coming for consulting’s billable hours — and its graduate pipeline CNBC",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 79,
-        "date": "2026-11-12 14:16",
-        "displayDate": "2026-11-12 14:16",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEZUUGlzOUZwcFdtamtJMHBhWUVzaGNtV2ZDX052OU11RkVnRENCbmxnQlpPem5PTG1EYnR4RTRWM0wtcDB2MG1GTHI0akxGMUJZRUFRdzFtUW1hM0ZxOTRFcndMN0dUQnk4Q2pkS0s1aFR3UVk2bWdZcUt2OUE2OXhpVkM1NzZGWi1XYjNfaTFER2NqaThfY28tNjBaejd1NXlLOFc3R0hDal84LWc1WDJyS3FsVXpqOVJfZ3pwVXNoTFBjdzZz",
-        "source": "Trusted news / community signal · Source: Reuters · Time: 2026-11-12 14:16"
+        "score": 78,
+        "date": "2026-11-12 08:20",
+        "displayDate": "2026-11-12 08:20",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU1lelRhUlYwdFhncHZEclVQX3ZWQ3RCYV9kTXc3eml0T1JjWl92TGZLZlhMYVVidjJ5QmwyT2xCZUZVaE90dThFUW9NYWdoWnNhN2QxWnY1bVZyVzZ0bmpkd1dDS1N4b1JQSVVJYnRwMV9lbWdrZXQ2ZHNfaDZ1cTFNS1FSRkRJ",
+        "source": "News signal — verify before acting · Source: CNBC · Time: 2026-11-12 08:20"
       },
       {
         "id": "radar-e552966d8f57",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T01:01:32.381991+08:00",
-        "nextRun": "2026-11-13T02:01:32.466862+08:00",
+        "lastRun": "2026-11-13T04:02:36.443553+08:00",
+        "nextRun": "2026-11-13T05:02:36.563414+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T01:11:41.424484+08:00",
-        "nextRun": "2026-11-13T04:10:00+08:00",
+        "lastRun": "2026-11-13T04:12:15.660365+08:00",
+        "nextRun": "2026-11-13T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T01:30:35.867682+08:00",
-        "nextRun": "2026-11-13T01:32:35.867682+08:00",
+        "lastRun": "2026-11-13T04:30:39.325067+08:00",
+        "nextRun": "2026-11-13T04:32:39.325067+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T01:30:50.636510+08:00",
-        "nextRun": "2026-11-13T04:30:00+08:00",
+        "lastRun": "2026-11-13T04:31:07.482969+08:00",
+        "nextRun": "2026-11-13T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T00:45:37.495822+08:00",
-        "nextRun": "2026-11-13T03:40:00+08:00",
+        "lastRun": "2026-11-13T03:44:47.547056+08:00",
+        "nextRun": "2026-11-13T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-13T01:31:32.467862+08:00"
+    "updatedAt": "2026-11-13T04:32:36.563414+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
