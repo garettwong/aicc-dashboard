@@ -1,15 +1,15 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-13T07:33:41+08:00",
+    "generatedAt": "2026-11-13T10:19:45+08:00",
     "sourceCount": 4,
-    "dailySource": "2026-11-12_09-01-34.md",
+    "dailySource": "2026-11-13_10-11-12.md",
     "radarSource": "ai_opportunity_radar_20261113_073058.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
     "headline": "Nothing worth interrupting you for",
-    "subject": "AI Everyday works tools - 2026-11-12",
+    "subject": "AI Everyday works tools - 2026-11-13",
     "message": "The quiet screen is intentional. Hermes filtered the noise.",
     "items": []
   },
@@ -168,7 +168,7 @@
         "schedule": "30 9 * * *",
         "lastStatus": "error",
         "lastRun": "2026-11-12T09:30:04.714759+08:00",
-        "nextRun": "2026-11-13T09:30:00+08:00",
+        "nextRun": "2026-11-14T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T21:01:35.896205+08:00",
-        "nextRun": "2026-11-13T09:00:00+08:00",
+        "lastRun": "2026-11-13T10:19:44.993627+08:00",
+        "nextRun": "2026-11-13T15:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -189,8 +189,8 @@
         "state": "ok",
         "schedule": "0 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T09:01:34.949833+08:00",
-        "nextRun": "2026-11-13T09:00:00+08:00",
+        "lastRun": "2026-11-13T10:11:12.528295+08:00",
+        "nextRun": "2026-11-14T09:00:00+08:00",
         "message": "You are Garett’s daily AI scout. Do not begin with a generic web-news search. First mine an expert-curator network: Matthew Berman / Forward Future (https://forwardfuture.com/newsl"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-12T09:15:18.163541+08:00",
-        "nextRun": "2026-11-13T09:15:00+08:00",
+        "lastRun": "2026-11-13T10:09:41.955871+08:00",
+        "nextRun": "2026-11-14T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T07:03:40.679561+08:00",
-        "nextRun": "2026-11-13T08:03:40.839125+08:00",
+        "lastRun": "2026-11-13T07:33:44.553280+08:00",
+        "nextRun": "2026-11-13T10:39:41.566231+08:00",
         "message": "No recent error."
       },
       {
@@ -223,7 +223,7 @@
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
         "lastRun": "2026-11-13T07:13:16.855679+08:00",
-        "nextRun": "2026-11-13T10:10:00+08:00",
+        "nextRun": "2026-11-13T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T07:30:43.491344+08:00",
-        "nextRun": "2026-11-13T07:35:40.822122+08:00",
+        "lastRun": "2026-11-13T10:18:46.191227+08:00",
+        "nextRun": "2026-11-13T10:20:46.191227+08:00",
         "message": "unused"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-13T06:45:00.828766+08:00",
-        "nextRun": "2026-11-13T09:40:00+08:00",
+        "lastRun": "2026-11-13T10:17:27.366416+08:00",
+        "nextRun": "2026-11-13T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-13T07:33:40.840126+08:00"
+    "updatedAt": "2026-11-13T10:19:44.996137+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
