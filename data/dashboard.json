@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-14T10:34:22+08:00",
+    "generatedAt": "2026-11-14T13:35:27+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-14_09-01-57.md",
-    "radarSource": "ai_opportunity_radar_20261114_103105.html",
+    "radarSource": "ai_opportunity_radar_20261114_133050.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261114_103105.html",
+    "sourceFile": "ai_opportunity_radar_20261114_133050.html",
     "items": [
       {
-        "id": "radar-612d03205cf2",
+        "id": "radar-79f2f2e17d7b",
         "kind": "radar",
-        "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-14 00:40",
-        "displayDate": "2026-11-14 00:40",
-        "url": "https://kingstonyip.com/portal2bench",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 00:40"
+        "score": 59,
+        "date": "2026-11-14 03:22",
+        "displayDate": "2026-11-14 03:22",
+        "url": "https://browserr.dev/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 03:22"
       },
       {
         "id": "radar-68f335a91559",
@@ -59,18 +59,18 @@
         "source": "News signal — verify before acting · Source: StreetInsider · Time: 2026-11-12 14:02"
       },
       {
-        "id": "radar-c7495d725aec",
+        "id": "radar-5e8313b8173b",
         "kind": "radar",
-        "title": "VS Code 1.146 Adds AI Agent Inbox, Model Comparisons and Chat Windows",
-        "summary": "Visual Studio Magazine flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Can AI design your course?",
+        "summary": "Times Higher Education is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 100,
-        "date": "2026-11-13 05:08",
-        "displayDate": "2026-11-13 05:08",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckRNOGxKNjE0UEM5NFlWNzlYbnhheUQ3RHJOQ0ZqNEI4blBYNDdlR0ZLSGVxQlNZVzlJbmQ4UDJyQmU2T0g5SWF4RS1wQzdxT2p6R25DWnNLNGQwdDBNaEthRWhHOW9QTERBTlR6a1h4M0xVUnMzVUhMdFVhWHN1NDFWQXJtbXNfSXVyY3BUUXIzNExwWUFRMlR5ck1mWVozM1BpWlpkMVVkU2hVUTFnSThnbFROVW5RekY0VnlpVEtQYi1z",
-        "source": "News signal — verify before acting · Source: Visual Studio Magazine · Time: 2026-11-13 05:08"
+        "score": 76,
+        "date": "2026-11-13 00:13",
+        "displayDate": "2026-11-13 00:13",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZQ1BnTHQzUjk1TjZWUDdmSzNHa1E4TkxUSC1JR0dTZmZ0Z2xnRmg1dFdVNzk2UUVUWmp1WFJXLU14NVZ4cjQwbVRIempKVk1scEpCbEh2SVlnOUdrUGtHVU1LcGY5WWV2TnViTTZDVUFtVUU0bFBZcQ",
+        "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
       },
       {
         "id": "radar-6cbc99557f0c",
@@ -115,20 +115,6 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 00:20"
       },
       {
-        "id": "radar-2c5f470158a1",
-        "kind": "radar",
-        "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
-        "summary": "Analytics India Magazine flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-11-11 11:30",
-        "displayDate": "2026-11-11 11:30",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR",
-        "source": "News signal — verify before acting · Source: Analytics India Magazine · Time: 2026-11-11 11:30"
-      },
-      {
         "id": "radar-ba513b2597de",
         "kind": "radar",
         "title": "Same Prompt, More Complete Prints: Meshy.ai Publishes Printability Benchmark for AI-Generated 3D Models",
@@ -143,18 +129,32 @@
         "source": "News signal — verify before acting · Source: Fidelity Investments · Time: 2026-11-13 15:00"
       },
       {
-        "id": "radar-5e8313b8173b",
+        "id": "radar-9e9b1ace490a",
         "kind": "radar",
-        "title": "Can AI design your course?",
-        "summary": "Times Higher Education is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "Top Workplaces 2026: Chicagoland employers are moving to embrace AI, but employees remain cautious",
+        "summary": "Chicago Tribune reports: Top Workplaces 2026: Chicagoland employers are moving to embrace AI, but employees remain cautious Chicago Tribune",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 78,
+        "date": "2026-11-13 11:00",
+        "displayDate": "2026-11-13 11:00",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JoNkhvM1lmUXZFRE1DNU9zMzFGb3dFbG85Ui05NWYyVDYzcVUxRER0TkhyS0kxSlVCUEJfejdSUXBlYnMxM1ZIaXBQcnNmcDdCNmNGdDU5V3dBVlVLR0NoQ3Q1cEhJU2tGUmp0SkxOT243NjNya2s0Ymw4X0dyYTFXV2g",
+        "source": "News signal — verify before acting · Source: Chicago Tribune · Time: 2026-11-13 11:00"
+      },
+      {
+        "id": "radar-f1795b286c52",
+        "kind": "radar",
+        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+        "summary": "Microsoft Source reports: IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation Microsoft Source",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 76,
-        "date": "2026-11-13 00:13",
-        "displayDate": "2026-11-13 00:13",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZQ1BnTHQzUjk1TjZWUDdmSzNHa1E4TkxUSC1JR0dTZmZ0Z2xnRmg1dFdVNzk2UUVUWmp1WFJXLU14NVZ4cjQwbVRIempKVk1scEpCbEh2SVlnOUdrUGtHVU1LcGY5WWV2TnViTTZDVUFtVUU0bFBZcQ",
-        "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
+        "score": 74,
+        "date": "2026-11-10 13:09",
+        "displayDate": "2026-11-10 13:09",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ",
+        "source": "Official / vendor signal · Source: Microsoft Source · Time: 2026-11-10 13:09"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T10:04:22.297587+08:00",
-        "nextRun": "2026-11-14T11:04:22.389481+08:00",
+        "lastRun": "2026-11-14T13:05:26.700455+08:00",
+        "nextRun": "2026-11-14T14:05:26.946233+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T10:12:38.194354+08:00",
-        "nextRun": "2026-11-14T13:10:00+08:00",
+        "lastRun": "2026-11-14T13:12:29.026008+08:00",
+        "nextRun": "2026-11-14T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T10:31:25.455438+08:00",
-        "nextRun": "2026-11-14T10:36:22.382220+08:00",
+        "lastRun": "2026-11-14T13:34:30.255004+08:00",
+        "nextRun": "2026-11-14T13:36:30.255004+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T10:31:05.149570+08:00",
-        "nextRun": "2026-11-14T13:30:00+08:00",
+        "lastRun": "2026-11-14T13:30:50.246618+08:00",
+        "nextRun": "2026-11-14T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T09:44:48.860464+08:00",
-        "nextRun": "2026-11-14T12:40:00+08:00",
+        "lastRun": "2026-11-14T12:45:00.902654+08:00",
+        "nextRun": "2026-11-14T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-14T10:34:22.389481+08:00"
+    "updatedAt": "2026-11-14T13:35:26.946233+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
