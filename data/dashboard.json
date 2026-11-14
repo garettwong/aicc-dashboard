@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-14T16:36:31+08:00",
+    "generatedAt": "2026-11-14T19:38:36+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-14_09-01-57.md",
-    "radarSource": "ai_opportunity_radar_20261114_163049.html",
+    "radarSource": "ai_opportunity_radar_20261114_193056.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261114_163049.html",
+    "sourceFile": "ai_opportunity_radar_20261114_193056.html",
     "items": [
       {
         "id": "radar-79f2f2e17d7b",
@@ -101,6 +101,20 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 00:20"
       },
       {
+        "id": "radar-2c5f470158a1",
+        "kind": "radar",
+        "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+        "summary": "Analytics India Magazine flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 96,
+        "date": "2026-11-11 11:30",
+        "displayDate": "2026-11-11 11:30",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFA1RmRsOVFsUURnd2RwN3JRZ2VYYkpSalpiQy0zQ053dmtyemZ4VXN2S2ZKNkxubGg3blFYLUxaSzNBb1dDSjRlakpMRWEwcUxHd01Rc1M0azlZbjB5dXZTeDdkQ1J3S0dQdnBfTjJjQkxlNGxnZUJuTUxiOUZiNXJhb2lhM0pYNUZpRzdxalY1RTRZRXdBRGZKSEY0MHBmaHlwSFNR",
+        "source": "News signal — verify before acting · Source: Analytics India Magazine · Time: 2026-11-11 11:30"
+      },
+      {
         "id": "radar-ba513b2597de",
         "kind": "radar",
         "title": "Same Prompt, More Complete Prints: Meshy.ai Publishes Printability Benchmark for AI-Generated 3D Models",
@@ -113,20 +127,6 @@
         "displayDate": "2026-11-13 15:00",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnBIZXNWbnc0MGxmd1hBZ1V6ZDRfSElHdlJOeEt0TjdsOHdRQkF1aVB6WENBWWpfaUFmeXdpUTJVeWpoZVprVVhlRk9qM3piNmpEUnNxUkNTRG1oVXhRNnBzUERzMEtsVHhlRkZ6aGFVOXo5VzEzX0VBS0VGZDRWb3RjVE9QUUczRTB3Ny13",
         "source": "News signal — verify before acting · Source: Fidelity Investments · Time: 2026-11-13 15:00"
-      },
-      {
-        "id": "radar-9e9b1ace490a",
-        "kind": "radar",
-        "title": "Top Workplaces 2026: Chicagoland employers are moving to embrace AI, but employees remain cautious",
-        "summary": "Chicago Tribune reports: Top Workplaces 2026: Chicagoland employers are moving to embrace AI, but employees remain cautious Chicago Tribune",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 78,
-        "date": "2026-11-13 11:00",
-        "displayDate": "2026-11-13 11:00",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JoNkhvM1lmUXZFRE1DNU9zMzFGb3dFbG85Ui05NWYyVDYzcVUxRER0TkhyS0kxSlVCUEJfejdSUXBlYnMxM1ZIaXBQcnNmcDdCNmNGdDU5V3dBVlVLR0NoQ3Q1cEhJU2tGUmp0SkxOT243NjNya2s0Ymw4X0dyYTFXV2g",
-        "source": "News signal — verify before acting · Source: Chicago Tribune · Time: 2026-11-13 11:00"
       },
       {
         "id": "radar-f1795b286c52",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: Microsoft Source · Time: 2026-11-10 13:09"
       },
       {
-        "id": "radar-5d187adda272",
+        "id": "radar-516640d96482",
         "kind": "radar",
-        "title": "WhatsTask – An AI project manager for teams of people and agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=40, comments=38.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-14 07:57",
-        "displayDate": "2026-11-14 07:57",
-        "url": "https://whatstask.com/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 07:57"
+        "score": 48,
+        "date": "2026-11-14 06:56",
+        "displayDate": "2026-11-14 06:56",
+        "url": "https://news.ycombinator.com/item",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-14 06:56"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T16:06:31.224487+08:00",
-        "nextRun": "2026-11-14T17:06:31.409867+08:00",
+        "lastRun": "2026-11-14T19:08:35.645263+08:00",
+        "nextRun": "2026-11-14T20:08:35.738358+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T16:11:56.588671+08:00",
-        "nextRun": "2026-11-14T19:10:00+08:00",
+        "lastRun": "2026-11-14T19:12:16.173085+08:00",
+        "nextRun": "2026-11-14T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T16:34:34.273035+08:00",
-        "nextRun": "2026-11-14T16:36:34.273035+08:00",
+        "lastRun": "2026-11-14T19:37:38.947746+08:00",
+        "nextRun": "2026-11-14T19:39:38.947746+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T16:30:49.086224+08:00",
-        "nextRun": "2026-11-14T19:30:00+08:00",
+        "lastRun": "2026-11-14T19:30:56.101301+08:00",
+        "nextRun": "2026-11-14T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-14T15:45:58.767633+08:00",
-        "nextRun": "2026-11-14T18:40:00+08:00",
+        "lastRun": "2026-11-14T18:45:24.435271+08:00",
+        "nextRun": "2026-11-14T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-14T16:36:31.409867+08:00"
+    "updatedAt": "2026-11-14T19:38:35.738358+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
