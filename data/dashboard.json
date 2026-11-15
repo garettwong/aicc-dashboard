@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-16T01:38:02+08:00",
+    "generatedAt": "2026-11-16T04:39:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-15_09-02-29.md",
-    "radarSource": "ai_opportunity_radar_20261116_013025.html",
+    "radarSource": "ai_opportunity_radar_20261116_043028.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261116_013025.html",
+    "sourceFile": "ai_opportunity_radar_20261116_043028.html",
     "items": [
       {
-        "id": "radar-c9472067e2a6",
+        "id": "radar-7681f5c8f5f3",
         "kind": "radar",
-        "title": "JPMorgan, United Airlines Block Outside AI Agents: Security Cited, Control at Stake",
-        "summary": "BigGo Finance reports: JPMorgan, United Airlines Block Outside AI Agents: Security Cited, Control at Stake BigGo Finance",
+        "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
+        "summary": "VentureBeat reports: One compromised MCP server can trick an AI agent into misusing tools you already trust VentureBeat",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-15 10:55",
-        "displayDate": "2026-11-15 10:55",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PaDlVTUxZdmtoZEJOYmRJQTF6X25ZVEh5VmhxVWtUcFV1djVEeGdXazNPMUpxRUVBc3NxbmlweF9Ed3hZcTdfdThsZThxbGcwcGhpekcxQzJFRWRBcklUcHdNT0JrX1lwOUVGUjgtV1M0SnBGWGc",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-15 10:55"
+        "score": 59,
+        "date": "2026-11-15 20:00",
+        "displayDate": "2026-11-15 20:00",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw",
+        "source": "Trusted news / community signal · Source: VentureBeat · Time: 2026-11-15 20:00"
       },
       {
-        "id": "radar-280e466374bc",
+        "id": "radar-0d4c3f0112bc",
         "kind": "radar",
-        "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
-        "summary": "CryptoSlate reports: Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time CryptoSlate",
+        "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
+        "summary": "CNN reports: Meet the miso-making engineer behind Anthropic’s biggest hit CNN",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-15 14:40",
-        "displayDate": "2026-11-15 14:40",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRjNCRm1POHJIY2NHMnVkOWp5Vk5MdVV1aW9zMnlNN2NHWUZhMTg5QWhiQmhRcFFtbXJnM2ViblNUSGc0dE9RdXRaSTZJQUN2UjVDLVNUMjVydXJkODMweWxOVWtFU29QYnVlTkhTbDc0Tmx6SmxzdQ",
-        "source": "News signal — verify before acting · Source: CryptoSlate · Time: 2026-11-15 14:40"
+        "date": "2026-11-15 17:00",
+        "displayDate": "2026-11-15 17:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB",
+        "source": "News signal — verify before acting · Source: CNN · Time: 2026-11-15 17:00"
       },
       {
-        "id": "radar-23d661d1fae0",
+        "id": "radar-4c7bf75e1579",
         "kind": "radar",
-        "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents | ETIH EdTech News",
-        "summary": "EdTech Innovation Hub reports: IBM and Microsoft unveil Imagine Enterprise for workplace AI agents | ETIH EdTech News EdTech Innovation Hub",
+        "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
+        "summary": "Google Cloud reports: Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification Google Cloud",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 96,
-        "date": "2026-11-12 00:26",
-        "displayDate": "2026-11-12 00:26",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv",
-        "source": "News signal — verify before acting · Source: EdTech Innovation Hub · Time: 2026-11-12 00:26"
+        "score": 100,
+        "date": "2026-11-11 17:06",
+        "displayDate": "2026-11-11 17:06",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVRiODVESFVXdTlFWnR2anRBU3hsb0FwekdVR3dLdFFwY2RQWHFubmpsMUxkMDFHd19QdVRWMVRxRGxxRHNpMHVKMFJWMDQ4UzUxa05PVGU4TVBWVkl0RUptMXdoZnBNM2RIbkpQM3A4cm5vcFl6QjYyTXdwVk5qOURxZnVGdC05dU10MW5OSklHOVh2RnBsMkotNzhBcVdqTWVhNzlMRkJFRlhldmRWeHJ5YjBfT2kyOG5WcWRVOXA5YmYxWU13bWZUWnQ0bWZm",
+        "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-11-11 17:06"
       },
       {
         "id": "radar-f507b439882e",
@@ -101,18 +101,32 @@
         "source": "News signal — verify before acting · Source: Essential Business · Time: 2026-11-15 17:14"
       },
       {
-        "id": "radar-d4d4ada72fc3",
+        "id": "radar-280e466374bc",
         "kind": "radar",
-        "title": "Cursor Confirms Breach: Stolen Fireworks AI Key Let Hackers Poison Claude Code Extension for Up to 5,000 Users",
-        "summary": "BigGo Finance reports: Cursor Confirms Breach: Stolen Fireworks AI Key Let Hackers Poison Claude Code Extension for Up to 5,000 Users BigGo Finance",
+        "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
+        "summary": "CryptoSlate reports: Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time CryptoSlate",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-15 08:35",
-        "displayDate": "2026-11-15 08:35",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GQmQwcXFwZUpYeVVqTU56TUNNMkx2UGdOcERTaHlXdDlmUjkya0ZXR09CT0dSUnJQZUY1bHVzakhqa3FKTjZyUlN1SHgyWng5RTJKclFKODRxNUpvLVBsX2JjS1pQYXpkQUNLWkVObEFpYVA4blE",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-15 08:35"
+        "date": "2026-11-15 14:40",
+        "displayDate": "2026-11-15 14:40",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRjNCRm1POHJIY2NHMnVkOWp5Vk5MdVV1aW9zMnlNN2NHWUZhMTg5QWhiQmhRcFFtbXJnM2ViblNUSGc0dE9RdXRaSTZJQUN2UjVDLVNUMjVydXJkODMweWxOVWtFU29QYnVlTkhTbDc0Tmx6SmxzdQ",
+        "source": "News signal — verify before acting · Source: CryptoSlate · Time: 2026-11-15 14:40"
+      },
+      {
+        "id": "radar-23d661d1fae0",
+        "kind": "radar",
+        "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents | ETIH EdTech News",
+        "summary": "EdTech Innovation Hub reports: IBM and Microsoft unveil Imagine Enterprise for workplace AI agents | ETIH EdTech News EdTech Innovation Hub",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 96,
+        "date": "2026-11-12 00:26",
+        "displayDate": "2026-11-12 00:26",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv",
+        "source": "News signal — verify before acting · Source: EdTech Innovation Hub · Time: 2026-11-12 00:26"
       },
       {
         "id": "radar-d2dffcb575fa",
@@ -127,20 +141,6 @@
         "displayDate": "2026-11-15 00:33",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DaTZoY2g2Yld4NU83cVBSX3lIblBjT2paREh5SFMybnl0TldRajA3UVc4RUZDb1EyX2hIeks3SnRzbnUtclhlcXl4NE8yWXlfSDU2MmNwQW9VR1hiel9aYnlSRGZSdnhyaXRFcUJEVVlVdmc4b1B1NA",
         "source": "News signal — verify before acting · Source: CASRAI · Time: 2026-11-15 00:33"
-      },
-      {
-        "id": "radar-36796089b790",
-        "kind": "radar",
-        "title": "Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data",
-        "summary": "Search Engine Journal reports: Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data Search Engine Journal",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-11-14 08:00",
-        "displayDate": "2026-11-14 08:00",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy1PVVhrbE1IdG4tWmFjVHVVYkNHc3d6dnNxclNOVEkyRjZ1MUdyaHY5NWtlczgwWDFObVR1RmVpT0dmdUxZRmJCaFJJMXNxYWFST0JUbklsZm40NW5qRHlLTE1sR2FqR3VYUVdlNDFWN2J0bmhGZTdGVEo0RGFsLXgwOWswU0RJQmVlNlkzUQ",
-        "source": "News signal — verify before acting · Source: Search Engine Journal · Time: 2026-11-14 08:00"
       },
       {
         "id": "radar-5e8313b8173b",
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-16T01:08:00.461409+08:00",
-        "nextRun": "2026-11-16T02:08:02.017932+08:00",
+        "lastRun": "2026-11-16T04:09:07.570569+08:00",
+        "nextRun": "2026-11-16T05:09:07.952473+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-16T01:12:36.414798+08:00",
-        "nextRun": "2026-11-16T04:10:00+08:00",
+        "lastRun": "2026-11-16T04:11:58.623160+08:00",
+        "nextRun": "2026-11-16T07:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-16T01:36:05.456100+08:00",
-        "nextRun": "2026-11-16T01:38:05.456100+08:00",
+        "lastRun": "2026-11-16T04:36:11.046126+08:00",
+        "nextRun": "2026-11-16T04:41:07.940436+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-16T01:30:25.700305+08:00",
-        "nextRun": "2026-11-16T04:30:00+08:00",
+        "lastRun": "2026-11-16T04:30:28.133601+08:00",
+        "nextRun": "2026-11-16T07:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-16T00:46:06.729530+08:00",
-        "nextRun": "2026-11-16T03:40:00+08:00",
+        "lastRun": "2026-11-16T03:45:04.650572+08:00",
+        "nextRun": "2026-11-16T06:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-16T01:38:02.017932+08:00"
+    "updatedAt": "2026-11-16T04:39:07.953475+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
