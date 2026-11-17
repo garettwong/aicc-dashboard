@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-17T09:29:26+08:00",
+    "generatedAt": "2026-11-17T11:00:29+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-17_09-02-22.md",
-    "radarSource": "ai_opportunity_radar_20261117_073047.html",
+    "radarSource": "ai_opportunity_radar_20261117_103045.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261117_073047.html",
+    "sourceFile": "ai_opportunity_radar_20261117_103045.html",
     "items": [
       {
-        "id": "radar-016ceb590b5f",
+        "id": "radar-475eaa94d9f6",
         "kind": "radar",
-        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-        "summary": "TechCrunch is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "The Professional Agentic Architect Certification",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 65,
-        "date": "2026-11-16 21:01",
-        "displayDate": "2026-11-16 21:01",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc",
-        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-11-16 21:01"
+        "score": 43,
+        "date": "2026-11-17 02:27",
+        "displayDate": "2026-11-17 02:27",
+        "url": "https://cloud.google.com/blog/topics/training-certifications/google-cloud-agentic-architect-certification-dont-just-prompt-ai-design-it",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 02:27"
       },
       {
         "id": "radar-f182bd92925c",
@@ -59,18 +59,18 @@
         "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-11-11 17:06"
       },
       {
-        "id": "radar-5e8313b8173b",
+        "id": "radar-0e1e0e24d554",
         "kind": "radar",
-        "title": "Can AI design your course?",
-        "summary": "Times Higher Education is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "title": "I asked 3 Adobe executives why I should pay for Creative Cloud when Claude Code can build alternatives",
+        "summary": "MakeUseOf reports: I asked 3 Adobe executives why I should pay for Creative Cloud when Claude Code can build alternatives MakeUseOf",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 76,
-        "date": "2026-11-13 00:13",
-        "displayDate": "2026-11-13 00:13",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZQ1BnTHQzUjk1TjZWUDdmSzNHa1E4TkxUSC1JR0dTZmZ0Z2xnRmg1dFdVNzk2UUVUWmp1WFJXLU14NVZ4cjQwbVRIempKVk1scEpCbEh2SVlnOUdrUGtHVU1LcGY5WWV2TnViTTZDVUFtVUU0bFBZcQ",
-        "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
+        "score": 100,
+        "date": "2026-11-16 20:31",
+        "displayDate": "2026-11-16 20:31",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjd5SUdhRUVucnRXalVhVG9zREVMbVlWVEVHXzAtX0R6aWtzOEJlYndGOWRTck5tbmFvU2ExVUU0cUxybmFFLVRUQ2xWaDdpSzlqTUV5NVVUbzBlNUE2YnA1bGxudm14TW9DQkNHdlVmN0ZfTDhlb2tkQmRfa2Zrc29pMEV2YU9KQ2FabGU1Y1dxZmNWcWk4dTMxbnpwQTRELXhWXzdHMmIzc1hoZTY0Ti1TNlc2cmZGQlhF",
+        "source": "News signal — verify before acting · Source: MakeUseOf · Time: 2026-11-16 20:31"
       },
       {
         "id": "radar-c04989ee6726",
@@ -85,6 +85,20 @@
         "displayDate": "2026-11-16 11:45",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjNLNC1pWlFGZDlzUGZkd01IQk5LMEpYYWpoUkNoenpWbmV6ZzgtNkx5eU9SUWVZZnlaODVSVmFvckFFMFV2NmlVcVR5d3RYTHdHVnFKNVNwUF9XbHQ1U05tYmVQaGlEY1pPVTN0UW5LZHp1UlNMYVkyRGQwOTcwd21KSWJ0MlE1bTV2c3U3dk14ckNyTU9sUGZkN0pNRkFhRGtj",
         "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-11-16 11:45"
+      },
+      {
+        "id": "radar-bffa3df7b2cb",
+        "kind": "radar",
+        "title": "Show HN: A free interactive course on AI agent governance",
+        "summary": "Hacker News is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 57,
+        "date": "2026-11-17 02:12",
+        "displayDate": "2026-11-17 02:12",
+        "url": "https://studio.sinapsdata.com.br/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 02:12"
       },
       {
         "id": "radar-c85ba9663f40",
@@ -129,32 +143,18 @@
         "source": "News signal — verify before acting · Source: TechEBlog - · Time: 2026-11-16 18:11"
       },
       {
-        "id": "radar-f1795b286c52",
+        "id": "radar-5e8313b8173b",
         "kind": "radar",
-        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
-        "summary": "Microsoft Source reports: IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation Microsoft Source",
+        "title": "Can AI design your course?",
+        "summary": "Times Higher Education is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 74,
-        "date": "2026-11-10 13:09",
-        "displayDate": "2026-11-10 13:09",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ",
-        "source": "Official / vendor signal · Source: Microsoft Source · Time: 2026-11-10 13:09"
-      },
-      {
-        "id": "radar-8b7c7a8ed1d9",
-        "kind": "radar",
-        "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-        "summary": "Amazon Web Services (AWS) reports: Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base Amazon Web Services (AWS)",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 52,
-        "date": "2026-11-16 22:43",
-        "displayDate": "2026-11-16 22:43",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa2JfcHdiQU1jQmdQZUs4Tk9wT2xJb0NtZnYwQ0Zxa2xWN0RpbXRjbldWejl0OEdLWm1IZVJiRmEwb3FnSkptQjA3OGVFVlhRRElRUlo3RzcyV2RQc2h2al93NWZ3Y0U5cExfQmRhVHRoZDRtZ25YRUd1Q3BLalRKenVjSGFPOGVLdEtLM0I4M2JWRGNDWkltM1QzTGpwcFRWZDZHSEt3NDRQR19wRXBYdW1sOS1pLU5DN0wyYlVBVnVhZV9kNFlMWW5KMjd3THpvTEFJWA",
-        "source": "News signal — verify before acting · Source: Amazon Web Services (AWS) · Time: 2026-11-16 22:43"
+        "score": 76,
+        "date": "2026-11-13 00:13",
+        "displayDate": "2026-11-13 00:13",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZQ1BnTHQzUjk1TjZWUDdmSzNHa1E4TkxUSC1JR0dTZmZ0Z2xnRmg1dFdVNzk2UUVUWmp1WFJXLU14NVZ4cjQwbVRIempKVk1scEpCbEh2SVlnOUdrUGtHVU1LcGY5WWV2TnViTTZDVUFtVUU0bFBZcQ",
+        "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-11-16T09:30:20.806187+08:00",
-        "nextRun": "2026-11-17T09:30:00+08:00",
+        "lastRun": "2026-11-17T09:30:28.811993+08:00",
+        "nextRun": "2026-11-18T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T08:59:25.742933+08:00",
-        "nextRun": "2026-11-17T09:59:26.248463+08:00",
+        "lastRun": "2026-11-17T10:30:28.770546+08:00",
+        "nextRun": "2026-11-17T11:30:29.063070+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T07:12:54.132776+08:00",
-        "nextRun": "2026-11-17T10:10:00+08:00",
+        "lastRun": "2026-11-17T10:13:16.784691+08:00",
+        "nextRun": "2026-11-17T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T09:27:29.377734+08:00",
-        "nextRun": "2026-11-17T09:29:29.377734+08:00",
+        "lastRun": "2026-11-17T10:57:32.177475+08:00",
+        "nextRun": "2026-11-17T11:02:29.054809+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T07:30:47.081421+08:00",
-        "nextRun": "2026-11-17T10:30:00+08:00",
+        "lastRun": "2026-11-17T10:30:45.356891+08:00",
+        "nextRun": "2026-11-17T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T06:46:24.319041+08:00",
-        "nextRun": "2026-11-17T09:40:00+08:00",
+        "lastRun": "2026-11-17T09:45:25.304797+08:00",
+        "nextRun": "2026-11-17T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-17T09:29:26.248463+08:00"
+    "updatedAt": "2026-11-17T11:00:29.063070+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
