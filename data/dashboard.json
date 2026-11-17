@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-17T19:38:25+08:00",
+    "generatedAt": "2026-11-17T20:09:26+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-17_09-02-22.md",
     "radarSource": "ai_opportunity_radar_20261117_193040.html",
@@ -161,17 +161,6 @@
   "health": {
     "jobs": [
       {
-        "id": "94b67a9712b2",
-        "name": "Live AI usage API collector",
-        "enabled": true,
-        "state": "error",
-        "schedule": "every 2m",
-        "lastStatus": "error",
-        "lastRun": "2026-11-17T19:31:19.546767+08:00",
-        "nextRun": "2026-11-17T19:40:24.685637+08:00",
-        "message": "Script exited with code 3221225794"
-      },
-      {
         "id": "a0a3b6174708",
         "name": "WhatsApp link Q&A digest — daily",
         "enabled": true,
@@ -222,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T19:04:19.136497+08:00",
-        "nextRun": "2026-11-17T20:08:24.692554+08:00",
+        "lastRun": "2026-11-17T19:38:29.601585+08:00",
+        "nextRun": "2026-11-17T20:39:25.700966+08:00",
         "message": "No recent error."
       },
       {
@@ -236,6 +225,17 @@
         "lastRun": "2026-11-17T19:11:55.039996+08:00",
         "nextRun": "2026-11-17T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
+      },
+      {
+        "id": "94b67a9712b2",
+        "name": "Live AI usage API collector",
+        "enabled": true,
+        "state": "ok",
+        "schedule": "every 2m",
+        "lastStatus": "ok",
+        "lastRun": "2026-11-17T20:08:28.337294+08:00",
+        "nextRun": "2026-11-17T20:10:28.337294+08:00",
+        "message": "unused"
       },
       {
         "id": "27f7ee1494c6",
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-17T19:38:24.693554+08:00"
+    "updatedAt": "2026-11-17T20:09:25.701966+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
