@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-17T13:31:34+08:00",
+    "generatedAt": "2026-11-17T16:32:48+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-17_09-02-22.md",
-    "radarSource": "ai_opportunity_radar_20261117_133052.html",
+    "radarSource": "ai_opportunity_radar_20261117_163110.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,7 +14,7 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261117_133052.html",
+    "sourceFile": "ai_opportunity_radar_20261117_163110.html",
     "items": [
       {
         "id": "radar-016ceb590b5f",
@@ -31,32 +31,32 @@
         "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-11-16 21:01"
       },
       {
-        "id": "radar-d0cfce14bcb8",
+        "id": "radar-56708c4d2b3c",
         "kind": "radar",
-        "title": "Show HN: CoderBaba – An open-source AI Coding Agent with security scanning",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "title": "Microsoft CEO Nadella Stresses Verification Over Code in AI Era",
+        "summary": "조선일보 reports: Microsoft CEO Nadella Stresses Verification Over Code in AI Era 조선일보",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
-        "score": 70,
-        "date": "2026-11-16 15:51",
-        "displayDate": "2026-11-16 15:51",
-        "url": "https://coderbaba.si/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-16 15:51"
+        "score": 100,
+        "date": "2026-11-17 06:46",
+        "displayDate": "2026-11-17 06:46",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjVYSzhrdk9mNHo5UG9LelBwa1NScjJ4S21Tc1dDcU42UzZOVVp6X1ZJc0JFTE9zOEgzT04yQ3pUZHd2b05DcTQ0ajZkcVBVQ0FOT2p5dktWQVRwUGVKak1UbjM5b3lmSldOZTg4U1RhQjN0WjJieEMyb3Z3bWloaEhMZV9XVC1R",
+        "source": "News signal — verify before acting · Source: 조선일보 · Time: 2026-11-17 06:46"
       },
       {
-        "id": "radar-4c7bf75e1579",
+        "id": "radar-6aca685a48a6",
         "kind": "radar",
-        "title": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification",
-        "summary": "Google Cloud reports: Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification Google Cloud",
+        "title": "California accuses OpenAI of losing control of AI agents, creating public cybersecurity risks",
+        "summary": "Local News Matters is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 100,
-        "date": "2026-11-11 17:06",
-        "displayDate": "2026-11-11 17:06",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVRiODVESFVXdTlFWnR2anRBU3hsb0FwekdVR3dLdFFwY2RQWHFubmpsMUxkMDFHd19QdVRWMVRxRGxxRHNpMHVKMFJWMDQ4UzUxa05PVGU4TVBWVkl0RUptMXdoZnBNM2RIbkpQM3A4cm5vcFl6QjYyTXdwVk5qOURxZnVGdC05dU10MW5OSklHOVh2RnBsMkotNzhBcVdqTWVhNzlMRkJFRlhldmRWeHJ5YjBfT2kyOG5WcWRVOXA5YmYxWU13bWZUWnQ0bWZm",
-        "source": "Official / vendor signal · Source: Google Cloud · Time: 2026-11-11 17:06"
+        "score": 62,
+        "date": "2026-11-16 23:00",
+        "displayDate": "2026-11-16 23:00",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVFCLU9yZUZ3czFZMlZKUDJsNS1XTHg0YVJ4cGtmYWQyTGloZjVIcVBYZV93a1RZRjBSZXV4T3ZfUFNHRGY2TnVuWnhuelh3WWl4LVMxRVMwNjBvSTloaThuQ25UTTZwMFZsTHVQNHhoWnpOSndGXzYxZG9qclJXWWVkTHBabEhYQnFWNUJKWjVudWRCbHVvUTh4dFhaQkZhOGh5WUxLazRIN1pjNzlFVGxMRkVCTkoxbTUyVmFKQjE3SXdraHNwMHlQY2l6QQ",
+        "source": "News signal — verify before acting · Source: Local News Matters · Time: 2026-11-16 23:00"
       },
       {
         "id": "radar-095a37436ea1",
@@ -101,10 +101,38 @@
         "source": "News signal — verify before acting · Source: IBM · Time: 2026-11-17 04:16"
       },
       {
-        "id": "radar-d2dffcb575fa",
+        "id": "radar-6149f8023275",
         "kind": "radar",
-        "title": "Meshy publishes AI 3D printability test conducted at UMass Amherst",
-        "summary": "CASRAI reports: Meshy publishes AI 3D printability test conducted at UMass Amherst CASRAI",
+        "title": "Dataiku Connects Enterprise AI Governance to Claude Code and Codex",
+        "summary": "BigGo Finance reports: Dataiku Connects Enterprise AI Governance to Claude Code and Codex BigGo Finance",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-11-17 05:35",
+        "displayDate": "2026-11-17 05:35",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkYU9XWGFxa01oMi15bkJNRDVnSGZFaklUQXRZUHB3bkp6UDdWbmdTcEtRQXJ6RmZXT3BkdC00eFdmdG5yTmdOLXFsaTZmYk5UZW5YdV9kZk8zb0FncWsta2ZubkpGWkdIOEpUY2gtTXk3dzdQaVE",
+        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-17 05:35"
+      },
+      {
+        "id": "radar-0e1e0e24d554",
+        "kind": "radar",
+        "title": "I asked 3 Adobe executives why I should pay for Creative Cloud when Claude Code can build alternatives",
+        "summary": "MakeUseOf reports: I asked 3 Adobe executives why I should pay for Creative Cloud when Claude Code can build alternatives MakeUseOf",
+        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
+        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
+        "category": "Design / Client Visual Workflow",
+        "score": 100,
+        "date": "2026-11-16 20:31",
+        "displayDate": "2026-11-16 20:31",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjd5SUdhRUVucnRXalVhVG9zREVMbVlWVEVHXzAtX0R6aWtzOEJlYndGOWRTck5tbmFvU2ExVUU0cUxybmFFLVRUQ2xWaDdpSzlqTUV5NVVUbzBlNUE2YnA1bGxudm14TW9DQkNHdlVmN0ZfTDhlb2tkQmRfa2Zrc29pMEV2YU9KQ2FabGU1Y1dxZmNWcWk4dTMxbnpwQTRELXhWXzdHMmIzc1hoZTY0Ti1TNlc2cmZGQlhF",
+        "source": "News signal — verify before acting · Source: MakeUseOf · Time: 2026-11-16 20:31"
+      },
+      {
+        "id": "radar-09c9eb8fdf66",
+        "kind": "radar",
+        "title": "Meshy publishes UMass 3D printability benchmark",
+        "summary": "CASRAI reports: Meshy publishes UMass 3D printability benchmark CASRAI",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
@@ -115,46 +143,18 @@
         "source": "News signal — verify before acting · Source: CASRAI · Time: 2026-11-15 00:33"
       },
       {
-        "id": "radar-b0d3b6514da6",
+        "id": "radar-ad29e2b9e08a",
         "kind": "radar",
-        "title": "Google AI agents audit Signal’s code and one major flaw stays hidden",
-        "summary": "CryptoSlate reports: Google AI agents audit Signal’s code and one major flaw stays hidden CryptoSlate",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-11-17 05:10",
-        "displayDate": "2026-11-17 05:10",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXZRSXB6VHV0OTNaRWNrcXhoMzlpUzk4c2RseHpzYmtTblgtMmNVN1RfbXVnNGFzX2poSWcwMVlrTG1SU2lRVGFyR2FjRGFzV1JjOThXVm5yYndSMlhjZ0hvMWFlenM4aFFydklTQVUySVAySEZMeXd4X1JydWIwTHhaUVZtUWdTdWtMaGcxVVlxZ0NaODJ1aWRjSTJFaUg0bmhPN1BSd2w3REd0YzZ3ZklvcTFVRlZD",
-        "source": "News signal — verify before acting · Source: CryptoSlate · Time: 2026-11-17 05:10"
-      },
-      {
-        "id": "radar-5e8313b8173b",
-        "kind": "radar",
-        "title": "Can AI design your course?",
-        "summary": "Times Higher Education is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
-        "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
-        "category": "Design / Client Visual Workflow",
-        "score": 76,
-        "date": "2026-11-13 00:13",
-        "displayDate": "2026-11-13 00:13",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZQ1BnTHQzUjk1TjZWUDdmSzNHa1E4TkxUSC1JR0dTZmZ0Z2xnRmg1dFdVNzk2UUVUWmp1WFJXLU14NVZ4cjQwbVRIempKVk1scEpCbEh2SVlnOUdrUGtHVU1LcGY5WWV2TnViTTZDVUFtVUU0bFBZcQ",
-        "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
-      },
-      {
-        "id": "radar-efcb6fa0607e",
-        "kind": "radar",
-        "title": "Show HN: Coding agents with native environments, identity and access",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 58,
-        "date": "2026-11-17 02:11",
-        "displayDate": "2026-11-17 02:11",
-        "url": "https://kosem.ai/blog/coding-agents-workstation-moment",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 02:11"
+        "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
+        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
+        "category": "Agents / Personal AIOS",
+        "score": 57,
+        "date": "2026-11-17 08:16",
+        "displayDate": "2026-11-17 08:16",
+        "url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 08:16"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T09:05:47.410013+08:00",
-        "nextRun": "2026-11-17T15:00:00+08:00",
+        "lastRun": "2026-11-17T15:02:35.055518+08:00",
+        "nextRun": "2026-11-17T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T13:01:33.528924+08:00",
-        "nextRun": "2026-11-17T14:01:34.032002+08:00",
+        "lastRun": "2026-11-17T16:02:40.777506+08:00",
+        "nextRun": "2026-11-17T17:02:44.918471+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T13:12:36.887574+08:00",
-        "nextRun": "2026-11-17T16:10:00+08:00",
+        "lastRun": "2026-11-17T16:12:37.392860+08:00",
+        "nextRun": "2026-11-17T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T13:30:37.394067+08:00",
-        "nextRun": "2026-11-17T13:32:37.394067+08:00",
+        "lastRun": "2026-11-17T16:30:52.847183+08:00",
+        "nextRun": "2026-11-17T16:32:52.847183+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T13:30:52.823452+08:00",
-        "nextRun": "2026-11-17T16:30:00+08:00",
+        "lastRun": "2026-11-17T16:31:11.090141+08:00",
+        "nextRun": "2026-11-17T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-17T12:46:32.117364+08:00",
-        "nextRun": "2026-11-17T15:40:00+08:00",
+        "lastRun": "2026-11-17T15:46:34.858606+08:00",
+        "nextRun": "2026-11-17T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-17T13:31:34.032002+08:00"
+    "updatedAt": "2026-11-17T16:32:44.919974+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
