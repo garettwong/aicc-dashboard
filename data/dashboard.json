@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-18T10:51:02+08:00",
+    "generatedAt": "2026-11-18T13:52:08+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-18_09-02-37.md",
-    "radarSource": "ai_opportunity_radar_20261118_103030.html",
+    "radarSource": "ai_opportunity_radar_20261118_133030.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,13 +14,13 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261118_103030.html",
+    "sourceFile": "ai_opportunity_radar_20261118_133030.html",
     "items": [
       {
         "id": "radar-19c24f8de010",
         "kind": "radar",
         "title": "Ask HN: Aren't the current cyber attacks suspicious?",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=15, comments=15.",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=16, comments=15.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
@@ -31,18 +31,18 @@
         "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 21:28"
       },
       {
-        "id": "radar-190991355b06",
+        "id": "radar-dac2ec227e2b",
         "kind": "radar",
-        "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-        "summary": "ZDNET reports: Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost ZDNET",
+        "title": "GLM vs Claude, GPT, Gemini, Grok and DeepSeek: How Zhipu’s Open Model Compares",
+        "summary": "Fello AI reports: GLM vs Claude, GPT, Gemini, Grok and DeepSeek: How Zhipu’s Open Model Compares Fello AI",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-17 22:42",
-        "displayDate": "2026-11-17 22:42",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnIyYlA2MTF3bjg5VFFOOFkxdHNDbDBwYWc2SU9LXzIwVno5blktS0NNdV9CVXdnOTlzYkh0dWpFbEpMQkZpa1BCdXFpR0dLdlAzS3VCODFiQTBwbnFjTkdoVzlkYUUzY3VjT3c1MzB0cEZZdjQ4cUcyOHd1QzE3UGl2M2pZZkh1bG9lTktpSmIta0E",
-        "source": "Trusted news / community signal · Source: ZDNET · Time: 2026-11-17 22:42"
+        "date": "2026-11-18 02:48",
+        "displayDate": "2026-11-18 02:48",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiYXd1aUcxZzNvWkN5cTVRa1pUOVQ5SFUyRDdVQkNWSy01SWNFeHkwT1Z2Sl9iSnROZFRLMTE0aTBkWlg0MWxkTnFNbEk",
+        "source": "News signal — verify before acting · Source: Fello AI · Time: 2026-11-18 02:48"
       },
       {
         "id": "radar-4c7bf75e1579",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-11-17 11:40"
       },
       {
-        "id": "radar-b65fd9884f4f",
+        "id": "radar-2cfc84f0704a",
         "kind": "radar",
-        "title": "Codenotary Expands Open-Source AgentMon Live AI Agent Monitoring to OpenAI Codex and AWS Kiro",
-        "summary": "01net reports: Codenotary Expands Open-Source AgentMon Live AI Agent Monitoring to OpenAI Codex and AWS Kiro 01net",
+        "title": "I Was Drowning in Claude Code Sessions - Here’s How I Hacked My Way Out",
+        "summary": "HackerNoon reports: I Was Drowning in Claude Code Sessions - Here’s How I Hacked My Way Out HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-17 19:51",
-        "displayDate": "2026-11-17 19:51",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUlnRW1IRm40UHNSMnRPNEdaWm51aFBLa19tbE9qT3MteDg3NmtxRnplUWV6STlMNlQ2M3JWelJ0T1U3WjRmNThTanBzVDJZVmNJdW5lRHpLMjNFTEZnQXFwZEF0NVRLbmxhNUhmM3NqdjA2T1ZMS0FSWmpJUWhfZFpnd2VnaHN0UW5Qc2o0Yk5xMk1CLWhhOUF1MVF6MmgtQjJVdGEtTEc2RmQ5U1kxY21ISVo1QQ",
-        "source": "News signal — verify before acting · Source: 01net · Time: 2026-11-17 19:51"
+        "date": "2026-11-18 02:25",
+        "displayDate": "2026-11-18 02:25",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGs4N1VISURhUWJkVFJFcktTRTdJTUFva042aW5XU00wODlGMF90MUo3dDQ2SFhOMVoxNW1BdmZ5Q0YxOFRrWDZZOUxBMTB2TzZvQTVXMEpxc2JwSDhMWUtQcFhYSk1palRSVndqOEJnRDhQSWNFQ2ROMU4xbDNyR0RCM3QtVXVEWV9ILWFVNmNlOUtKUFE",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-11-18 02:25"
       },
       {
         "id": "radar-9f6174bd951e",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Carroll County Mirror-Democrat · Time: 2026-11-17 17:30"
       },
       {
-        "id": "radar-4a580ca48f3c",
+        "id": "radar-36f4672b4668",
         "kind": "radar",
-        "title": "System 1 Agents – a method for local, reliable and fast agentic AI",
+        "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-17 23:37",
-        "displayDate": "2026-11-17 23:37",
-        "url": "https://github.com/eltzanis/SystemOneAgents",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-17 23:37"
+        "date": "2026-11-18 05:06",
+        "displayDate": "2026-11-18 05:06",
+        "url": "https://zenodo.org/records/23778866",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 05:06"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T10:21:01.248672+08:00",
-        "nextRun": "2026-11-18T11:21:01.959813+08:00",
+        "lastRun": "2026-11-18T13:22:07.987492+08:00",
+        "nextRun": "2026-11-18T14:22:08.355529+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T10:12:22.300597+08:00",
-        "nextRun": "2026-11-18T13:10:00+08:00",
+        "lastRun": "2026-11-18T13:11:19.732726+08:00",
+        "nextRun": "2026-11-18T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T10:48:04.097791+08:00",
-        "nextRun": "2026-11-18T10:53:01.863112+08:00",
+        "lastRun": "2026-11-18T13:51:11.095760+08:00",
+        "nextRun": "2026-11-18T13:53:11.095760+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T10:30:30.484625+08:00",
-        "nextRun": "2026-11-18T13:30:00+08:00",
+        "lastRun": "2026-11-18T13:30:30.980622+08:00",
+        "nextRun": "2026-11-18T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T09:45:59.587497+08:00",
-        "nextRun": "2026-11-18T12:40:00+08:00",
+        "lastRun": "2026-11-18T12:44:38.615133+08:00",
+        "nextRun": "2026-11-18T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-18T10:51:01.959813+08:00"
+    "updatedAt": "2026-11-18T13:52:08.355529+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
