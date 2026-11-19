@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-19T19:39:22+08:00",
+    "generatedAt": "2026-11-19T22:39:31+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-19_09-02-34.md",
-    "radarSource": "ai_opportunity_radar_20261119_193043.html",
+    "radarSource": "ai_opportunity_radar_20261119_223052.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261119_193043.html",
+    "sourceFile": "ai_opportunity_radar_20261119_223052.html",
     "items": [
       {
-        "id": "radar-4251645d6947",
+        "id": "radar-6e445a144191",
         "kind": "radar",
-        "title": "AI agents inherit employee access, and nobody’s watching how they use it",
-        "summary": "Help Net Security reports: AI agents inherit employee access, and nobody’s watching how they use it Help Net Security",
+        "title": "Show HN: Purple Flow – AI-first n8n alternative, 10k+ workflows on 512MB",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=1.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-19 05:00",
-        "displayDate": "2026-11-19 05:00",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWkwb1Q5cXNIV3BiRzVOamRIa1RvdEF1OExOejhTVVBON3NUZFdjd2k5c0N0ZmEwSkxxQlpjSWZkaDkzUWNyUWg1UWRjUmpfYjBZQnBoSy14VGJyQW5lMXZkeEZ4VEMxa0YzSjMtX2xMa2MyRUt3Y0hwMVgwMTZvcnBUUkdvcnUwU1VtVnpDTU5RZ3FoMFlSeUlMTlg",
-        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-11-19 05:00"
+        "score": 56,
+        "date": "2026-11-19 13:57",
+        "displayDate": "2026-11-19 13:57",
+        "url": "https://github.com/leetheguy/purple_flow",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-19 13:57"
       },
       {
         "id": "radar-1d93e5d7945a",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: XDA · Time: 2026-11-19 11:00"
       },
       {
-        "id": "radar-024533154691",
+        "id": "radar-fa62f1dbf253",
         "kind": "radar",
-        "title": "Insight launches AI agent store for business customers",
-        "summary": "IT Brief Asia flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Google New RSI Paper: Breakthrough Agent with Built-In Memory & Autonomous Iteration for Advanced AI Reasoning",
+        "summary": "eu.36kr.com reports: Google New RSI Paper: Breakthrough Agent with Built-In Memory & Autonomous Iteration for Advanced AI Reasoning eu.36kr.com",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 96,
-        "date": "2026-11-18 17:21",
-        "displayDate": "2026-11-18 17:21",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFZkQ0N0RGNxak8tYzQ5Q0NISGFhaHFlMDZ4X3N2RnhWdUFmR2JIZHo5ZEV3eFBPeWpxaWRNSDFHNTJOTGVCS01rRjFlU295VjR3SHdHbUhKS1VQZUxZcTd5Q3dZLUd1dDdmX0tFc004b1A1RmNSdXRfc0FuVGI3MGN6a2Y5cjVh",
-        "source": "News signal — verify before acting · Source: IT Brief Asia · Time: 2026-11-18 17:21"
+        "date": "2026-11-19 01:42",
+        "displayDate": "2026-11-19 01:42",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBybm5BN2NYTjFlLW1ZZHM4aVp1X0JMYWRyTHZBVG1neG1PM0ZUZWFjVXBJWUxJeXRva0JXRVhnbWNYamZuMjQ1VVBjS1BJM1luY3Jv",
+        "source": "News signal — verify before acting · Source: eu.36kr.com · Time: 2026-11-19 01:42"
       },
       {
         "id": "radar-5e8313b8173b",
@@ -115,6 +115,20 @@
         "source": "News signal — verify before acting · Source: Digital Trends · Time: 2026-11-19 09:45"
       },
       {
+        "id": "radar-024533154691",
+        "kind": "radar",
+        "title": "Insight launches AI agent store for business customers",
+        "summary": "IT Brief Asia flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 96,
+        "date": "2026-11-18 17:21",
+        "displayDate": "2026-11-18 17:21",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFZkQ0N0RGNxak8tYzQ5Q0NISGFhaHFlMDZ4X3N2RnhWdUFmR2JIZHo5ZEV3eFBPeWpxaWRNSDFHNTJOTGVCS01rRjFlU295VjR3SHdHbUhKS1VQZUxZcTd5Q3dZLUd1dDdmX0tFc004b1A1RmNSdXRfc0FuVGI3MGN6a2Y5cjVh",
+        "source": "News signal — verify before acting · Source: IT Brief Asia · Time: 2026-11-18 17:21"
+      },
+      {
         "id": "radar-6c82e6575194",
         "kind": "radar",
         "title": "How AI 3D model generation is changing the way creators build digital assets",
@@ -127,20 +141,6 @@
         "displayDate": "2026-11-19 07:59",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkwzWF9FQTI0dFExNzRSeVlXVUh6MFVRb19JOEJ3VkJmcmxnOXV4VzhacGNMbXZhZDJKQTRoZ3o0NzdWdzRCVEIzeUlydzVHVngyTS1QOFdJVjNpcFRWREVaV3FHUEtueDAzcDFwWElrOHRibUo5NGJZbG9xQmQyRklYVWkzQQ",
         "source": "News signal — verify before acting · Source: The Jerusalem Post · Time: 2026-11-19 07:59"
-      },
-      {
-        "id": "radar-e3d4cec115b3",
-        "kind": "radar",
-        "title": "Meta’s Muse AI Agent Faces Privacy Concerns After Series Of Safety Mishaps",
-        "summary": "Arise News is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 92,
-        "date": "2026-11-19 05:16",
-        "displayDate": "2026-11-19 05:16",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUndNQ21iR2FBWlQxX3g3Y2VIbDQxeUFNNkc3dTRUaV92VWZRTHBzakFhQzQ2cUQtLXo3eVk2al9EWWh5d2xhNzRuS2liMENCYW1MMHVHSlNoeVdmNnduU0xRZ3BCVVczLWxIS011T0U5bzFXRjlMOHJFenk1d0lBV0Iwc2hILUZPdGdXR0NOMWY0WXRCdmZ0Zi1sTQ",
-        "source": "News signal — verify before acting · Source: Arise News · Time: 2026-11-19 05:16"
       },
       {
         "id": "radar-2a6376fd6c26",
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T15:01:46.695843+08:00",
-        "nextRun": "2026-11-19T21:00:00+08:00",
+        "lastRun": "2026-11-19T21:01:30.450642+08:00",
+        "nextRun": "2026-11-20T09:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T19:09:21.457381+08:00",
-        "nextRun": "2026-11-19T20:09:21.920727+08:00",
+        "lastRun": "2026-11-19T22:09:31.101042+08:00",
+        "nextRun": "2026-11-19T23:09:31.481201+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T19:11:30.836446+08:00",
-        "nextRun": "2026-11-19T22:10:00+08:00",
+        "lastRun": "2026-11-19T22:12:28.708398+08:00",
+        "nextRun": "2026-11-20T01:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T19:37:25.504723+08:00",
-        "nextRun": "2026-11-19T19:39:25.504723+08:00",
+        "lastRun": "2026-11-19T22:36:34.982004+08:00",
+        "nextRun": "2026-11-19T22:41:31.467550+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T19:30:43.807588+08:00",
-        "nextRun": "2026-11-19T22:30:00+08:00",
+        "lastRun": "2026-11-19T22:30:52.401490+08:00",
+        "nextRun": "2026-11-20T01:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T18:45:33.086799+08:00",
-        "nextRun": "2026-11-19T21:40:00+08:00",
+        "lastRun": "2026-11-19T21:44:46.474727+08:00",
+        "nextRun": "2026-11-20T00:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-19T19:39:21.920727+08:00"
+    "updatedAt": "2026-11-19T22:39:31.482201+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
