@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-19T09:05:33+08:00",
+    "generatedAt": "2026-11-19T10:36:03+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-19_09-02-34.md",
-    "radarSource": "ai_opportunity_radar_20261119_073139.html",
+    "radarSource": "ai_opportunity_radar_20261119_103025.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261119_073139.html",
+    "sourceFile": "ai_opportunity_radar_20261119_103025.html",
     "items": [
       {
-        "id": "radar-3172e272d30f",
+        "id": "radar-07d7ccf11e61",
         "kind": "radar",
-        "title": "Show HN: 100ms copy-on-write workspaces for AI agents on macOS",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "summary": "TechCrunch reports: Satya Nadella predicts AI agents will reshuffle the economics of the web TechCrunch",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-18 22:51",
-        "displayDate": "2026-11-18 22:51",
-        "url": "https://github.com/gabrielvfonseca/replica",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 22:51"
+        "date": "2026-11-18 22:58",
+        "displayDate": "2026-11-18 22:58",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTZPUzQ4QVgxSWZ1N0ZhWXV5bGNtS25WdjFyZVdDUVczUzFTTldyTExxM1FhTmtIb1VsQTlJdC1LQktaZGMyVTViTldsR0ZCT2JKcERLdS1CZlpyNmlEMkdVTjRUYUpzRnJxdlI3VTV1Sk1GSDFtM3BZV0hwYWZyQlkzekRlc3JVWGZoYUdxamZyM25Jb3lNM1dUeENyVzE4S3BKNE9VcXp4eHM",
+        "source": "Trusted news / community signal · Source: TechCrunch · Time: 2026-11-18 22:58"
       },
       {
         "id": "radar-0258dba837b9",
@@ -45,18 +45,18 @@
         "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-11-18 20:14"
       },
       {
-        "id": "radar-1c8b2a6cc381",
+        "id": "radar-fa62f1dbf253",
         "kind": "radar",
-        "title": "OpenAleph securely store large amounts of data and make it searchable",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Google New RSI Paper: Breakthrough Agent with Built-In Memory & Autonomous Iteration for Advanced AI Reasoning",
+        "summary": "36Kr reports: Google New RSI Paper: Breakthrough Agent with Built-In Memory & Autonomous Iteration for Advanced AI Reasoning 36Kr",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 37,
-        "date": "2026-11-18 21:05",
-        "displayDate": "2026-11-18 21:05",
-        "url": "https://darc.li/openaleph",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 21:05"
+        "score": 96,
+        "date": "2026-11-19 01:42",
+        "displayDate": "2026-11-19 01:42",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBybm5BN2NYTjFlLW1ZZHM4aVp1X0JMYWRyTHZBVG1neG1PM0ZUZWFjVXBJWUxJeXRva0JXRVhnbWNYamZuMjQ1VVBjS1BJM1luY3Jv",
+        "source": "News signal — verify before acting · Source: 36Kr · Time: 2026-11-19 01:42"
       },
       {
         "id": "radar-5e8313b8173b",
@@ -73,18 +73,32 @@
         "source": "News signal — verify before acting · Source: Times Higher Education · Time: 2026-11-13 00:13"
       },
       {
-        "id": "radar-ccf9134d47f1",
+        "id": "radar-9f6174bd951e",
         "kind": "radar",
-        "title": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Tripo AI previews its H3.5 model and Polipop agent for 3D printing at Formnext",
+        "summary": "VoxelMatters reports: Tripo AI previews its H3.5 model and Polipop agent for 3D printing at Formnext VoxelMatters",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 52,
-        "date": "2026-11-18 16:58",
-        "displayDate": "2026-11-18 16:58",
-        "url": "https://klistra.ai/",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 16:58"
+        "score": 100,
+        "date": "2026-11-17 10:45",
+        "displayDate": "2026-11-17 10:45",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjg1RV9UaHN5b1NTbzF6MXVuRkoweHl6STNZNjllckhnVkVGR2JCclpieklYMGJEd2NQVXlJdUtzRUhoUFFiLU5scUhuX0VXcE1fZHlXUEw0MU1ES2x0WTNfaVVaUU9iNzY4R1k4WHo2MS1xQUJaSGtuSlZiR1lNOWd2cTl6NHdBVGtBWEstMW93RUgxNUpoVGZkSlpORmVfRzFmYmwzSFZKcGtL0gGyAUFVX3lxTE1STHZENVc5b1c4cG5IeTBVTTIzcHdMaXlOTTNFUG01NHMtRmx4dzFZOG55WVl0dGp2OWNKUjUtMEo0MFlyZS1xMTJENlZUbG9LMzJweU9OY0V6NlRLUWpNVEVIaWxkWkVCaTJ0blNFdVhjWVQ5UllCaUJ4cUtTTzNmc1RYWi1tRm9wR0NvM2JNMXhBZGJDLTlzVjV5cTRnZ18tc1ItRFlQSnVBQ29VWjBXWEE",
+        "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-11-17 10:45"
+      },
+      {
+        "id": "radar-c2d9f01f3a57",
+        "kind": "radar",
+        "title": "Code Effects Releases Version 7 with Secure AI Agents, Rule Governance, and Auditing for .NET",
+        "summary": "markets.businessinsider.com flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-11-19 01:23",
+        "displayDate": "2026-11-19 01:23",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcDNVZzhfcHI5MVBMNGFRek5CaTgzN1N3V3l1QlRPcHA2X1NNYkNob3ZYallCYmdDTWs4ekp6WHhRdW45UXlHcjdJa3NtT3JQM3NlV3V1MlFwV0wzUEFRTHM4cjBRM05saWFIWWh6STNnRk5SUzhLZC05OGdIb3NqZ2k4dEtzVDJORHBHQmlPZDZKSDBGUGpTd2Q0WXR1d1F6ZjhXaUxOcnVldkxCZFVRaDJCT3pCbzZYQk5lRmJ5WVVwWmZSQTZXVVBMNUowS2NJemxOZjVKdlVPR2YyUFZNLVZtOA",
+        "source": "News signal — verify before acting · Source: markets.businessinsider.com · Time: 2026-11-19 01:23"
       },
       {
         "id": "radar-9ffd62fe43b2",
@@ -101,6 +115,34 @@
         "source": "News signal — verify before acting · Source: Mezha.net · Time: 2026-11-18 20:12"
       },
       {
+        "id": "radar-561170eeeb16",
+        "kind": "radar",
+        "title": "Tripo AI Previews Print-Ready H3.5 Model and Polipop Printing Agent",
+        "summary": "Unite.AI reports: Tripo AI Previews Print-Ready H3.5 Model and Polipop Printing Agent Unite.AI",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-11-17 06:48",
+        "displayDate": "2026-11-17 06:48",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQV9WdVQ1SC1lenlvWmtRQkFxRFV6TGtqRFZyelJOckRWV050WHg1Q0s1ZVJuT0FGamlEU094VHlLS0JJWk5SdWZSXzNwbGpwYXhHU2YxVXZnSzZleTNpTGU3V1ZEc3BwNTJIM1RFTEl3MWZvNllONzhuTzh5N1Bnckd0RGR1MGJqMURqeHdOeTFmTUk",
+        "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-11-17 06:48"
+      },
+      {
+        "id": "radar-99226df242da",
+        "kind": "radar",
+        "title": "Insight launches AI agent store for business customers",
+        "summary": "IT Brief UK flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
+        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
+        "category": "Models / Infrastructure",
+        "score": 96,
+        "date": "2026-11-18 17:21",
+        "displayDate": "2026-11-18 17:21",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1V0Tllqc2xqWmdEZFV2blYwa1RKZXdVbVJzd29sRXNCd2k2SmlWUlpSRFNuMGxFTVhPVGk1QUJGRXB2TTJ2LVlGemc5ajdLWlNJMlV6WDFsRmszZkdWX2g0dHEyTWFhM2JxcnNzbDIyOHd0XzFfUm90RmJwVGxUTkdxcngxb281eEE",
+        "source": "News signal — verify before acting · Source: IT Brief UK · Time: 2026-11-18 17:21"
+      },
+      {
         "id": "radar-2a6376fd6c26",
         "kind": "radar",
         "title": "Advancing chip design with OpenAI models",
@@ -113,48 +155,6 @@
         "displayDate": "2026-11-18 17:06",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE",
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-18 17:06"
-      },
-      {
-        "id": "radar-b5dcf99daecd",
-        "kind": "radar",
-        "title": "\"The best escape room players\" What Red Hat's AI architect thinks about agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-18 22:47",
-        "displayDate": "2026-11-18 22:47",
-        "url": "https://thenewstack.io/openshell-ai-agent-security",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 22:47"
-      },
-      {
-        "id": "radar-42595fdb7cfd",
-        "kind": "radar",
-        "title": "Managing frontier AI risk: From training to deployment",
-        "summary": "Hacker News is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
-        "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
-        "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
-        "category": "Models / Infrastructure",
-        "score": 37,
-        "date": "2026-11-18 20:27",
-        "displayDate": "2026-11-18 20:27",
-        "url": "https://openai.com/index/managing-frontier-ai-risk",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 20:27"
-      },
-      {
-        "id": "radar-3fbff82efb29",
-        "kind": "radar",
-        "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=13, comments=2.",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 25,
-        "date": "2026-11-18 21:08",
-        "displayDate": "2026-11-18 21:08",
-        "url": "https://springcraft-ai.github.io/springrep",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-18 21:08"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-11-18T09:31:01.219790+08:00",
-        "nextRun": "2026-11-19T09:30:00+08:00",
+        "lastRun": "2026-11-19T09:30:03.222585+08:00",
+        "nextRun": "2026-11-20T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-18T09:16:14.006951+08:00",
-        "nextRun": "2026-11-19T09:15:00+08:00",
+        "lastRun": "2026-11-19T09:15:16.239411+08:00",
+        "nextRun": "2026-11-20T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T08:30:59.600527+08:00",
-        "nextRun": "2026-11-19T09:30:59.956621+08:00",
+        "lastRun": "2026-11-19T10:06:02.951781+08:00",
+        "nextRun": "2026-11-19T11:06:03.280488+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T07:13:21.105018+08:00",
-        "nextRun": "2026-11-19T10:10:00+08:00",
+        "lastRun": "2026-11-19T10:11:47.962111+08:00",
+        "nextRun": "2026-11-19T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T09:04:03.747839+08:00",
-        "nextRun": "2026-11-19T09:06:03.747839+08:00",
+        "lastRun": "2026-11-19T10:34:06.667469+08:00",
+        "nextRun": "2026-11-19T10:36:06.667469+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T07:31:39.880261+08:00",
-        "nextRun": "2026-11-19T10:30:00+08:00",
+        "lastRun": "2026-11-19T10:30:25.077827+08:00",
+        "nextRun": "2026-11-19T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-19T06:50:19.877724+08:00",
-        "nextRun": "2026-11-19T09:40:00+08:00",
+        "lastRun": "2026-11-19T09:45:44.401950+08:00",
+        "nextRun": "2026-11-19T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-19T09:05:32.848968+08:00"
+    "updatedAt": "2026-11-19T10:36:03.280488+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
