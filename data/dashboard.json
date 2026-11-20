@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-20T13:52:28+08:00",
+    "generatedAt": "2026-11-20T16:53:33+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-20_09-03-34.md",
-    "radarSource": "ai_opportunity_radar_20261120_133028.html",
+    "radarSource": "ai_opportunity_radar_20261120_163050.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261120_133028.html",
+    "sourceFile": "ai_opportunity_radar_20261120_163050.html",
     "items": [
       {
-        "id": "radar-4ce3f6677fea",
+        "id": "radar-bd1ccc661b83",
         "kind": "radar",
-        "title": "Ask HN: Does AI slop require more marketing in the future?",
+        "title": "How should we evaluate image memory in AI agents?",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-20 04:45",
-        "displayDate": "2026-11-20 04:45",
-        "url": "https://news.ycombinator.com/item",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-20 04:45"
+        "score": 57,
+        "date": "2026-11-20 06:24",
+        "displayDate": "2026-11-20 06:24",
+        "url": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-20 06:24"
       },
       {
-        "id": "radar-e345aa7e0fd4",
+        "id": "radar-42a4f0278218",
         "kind": "radar",
-        "title": "Apple is reportedly building AI to do the clicking—and the coding",
-        "summary": "Digg reports: Apple is reportedly building AI to do the clicking—and the coding Digg",
+        "title": "Is Apple building an AI agent? A job listing describes one that uses apps, browses and writes code",
+        "summary": "Nacionale reports: Is Apple building an AI agent?",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-19 23:20",
-        "displayDate": "2026-11-19 23:20",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTSEc0VHJQWFNtVnVTbHhkcFR1NUtsRE9ldXplSTcyMnRRRllyOFhRUDlqRXNISkRMTDg0THJTMEhhd3J0",
-        "source": "News signal — verify before acting · Source: Digg · Time: 2026-11-19 23:20"
+        "date": "2026-11-20 06:50",
+        "displayDate": "2026-11-20 06:50",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRndyN2QzLTgyNmN5RUFZWFQ2S1lZc1NMaVVjOFhGc0pheEVTU3VDWmM4Yy1fel8yN1Y1SElqbnVEWjVkejdDUGM3dHBKV0JkTEJwbGRyT2liWVpfOGRqeGxvbnRSTlZ5ZGhYLTN3SGVkUjNDSllMLTRIV1RRZUNHaUEwMGU0YVJqY0FoR09lazRYdkRQeGlBUlhzVU9mVVZBdk02ZDN5OHdDbmRmVlFOYnRyUlJpUQ",
+        "source": "News signal — verify before acting · Source: Nacionale · Time: 2026-11-20 06:50"
       },
       {
         "id": "radar-024533154691",
@@ -87,46 +87,60 @@
         "source": "News signal — verify before acting · Source: VoxelMatters · Time: 2026-11-17 10:31"
       },
       {
-        "id": "radar-3ec744a6f260",
+        "id": "radar-cfa3c88495f2",
         "kind": "radar",
-        "title": "The best way to use your coding agents with GitLab",
-        "summary": "GitLab reports: The best way to use your coding agents with GitLab GitLab",
+        "title": "Apple's Autonomous AI Agents: Coming to Mac by 2027 Based on Job Listings, Says Analyst",
+        "summary": "Tech Times reports: Apple's Autonomous AI Agents: Coming to Mac by 2027 Based on Job Listings, Says Analyst Tech Times",
+        "why": "This is a direct signal for workshops, course modules, client audits, or freelance service offers. The key is turning the news into one clear offer with proof and pricing.",
+        "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
+        "category": "Teaching / Consulting Opportunity",
+        "score": 38,
+        "date": "2026-11-20 07:10",
+        "displayDate": "2026-11-20 07:10",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEg3NGJBU1lfV0t4N09hM19DOWp5eVJfa0ZwdDd0YWYwNGF3Z2VPS3hIandxanJwaWoyaGZYdWU5ZkgzdjBVbi1VWU5ZRmUtallxRTRVcWprdEsyWkpKLTBNTk9jQ3VvVmNGaGRCUlF6eGhZeHI5c3Z0UUE4SDF2T294UV9VMjBKQU4xNUU4eHpfUWE0WHNBQ2M1RDBoSTVmRnMzTEJJU0tkZHhfOGdQTTM3aWtLRmJVV0U4aXdJQjdfWXZOWUNUNmtR",
+        "source": "News signal — verify before acting · Source: Tech Times · Time: 2026-11-20 07:10"
+      },
+      {
+        "id": "radar-e345aa7e0fd4",
+        "kind": "radar",
+        "title": "Apple is reportedly building AI to do the clicking—and the coding",
+        "summary": "Digg reports: Apple is reportedly building AI to do the clicking—and the coding Digg",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-19 20:56",
-        "displayDate": "2026-11-19 20:56",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WU3Y4Uy0xaFRZd0NzdEFqcHNia29KOGlIZ1E2anlLaFVqT1VoOUlsNUZqbEVYNGhXb2lncjBid1pLbDBBUjJGZTdxTnV2X1RCMXVEaE04LVo4WXIxOHFhcERwclhqQjg",
-        "source": "News signal — verify before acting · Source: GitLab · Time: 2026-11-19 20:56"
+        "date": "2026-11-19 23:20",
+        "displayDate": "2026-11-19 23:20",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTSEc0VHJQWFNtVnVTbHhkcFR1NUtsRE9ldXplSTcyMnRRRllyOFhRUDlqRXNISkRMTDg0THJTMEhhd3J0",
+        "source": "News signal — verify before acting · Source: Digg · Time: 2026-11-19 23:20"
       },
       {
-        "id": "radar-fbe2223cec57",
+        "id": "radar-a7f757daf455",
         "kind": "radar",
-        "title": "Idaho Launches Junior Apprentice Program Bringing AI and 3D Printing to Schools",
-        "summary": "Dailyfly News flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Tripo AI Previews H3.5 Print-Ready Model and Polipop Print Agent at Formnext",
+        "summary": "https://3dprinting.com/ reports: Tripo AI Previews H3.5 Print-Ready Model and Polipop Print Agent at Formnext https://3dprinting.com/",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
-        "score": 92,
-        "date": "2026-11-19 21:40",
-        "displayDate": "2026-11-19 21:40",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOW1BQm51eXQxSjVDZ3pfM1RFZTJjRXR1NV9vbWJwX0ZrenVuZUVJTTJJR1lGQXhrbjJta1VqRGpsZGtpZHFhS0xlYURIOC1IUFp6ZUlhblNnVzlWeG8zelBHREJ0c2xveDExb2F0cEZvODltZzFzYl9MYWktZEQ5WXhfVzVvT0JxcXJzcTFiakhsdkQ1TWg3QVFDdDczOW5CMGtVRnR5WUtRdXBSYno1Q0dQRlRhTXM",
-        "source": "News signal — verify before acting · Source: Dailyfly News · Time: 2026-11-19 21:40"
+        "score": 100,
+        "date": "2026-11-17 10:11",
+        "displayDate": "2026-11-17 10:11",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenAzbGVuMDhKNHRXczhhcl9lNHVuWW5KREhtNTM1R3YtazA0SHNpMUg0VkpoYzFpSk9sT2t2aHAtY0owOVM3VkNNYVJqYUhvdDI3aExwWnVZRVVTT0xqanhKTG9UZlJiSkdVb0FvUnA2eVpWcWp4ektCVzlQdWp5b3ltRkNxLXRta3lKY2toTnNzTHVMX0JGNDBhck43bE1BN0puN3duTHQ",
+        "source": "News signal — verify before acting · Source: https://3dprinting.com/ · Time: 2026-11-17 10:11"
       },
       {
-        "id": "radar-53fd014db117",
+        "id": "radar-d49ca3e55c34",
         "kind": "radar",
-        "title": "Apple develops autonomous AI agent to take on OpenAI, Anthropic and Meta",
-        "summary": "BusinessLine reports: Apple develops autonomous AI agent to take on OpenAI, Anthropic and Meta BusinessLine",
+        "title": "Anthropic Stock Slips as Apple Aims to Develop AI Agent",
+        "summary": "Benzinga reports: Anthropic Stock Slips as Apple Aims to Develop AI Agent Benzinga",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 82,
-        "date": "2026-11-20 03:56",
-        "displayDate": "2026-11-20 03:56",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2pWdDNZUzJaRVAzRjJPM0VOdDlLN1NhVVhTeVVmRW5ZWnpHRHk5M2xSeDRRWHdIRVU5N0h4VGd6Qnk0YzFIM2dCX2lLeVF3YkdoT2pPUTVaVU9UTWlsQXJkdF9JRG5qT0s3dXRjQlRaWlhqN0FRWlVEY1VXeW1JeHFSbkFLSGhuX1EzWUlpRnktVm9LZjMzRWt1WjdVYjZaR2wyX2hEZWJ6cUtEbjkwOTNOTmF2RFVXUF9mbFdWVWgxa1RuUDZRRFhxVHrSAdMBQVVfeXFMTXR6dE1idkUzdV9obVpmVkVnMGJHQUVKME1fdkI4aE15Rm5SMmpoZE9RWmltSzJ6ckpfcER0VDAyRVhfZ3pGOXd5ZjVvMF93ZUV0clBidzY4MUtwNlFhMlNJbzhzcUdGTlNnb0VoTklpdnFqemtybnhSbnB4ZURJTFJ1b0dFWi1KX2RfUlBsWXRKTmxDQUFQM2hhOXVIdzdIY2tjR0ZXMmN3N1B3Nl85SkxsQ09wd1ZIWGlReWtuNFdzVkx2VzM1ZThPTXpKc0ZVSlZ4bw",
-        "source": "News signal — verify before acting · Source: BusinessLine · Time: 2026-11-20 03:56"
+        "date": "2026-11-19 22:13",
+        "displayDate": "2026-11-19 22:13",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUZENmZXV1lqRENHczFUemdrNk9fSTA0VnNmLTI3dDd5SXdyUjJPM0FVTm5acEFnUlVESDRoWEt5NzVUbVNsYjU3aEdzR2p5NkFDWUJTbzlNRzlqeUFmN0RVb2dzbEFuRmloeDRhUDNzdG9hLTdmVzlLcnNJRkVLaDFaQUJhQmZuYVRzbk15WWZCNVRXQ3VpVU5ta1YzTDFXM1h0cDRKME1mWXZmWmk1TmZuWTFPNDA",
+        "source": "News signal — verify before acting · Source: Benzinga · Time: 2026-11-19 22:13"
       },
       {
         "id": "radar-2a6376fd6c26",
@@ -141,20 +155,6 @@
         "displayDate": "2026-11-18 17:06",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RejBWQml3ekRqeU9ieU5OdmN6ZGNMNHd6UkZhcWMzYlRfbEV1Uk1fRlVNZ2pkNXhlR2dJZTVfUEdoSzVaV2ZNQ2JZX05PRnppRm9BY3lYOG1YSTVBYll2bWNLdlNMbFkxRkxHaHh6QjE",
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-18 17:06"
-      },
-      {
-        "id": "radar-d38b846083eb",
-        "kind": "radar",
-        "title": "Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
-        "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
-        "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
-        "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-20 01:22",
-        "displayDate": "2026-11-20 01:22",
-        "url": "https://apps.apple.com/us/app/tyche-intelligent-interface/id6835683787",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-20 01:22"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T09:02:11.100297+08:00",
-        "nextRun": "2026-11-20T15:00:00+08:00",
+        "lastRun": "2026-11-20T15:01:55.400207+08:00",
+        "nextRun": "2026-11-20T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T13:22:05.230305+08:00",
-        "nextRun": "2026-11-20T14:22:27.757542+08:00",
+        "lastRun": "2026-11-20T16:23:33.087151+08:00",
+        "nextRun": "2026-11-20T17:23:33.483778+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T13:12:04.500822+08:00",
-        "nextRun": "2026-11-20T16:10:00+08:00",
+        "lastRun": "2026-11-20T16:12:02.028226+08:00",
+        "nextRun": "2026-11-20T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T13:49:31.609417+08:00",
-        "nextRun": "2026-11-20T13:54:27.751038+08:00",
+        "lastRun": "2026-11-20T16:52:36.080064+08:00",
+        "nextRun": "2026-11-20T16:54:36.080064+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T13:30:28.821942+08:00",
-        "nextRun": "2026-11-20T16:30:00+08:00",
+        "lastRun": "2026-11-20T16:30:50.765169+08:00",
+        "nextRun": "2026-11-20T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-20T12:48:05.953047+08:00",
-        "nextRun": "2026-11-20T15:40:00+08:00",
+        "lastRun": "2026-11-20T15:48:34.517999+08:00",
+        "nextRun": "2026-11-20T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-20T13:52:27.757542+08:00"
+    "updatedAt": "2026-11-20T16:53:33.485281+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
