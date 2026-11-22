@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-22T16:59:47+08:00",
+    "generatedAt": "2026-11-22T20:00:57+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-22_09-02-08.md",
-    "radarSource": "ai_opportunity_radar_20261122_163103.html",
+    "radarSource": "ai_opportunity_radar_20261122_193119.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,49 +14,49 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261122_163103.html",
+    "sourceFile": "ai_opportunity_radar_20261122_193119.html",
     "items": [
       {
-        "id": "radar-f2f88834c50b",
+        "id": "radar-28b0a2e5da14",
         "kind": "radar",
-        "title": "Open-source harness and MCP dataset for options trading with AI agents",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+        "summary": "SecurityWeek reports: Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day SecurityWeek",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 59,
-        "date": "2026-11-21 23:20",
-        "displayDate": "2026-11-21 23:20",
-        "url": "https://github.com/DevDizzle/gammarips-harness",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-21 23:20"
+        "score": 50,
+        "date": "2026-11-21 12:08",
+        "displayDate": "2026-11-21 12:08",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R",
+        "source": "News signal — verify before acting · Source: SecurityWeek · Time: 2026-11-21 12:08"
       },
       {
-        "id": "radar-949b3d826a22",
+        "id": "radar-06a1792ac19c",
         "kind": "radar",
-        "title": "Together AI says coding agent exposed a credential that led to prompt leak",
-        "summary": "Digg reports: Together AI says coding agent exposed a credential that led to prompt leak Digg",
+        "title": "Claude Code Leaks Secrets Through 'Don't Ask Again' Feature",
+        "summary": "news.lavx.hu reports: Claude Code Leaks Secrets Through 'Don't Ask Again' Feature news.lavx.hu",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-22 00:35",
-        "displayDate": "2026-11-22 00:35",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRV1lRZFJTbzZkbXYzLVpMOWs3TGVUQW5ISEhzWEpXb3M2QnZaWFNmVjlQcmhPY3JmSWFqVnYxUlpwZw",
-        "source": "News signal — verify before acting · Source: Digg · Time: 2026-11-22 00:35"
+        "date": "2026-11-22 11:19",
+        "displayDate": "2026-11-22 11:19",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcFVvMXZnQ2J1ZXlHWmg3QkF0R21rczd3YWdZb1JaLWJnQUZZdmpUVVQ1LW9jek9pOXZ3c2M3cWhUS1R5OWE3UnRxVGxiaGhIMTRpWGQyaGZ6T25HY19qVFFmWldMT1pOdXFhVnIxbHBvZHZzYjRxU0pNR3pFYlNENGFOckF0YmtNdFBDRlFTMA",
+        "source": "News signal — verify before acting · Source: news.lavx.hu · Time: 2026-11-22 11:19"
       },
       {
-        "id": "radar-8836ea6a53cc",
+        "id": "radar-0feb0679484c",
         "kind": "radar",
-        "title": "AI could soon be recommending layoffs, Arist CEO Michael Ioffe predicts: ‘The speed of decision-making is so much faster’",
-        "summary": "Fortune reports: AI could soon be recommending layoffs, Arist CEO Michael Ioffe predicts: ‘The speed of decision-making is so much faster’ Fortune",
+        "title": "Anthropic’s USD 901 billion bet on the next leap in AI",
+        "summary": "IBM reports: Anthropic’s USD 901 billion bet on the next leap in AI IBM",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 83,
-        "date": "2026-11-16 20:04",
-        "displayDate": "2026-11-16 20:04",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBic2ZYT2o0RDFIVWU2Mk92UnhUZGtBS1BmQmhuU0dqNi1LQmY5Z2tjQXBRR0dSVzBnTmxzTW9QWU9GVlh0V0JzNzJibVJNcDU3YUZGRjhEY3dJRjJjdTVveFpreTNtS3I3aUItSjNUSVVocm4wcUtMaTAyMGJJUQ",
-        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-11-16 20:04"
+        "score": 90,
+        "date": "2026-11-20 05:22",
+        "displayDate": "2026-11-20 05:22",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWi1OTDhRSzZOZnRyLUVtTUlveGVlYW85N1k3XzJTazdLcDh3YmpJbjZNSUl0eU13X24xUkJuZWVCQ3dhdlVudk4tcGZwNGdDTkNpOWo2Q0ZBTld3bUJ5ejNLY1k0cnpOTExTekx2NFBUVmdEOHBEdkFZTW1oQ3MzOTRhTnBkamhK",
+        "source": "News signal — verify before acting · Source: IBM · Time: 2026-11-20 05:22"
       },
       {
         "id": "radar-705133ff659c",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: ABC News - Breaking News, Latest News and Videos · Time: 2026-11-21 00:26"
       },
       {
-        "id": "radar-f70437ac321a",
+        "id": "radar-f6623dd86c7e",
         "kind": "radar",
-        "title": "Together AI Prompt Leak Nov 2026: xorl, HF Credential",
-        "summary": "explainx.ai reports: Together AI Prompt Leak Nov 2026: xorl, HF Credential explainx.ai",
+        "title": "Microsoft’s new AI coder is gunning for Claude and ChatGPT. It’s coming with a price advantage",
+        "summary": "Yahoo Tech reports: Microsoft’s new AI coder is gunning for Claude and ChatGPT.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-22 00:00",
-        "displayDate": "2026-11-22 00:00",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVdFdkxrWVQya2s5TVN5TUhuUWhvY0Z5OFdFeTZjejFLbHFTQk1ITnAzRWdiM0VxYW9POEUtOEJhSUtYUHV4RlNzbDFvT3BpeXRnVXFRLWd6VHNBemY2eEJzMjlkLVBsYkZibFlDRTB3SEpUT1lkbjdDa1FGVHhyUEVJZ0RPMzE4aE1fNEdyYmFCSDJmNUtv",
-        "source": "News signal — verify before acting · Source: explainx.ai · Time: 2026-11-22 00:00"
+        "date": "2026-11-22 09:45",
+        "displayDate": "2026-11-22 09:45",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT3MyUTJTalJ1bjVlT0ZHdDVTNEZkMHgtQ0I0SEVndU9PRXctV2ZoOGQ3bk11T1FWN3dDdXA3Qm1fRDZyVlFwYnN5c2hUQWZyTGZuXzF2dE9qMW1VVG9VWUFTUEs1bUhENzc5N1F2Q1NzN2hkMTZPV19yeXB5Zmw5eE9aazA4aWVUWEF0Zy1MLWpqNjExd3c",
+        "source": "News signal — verify before acting · Source: Yahoo Tech · Time: 2026-11-22 09:45"
       },
       {
         "id": "radar-5b9321ca99dc",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-11-20 13:15"
       },
       {
-        "id": "radar-876599628ae9",
+        "id": "radar-8836ea6a53cc",
         "kind": "radar",
-        "title": "Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META)",
-        "summary": "Foreign Policy Journal reports: Rivals Bleed As Apple (NASDAQ: AAPL) AI Agent Leak Rattles Anthropic (ANT) And Meta (NASDAQ: META) Foreign Policy Journal",
+        "title": "AI could soon be recommending layoffs, Arist CEO Michael Ioffe predicts: ‘The speed of decision-making is so much faster’",
+        "summary": "Fortune reports: AI could soon be recommending layoffs, Arist CEO Michael Ioffe predicts: ‘The speed of decision-making is so much faster’ Fortune",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-11-22 03:40",
-        "displayDate": "2026-11-22 03:40",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFJpUjVWU3pVeHNvZ0RudnJRN09mekVLTGZUT3BZeHg1OXNvdTBoak1YUFQ5TkY2anFNR2FfdmtoMnNoek5iZGI3TnJWcVBfMTY5N19TNXlSS3MxWUFLZ2d5YWdORTU3djV6UHUyR0JGelNlWlZlUzdLdEZZTjh6dDNFdHcxSUtoQnFtWENwOXpTRGRJZ0pwOHVYMEVmTWUtU3ZUM0NoOWJmRUxMWW11SHgzZFk3UENqTTFaWDMzTTFNTDNUM2hkSnVtUk1QUDdwQmRuZ1NB",
-        "source": "News signal — verify before acting · Source: Foreign Policy Journal · Time: 2026-11-22 03:40"
+        "score": 83,
+        "date": "2026-11-16 20:04",
+        "displayDate": "2026-11-16 20:04",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBic2ZYT2o0RDFIVWU2Mk92UnhUZGtBS1BmQmhuU0dqNi1LQmY5Z2tjQXBRR0dSVzBnTmxzTW9QWU9GVlh0V0JzNzJibVJNcDU3YUZGRjhEY3dJRjJjdTVveFpreTNtS3I3aUItSjNUSVVocm4wcUtMaTAyMGJJUQ",
+        "source": "Trusted news / community signal · Source: Fortune · Time: 2026-11-16 20:04"
       },
       {
         "id": "radar-2a6376fd6c26",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-18 17:06"
       },
       {
-        "id": "radar-28b0a2e5da14",
+        "id": "radar-fd575f34770d",
         "kind": "radar",
-        "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-        "summary": "SecurityWeek reports: Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day SecurityWeek",
+        "title": "Zero Trust for AI Agents",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-21 12:08",
-        "displayDate": "2026-11-21 12:08",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R",
-        "source": "News signal — verify before acting · Source: SecurityWeek · Time: 2026-11-21 12:08"
+        "score": 43,
+        "date": "2026-11-22 11:12",
+        "displayDate": "2026-11-22 11:12",
+        "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-22 11:12"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-22T16:29:47.089146+08:00",
-        "nextRun": "2026-11-22T17:29:47.450529+08:00",
+        "lastRun": "2026-11-22T19:30:52.696459+08:00",
+        "nextRun": "2026-11-22T20:30:56.753390+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-22T16:12:09.312326+08:00",
-        "nextRun": "2026-11-22T19:10:00+08:00",
+        "lastRun": "2026-11-22T19:12:03.100996+08:00",
+        "nextRun": "2026-11-22T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-22T16:57:50.483188+08:00",
-        "nextRun": "2026-11-22T16:59:50.483188+08:00",
+        "lastRun": "2026-11-22T19:59:59.965257+08:00",
+        "nextRun": "2026-11-22T20:01:59.965257+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-22T16:31:03.390656+08:00",
-        "nextRun": "2026-11-22T19:30:00+08:00",
+        "lastRun": "2026-11-22T19:31:19.711538+08:00",
+        "nextRun": "2026-11-22T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-22T15:45:26.791696+08:00",
-        "nextRun": "2026-11-22T18:40:00+08:00",
+        "lastRun": "2026-11-22T18:46:04.107585+08:00",
+        "nextRun": "2026-11-22T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-22T16:59:47.450529+08:00"
+    "updatedAt": "2026-11-22T20:00:56.754389+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
