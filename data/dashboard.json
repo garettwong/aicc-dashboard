@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-24T22:39:37+08:00",
+    "generatedAt": "2026-11-25T01:45:42+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-24_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20261124_223057.html",
+    "radarSource": "ai_opportunity_radar_20261125_013059.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261124_223057.html",
+    "sourceFile": "ai_opportunity_radar_20261125_013059.html",
     "items": [
       {
-        "id": "radar-249d0588c8be",
+        "id": "radar-6ab7376fa37f",
         "kind": "radar",
-        "title": "Cyber Chaos Monkey: Staying ahead of security threats with AI agents (2026)",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Apple tightens Mac security as AI agents seek your files",
+        "summary": "Fox News reports: Apple tightens Mac security as AI agents seek your files Fox News",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 55,
-        "date": "2026-11-24 12:34",
-        "displayDate": "2026-11-24 12:34",
-        "url": "https://shopify.engineering/cyber-chaos-monkey",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 12:34"
+        "score": 50,
+        "date": "2026-11-24 16:21",
+        "displayDate": "2026-11-24 16:21",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDhRY0ZiRHBuSzNOeXZ1YzVENnZ3dUZZaV9Vcno3TEptVFdFUGZyZDFTX0lKZ1Q2dFNZUW1LM0tNckVxeTBkVEZvVmJQRVotXzhCS0xzU2oyczZBOWVzRGFqRzVlblk3ZW41ZnBseVRCeGhveVphYm51Y1A1OGdrS3JfVXVBdkdLSUE",
+        "source": "News signal — verify before acting · Source: Fox News · Time: 2026-11-24 16:21"
       },
       {
-        "id": "radar-70f54a8a67f6",
+        "id": "radar-536d39ef509f",
         "kind": "radar",
-        "title": "Anthropic Launches Claude Ship to Review, Fix and Approve Pull Requests",
-        "summary": "Technology Org flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "How to Secure AI Coding Agents in NVIDIA OpenShell with Evo",
+        "summary": "Snyk reports: How to Secure AI Coding Agents in NVIDIA OpenShell with Evo Snyk",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-24 11:22",
-        "displayDate": "2026-11-24 11:22",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjk3R1JuTVozQlFhWGFwd1dva3hCNkJ4WEVXUXJDRFNXVEl3TmxrbkJqVXZLMWJmWXVZcW13Y0c5a2VBWFR6bDIwYXU2Ry1GY3BTU2pCZ1hSTWRrZTdDZm51MGVzLWRfdHBRNnJQQWZYajVCcExTT0pYckRuTC1zSE1fQ3ZMSmExQkFrZVlVM0pKa0xRUEx1U3RhNzh6dXVJQ0E",
-        "source": "News signal — verify before acting · Source: Technology Org · Time: 2026-11-24 11:22"
+        "date": "2026-11-24 14:49",
+        "displayDate": "2026-11-24 14:49",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TS0JQRHJua2J5V3BpemNyeFNfeF9ITzBqdWstMjhQeGFsdkp0UzFZZkJzbUZIcXVwTGRwOGdFRjkxY2hFeTlBaDZ4SExfbHJPLWlJbE4yM2RnRlgzNzNPVXk5R2dpVmxob0ZLOGhR",
+        "source": "News signal — verify before acting · Source: Snyk · Time: 2026-11-24 14:49"
       },
       {
         "id": "radar-99226df242da",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Forbes · Time: 2026-11-24 05:22"
       },
       {
-        "id": "radar-704d91e02b70",
+        "id": "radar-6239d53ea479",
         "kind": "radar",
-        "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
-        "summary": "InfoWorld flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "Claude Ship puts AI at the helm of pull request approvals",
+        "summary": "The Register reports: Claude Ship puts AI at the helm of pull request approvals The Register",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-24 11:14",
-        "displayDate": "2026-11-24 11:14",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3",
-        "source": "News signal — verify before acting · Source: InfoWorld · Time: 2026-11-24 11:14"
+        "date": "2026-11-24 14:29",
+        "displayDate": "2026-11-24 14:29",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2JhdEpBYUJIMnFiNmVNZnU3OU9UaXZrak9nbmNOcDNXaWJ0V2FWMWNRZG93Vm43c3B2RGEzenpLRnJ3YU8yZS10U3JpaDV0WURXdjU5dk9ERUpQdWFiQjZBVHJDaE1sUUlaVkY2R3J3Z3JGOEtiam1fTWxwWE5EVFVfY2xFQThWOHRBSmhmdFpsQUZXemU1Vm1rM0kxTUVCV0xLcWc4R1JlY2xRLVZMVnkzTzg",
+        "source": "Trusted news / community signal · Source: The Register · Time: 2026-11-24 14:29"
       },
       {
         "id": "radar-3f3ffec76f86",
@@ -143,18 +143,18 @@
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-18 17:06"
       },
       {
-        "id": "radar-6516a8703b5b",
+        "id": "radar-a79ef994a1f4",
         "kind": "radar",
-        "title": "Dante Security raises $10 million to put humans in charge of AI agents",
-        "summary": "Ynetnews shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Show HN: Moonbooth – Simple URLs for independent agents to share and coordinate",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 50,
-        "date": "2026-11-24 13:00",
-        "displayDate": "2026-11-24 13:00",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnUl9pYWNrRUZjVTc1TkNzb3pMa2hHTnREbnAtZHRFb21MSU9KcUtlTEtrUVdBa2NROXVqd3o5MDBmVndOS1VXemQ4ZXFvQmN1Wmo5UFRxTVl2Q1djdnM2R2lR",
-        "source": "News signal — verify before acting · Source: Ynetnews · Time: 2026-11-24 13:00"
+        "score": 43,
+        "date": "2026-11-24 17:01",
+        "displayDate": "2026-11-24 17:01",
+        "url": "https://moonbooth.ai/",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 17:01"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T22:09:36.279748+08:00",
-        "nextRun": "2026-11-24T23:09:36.603900+08:00",
+        "lastRun": "2026-11-25T01:15:41.998796+08:00",
+        "nextRun": "2026-11-25T02:15:42.361459+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T22:14:13.893090+08:00",
-        "nextRun": "2026-11-25T01:10:00+08:00",
+        "lastRun": "2026-11-25T01:13:26.512700+08:00",
+        "nextRun": "2026-11-25T04:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T22:36:39.407437+08:00",
-        "nextRun": "2026-11-24T22:41:36.593386+08:00",
+        "lastRun": "2026-11-25T01:42:45.379727+08:00",
+        "nextRun": "2026-11-25T01:47:42.344954+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T22:30:57.790324+08:00",
-        "nextRun": "2026-11-25T01:30:00+08:00",
+        "lastRun": "2026-11-25T01:30:59.700850+08:00",
+        "nextRun": "2026-11-25T04:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T21:45:47.920056+08:00",
-        "nextRun": "2026-11-25T00:40:00+08:00",
+        "lastRun": "2026-11-25T00:45:09.404696+08:00",
+        "nextRun": "2026-11-25T03:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-24T22:39:36.604900+08:00"
+    "updatedAt": "2026-11-25T01:45:42.362460+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
