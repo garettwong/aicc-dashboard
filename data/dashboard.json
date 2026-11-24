@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-24T13:36:16+08:00",
+    "generatedAt": "2026-11-24T16:37:21+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-24_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20261124_133041.html",
+    "radarSource": "ai_opportunity_radar_20261124_163041.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261124_133041.html",
+    "sourceFile": "ai_opportunity_radar_20261124_163041.html",
     "items": [
       {
-        "id": "radar-1fd6522e2329",
+        "id": "radar-ad29e2b9e08a",
         "kind": "radar",
-        "title": "Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe",
+        "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
         "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
-        "score": 43,
-        "date": "2026-11-24 04:45",
-        "displayDate": "2026-11-24 04:45",
-        "url": "https://vllm.ai/blog/2026-11-23-skip-the-dram-tier",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 04:45"
+        "score": 57,
+        "date": "2026-11-24 08:16",
+        "displayDate": "2026-11-24 08:16",
+        "url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 08:16"
       },
       {
-        "id": "radar-11652d5d4602",
+        "id": "radar-e57829f02244",
         "kind": "radar",
-        "title": "Anthropic launches Claude Ship to review, fix and approve code changes",
-        "summary": "India Today flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "title": "'Don't ask again': the AI coding-agent habit that leaked developers' passwords, and the fix that followed",
+        "summary": "SecurityBrief Australia reports: 'Don't ask again': the AI coding-agent habit that leaked developers' passwords, and the fix that followed SecurityBrief Australia",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-24 04:34",
-        "displayDate": "2026-11-24 04:34",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3ZOV3pXSG1DYUhvVUNGSV91ejJOS090MGRHZWpzaks5UktCTTA3MzEzSjRCR3h1c2VDbW9tamR3dFc1MXZyNHpuQXBRcVVPOUQ2d3lSd2dHMWN3Nkdtd1JIQWJKSDY5TGhjU09HbGVwZmtXdHJVNlo0MEJsdVJFLVBzMHhQdGdRelM1QWVjWkx4R3RJMl82MzdGN194a1V5d3RBLVdxRDlCWjlEUDRZREF2dC05Qm5fTnk4eGFscVNPV1ZWNlh2SUZjVVZfY011amfSAdcBQVVfeXFMT21NS2I4UjdLS3ZiWlJTdHJpZF9uMVU2bWdoalpCQUUwTHVIWVF2NlZlcDUtSS1BLWE1TW43ejU4eFo4LWZvdXR2TzZMNkpXUzRNZlU1a2M4TG85SktqWUI3Z2k4OXRmQm1qOTJ5Zm8xQmJPbkhVNXBpWXJ3aDdrZzRTRkZTenhJLVM1NHdSS05fdWVvOXlSdTFsQkM5WkV6dGxaUHRRZnhOVGRKamRtNnM0SzBRRjJVZGw1ay1Lb2hjUzNzREdYRFhGSnprNzRseE5RWmdZYTQ",
-        "source": "News signal — verify before acting · Source: India Today · Time: 2026-11-24 04:34"
+        "date": "2026-11-24 07:21",
+        "displayDate": "2026-11-24 07:21",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnp2QVRHSTk2eEVWYWNEdnlhWHlQdEtUWFFZX0FoaWZVXzVWUm1RejdleVZtVkpaRnZpeldXbXdtYjUxa1ZyMTFrMmFiaWllTTdLM1cwT1dNYXplblZSZ0d1S2Y2T0dfZHN4NVhXaTRiZlR3ZzR3aE5KNEpZVVhsRUZYczhVTXNhT2hYVHhTbnpXSjF2VlhxZXVyVUMzQWVzOXQyb0dubk5hT3VUTXh3MGZvRjdVOHE5WXBfd0VBR3YxWVphUHZlLXFaUnNybmNI",
+        "source": "News signal — verify before acting · Source: SecurityBrief Australia · Time: 2026-11-24 07:21"
       },
       {
         "id": "radar-99226df242da",
@@ -115,18 +115,18 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-23 13:31"
       },
       {
-        "id": "radar-f2c9c47a2b83",
+        "id": "radar-05ef0cf8a8b8",
         "kind": "radar",
-        "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
-        "summary": "The Next Web reports: DeepMind’s AI agents found cheaper quantum algorithms, and proved them The Next Web",
+        "title": "DeepMind AI Agents Cut Fusion Simulation Cost Nearly 12x in Quantum Algorithms, Each Gain Verified",
+        "summary": "Tech Times reports: DeepMind AI Agents Cut Fusion Simulation Cost Nearly 12x in Quantum Algorithms, Each Gain Verified Tech Times",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
         "score": 82,
-        "date": "2026-11-23 18:33",
-        "displayDate": "2026-11-23 18:33",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGtZdGJiQjgzN09KM0hoMUs2T0ZXelBFcWM4NXhfWVNLWGdLT0dBdFBKVGFZV3hrRW9TY3BoRm1XR1dlNXFtc0tNWS1COTN5SzVqdTBiS2FQelR6X1ZCa1Q4dmw2MEJXeU9ScXg2V0JRMGg2eDhqNDd4dGVqdGxOMW8tUVZFcFBi",
-        "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-11-23 18:33"
+        "date": "2026-11-24 06:35",
+        "displayDate": "2026-11-24 06:35",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNko5UGRnV1k4ZjY5c1RuMnZKVVd4U3h3YUJsMFdsRDVZcHJ0TVRlbElSa3VlczlmbExNSFNNUExfV0t5d1M3WkhUZFVWZENPRFY4OHoxcjhWM09YZmlnaDBDeFZvaEo4ekNEV0o3Y29sdTBST1l2UTRqMm9qTFRsOEZocGhTYU9ud09GczZqX0t4Z2RBTTd3SWlMRC1DYnlMUFVPTmFCb0tINXp2LXEwV010dEdRVUVwVk1kcEJzajMzTFJkcVRnbDNRYXR3T1V4OG01YTJZdkc1VWR1YWVCdTIxWQ",
+        "source": "News signal — verify before acting · Source: Tech Times · Time: 2026-11-24 06:35"
       },
       {
         "id": "radar-771f1d25b578",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Semiconductor Engineering · Time: 2026-11-18 08:34"
       },
       {
-        "id": "radar-6b3c8a248434",
+        "id": "radar-d8410afcfd40",
         "kind": "radar",
-        "title": "An on-device AI agent for Android",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+        "summary": "The Hacker News reports: Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day The Hacker News",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-24 03:53",
-        "displayDate": "2026-11-24 03:53",
-        "url": "https://github.com/wangzan101/mika",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 03:53"
+        "date": "2026-11-24 06:02",
+        "displayDate": "2026-11-24 06:02",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2x5SEZWQ2k3aWFJaDJYc3NuMDJJWWNXN05fYldzVUpoYWZ4NmZIeWZwVGxKemJZWE9QbTZZdzM1SzU1WVp5OG5xLVhsTWJqRlIwcDdtalJoOG1Ma3NLTWZXU0xsUHVjUjhNSXQ0MFc3TG96V2RRbmJQQzhzOEN3NERJMA",
+        "source": "Trusted news / community signal · Source: The Hacker News · Time: 2026-11-24 06:02"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T09:03:59.652336+08:00",
-        "nextRun": "2026-11-24T15:00:00+08:00",
+        "lastRun": "2026-11-24T15:03:18.375476+08:00",
+        "nextRun": "2026-11-24T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T13:06:15.837568+08:00",
-        "nextRun": "2026-11-24T14:06:16.130206+08:00",
+        "lastRun": "2026-11-24T16:07:21.092008+08:00",
+        "nextRun": "2026-11-24T17:07:21.519213+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T13:12:02.782202+08:00",
-        "nextRun": "2026-11-24T16:10:00+08:00",
+        "lastRun": "2026-11-24T16:11:41.298955+08:00",
+        "nextRun": "2026-11-24T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T13:33:18.743675+08:00",
-        "nextRun": "2026-11-24T13:38:16.118197+08:00",
+        "lastRun": "2026-11-24T16:36:24.270759+08:00",
+        "nextRun": "2026-11-24T16:38:24.270759+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T13:30:41.289650+08:00",
-        "nextRun": "2026-11-24T16:30:00+08:00",
+        "lastRun": "2026-11-24T16:30:41.338552+08:00",
+        "nextRun": "2026-11-24T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T12:44:37.095611+08:00",
-        "nextRun": "2026-11-24T15:40:00+08:00",
+        "lastRun": "2026-11-24T15:45:09.680844+08:00",
+        "nextRun": "2026-11-24T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-24T13:36:16.131207+08:00"
+    "updatedAt": "2026-11-24T16:37:21.520213+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
