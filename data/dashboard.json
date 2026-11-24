@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-24T09:04:08+08:00",
+    "generatedAt": "2026-11-24T10:35:10+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-24_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20261124_073027.html",
+    "radarSource": "ai_opportunity_radar_20261124_103034.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261124_073027.html",
+    "sourceFile": "ai_opportunity_radar_20261124_103034.html",
     "items": [
       {
-        "id": "radar-a8a64766dfeb",
+        "id": "radar-c739d4f32794",
         "kind": "radar",
-        "title": "Securing AI agents against intent hijacking with Semantic governance policies",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Show HN: Gal – local-first agent runtime with per-call permissions and rollback",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-23 23:22",
-        "displayDate": "2026-11-23 23:22",
-        "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-23 23:22"
+        "date": "2026-11-24 00:31",
+        "displayDate": "2026-11-24 00:31",
+        "url": "https://agent-home.ai/index.html",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 00:31"
       },
       {
-        "id": "radar-15ce6b4018b5",
+        "id": "radar-37e870e65f82",
         "kind": "radar",
-        "title": "Anthropic Publishes Enterprise Security Playbook for AI Coding Agents as Salesforce Logs 79% Jump in Merged Pull Requests",
-        "summary": "BigGo Finance reports: Anthropic Publishes Enterprise Security Playbook for AI Coding Agents as Salesforce Logs 79% Jump in Merged Pull Requests BigGo Finance",
+        "title": "Enterprise Guide to Securing AI Coding Agents with Claude Code",
+        "summary": "Blockchain News reports: Enterprise Guide to Securing AI Coding Agents with Claude Code Blockchain News",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-23 22:25",
-        "displayDate": "2026-11-23 22:25",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XUUdMMHJqek00RGtwQkh2bGwxSlQxcUduZmJiOEZsV3p1bmY0VGs1MTFfdmhSd2JvSDdQejY2RkZVaVNEa1BXLXUtR3BZVW1Qbk5YWWl6aGRXQ1dnTnhmNmhSQVpZczN1cGdEY3FxQzJncFpqT3c",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-23 22:25"
+        "date": "2026-11-23 21:57",
+        "displayDate": "2026-11-23 21:57",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kNXl5M2NLMWxWSUVPRV9zbjZXUndZTDN5MzlaS2VNRDc3cVVhVnE5YXZLcTd6aEM2UGRlQXpvUFRqUEdqeVIyMkpMaGJkRGlRS3k1NkVvSEZXaVlQeVFyenNsUWZQeDhIRFo4cUgwR0lqblEzY0hn",
+        "source": "News signal — verify before acting · Source: Blockchain News · Time: 2026-11-23 21:57"
       },
       {
         "id": "radar-99226df242da",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Semiconductor Engineering · Time: 2026-11-18 08:34"
       },
       {
-        "id": "radar-256841eef5c9",
+        "id": "radar-a8a64766dfeb",
         "kind": "radar",
-        "title": "What Is NotiBuddy? Approve AI Agents from Your iPhone with Face ID",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
+        "title": "Securing AI agents against intent hijacking with Semantic governance policies",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-23 23:09",
-        "displayDate": "2026-11-23 23:09",
-        "url": "https://notibuddy.app/blog/what-is-notibuddy",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-23 23:09"
+        "date": "2026-11-23 23:22",
+        "displayDate": "2026-11-23 23:22",
+        "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-23 23:22"
       }
     ]
   },
@@ -167,8 +167,8 @@
         "state": "error",
         "schedule": "30 9 * * *",
         "lastStatus": "error",
-        "lastRun": "2026-11-23T09:54:41.508026+08:00",
-        "nextRun": "2026-11-24T09:30:00+08:00",
+        "lastRun": "2026-11-24T09:30:11.188667+08:00",
+        "nextRun": "2026-11-25T09:30:00+08:00",
         "message": "RuntimeError: Skipped to prevent unintended spend: global inference config drifted since this job was created (model 'gpt-5.6-terra' -> 'gpt-6-astra'), and this job is unpinned. No inference call was made. To run on the new config, pin it e"
       },
       {
@@ -200,8 +200,8 @@
         "state": "ok",
         "schedule": "15 9 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-23T09:44:23.398625+08:00",
-        "nextRun": "2026-11-24T09:15:00+08:00",
+        "lastRun": "2026-11-24T09:15:23.826156+08:00",
+        "nextRun": "2026-11-25T09:15:00+08:00",
         "message": "Unused: this no-agent job runs the SMTP delivery script only. It sends the latest unsent AI Everyday works tools briefing directly to garettwong@gmail.com using a fresh authenticat"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T08:34:07.503615+08:00",
-        "nextRun": "2026-11-24T09:34:07.950294+08:00",
+        "lastRun": "2026-11-24T10:05:10.288327+08:00",
+        "nextRun": "2026-11-24T11:05:10.575113+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T07:12:33.151446+08:00",
-        "nextRun": "2026-11-24T10:10:00+08:00",
+        "lastRun": "2026-11-24T10:12:23.090333+08:00",
+        "nextRun": "2026-11-24T13:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T09:03:11.180546+08:00",
-        "nextRun": "2026-11-24T09:05:11.180546+08:00",
+        "lastRun": "2026-11-24T10:33:13.400451+08:00",
+        "nextRun": "2026-11-24T10:35:13.400451+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T07:30:27.425506+08:00",
-        "nextRun": "2026-11-24T10:30:00+08:00",
+        "lastRun": "2026-11-24T10:30:34.368717+08:00",
+        "nextRun": "2026-11-24T13:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T06:44:11.798635+08:00",
-        "nextRun": "2026-11-24T09:40:00+08:00",
+        "lastRun": "2026-11-24T09:43:56.260311+08:00",
+        "nextRun": "2026-11-24T12:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-24T09:04:07.950294+08:00"
+    "updatedAt": "2026-11-24T10:35:10.576113+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
