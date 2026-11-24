@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-24T10:35:10+08:00",
+    "generatedAt": "2026-11-24T13:36:16+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-24_09-01-50.md",
-    "radarSource": "ai_opportunity_radar_20261124_103034.html",
+    "radarSource": "ai_opportunity_radar_20261124_133041.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261124_103034.html",
+    "sourceFile": "ai_opportunity_radar_20261124_133041.html",
     "items": [
       {
-        "id": "radar-c739d4f32794",
+        "id": "radar-1fd6522e2329",
         "kind": "radar",
-        "title": "Show HN: Gal – local-first agent runtime with per-call permissions and rollback",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=4, comments=0.",
+        "title": "Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-24 00:31",
-        "displayDate": "2026-11-24 00:31",
-        "url": "https://agent-home.ai/index.html",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 00:31"
+        "date": "2026-11-24 04:45",
+        "displayDate": "2026-11-24 04:45",
+        "url": "https://vllm.ai/blog/2026-11-23-skip-the-dram-tier",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 04:45"
       },
       {
-        "id": "radar-37e870e65f82",
+        "id": "radar-11652d5d4602",
         "kind": "radar",
-        "title": "Enterprise Guide to Securing AI Coding Agents with Claude Code",
-        "summary": "Blockchain News reports: Enterprise Guide to Securing AI Coding Agents with Claude Code Blockchain News",
+        "title": "Anthropic launches Claude Ship to review, fix and approve code changes",
+        "summary": "India Today flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-23 21:57",
-        "displayDate": "2026-11-23 21:57",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kNXl5M2NLMWxWSUVPRV9zbjZXUndZTDN5MzlaS2VNRDc3cVVhVnE5YXZLcTd6aEM2UGRlQXpvUFRqUEdqeVIyMkpMaGJkRGlRS3k1NkVvSEZXaVlQeVFyenNsUWZQeDhIRFo4cUgwR0lqblEzY0hn",
-        "source": "News signal — verify before acting · Source: Blockchain News · Time: 2026-11-23 21:57"
+        "date": "2026-11-24 04:34",
+        "displayDate": "2026-11-24 04:34",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3ZOV3pXSG1DYUhvVUNGSV91ejJOS090MGRHZWpzaks5UktCTTA3MzEzSjRCR3h1c2VDbW9tamR3dFc1MXZyNHpuQXBRcVVPOUQ2d3lSd2dHMWN3Nkdtd1JIQWJKSDY5TGhjU09HbGVwZmtXdHJVNlo0MEJsdVJFLVBzMHhQdGdRelM1QWVjWkx4R3RJMl82MzdGN194a1V5d3RBLVdxRDlCWjlEUDRZREF2dC05Qm5fTnk4eGFscVNPV1ZWNlh2SUZjVVZfY011amfSAdcBQVVfeXFMT21NS2I4UjdLS3ZiWlJTdHJpZF9uMVU2bWdoalpCQUUwTHVIWVF2NlZlcDUtSS1BLWE1TW43ejU4eFo4LWZvdXR2TzZMNkpXUzRNZlU1a2M4TG85SktqWUI3Z2k4OXRmQm1qOTJ5Zm8xQmJPbkhVNXBpWXJ3aDdrZzRTRkZTenhJLVM1NHdSS05fdWVvOXlSdTFsQkM5WkV6dGxaUHRRZnhOVGRKamRtNnM0SzBRRjJVZGw1ay1Lb2hjUzNzREdYRFhGSnprNzRseE5RWmdZYTQ",
+        "source": "News signal — verify before acting · Source: India Today · Time: 2026-11-24 04:34"
       },
       {
         "id": "radar-99226df242da",
@@ -73,6 +73,34 @@
         "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-18 17:06"
       },
       {
+        "id": "radar-143c6d46aa91",
+        "kind": "radar",
+        "title": "Maxon Plusses Up With AI-Assisted 3D Creation Tools, Agentic Licenses",
+        "summary": "Forbes reports: Maxon Plusses Up With AI-Assisted 3D Creation Tools, Agentic Licenses Forbes",
+        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
+        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
+        "category": "AI 3D / Creative Production",
+        "score": 100,
+        "date": "2026-11-24 05:22",
+        "displayDate": "2026-11-24 05:22",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmFfQ0VoRlVUTTV1MEl0OS1yaHlpaktVVHNHRWFMMUpqZ2o0OWZBTXRjTlJzR0dvVnFhaW53RGV1dmZ3T3NTbnlHN0U3bEZJekJQc3hxZGdScFZfckJUNWpGcHl5VGN6Z2NsMmlZcExNanhNUmFxTFBrMUdHLXFFNlZDMWljVGp6TEhuMFM0dmtlcFFXaDR2bDhKNjJHQjhwMEdPWkxMLXNrRXpuUlZkOFFFc2dUYUU",
+        "source": "News signal — verify before acting · Source: Forbes · Time: 2026-11-24 05:22"
+      },
+      {
+        "id": "radar-7b74b7807ba7",
+        "kind": "radar",
+        "title": "Anthropic Releases Code Review Agent Bundle Called 'Claude Ship'",
+        "summary": "Gizmodo flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
+        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
+        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
+        "category": "Coding / Vibe Coding Operations",
+        "score": 100,
+        "date": "2026-11-24 03:08",
+        "displayDate": "2026-11-24 03:08",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHk5S3NHTnc0MGJFNTlFbVdBRVhMRWFFUlozVzVrNk5lT0tsMHRfeW15ajY4SHptM0tCVkwtemNqYkJ0ekFGOW9IcWpCdjR6LVRFMHpUWmQ1QmFtcWtqbENhbzVYMVFNQm1iekh4YzJ3Wk5xNlJIVFNFLXVfbEVyamVDVWoyc1YyMW5mUDY4czRUODcyVmRaOExxelJHemwyRUVIdjlkWE5NUUw2S0IxUW1RdFZGdw",
+        "source": "News signal — verify before acting · Source: Gizmodo · Time: 2026-11-24 03:08"
+      },
+      {
         "id": "radar-3f3ffec76f86",
         "kind": "radar",
         "title": "Tripo at Formnext Previews Detail-Focused AI Agent Aimed at 3D Printed Part Accuracy",
@@ -87,46 +115,18 @@
         "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-23 13:31"
       },
       {
-        "id": "radar-48176b25e0d7",
+        "id": "radar-f2c9c47a2b83",
         "kind": "radar",
-        "title": "Anthropic launches Claude Ship to automate code reviews and approvals",
-        "summary": "Crypto Briefing flags a new tool/workflow candidate. The useful question is not “is it cool?” but whether it can become a repeatable class demo, client service, or AIOS module.",
-        "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
-        "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
-        "category": "Coding / Vibe Coding Operations",
-        "score": 100,
-        "date": "2026-11-23 21:31",
-        "displayDate": "2026-11-23 21:31",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lUVEtbnN1LTJyYm5CdmZCV1BTX3dnb3dMdGQya3pGQXdPSTkzYVItNENNcHNvUmQ2NnREdWtITzA0YUMzTzZaZVpuTURXUXAyWmNhbkxITlRzV1pxSmwzay0xcw",
-        "source": "News signal — verify before acting · Source: Crypto Briefing · Time: 2026-11-23 21:31"
-      },
-      {
-        "id": "radar-5b9321ca99dc",
-        "kind": "radar",
-        "title": "Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt",
-        "summary": "3D Printing Industry reports: Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt 3D Printing Industry",
-        "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
-        "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
-        "category": "AI 3D / Creative Production",
-        "score": 100,
-        "date": "2026-11-20 13:15",
-        "displayDate": "2026-11-20 13:15",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFuY25lVHMxaW8xbDhkbW9RZzMxMTZjWC1fMVVCbXhQWHlEeTgxVUZXc1JuTURvSjNqY1dMT19lOXBJdEVqQzlXQ09tQmRQcnZKMUNIcFZiT0RfaFE5VmtlUUgyM1FSTnRfMFpRMDVaTXBpUHloc2d5X0Q1NkZrNEktb0xSN25aNlUtUUVSNHNnTVVsMjNyWjR3aFF0QVhVUmVGbm5uVHRXZDVKblBBb2VvMmRMWnlwVGRFdUs5a0ZOcVR4WXBhbzh5UC0xTDRmYmtQRGo4U3lyR3M",
-        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-11-20 13:15"
-      },
-      {
-        "id": "radar-0feb0679484c",
-        "kind": "radar",
-        "title": "Anthropic’s USD 901 billion bet on the next leap in AI",
-        "summary": "IBM reports: Anthropic’s USD 901 billion bet on the next leap in AI IBM",
+        "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
+        "summary": "The Next Web reports: DeepMind’s AI agents found cheaper quantum algorithms, and proved them The Next Web",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 90,
-        "date": "2026-11-20 05:22",
-        "displayDate": "2026-11-20 05:22",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWi1OTDhRSzZOZnRyLUVtTUlveGVlYW85N1k3XzJTazdLcDh3YmpJbjZNSUl0eU13X24xUkJuZWVCQ3dhdlVudk4tcGZwNGdDTkNpOWo2Q0ZBTld3bUJ5ejNLY1k0cnpOTExTekx2NFBUVmdEOHBEdkFZTW1oQ3MzOTRhTnBkamhK",
-        "source": "News signal — verify before acting · Source: IBM · Time: 2026-11-20 05:22"
+        "score": 82,
+        "date": "2026-11-23 18:33",
+        "displayDate": "2026-11-23 18:33",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGtZdGJiQjgzN09KM0hoMUs2T0ZXelBFcWM4NXhfWVNLWGdLT0dBdFBKVGFZV3hrRW9TY3BoRm1XR1dlNXFtc0tNWS1COTN5SzVqdTBiS2FQelR6X1ZCa1Q4dmw2MEJXeU9ScXg2V0JRMGg2eDhqNDd4dGVqdGxOMW8tUVZFcFBi",
+        "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-11-23 18:33"
       },
       {
         "id": "radar-771f1d25b578",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: Semiconductor Engineering · Time: 2026-11-18 08:34"
       },
       {
-        "id": "radar-a8a64766dfeb",
+        "id": "radar-6b3c8a248434",
         "kind": "radar",
-        "title": "Securing AI agents against intent hijacking with Semantic governance policies",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "An on-device AI agent for Android",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=1, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-23 23:22",
-        "displayDate": "2026-11-23 23:22",
-        "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-23 23:22"
+        "date": "2026-11-24 03:53",
+        "displayDate": "2026-11-24 03:53",
+        "url": "https://github.com/wangzan101/mika",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-24 03:53"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T10:05:10.288327+08:00",
-        "nextRun": "2026-11-24T11:05:10.575113+08:00",
+        "lastRun": "2026-11-24T13:06:15.837568+08:00",
+        "nextRun": "2026-11-24T14:06:16.130206+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T10:12:23.090333+08:00",
-        "nextRun": "2026-11-24T13:10:00+08:00",
+        "lastRun": "2026-11-24T13:12:02.782202+08:00",
+        "nextRun": "2026-11-24T16:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T10:33:13.400451+08:00",
-        "nextRun": "2026-11-24T10:35:13.400451+08:00",
+        "lastRun": "2026-11-24T13:33:18.743675+08:00",
+        "nextRun": "2026-11-24T13:38:16.118197+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T10:30:34.368717+08:00",
-        "nextRun": "2026-11-24T13:30:00+08:00",
+        "lastRun": "2026-11-24T13:30:41.289650+08:00",
+        "nextRun": "2026-11-24T16:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-24T09:43:56.260311+08:00",
-        "nextRun": "2026-11-24T12:40:00+08:00",
+        "lastRun": "2026-11-24T12:44:37.095611+08:00",
+        "nextRun": "2026-11-24T15:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-24T10:35:10.576113+08:00"
+    "updatedAt": "2026-11-24T13:36:16.131207+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
