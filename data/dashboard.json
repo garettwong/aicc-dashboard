@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-25T16:52:10+08:00",
+    "generatedAt": "2026-11-25T19:53:20+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-25_09-04-24.md",
-    "radarSource": "ai_opportunity_radar_20261125_163030.html",
+    "radarSource": "ai_opportunity_radar_20261125_193040.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,35 +14,35 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261125_163030.html",
+    "sourceFile": "ai_opportunity_radar_20261125_193040.html",
     "items": [
       {
-        "id": "radar-4ca28de8a370",
+        "id": "radar-4c8f8f45988f",
         "kind": "radar",
-        "title": "Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=3, comments=0.",
+        "title": "Teaching Financial AI Agents to Say \"I Don't Know\"",
+        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-25 06:08",
-        "displayDate": "2026-11-25 06:08",
-        "url": "https://github.com/sao-coding/sightline",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-25 06:08"
+        "date": "2026-11-25 11:08",
+        "displayDate": "2026-11-25 11:08",
+        "url": "https://cesarsotovalero.net/blog/teaching-financial-ai-to-say-i-dont-know.html",
+        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-25 11:08"
       },
       {
-        "id": "radar-949b3d826a22",
+        "id": "radar-5ce4c621db3e",
         "kind": "radar",
-        "title": "Together AI says coding agent exposed a credential that led to prompt leak",
-        "summary": "Digg reports: Together AI says coding agent exposed a credential that led to prompt leak Digg",
+        "title": "I gave Claude Code, Codex, and Antigravity control of my desktop apps, and now I use them for much more than coding",
+        "summary": "XDA reports: I gave Claude Code, Codex, and Antigravity control of my desktop apps, and now I use them for much more than coding XDA",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-25 07:26",
-        "displayDate": "2026-11-25 07:26",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRV1lRZFJTbzZkbXYzLVpMOWs3TGVUQW5ISEhzWEpXb3M2QnZaWFNmVjlQcmhPY3JmSWFqVnYxUlpwZw",
-        "source": "News signal — verify before acting · Source: Digg · Time: 2026-11-25 07:26"
+        "date": "2026-11-25 11:00",
+        "displayDate": "2026-11-25 11:00",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEJnTGpFRk1mZWtGdDc1UEZlVTJOallhSDdMNUhDQ2Z6TlByYTNTYmhlQThzZTFZN21vRjFmako4RjlXb1hJcFBmTDZHZW82bXVySjhyRk1GSGZLYmh0VlBHY2x3WTRodHlLdWt6YXFhd2tzeUdmUmxKc0o3ZEx4dl9uS3EyTmJMZlZQcTdVdnF2SDByTmk5VVQzb2czUnpFZTl1QnlCd3p5QjYyQ25xT1BKUlEwOTA",
+        "source": "News signal — verify before acting · Source: XDA · Time: 2026-11-25 11:00"
       },
       {
         "id": "radar-99226df242da",
@@ -87,18 +87,18 @@
         "source": "News signal — verify before acting · Source: Forbes · Time: 2026-11-24 05:22"
       },
       {
-        "id": "radar-ca014887e7d4",
+        "id": "radar-738f7bca8bc1",
         "kind": "radar",
-        "title": "Anthropic’s Claude Ship tackles the pull request bottleneck created by AI coding agents",
-        "summary": "The New Stack reports: Anthropic’s Claude Ship tackles the pull request bottleneck created by AI coding agents The New Stack",
+        "title": "The Hidden Economics of AI-Assisted Coding",
+        "summary": "HackerNoon reports: The Hidden Economics of AI-Assisted Coding HackerNoon",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-25 00:52",
-        "displayDate": "2026-11-25 00:52",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ORnM2QXFuaDQ5RFo4ZldrWHJOWG9XTnR1a0tIc1FPa3JhN20tUWJNbGtWUWlSakdMTVMzYTFZeXg3QUJyaDJyNUduY1B3MVRhRWNwUm5CaXNhbXJiajVpbnNQNGhVdw",
-        "source": "News signal — verify before acting · Source: The New Stack · Time: 2026-11-25 00:52"
+        "date": "2026-11-25 04:07",
+        "displayDate": "2026-11-25 04:07",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUmtIV2RTaTJyVWtsVU1oVWV4LVVJbU5lYnNqYmhhRS1iTkFfWVlxQ2lmRU9JbjVUcjFQemtIMmxDU05TeFpCRHNnazM1LWctUUtsaUNwY0NkTzNvWHotYnUxNXR1N1p0LV9RemJlNVFsU1E",
+        "source": "News signal — verify before acting · Source: HackerNoon · Time: 2026-11-25 04:07"
       },
       {
         "id": "radar-3f3ffec76f86",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-11-24 07:20"
       },
       {
-        "id": "radar-cf409e725a18",
+        "id": "radar-0553da9ea00b",
         "kind": "radar",
-        "title": "Open detection rules for AI agent attack frameworks",
-        "summary": "Hacker News reports: Hacker News discussion signal; points=2, comments=0.",
+        "title": "Shoppers Are Using AI Agents to Save Them from the ‘Annoyance Economy’",
+        "summary": "Bloomberg reports: Shoppers Are Using AI Agents to Save Them from the ‘Annoyance Economy’ Bloomberg",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 43,
-        "date": "2026-11-25 03:18",
-        "displayDate": "2026-11-25 03:18",
-        "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-        "source": "Trusted news / community signal · Source: Hacker News · Time: 2026-11-25 03:18"
+        "date": "2026-11-25 11:00",
+        "displayDate": "2026-11-25 11:00",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXE1LUxzZWMzLUliTDNURWFHbmVIM1NLYndaSXUxeXJFUnAtWElrR09nR2Y4WVMwbDRkN1hsV3RfQVZtQ3NjM1dGNXpmWXhSaV8wM1NXSDA0ZDJ4V0I2djNwX0ZIclhhY2pBRFVoazQ0aXpKMm9vNVhReWFkWG1PZDkwVS0tNFJUS1N1Qm1ITXlWWTBxS3ViS2NWYXZTaDdTeXh3dzZmbmRtOFhmSnBqcG5MVUxmOS1HSmY4X0U3QkJ6dXBIaXhlZUdNNUh0VlZrNmRDMlRQVQ",
+        "source": "Trusted news / community signal · Source: Bloomberg · Time: 2026-11-25 11:00"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-25T16:22:10.063425+08:00",
-        "nextRun": "2026-11-25T17:22:10.366944+08:00",
+        "lastRun": "2026-11-25T19:23:15.720139+08:00",
+        "nextRun": "2026-11-25T20:23:19.819237+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-25T16:11:20.521366+08:00",
-        "nextRun": "2026-11-25T19:10:00+08:00",
+        "lastRun": "2026-11-25T19:11:42.184565+08:00",
+        "nextRun": "2026-11-25T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-25T16:49:12.963629+08:00",
-        "nextRun": "2026-11-25T16:54:10.359574+08:00",
+        "lastRun": "2026-11-25T19:52:23.140269+08:00",
+        "nextRun": "2026-11-25T19:54:23.140269+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-25T16:30:30.404860+08:00",
-        "nextRun": "2026-11-25T19:30:00+08:00",
+        "lastRun": "2026-11-25T19:30:40.483636+08:00",
+        "nextRun": "2026-11-25T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-25T15:45:18.584372+08:00",
-        "nextRun": "2026-11-25T18:40:00+08:00",
+        "lastRun": "2026-11-25T18:45:41.681975+08:00",
+        "nextRun": "2026-11-25T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-25T16:52:10.366944+08:00"
+    "updatedAt": "2026-11-25T19:53:19.820240+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
