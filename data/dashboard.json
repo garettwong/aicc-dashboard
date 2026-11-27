@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-27T13:50:41+08:00",
+    "generatedAt": "2026-11-27T16:51:45+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-27_09-02-38.md",
-    "radarSource": "ai_opportunity_radar_20261127_133100.html",
+    "radarSource": "ai_opportunity_radar_20261127_163102.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261127_133100.html",
+    "sourceFile": "ai_opportunity_radar_20261127_163102.html",
     "items": [
       {
-        "id": "radar-e4d69df8f298",
+        "id": "radar-f83c4df07172",
         "kind": "radar",
-        "title": "How GitLab Decides When AI Agents Can Act Alone",
-        "summary": "BankInfoSecurity is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
+        "title": "In 2027, \"the agent did it\" stops being an excuse",
+        "summary": "Help Net Security reports: In 2027, \"the agent did it\" stops being an excuse Help Net Security",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-11-26 16:31",
-        "displayDate": "2026-11-26 16:31",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXlFVzRvUlU4ZFF6bXFJdXlBRE11ckVEcUVkaUhPWmROWThQMTMtSXdkOElHSk5ISEhXckVrWHhwOXdYdlNuSVBJR0d4VUZReFFoSlFlcnBKQzROVlZydXVCajc5TC0xWm50ZlRPUFlMTkdvckVXNHJzMV85TGhoUXl3U1BmcHFxTWY3UQ",
-        "source": "News signal — verify before acting · Source: BankInfoSecurity · Time: 2026-11-26 16:31"
+        "date": "2026-11-27 06:30",
+        "displayDate": "2026-11-27 06:30",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV195Mks2Mkx2bTg2X3VMUE4xZ0ZjWUZvV0FncnJpeVpiZU1LSlhnUjh1NHh0a0RyX29fWl80anMyVExiR3NJYnpKT0pRTlFIUGR0LWQ5cUFkTU5Xdm10UjFXS1E2RDNWNFpCTHVETkpfWFk1WVkzdjJZSlpNZDBUWmJ2NEVZNkRKV0REckhyclBkX0pNQVV1WmlPVngzUUU",
+        "source": "News signal — verify before acting · Source: Help Net Security · Time: 2026-11-27 06:30"
       },
       {
         "id": "radar-8deb68a37897",
@@ -45,32 +45,32 @@
         "source": "News signal — verify before acting · Source: Memeburn · Time: 2026-11-27 03:56"
       },
       {
-        "id": "radar-f09d2bef8977",
+        "id": "radar-3b3757ff5304",
         "kind": "radar",
-        "title": "Verra Raises $5 Million to Build AI-Powered Institutional Memory for Consulting Firms",
-        "summary": "Unite.AI shows market money moving into this area. Treat it as demand evidence, then verify whether the product is useful for Garett’s teaching/client workflows.",
+        "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+        "summary": "Yahoo Finance reports: Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 92,
-        "date": "2026-11-24 13:00",
-        "displayDate": "2026-11-24 13:00",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QTnhwZVM2VS1IdUFIdm52cnd2YU9PWTVLRVVhTGc5LWtCOVNydXRuQWROWTZhaTZFMDZjMXVVWDMyN3d1M3lyNk1mb1BVT3hnRzAwc2Q5ZmgwRUNfOExBN2FRLU00OFJTUmd6Ynl2VkZXQQ",
-        "source": "News signal — verify before acting · Source: Unite.AI · Time: 2026-11-24 13:00"
+        "score": 82,
+        "date": "2026-11-26 19:30",
+        "displayDate": "2026-11-26 19:30",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTBzOVZwVmduRG8yZEdiOU5HdWdEdFlUUlhGX3ZkcWY2bGJLTDdlNkt4WUVEMC1EQTJDc2xtV0R1VnE3OGhWRmY3SlNaSDBlc01WSHpxaEJzVVVncVZ6U2dzWG9sanJHWHB1OUtwNnNyWUZnb1pCdkNYaFlOS2xlM0w4U0tkNzRlRVBhTjNtR0ZDN09Q",
+        "source": "News signal — verify before acting · Source: Yahoo Finance · Time: 2026-11-26 19:30"
       },
       {
-        "id": "radar-c65d8d33732c",
+        "id": "radar-b6d37f6ff0c4",
         "kind": "radar",
-        "title": "It Had to Happen: Agentic AI for Analog Design",
-        "summary": "Electronic Engineering Journal reports: It Had to Happen: Agentic AI for Analog Design Electronic Engineering Journal",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "summary": "OpenAI reports: GPT-6 models demonstrate intrinsic protein-design capabilities OpenAI",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
-        "score": 66,
-        "date": "2026-11-25 13:01",
-        "displayDate": "2026-11-25 13:01",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNIcU9xOVRkNTY5b2ZHR3lMX0d1X0JCdHZKcHdQTkZtUXAwV19xQnIwd2Z3MFo5RkFVczFvTXkwNmtnMS1XdUtSOFZPcF9PMUpSalNFVXdLaWpsZS1qRmZSLXBOYXFfT0dKbHY0RnlVTzhkVjlaT0NXOU40U1Z4X1FvWEE1V1U",
-        "source": "News signal — verify before acting · Source: Electronic Engineering Journal · Time: 2026-11-25 13:01"
+        "score": 68,
+        "date": "2026-11-24 21:03",
+        "displayDate": "2026-11-24 21:03",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdETW1TNzZiLWl5Z2lOUkhpRmtFMGNxY2dRVV9URkpQX3RVRGpVZGk5Q055WEY4elV1X2VHWlVCYzZTQUMydEk4YThidXZUOUh4dlBZVmpfZ21jaTZIeVRQaEFmdFN5MDNkNDhhYU5qdTJEN3ZQeGRXNG5NS215c3hxa2hFbEFjWW1DVE93UXFkdw",
+        "source": "Official / vendor signal · Source: OpenAI · Time: 2026-11-24 21:03"
       },
       {
         "id": "radar-143c6d46aa91",
@@ -101,60 +101,60 @@
         "source": "News signal — verify before acting · Source: Crypto Briefing · Time: 2026-11-27 03:21"
       },
       {
-        "id": "radar-3f3ffec76f86",
+        "id": "radar-5b9321ca99dc",
         "kind": "radar",
-        "title": "Tripo at Formnext Previews Detail-Focused AI Agent Aimed at 3D Printed Part Accuracy",
-        "summary": "All3DP reports: Tripo at Formnext Previews Detail-Focused AI Agent Aimed at 3D Printed Part Accuracy All3DP",
+        "title": "Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt",
+        "summary": "3D Printing Industry reports: Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt 3D Printing Industry",
         "why": "This connects directly to Garett's 3D/design teaching and client production work. The opportunity is not just showing a demo; it is teaching the pipeline judgment: cleanup, export, client handoff, and what is production-ready.",
         "action": "Pick one AI-generated asset and run a production test: geometry cleanup, materials, export, render, and client explanation. Screenshot each step for a class handout.",
         "category": "AI 3D / Creative Production",
         "score": 100,
-        "date": "2026-11-23 13:31",
-        "displayDate": "2026-11-23 13:31",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE9aWHdvS3FSR0NRQmhSZEprZDg3dXpxNXJITkF3cXYxaHFZY2w3WnJ0Z2xsU2VGYXA2TWFjbU9Ka3A1dGJlbjZydU85U2V3NlItckJ5V1VValNIaE4wUnl1bjN3ejJZVlZLaGQxNXFpbWp0bVBfT3FTTmVxcE4teHUwNEtRTTI2YUFqeVBsa1JEc3g1ejhQMDZFaHFPY1lhN0RPSWdpNFY4dw",
-        "source": "News signal — verify before acting · Source: All3DP · Time: 2026-11-23 13:31"
+        "date": "2026-11-20 13:15",
+        "displayDate": "2026-11-20 13:15",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFuY25lVHMxaW8xbDhkbW9RZzMxMTZjWC1fMVVCbXhQWHlEeTgxVUZXc1JuTURvSjNqY1dMT19lOXBJdEVqQzlXQ09tQmRQcnZKMUNIcFZiT0RfaFE5VmtlUUgyM1FSTnRfMFpRMDVaTXBpUHloc2d5X0Q1NkZrNEktb0xSN25aNlUtUUVSNHNnTVVsMjNyWjR3aFF0QVhVUmVGbm5uVHRXZDVKblBBb2VvMmRMWnlwVGRFdUs5a0ZOcVR4WXBhbzh5UC0xTDRmYmtQRGo4U3lyR3M",
+        "source": "News signal — verify before acting · Source: 3D Printing Industry · Time: 2026-11-20 13:15"
       },
       {
-        "id": "radar-664628fd09a8",
+        "id": "radar-8433e2aa37a8",
         "kind": "radar",
-        "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
-        "summary": "Barchart.com reports: Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta.",
+        "title": "CITE26: How Students Helped Shape AI Strategy at Newport-Mesa USD",
+        "summary": "GovTech is an education signal: AI use is becoming normal in learning environments, which creates room for practical, workflow-based teaching rather than abstract AI theory.",
         "why": "Model and infrastructure changes affect which tools are worth using, teaching, or buying. The practical value is model choice, local-vs-cloud decisions, and reliability for real workflows.",
         "action": "Mark whether this changes your default stack: cloud model, local model, image/3D tool, or coding agent. Test only one workflow before switching.",
         "category": "Models / Infrastructure",
-        "score": 82,
-        "date": "2026-11-26 19:30",
-        "displayDate": "2026-11-26 19:30",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXdfa3Bna1FYMHFuMy1haFR5VzUwdDBta2xLbzU3UnhnTlZVQ1JETWFKT0ZORGNDeVQyNEF5dHQ0X3loYXNlVktodi1xMHR6eTdUdGVxSnhMS1NJN0lXZnBuQTdWRGVoN3ctYkk0Y0hXSkpfLUhEQXY4N0dxcUpyQkRsYkU4NWhMVDNmMjQ0a0xXdmdCWktWaVhBYlZUd2hSNzBoOWtCTWloa1RscW9KcEdBZms1YUxlRktHM0VveVhYS0VnMDVKaGx2TzA5QkJYeTlUSENUOTV3bjZNTG5F",
-        "source": "News signal — verify before acting · Source: Barchart.com · Time: 2026-11-26 19:30"
+        "score": 78,
+        "date": "2026-11-25 23:50",
+        "displayDate": "2026-11-25 23:50",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUtER0dJenZSZmZBUDk0V0JnYVlON3JIZnNlYW4wcndjUGo4YUdydGYyNnJicktCZFpDY2tHUWpGZXEwTkZDTXpqdWNrSURyczZpYVFBZ1lQQXdvamVNb2JVOFNRRlUzWGdpdXVKT1BydTlrNXRRUHF1R1JLYURqWVlOTVNyV05VT0JsTDlWVUE5NFU0MHpXc1VLUEdDLWJtU1pMQzhB",
+        "source": "News signal — verify before acting · Source: GovTech · Time: 2026-11-25 23:50"
       },
       {
-        "id": "radar-6ba1f61d610e",
+        "id": "radar-c65d8d33732c",
         "kind": "radar",
-        "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
-        "summary": "EE Times reports: Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design EE Times",
+        "title": "It Had to Happen: Agentic AI for Analog Design",
+        "summary": "Electronic Engineering Journal reports: It Had to Happen: Agentic AI for Analog Design Electronic Engineering Journal",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 66,
-        "date": "2026-11-24 08:00",
-        "displayDate": "2026-11-24 08:00",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRm80aTgxRDk4UFl1X1VFSVJkQjZmUjd6RjlZTDNFQkJiX1c0OHJtbV95MThhOURteDhxbWRfbW1IWW9oa08waGZrazVYaU9Va3UybFVDa3E2b1ctNTc5b2RUeVFkVXNrUWNTSUJVUzR6VmhLN0UxVkVmVHNtSGUyaXpLWjlWMUdrakgtVFBLeXlLWWs1",
-        "source": "News signal — verify before acting · Source: EE Times · Time: 2026-11-24 08:00"
+        "date": "2026-11-25 13:01",
+        "displayDate": "2026-11-25 13:01",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNIcU9xOVRkNTY5b2ZHR3lMX0d1X0JCdHZKcHdQTkZtUXAwV19xQnIwd2Z3MFo5RkFVczFvTXkwNmtnMS1XdUtSOFZPcF9PMUpSalNFVXdLaWpsZS1qRmZSLXBOYXFfT0dKbHY0RnlVTzhkVjlaT0NXOU40U1Z4X1FvWEE1V1U",
+        "source": "News signal — verify before acting · Source: Electronic Engineering Journal · Time: 2026-11-25 13:01"
       },
       {
-        "id": "radar-73457d323e3f",
+        "id": "radar-7ae1a51a4b92",
         "kind": "radar",
-        "title": "Google Cloud Requires AI Agents to Access Workspace Through Approved Methods",
-        "summary": "Infosecurity Magazine reports: Google Cloud Requires AI Agents to Access Workspace Through Approved Methods Infosecurity Magazine",
+        "title": "United Airlines blocks unauthorized AI agents from booking flights over security concerns",
+        "summary": "Yahoo reports: United Airlines blocks unauthorized AI agents from booking flights over security concerns Yahoo",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-11-26 13:15",
-        "displayDate": "2026-11-26 13:15",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakRER3o4TnR5Qzh5M2VUZENabVRZd3RIRERqZmRILVN3SkQ1SEpUMmp5N253YklueVNKWE1EZFA3WFF0Y095UWRCVHJjT2lfRVdqRmVRRFFqTUQycmd4eUM0eGtXRDdHX2lUUUR1aUN1Zm0zbXZ2WWV6TGM4VlViRzdB",
-        "source": "News signal — verify before acting · Source: Infosecurity Magazine · Time: 2026-11-26 13:15"
+        "date": "2026-11-27 01:30",
+        "displayDate": "2026-11-27 01:30",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcng3Y19meFlhZEpMT2EtTDF0WG9SZHZlRW1nR1JRUlpZdkNhVHFja0NmR3pMUjV6NW1Wc2lYVzh0NDVWaml5bW44Q2dCWUFPZlhLV0gyMWNpTTE4alBWZG1leDJXczQyMm5LcFVxMjMtd1VJNUYtNWNZTkJoaWpWdEFNSXFxNFdtRkt3bGp5ajZ1LTlnbGxv",
+        "source": "News signal — verify before acting · Source: Yahoo · Time: 2026-11-27 01:30"
       }
     ]
   },
@@ -178,8 +178,8 @@
         "state": "ok",
         "schedule": "0 9-21/6 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T09:04:00.082185+08:00",
-        "nextRun": "2026-11-27T15:00:00+08:00",
+        "lastRun": "2026-11-27T15:02:10.949697+08:00",
+        "nextRun": "2026-11-27T21:00:00+08:00",
         "message": "You are Garett’s AI-tool filter and operator. Work from the local collectors/idea ledger, then send a Telegram push ONLY when there is a genuinely useful, verified tool or workflow"
       },
       {
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T13:20:40.824976+08:00",
-        "nextRun": "2026-11-27T14:20:40.955113+08:00",
+        "lastRun": "2026-11-27T16:21:44.967103+08:00",
+        "nextRun": "2026-11-27T17:21:45.141547+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T13:11:51.871657+08:00",
-        "nextRun": "2026-11-27T16:10:00+08:00",
+        "lastRun": "2026-11-27T16:12:48.950842+08:00",
+        "nextRun": "2026-11-27T19:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T13:47:43.679208+08:00",
-        "nextRun": "2026-11-27T13:52:40.949250+08:00",
+        "lastRun": "2026-11-27T16:50:47.883815+08:00",
+        "nextRun": "2026-11-27T16:52:47.883815+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T13:31:00.289807+08:00",
-        "nextRun": "2026-11-27T16:30:00+08:00",
+        "lastRun": "2026-11-27T16:31:02.764055+08:00",
+        "nextRun": "2026-11-27T19:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-27T12:45:31.499350+08:00",
-        "nextRun": "2026-11-27T15:40:00+08:00",
+        "lastRun": "2026-11-27T15:44:45.196447+08:00",
+        "nextRun": "2026-11-27T18:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-27T13:50:40.955113+08:00"
+    "updatedAt": "2026-11-27T16:51:45.142546+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
