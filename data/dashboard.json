@@ -1,10 +1,10 @@
 {
   "meta": {
     "schema": "aicc-dashboard-v1",
-    "generatedAt": "2026-11-28T16:34:21+08:00",
+    "generatedAt": "2026-11-28T19:35:26+08:00",
     "sourceCount": 4,
     "dailySource": "2026-11-28_09-03-48.md",
-    "radarSource": "ai_opportunity_radar_20261128_163039.html",
+    "radarSource": "ai_opportunity_radar_20261128_193047.html",
     "legacyPolicy": "All preserved legacy records are included; archive cards load incrementally."
   },
   "today": {
@@ -14,21 +14,21 @@
     "items": []
   },
   "radar": {
-    "sourceFile": "ai_opportunity_radar_20261128_163039.html",
+    "sourceFile": "ai_opportunity_radar_20261128_193047.html",
     "items": [
       {
-        "id": "radar-4a85dbb4b8c2",
+        "id": "radar-e4d69df8f298",
         "kind": "radar",
-        "title": "Google mandates new security standards for AI agents",
-        "summary": "SC Media reports: Google mandates new security standards for AI agents SC Media",
+        "title": "How GitLab Decides When AI Agents Can Act Alone",
+        "summary": "BankInfoSecurity is pointing to a governance signal: AI coding/agent tools are becoming security, privacy, and jurisdiction issues, not just productivity tools.",
         "why": "This maps directly to Garett's AIOS / command-center direction: assistants with memory, tools, scheduled work, and human approval. It can become a personal productivity system or a client setup package.",
         "action": "Add one small AIOS workflow: inbox capture, task triage, daily board update, or scheduled report. Keep human approval before sending anything public.",
         "category": "Agents / Personal AIOS",
         "score": 50,
-        "date": "2026-11-27 20:28",
-        "displayDate": "2026-11-27 20:28",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQak9BeHJNQS1TWTNuT0lhZ0p3TE9hcTZIY2tKTHlDOGlrUUNDN2xkUC1LWjd6ZDBvalE4VnMyNm1pTm54UzJQaV9pc2ZDMU9US2c4M0hpdWpTSjNHTjdWdk10ZV9Bdi11NkNIb3hsTU0zbGRfWXVvQkFIb2JtLWVmVXd5b3BRWkl6WlE",
-        "source": "News signal — verify before acting · Source: SC Media · Time: 2026-11-27 20:28"
+        "date": "2026-11-28 10:32",
+        "displayDate": "2026-11-28 10:32",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXlFVzRvUlU4ZFF6bXFJdXlBRE11ckVEcUVkaUhPWmROWThQMTMtSXdkOElHSk5ISEhXckVrWHhwOXdYdlNuSVBJR0d4VUZReFFoSlFlcnBKQzROVlZydXVCajc5TC0xWm50ZlRPUFlMTkdvckVXNHJzMV85TGhoUXl3U1BmcHFxTWY3UQ",
+        "source": "News signal — verify before acting · Source: BankInfoSecurity · Time: 2026-11-28 10:32"
       },
       {
         "id": "radar-a243842e346f",
@@ -39,10 +39,10 @@
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-28 06:30",
-        "displayDate": "2026-11-28 06:30",
+        "date": "2026-11-28 06:33",
+        "displayDate": "2026-11-28 06:33",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzg0am01eWtfeEpnSHV5YVZCcE85YndSREVjZzV4VXlCaDU1MkZOLWpWWEhsRWthUkJnTUo5bldOWDQ3TzcwMHBDWG1pSnN3eGU5TEZUYzdlTGZyVXpvdGRzck1FMXpUblc0UkZGSkE2cjNMVHVRXzN4NWlXUThxS0JuZWlrUUVYSEQ3Yld5N1NINGJqN0pvSlJoeDV5SlNYS1dwSnY3M2ktajkw",
-        "source": "News signal — verify before acting · Source: Tom's Guide · Time: 2026-11-28 06:30"
+        "source": "News signal — verify before acting · Source: Tom's Guide · Time: 2026-11-28 06:33"
       },
       {
         "id": "radar-f09d2bef8977",
@@ -95,24 +95,24 @@
         "action": "Turn it into a micro-offer: target audience, pain point, 20-minute demo, deliverable, price range, and proof needed before selling.",
         "category": "Teaching / Consulting Opportunity",
         "score": 43,
-        "date": "2026-11-28 05:02",
-        "displayDate": "2026-11-28 05:02",
+        "date": "2026-11-28 05:00",
+        "displayDate": "2026-11-28 05:00",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWpwNG9lMGRsOV9qaWw2bDdaMlV4TzhXbVpQZGFCMjlaRWlmT2Nfc0U4WlFHclJldENnX0dKVmJVQ0FFaUh0V3RKWl9odFByV09VZ294dW9SQVFuMEJmbE9FVmVKZFIyRndfQjQ1UFVpZWxaV2swdTE5aU5OZkxLSjJvYjM",
-        "source": "Trusted news / community signal · Source: Financial Times · Time: 2026-11-28 05:02"
+        "source": "Trusted news / community signal · Source: Financial Times · Time: 2026-11-28 05:00"
       },
       {
-        "id": "radar-55a6222a70ab",
+        "id": "radar-9afa9d730caa",
         "kind": "radar",
-        "title": "Solana puts an AI coding agent inside its browser-based Playground",
-        "summary": "BigGo Finance reports: Solana puts an AI coding agent inside its browser-based Playground BigGo Finance",
+        "title": "anvi'o ARCHITECTURE.md: LLMs Cannot Commit or Push",
+        "summary": "explainx.ai reports: anvi'o ARCHITECTURE.md: LLMs Cannot Commit or Push explainx.ai",
         "why": "This matters because AI-built apps and dashboards still need safety, review, testing, and cost control. Garett can turn this into a practical “safe vibe coding” lesson or service.",
         "action": "Create a safety checklist: dependency lock, secret scan, test run, screenshot proof, and rollback plan before accepting AI-generated code.",
         "category": "Coding / Vibe Coding Operations",
         "score": 100,
-        "date": "2026-11-27 16:35",
-        "displayDate": "2026-11-27 16:35",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50TGxpREszTlYzSDR6VFhmR05VcHVCYy1rV0dsWHRnLXpqMWotX01lOWxmZ0pxZC1ld3ZsT1gyQnF0WHZoaFhmQXIzb1N3andhUVhFLVNkSE9DdU9yU01ZeEdMLWJQQ251aEV1Ym8xMk9kSW9KN0E",
-        "source": "News signal — verify before acting · Source: BigGo Finance · Time: 2026-11-27 16:35"
+        "date": "2026-11-28 00:00",
+        "displayDate": "2026-11-28 00:00",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQk5HMHRvczhuWFd1NWRUSTI5WE03eDJyTzI2WGxRekROSE5udmRraDVtb0tkazdsenhEMGJmeDdHSHNjNHN6REZvMmMxZGlqODkxNEplakt1enhuX3RXR0pqRGVzeWs3T0JLNVdYMTlaVGQzQmZHUmt0bFdGeC1sTTlhT0Y0WXp4UnN6ejZaSTdLUQ",
+        "source": "News signal — verify before acting · Source: explainx.ai · Time: 2026-11-28 00:00"
       },
       {
         "id": "radar-3f3ffec76f86",
@@ -143,18 +143,18 @@
         "source": "News signal — verify before acting · Source: CNBC · Time: 2026-11-27 15:27"
       },
       {
-        "id": "radar-4df9f0f59604",
+        "id": "radar-cf5c18359c9a",
         "kind": "radar",
-        "title": "Renesas Expands ChipAgents AI Tools Across Global Design Teams",
-        "summary": "EE Times Asia reports: Renesas Expands ChipAgents AI Tools Across Global Design Teams EE Times Asia",
+        "title": "Canva opens its design tools to AI agents and outside developers",
+        "summary": "The Next Web reports: Canva opens its design tools to AI agents and outside developers The Next Web",
         "why": "This is a client-facing opportunity. Garett can package senior visual taste into repeatable critique, mockup, quotation, and presentation workflows for students or clients.",
         "action": "Create a before/after client visual audit: rough brief → improved hierarchy → final client-ready one-pager. Save it as a reusable template.",
         "category": "Design / Client Visual Workflow",
         "score": 66,
-        "date": "2026-11-26 13:33",
-        "displayDate": "2026-11-26 13:33",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlA0cU9Ed19VVlZjMXhsVENYN1pXRG9QZ3RSTEs0ZVNwRnp3aF90cWhqVTBxZksxRDVCMklNUDEtRVllN05zMFBpVDVHZEFEdHpZN04tbzhKZ0lxaEwwZVpSaGI0clp5SXNRamw2bWVpUHMyVHQ1WllMVV9LNVFMZ1NOazlhdmhzTTc1SWwwYnE",
-        "source": "News signal — verify before acting · Source: EE Times Asia · Time: 2026-11-26 13:33"
+        "date": "2026-11-24 07:20",
+        "displayDate": "2026-11-24 07:20",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xamJLQmRIeV83X1kzdVRPS3UtNW1jdGJaazN4OGlQTFJyNjk1S0VMRzhpQUNRc0V4ZnlyZF9xTFloNm4wOHVsQlNIQ3UxTGNMSU5tZ3RXM2RSQnFrWHFBaDZvT004TEl4OVE",
+        "source": "News signal — verify before acting · Source: The Next Web · Time: 2026-11-24 07:20"
       }
     ]
   },
@@ -211,8 +211,8 @@
         "state": "ok",
         "schedule": "every 30m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-28T16:04:20.832820+08:00",
-        "nextRun": "2026-11-28T17:04:21.233792+08:00",
+        "lastRun": "2026-11-28T19:05:25.649605+08:00",
+        "nextRun": "2026-11-28T20:05:25.718362+08:00",
         "message": "No recent error."
       },
       {
@@ -222,8 +222,8 @@
         "state": "ok",
         "schedule": "10 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-28T16:12:31.343951+08:00",
-        "nextRun": "2026-11-28T19:10:00+08:00",
+        "lastRun": "2026-11-28T19:12:06.661130+08:00",
+        "nextRun": "2026-11-28T22:10:00+08:00",
         "message": "You are Garett's Idea Inbox Harvester. Run autonomously every 2 hours; do not ask questions; do not create/update/remove cron jobs; do not email unless there is an error. Goal: pre"
       },
       {
@@ -233,8 +233,8 @@
         "state": "ok",
         "schedule": "every 2m",
         "lastStatus": "ok",
-        "lastRun": "2026-11-28T16:33:24.444454+08:00",
-        "nextRun": "2026-11-28T16:35:24.444454+08:00",
+        "lastRun": "2026-11-28T19:33:28.847879+08:00",
+        "nextRun": "2026-11-28T19:35:28.847879+08:00",
         "message": "unused"
       },
       {
@@ -244,8 +244,8 @@
         "state": "ok",
         "schedule": "30 1-23/3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-28T16:30:39.721537+08:00",
-        "nextRun": "2026-11-28T19:30:00+08:00",
+        "lastRun": "2026-11-28T19:30:47.502115+08:00",
+        "nextRun": "2026-11-28T22:30:00+08:00",
         "message": "Collect OCC AI/news source material locally only. Do not email Garett directly. This job runs the local-only wrapper, which fetches Google News RSS + Hacker News signals and writes"
       },
       {
@@ -255,8 +255,8 @@
         "state": "ok",
         "schedule": "40 */3 * * *",
         "lastStatus": "ok",
-        "lastRun": "2026-11-28T15:44:50.886365+08:00",
-        "nextRun": "2026-11-28T18:40:00+08:00",
+        "lastRun": "2026-11-28T18:46:23.021815+08:00",
+        "nextRun": "2026-11-28T21:40:00+08:00",
         "message": "You are Garett's X AI Tools & Business Collector. Run autonomously; do not ask questions; do not create/update/remove cron jobs. Purpose: search X for AI/tools/workflows/business s"
       },
       {
@@ -315,7 +315,7 @@
         "message": "Search real X/Twitter posts using the x_search tool only. Do not use generic web search for this X job. Use at most 2 x_search calls total for this run. Return exactly 10 non-overl"
       }
     ],
-    "updatedAt": "2026-11-28T16:34:21.234792+08:00"
+    "updatedAt": "2026-11-28T19:35:25.719364+08:00"
   },
   "archive": {
     "sourceFile": "legacy-aicc-items.json",
